@@ -263,7 +263,7 @@ function tickClock() {
   const now = new Date();
   const hh = String(now.getHours()).padStart(2, "0");
   const mm = String(now.getMinutes()).padStart(2, "0");
-  clockEl.textContent = `${hh}:${mm}`;
+  clockEl.textContent = `🇦🇷 ${hh}:${mm}`;
 }
 tickClock();
 setInterval(tickClock, 15000);

@@ -479,10 +479,3 @@ navegador normal, ver más abajo), la página se auto-recupera sola de:
 - **QR o imagen de noticia caídos** (ej. `api.qrserver.com` lento):
   se ocultan en vez de mostrar el ícono de imagen rota en pantalla
   completa.
-
-## Ideas para seguir sumando
-
-- Historial de "últimas canciones" en pantalla.
-- Pedidos de canciones vía chat de Twitch/YouTube.
-- Franja de texto (ticker) con más noticias corriendo abajo.
-- Distintos "temas" visuales (día/noche, fechas especiales).

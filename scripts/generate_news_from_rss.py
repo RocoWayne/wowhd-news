@@ -27,13 +27,13 @@ from email.utils import parsedate_to_datetime
 # URL) se lo saltea sin afectar a los demas ni al archivo ya generado -
 # ver main().
 RSS_FEEDS = [
-    "https://rss.dw.com/xml/rss-es-all",                # DW en Español
+    "https://rss.dw.com/rdf/rss-es-all",                # DW en Español
     "https://www.france24.com/es/rss",                  # France 24 en Español
     "https://feeds.bbci.co.uk/mundo/rss.xml",            # BBC Mundo
-    "https://www.infobae.com/america/rss.xml",           # Infobae (America)
+    "https://www.infobae.com/arc/outboundfeeds/rss/",   # Infobae (portada)
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",  # El Pais Internacional
     "https://actualidad.rt.com/rss",                     # RT en Español
-    "https://cnnespanol.cnn.com/feed/",                  # CNN en Español
+    "https://cnnespanol.cnn.com/feed",                   # CNN en Español
     "https://es.euronews.com/rss?level=theme&name=news", # Euronews en Español
 ]
 

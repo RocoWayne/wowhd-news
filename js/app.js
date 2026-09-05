@@ -18,6 +18,7 @@ const CONFIG = {
   newsIntervalMs: 15 * 60 * 1000,     // cada cuanto se dispara un bloque de noticias
   newsItemsPerBlock: 3,                // cuantas noticias seguidas se muestran en cada bloque
   newsDisplayMs: 30 * 1000,           // cuánto queda visible cada noticia dentro del bloque
+  newsOutroMs: 15 * 1000,             // cuánto dura el mensaje de cierre al terminar una tanda de noticias
   newsMaxAgeDays: 7,                  // noticias con "date" mas viejo que esto se dejan de mostrar
   backgroundsRefreshMs: 2 * 60 * 1000,  // re-chequear /backgrounds cada 2 min
   backgroundImageDurationMs: 35 * 1000, // cuanto queda cada imagen antes de pasar a la siguiente
@@ -412,6 +413,7 @@ const newsTag = document.getElementById("newsTag");
 const newsImage = document.getElementById("newsImage");
 const newsText = document.getElementById("newsText");
 const newsQr = document.getElementById("newsQr");
+const newsOutro = document.getElementById("newsOutro");
 
 // Arma las barras de progreso (una por noticia de la tanda actual).
 function buildNewsProgress(count) {
@@ -553,9 +555,10 @@ function showNewsItem(item) {
 }
 
 // Corre un bloque completo de noticias: pausa el slideshow de fondos,
-// muestra hasta newsItemsPerBlock noticias una atras de otra, y al
-// terminar retoma el slideshow. Si no hay noticias cargadas, no hace
-// nada mas que asegurarse de que el slideshow este corriendo.
+// muestra hasta newsItemsPerBlock noticias una atras de otra, muestra
+// un mensaje de cierre (newsOutro) y al terminar retoma el slideshow.
+// Si no hay noticias cargadas, no hace nada mas que asegurarse de que
+// el slideshow este corriendo.
 async function runNewsBlock() {
   if (newsBlockRunning) return;
   newsBlockRunning = true;
@@ -581,6 +584,13 @@ async function runNewsBlock() {
       newsQr.onerror = null;
       newsQr.removeAttribute("src");
     }
+
+    // Mensaje de cierre de la tanda, antes de retomar el slideshow de
+    // fondos - solo si efectivamente hubo noticias para mostrar.
+    newsOutro.classList.add("visible");
+    await wait(CONFIG.newsOutroMs);
+    newsOutro.classList.remove("visible");
+    await wait(700); // deja terminar el fade antes de retomar fondos
   }
 
   newsBlockRunning = false;

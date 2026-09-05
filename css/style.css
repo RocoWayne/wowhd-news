@@ -368,6 +368,39 @@ body.ticker-visible .player{
   text-align:left;
 }
 
+/* Mensaje de cierre al terminar una tanda de noticias (ver
+   js/app.js -> runNewsBlock). Mismo mecanismo de fade que
+   .news-screen, fondo de color plano a pantalla completa. */
+.news-outro{
+  position:fixed;
+  inset:0;
+  z-index:5;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:40px 10%;
+  text-align:center;
+  background:var(--news-flat-bg);
+  opacity:0;
+  visibility:hidden;
+  pointer-events:none;
+  transition:opacity .7s ease, visibility 0s linear .7s;
+}
+.news-outro.visible{
+  opacity:1;
+  visibility:visible;
+  transition:opacity .7s ease, visibility 0s linear 0s;
+}
+.news-outro p{
+  font-size:clamp(24px, 3vw, 40px);
+  font-weight:700;
+  line-height:1.4;
+  max-width:1100px;
+  color:#fff;
+  text-shadow:0 2px 12px rgba(0,0,0,0.35);
+  margin:0;
+}
+
 /* ---------- Popup de suscripción ---------- */
 .subscribe-popup{
   position:fixed;

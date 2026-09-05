@@ -206,12 +206,18 @@ el reloj y el reproductor de música siguen visibles arriba de todo.
   noticia está en pantalla, para que se note cuánto falta para la
   siguiente. Las anteriores quedan llenas y las que vienen después
   quedan vacías.
+- Al terminar la tanda, antes de retomar el slideshow de fondos,
+  aparece **15 segundos** un mensaje de cierre centrado en pantalla
+  ("Estas fueron las noticias más importantes del momento. Seguimos
+  en un rato."). El texto se edita directo en `index.html` →
+  `#newsOutro`, y la duración en `js/app.js` → `CONFIG` →
+  `newsOutroMs`.
 - Todo esto se ajusta en `js/app.js` → `CONFIG`: `newsIntervalMs`
   (cada cuánto se dispara un bloque), `newsItemsPerBlock` (cuántas
-  noticias seguidas por bloque) y `newsDisplayMs` (cuánto dura cada
-  una en pantalla).
-- El color de fondo plano de la pantalla de noticias se ajusta en
-  `css/style.css` → `:root` → `--news-flat-bg`.
+  noticias seguidas por bloque), `newsDisplayMs` (cuánto dura cada
+  una en pantalla) y `newsOutroMs` (duración del mensaje de cierre).
+- El color de fondo plano de la pantalla de noticias (y del mensaje de
+  cierre) se ajusta en `css/style.css` → `:root` → `--news-flat-bg`.
 
 ### Noticias automáticas desde un grupo de RSS internacionales
 
@@ -518,6 +524,7 @@ colores de marca sueltos por otras partes del CSS):
 | `newsIntervalMs` | cada cuánto se dispara un bloque de noticias |
 | `newsItemsPerBlock` | cuántas noticias seguidas se muestran por bloque |
 | `newsDisplayMs` | cuánto tiempo queda visible cada noticia dentro del bloque |
+| `newsOutroMs` | cuánto dura el mensaje de cierre al terminar una tanda de noticias |
 | `newsMaxAgeDays` | días desde `date` antes de que una noticia deje de mostrarse sola |
 | `qrSize` | tamaño en px del QR generado |
 | `backgroundsRefreshMs` | cada cuánto relee la carpeta `backgrounds/` |

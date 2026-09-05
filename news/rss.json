@@ -1,6 +1,41 @@
 [
   {
     "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/ef0aa5de-a967-11f1-a1a8-005056a90284/w:1024/p:16x9/ES-20260905-111342-111503-CS.jpg",
+    "category": null,
+    "text": "Informe desde Lima: Fujimori declara estado de emergencia en cinco cárceles",
+    "link": "https://www.france24.com/es/video/20260905-informe-desde-lima-fujimori-declara-estado-de-emergencia-en-cinco-c%C3%A1rceles"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/ab9be378-a965-11f1-b203-005056bfb2b6/w:1024/p:16x9/ES-20260905-110211-110817-CS.jpg",
+    "category": null,
+    "text": "Análisis: ¿EE. UU. logrará que Rusia y Ucrania retomen los diálogos diplomáticos?",
+    "link": "https://www.france24.com/es/video/20260905-an%C3%A1lisis-ee-uu-lograr%C3%A1-que-rusia-y-ucrania-retomen-los-di%C3%A1logos-diplom%C3%A1ticos"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/4a64752e-a876-11f1-85ba-005056bf30b7/w:1024/p:16x9/IMG-0200.png",
+    "category": "Una Semana en el Mundo",
+    "text": "Rusia y Alemania: ¿la “guerra híbrida” arrastrará a la OTAN?",
+    "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260905-rusia-y-alemania-la-guerra-h%C3%ADbrida-arrastrar%C3%A1-a-la-otan"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/96284e10-a932-11f1-bc0d-005056a97e36/w:1024/p:16x9/Capture-d-%C3%A9cran-2026-09-05-160135.png",
+    "category": "Medio Oriente",
+    "text": "Estados Unidos dice haber destruido tres petroleros iraníes, en represalia por un ataque previo de Irán",
+    "link": "https://www.france24.com/es/medio-oriente/20260905-estados-unidos-dice-haber-destruido-tres-petroleros-iran%C3%ADes-en-represalia-por-un-ataque-previo-de-ir%C3%A1n"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/942427da-a0f2-11f1-b613-005056bf30b7/w:1024/p:16x9/986b997578d148aa19ab8d4fdfd6c42773f4d498.jpg",
+    "category": "América Latina",
+    "text": "América Latina abre el debate sobre limitar el acceso de los menores a las redes sociales",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260905-am%C3%A9rica-latina-abre-el-debate-sobre-limitar-el-acceso-de-los-menores-a-las-redes-sociales"
+  },
+  {
+    "date": "2026-09-05",
     "image": "https://s.france24.com/media/display/723fb060-a923-11f1-b0b4-005056a97e36/w:1024/p:16x9/4618cb5f0e1d2cf4af97bc7022b5a36e941960e5.jpg",
     "category": "América Latina",
     "text": "Bolivia investiga las explosiones en un cuartel de Viacha mientras crece la incertidumbre por los militares desaparecidos",
@@ -50,38 +85,10 @@
   },
   {
     "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/ccb7efd2-69ed-11f1-9dc7-005056bf30b7/w:1024/p:16x9/AP080423049719.jpg",
-    "category": "América Latina",
-    "text": "Efecto Ormuz: la gasolina marca un récord histórico en Estados Unidos",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260905-efecto-ormuz-la-gasolina-marca-un-r%C3%A9cord-hist%C3%B3rico-en-estados-unidos"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/af96e922-a8c6-11f1-aac9-005056a90284/w:1024/p:16x9/5adc663ff0ec4912d7ac1f33ab3c44505aa9c78a.jpg",
-    "category": "Europa",
-    "text": "Enviados de Trump llegan a Moscú para intentar desbloquear las negociaciones entre Rusia y Ucrania",
-    "link": "https://www.france24.com/es/europa/20260905-enviados-de-trump-llegan-a-mosc%C3%BA-para-intentar-desbloquear-las-negociaciones-entre-rusia-y-ucrania"
-  },
-  {
-    "date": "2026-09-05",
     "image": null,
     "category": null,
-    "text": "¿Qué le espera a Lindsay Clancy después de la nulidad del juicio por la muerte de sus hijos?",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260905-qu%C3%A9-le-espera-a-lindsay-clancy-despu%C3%A9s-de-la-nulidad-del-juicio-por-la-muerte-de-sus-hijos"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/294294ac-a8cb-11f1-bde0-005056a97e36/w:1024/p:16x9/ES-20260904-201158-201348-CS.jpg",
-    "category": null,
-    "text": "Parque de Dragon Ball en París en duda por no tener licencia oficial de los personajes",
-    "link": "https://www.france24.com/es/video/20260905-parque-de-dragon-ball-en-par%C3%ADs-en-duda-por-no-tener-licencia-oficial-de-los-personajes"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
-    "link": "https://www.bbc.com/mundo/articles/c62j8j6lvy7o?at_medium=RSS&at_campaign=rss"
+    "text": "\"Me creí todo lo que me dijeron\": la mujer que alquiló un apartamento a los terroristas del 11-S habla en exclusiva con la BBC",
+    "link": "https://www.bbc.com/mundo/articles/crl63jdn7n4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-05",
@@ -115,6 +122,20 @@
     "date": "2026-09-05",
     "image": null,
     "category": null,
+    "text": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
+    "link": "https://www.bbc.com/mundo/articles/c62j8j6lvy7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
+    "link": "https://www.bbc.com/mundo/articles/c3327vepzv3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
     "text": "Una doble explosión en un cuartel militar de Bolivia deja al menos 2 muertos y 81 heridos",
     "link": "https://www.bbc.com/mundo/articles/c78076w3jeyo?at_medium=RSS&at_campaign=rss"
   },
@@ -127,108 +148,94 @@
   },
   {
     "date": "2026-09-05",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/3H4OY3UFDZCBFPCMFL2QAI5VRY.png?auth=e48174d206b0b1adf59ff58a719ecdf5caf78411f685ac93eae96a722f2d29ee&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
-    "link": "https://www.bbc.com/mundo/articles/c3327vepzv3o?at_medium=RSS&at_campaign=rss"
+    "text": "Temblor hoy en México: sismo de magnitud 4.2 en Guerrero",
+    "link": "https://www.infobae.com/mexico/2026/09/05/temblor-hoy-en-mexico-noticias-actividad-sismica-5-de-septiembre-de-2026/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/LZVGZI7QSRAOVNPU5ZED7R3UUA.JPG?auth=de62e7f53b816c0bf4bba0e7704311bf2c0a37b35a95628d69e2cbe229bc864e&smart=true&width=3599&height=2322",
+    "image": "https://www.infobae.com/resizer/v2/HW6NRDRBPRGOBGBTA4AQ76KDLQ.jpg?auth=00b0d026a4b32e7eb5f4600bf1c0d33ffb43bf2c83a7f24f2456f7bcae4d8cc4&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Gimnasia La Plata y Tigre le dan continuidad a la actividad del sábado en la 8ª fecha del Torneo Clausura: la agenda de partidos",
-    "link": "https://www.infobae.com/deportes/2026/09/05/aldosivi-banfield-inician-la-actividad-del-sabado-en-la-8-fecha-del-torneo-clausura-la-agenda-de-partidos/"
+    "text": "Ya no tenía signos vitales: revelan detalles sobre el fallecimiento del jugador de Piratas FC en Veracruz",
+    "link": "https://www.infobae.com/mexico/2026/09/05/ya-no-tenia-signos-vitales-revelan-detalles-sobre-el-fallecimiento-del-jugador-de-piratas-fc-en-veracruz/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/64SKYVJKQRCT3J5BMDJVLAN2KE.png?auth=5bbc6a42d562c07b2f496bae0628a6f6a6369e88045f3c1d716f47a583df197c&smart=true&width=1890&height=1063",
+    "image": "https://www.infobae.com/resizer/v2/5CQ2SXSDLBDHFBHZMU5XUAORIU.jpg?auth=0984a71ba9ce4589b5b50692763a6a3e14a10b9ea7f76418ab0e009a2bb4c516&smart=true&width=5659&height=3773",
     "category": null,
-    "text": "Muerte de Bendito Menor| Petro cuestionó a la Policía Nacional tras operativo que ordenó De la Espriella: “Que me explique”",
-    "link": "https://www.infobae.com/colombia/2026/09/05/muerte-de-bendito-menor-petro-cuestiono-a-la-policia-nacional-tras-operativo-que-ordeno-de-la-espriella-que-me-explique/"
+    "text": "Los Pumas igualan 14-14 con Australia en Mendoza por un test match",
+    "link": "https://www.infobae.com/deportes/2026/09/05/los-pumas-se-enfrentaran-con-australia-en-mendoza-hora-tv-y-formaciones/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/FC44VZLMXRAE5KG4CRXOMYPY6M.jpg?auth=f09c42332cee8997ae6d7e06afaf5847a1f309aa9bcc2b5fc97ca5f4b3222155&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/NIE6QEFNWFCS3DRJDFUIS2YF3A.jpg?auth=cedd5d77f2174032a9213e7a1c3fbb6aad406e38615f66d476aaca4a3938e19d&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Vladimir Putin se reúne con los enviados de Donald Trump para dialogar sobre la guerra en Ucrania: “La situación no es sencilla”",
-    "link": "https://www.infobae.com/america/mundo/2026/09/05/vladimir-putin-se-reune-con-los-enviados-de-donald-trump-para-dialogar-sobre-la-guerra-en-ucrania-la-situacion-no-es-sencilla/"
+    "text": "Sport Boys 1 vs Sport Huancayo 1 EN VIVO HOY: minuto a minuto del partido por Torneo Clausura de Liga 1 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/05/sport-boys-vs-sport-huancayo-en-vivo-hoy-minuto-a-minuto-partido-fecha-8-torneo-clausura-liga-1-2026-goles-resumen-resultado/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/STP2PJ5UYVB5DP7JIJ4NHH2VQA.jpg?auth=84b9b843c17bfeb19fb67a47078127fdbdf39279eda0943be9f8b81b7665540f&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/5ER6PYNYNJAK7DBENERVR5V7VI.png?auth=da4fea5bcd6c5ff8556e9f2d46417f577eba18f025b2ec7f12f85653924cb0d3&smart=true&width=900&height=600",
     "category": null,
-    "text": "México vs Benín: sigue EN VIVO el minuto a minuto al Tri Femenil en el Mundial Sub-20: con dos errores se empata el partido",
-    "link": "https://www.infobae.com/mexico/deportes/2026/09/05/mexico-vs-benin-sigue-en-vivo-el-minuto-a-minuto-del-debut-del-tri-femenil-en-el-mundial-sub-20/"
+    "text": "Una corredora se preparaba para correr la Maratón de Chicago y murió atropellada: el conductor huyó",
+    "link": "https://www.infobae.com/estados-unidos/2026/09/05/una-corredora-se-preparaba-para-correr-la-maraton-de-chicago-y-murio-atropellada-el-conductor-huyo/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/TPPWBBUSMFCD7DRNOFS5IST63E.jpg?auth=6ef65cd5cb911a3c097ba91f06ca22a86c7acda6cc8d4c1ad463d1706f81dc1b&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/QSSV35JI5BBZLDZ2GCPLSSDDLY.jpg?auth=9ff4d687c9b11e5bbf9b2acd1088bebd60d1485a4a85fb7ed837329008bde854&smart=true&width=3006&height=1767",
     "category": null,
-    "text": "Abastecer petróleo y gas: cuando el precio deja de ser lo primero",
-    "link": "https://www.infobae.com/movant/2026/09/04/abastecer-petroleo-y-gas-cuando-el-precio-deja-de-ser-lo-primero/"
+    "text": "Jhon Lucumí quiere brillar en la Serie A de Italia: hora y dónde ver Juventus vs. Milán",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/05/jhon-lucumi-quiere-brillar-en-la-serie-a-de-italia-hora-y-donde-ver-juventus-vs-milan/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/AIDKTIDAWJBVNAAJFPWIK7HOZE.JPG?auth=2d220b62060a0b760c3b8fb80df70f718e90b2896fd86e9dccf2a8261d586be5&smart=true&width=3953&height=2640",
+    "image": "https://www.infobae.com/resizer/v2/FBZPCQYAUVBYJPEL4IN7TLIDOI.png?auth=4e5388ea160a9020a0443f9f583cd94b7cf27ca0633fda8e8de54a2ad836c246&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Schalke 04 vs. Bayern Múnich en vivo online con Luis Díaz: siga el minuto a minuto del partido de la Bundesliga",
-    "link": "https://www.infobae.com/colombia/deportes/2026/09/05/schalke-04-vs-bayern-munich-en-vivo-goles-polemicas-del-var-y-el-minuto-a-minuto-de-luis-diaz-en-la-bundesliga/"
+    "text": "Salud cerebral y Alzheimer: qué hábitos tienen respaldo científico y cuáles son sus límites",
+    "link": "https://www.infobae.com/salud/ciencia/2026/09/05/salud-cerebral-y-alzheimer-que-habitos-tienen-respaldo-cientifico-y-cuales-son-sus-limites/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/VGEVVQ7XTZEC7CEF4MU6EMC4WY.JPG?auth=a4bc1d1e70de6eafc52aa4aaa77fcefdd1143f53af1d2ef9b9f3522ddff8056a&smart=true&width=3984&height=2656",
+    "image": "https://www.infobae.com/resizer/v2/L6RKVHKEJRG2XBESHYCINESEKA.jpg?auth=46d2ac872f68de1c4dd49aae3acf72acbcb110e78218074fbd94d68c9f63ab2d&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Vélez reclamó ante AFA por los seis extranjeros de Boca en el partido de Copa Argentina: el reglamento y el vínculo Tapia-Riquelme",
-    "link": "https://www.infobae.com/deportes/2026/09/05/el-debate-detras-del-triunfo-de-boca-juniors-sobre-velez-en-la-copa-argentina-por-la-inclusion-de-seis-extranjeros-el-reclamo-que-evalua-el-fortin/"
+    "text": "Bruce Campbell revela que le pronosticaron 5 años de vida tras su diagnóstico de cáncer",
+    "link": "https://www.infobae.com/entretenimiento/2026/09/05/bruce-campbell-revela-que-le-dieron-5-anos-de-vida-mas-o-menos-tras-su-diagnostico-de-cancer/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/JWMJGHXWRZFQNLRYSOMCRTL36Y.png?auth=67a3173198b9e16344909542242296cbaf75fa11e1f70d826ff324e487cd344a&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/7M7VBD2WOBHH3H6QKKMFJTQSNQ.jpg?auth=0882ed93df4cad032420e41b4d39ae2df25f5ea9aaa7b906e1c27a269ab1b879&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Entre abucheos, protestas y un desmayo, Sheinbaum presenta avances de gobierno en Colima, acusa de ‘prianistas’ a manifestantes",
-    "link": "https://www.infobae.com/mexico/2026/09/05/sheinbaum-da-mensaje-desde-colima-entre-abucheos-y-protestas-si-siguen-gritando-son-irrespetuosos/"
+    "text": "“Existimos fuera de esta realidad somos más que algo físico”: la filosofía de vida de Jonathan Meléndez, músico de Camilo Séptimo",
+    "link": "https://www.infobae.com/mexico/2026/09/05/existimos-fuera-de-esta-realidad-somos-mas-que-algo-fisico-la-filosofia-de-vida-de-jonathan-melendez-musico-de-camilo-septimo/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/GKEW4RRONRAT5P6UNBNMNVJZJY.png?auth=f7c6765ada91a1ce8e4e7169d928bc31ff09a87cfa4d598c2ef3e82d84c5241d&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/WMYCAHJNRNCJXM3A246KE3KANY.jpg?auth=885e4f108239aba3cc4da652f4eef0bd460a22ba58a6fc2fd758838ebc0267f9&smart=true&width=832&height=437",
     "category": null,
-    "text": "¿Buses o tanques? Transporte público en Perú se protege con cabinas blindadas y vidrios antibalas ante avance de la extorsión",
-    "link": "https://www.infobae.com/peru/2026/09/05/buses-o-tanques-conductores-en-peru-se-protegen-con-cabinas-de-acero-y-vidrios-antibalas-ante-avande-de-la-extorsion/"
+    "text": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones viales hoy 5 de septiembre",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/05/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-viales-hoy-5-de-septiembre/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/WJ5UUHECZNF6TJQ2EQSR5LS2HM.jpg?auth=560497666ae33105c00840c36b557d883a3cebb3b8c6e389078bc57a2c07d89d&smart=true&width=1980&height=1320",
+    "image": "https://www.infobae.com/resizer/v2/FTMLEDMNWJEXDIWLNIJKQZ5MLY.JPG?auth=7b04338ba43e419db4795b4d95a110e9058cad17bf093c446dc3c9f42b7e45ef&smart=true&width=4211&height=2369",
     "category": null,
-    "text": "Marc Toralles, Bru Busom y Rubén Sanmartín hacen historia al conseguir el primer “Oscar” de la montaña para el alpinismo español",
-    "link": "https://www.infobae.com/espana/deportes/2026/09/05/marc-toralles-bru-busom-y-ruben-sanmartin-hacen-historia-al-conseguir-el-primer-oscar-de-la-montana-para-el-alpinismo-espanol/"
+    "text": "Noel y Liam Gallagher emocionan a los fans de Oasis en Venecia durante la premiere de su documental",
+    "link": "https://www.infobae.com/entretenimiento/2026/09/05/noel-y-liam-gallagher-emocionan-a-los-fans-de-oasis-en-venecia-durante-la-premiere-de-su-documental/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/BSM5JKLY7RBPZDNUQSBWBIMDDA.jpg?auth=0fcc5e2640d4ea9c159a05b4d6225b722b65227fb08a3d64cfa87c97ead5f0fd&smart=true&width=900&height=506",
+    "image": "https://www.infobae.com/resizer/v2/KETLDWCOJJDCXAD275SRPDT5CI.jpg?auth=fd793684256443f4de67d53a98981de898c0b0b2dd4808c667659b8cfc851028&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Martín ‘Cochise’ Rodríguez, leyenda del ciclismo colombiano, se encuentra hospitalizado en Medellín: “Presentó mareos”",
-    "link": "https://www.infobae.com/colombia/deportes/2026/09/05/martin-cochise-rodriguez-leyenda-del-ciclismo-colombiano-se-encuentra-hospitalizado-en-medellin-presento-mareos/"
+    "text": "Golazo de Yuriel Celi con potente zurdazo desde afuera del área en Sport Boys vs Sport Huancayo por Torneo Clausura 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/05/gol-yuriel-celi-sport-boys-vs-sport-huancayo-torneo-clausura-liga-1-2026-video-hoy/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/KN643OMYMZCRZBQWYIPPJ3J5CE.png?auth=83e189491d42d5b9bc69d0ff68275c829804f44b826c7e664d01ad5ff195fb15&smart=true&width=1150&height=859",
-    "category": null,
-    "text": "Miami-Dade elimina 12 rutas de autobús y recorta horarios nocturnos en el presupuesto aprobado en primera votación",
-    "link": "https://www.infobae.com/estados-unidos/2026/09/05/miami-dade-elimina-12-rutas-de-autobus-y-recorta-horarios-nocturnos-en-el-presupuesto-aprobado-en-primera-votacion/"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/2RQNBZCJ2FFT5ILEBCODELAAJY.jpg?auth=51f3971ea4074aea3e0159edae706ab639d4c4e5f620c50a759ebb0f9f483080",
-    "category": "Alemania",
-    "text": "En este pueblo ganó AfD su primer alcalde de Alemania y desde entonces no para de crecer",
-    "link": "https://elpais.com/internacional/2026-09-05/en-este-pueblo-gano-afd-su-primer-alcalde-de-alemania-y-desde-entonces-no-para-de-crecer.html"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260905/1211315_151948_video_1800.mp4",
-    "category": "Irán",
-    "text": "Estados Unidos bombardea tres petroleros iraníes, uno de ellos cerca de la estratégica isla de Jarg, en respuesta a ataques de Teherán",
-    "link": "https://elpais.com/internacional/2026-09-05/varias-explosiones-cerca-de-la-isla-de-jarg-principal-terminal-del-crudo-de-teheran-y-blanco-de-las-amenazas-de-trump.html"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260905/1211374_190929_video_1800.mp4",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Putin y Zelenski ordenan detener los ataques hasta el lunes por la visita de los enviados de Trump",
+    "link": "https://elpais.com/internacional/2026-09-05/los-negociadores-de-trump-llegan-a-moscu-para-intentar-reimpulsar-las-negociaciones-de-paz.html"
   },
   {
     "date": "2026-09-05",
@@ -239,10 +246,24 @@
   },
   {
     "date": "2026-09-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/EQM5RKMWLZJYXLHKIF2XODQLEA.jpg?auth=a812405e2ff907b0d4b9def17cad5fa1349dbf2b578b27f765df465f77e78dfd",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Putin y Zelenski ordenan detener los ataques hasta el lunes por la visita de los enviados de Trump",
-    "link": "https://elpais.com/internacional/2026-09-05/los-negociadores-de-trump-llegan-a-moscu-para-intentar-reimpulsar-las-negociaciones-de-paz.html"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260905/1211315_151948_video_1800.mp4",
+    "category": "Irán",
+    "text": "Estados Unidos bombardea tres petroleros iraníes, uno de ellos cerca de la estratégica isla de Jarg, en respuesta a ataques de Teherán",
+    "link": "https://elpais.com/internacional/2026-09-05/varias-explosiones-cerca-de-la-isla-de-jarg-principal-terminal-del-crudo-de-teheran-y-blanco-de-las-amenazas-de-trump.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/2RQNBZCJ2FFT5ILEBCODELAAJY.jpg?auth=51f3971ea4074aea3e0159edae706ab639d4c4e5f620c50a759ebb0f9f483080",
+    "category": "Alemania",
+    "text": "En este pueblo ganó AfD su primer alcalde de Alemania y desde entonces no para de crecer",
+    "link": "https://elpais.com/internacional/2026-09-05/en-este-pueblo-gano-afd-su-primer-alcalde-de-alemania-y-desde-entonces-no-para-de-crecer.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/HNYO3P2AEZOMXJ7GXG7ABQJFNA.jpg?auth=9fcf80e7834043f2d4f88d508577522b39b5f8e98dfedb007d1f45c5b9fc4f9a",
+    "category": "Irán",
+    "text": "Estados Unidos aprueba una venta de bombas a Arabia Saudí por 4.300 millones de euros",
+    "link": "https://elpais.com/internacional/2026-09-05/estados-unidos-aprueba-una-venta-de-bombas-a-arabia-saudi-por-4300-millones-de-euros.html"
   },
   {
     "date": "2026-09-05",
@@ -260,80 +281,73 @@
   },
   {
     "date": "2026-09-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/QY2TZ3GTKVLQDG2ZBBAC4P7MOM.jpg?auth=744de93e76e361a33ae4c0fc1dd5b5b53fbb3697de7b48ac0ce003e1b74a526c",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Rusia usa arrestos y coacciones para lograr mandar más reclutas al frente con Ucrania",
-    "link": "https://elpais.com/internacional/2026-09-05/rusia-usa-arrestos-y-coacciones-para-lograr-mandar-mas-reclutas-en-el-frente-con-ucrania.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c907a59bf5b2c9814d59e.jpg",
+    "category": null,
+    "text": "Kremlin: Putin destacó los avances reales del Ejército ruso durante su reunión con enviados de Trump",
+    "link": "https://actualidad.rt.com/actualidad/625915-kremlin-putin-destaco-avances-reales-ejercito-ruso-reunion-enviados-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c8de259bf5b2c9814d599.jpg",
     "category": null,
-    "text": "Putin comenta la solicitud ucraniana de alto al fuego",
-    "link": "https://actualidad.rt.com/actualidad/626125-putin-comenta-ucrania-alto-fuego?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Kremlin da detalles de la visita de Steve Witkoff y Jared Kushner a Rusia",
+    "link": "https://actualidad.rt.com/actualidad/625912-kremlin-da-detalles-visita-witkoff?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c577659bf5b2e92384d7d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c622959bf5b369c31d306.jpg",
     "category": null,
-    "text": "Witkoff a Putin: Trump le envía sus mejores deseos",
-    "link": "https://actualidad.rt.com/actualidad/626124-witkoff-putin-trump-le-envia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Este país logra extraer uranio del agua en proporciones récord",
+    "link": "https://actualidad.rt.com/actualidad/626127-pais-lograr-extraer-uranio-agua?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c565be9ff712e61747d09.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c841fe9ff714f366e0214.jpg",
     "category": null,
-    "text": "Enviado de Trump agradece a Putin alto el fuego de 3 días para garantizar su segura llegada",
-    "link": "https://actualidad.rt.com/actualidad/626123-enviado-trump-agradece-putin-suspension-ataques?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Importante visita de pacificación\": Dmitriev sobre el viaje a Moscú de los enviados de Trump",
+    "link": "https://actualidad.rt.com/actualidad/626136-importante-visita-pacificacion-dmitriev-viaje-moscu-enviados-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c49ebe9ff714e9866bba8.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c796759bf5b673d2453c2.jpg",
     "category": null,
-    "text": "Rusia inaugura el oleoducto principal de uno de los proyectos más grandes del Ártico",
-    "link": "https://actualidad.rt.com/actualidad/626119-rusia-inaugura-oleoducto-vostok-oil?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Witkoff y Kushner abandonan el Kremlin tras tres horas de conversaciones con Putin",
+    "link": "https://actualidad.rt.com/actualidad/626134-video-witkoff-kushner-abandonan-kremlin?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c31f059bf5b4c41312533.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c7b3559bf5b2bd401e199.jpg",
     "category": null,
-    "text": "\"Espero que pueda dormir bien por la noche\": Abogado de Lindsay Clancy carga contra el miembro del jurado que bloqueó su absolución",
-    "link": "https://actualidad.rt.com/actualidad/626093-dormir-abogado-lindsay-clancy-carga-miembro-jurado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Las primeras imágenes tras la reunión de Putin con Witkoff y Kushner",
+    "link": "https://actualidad.rt.com/actualidad/626135-primeras-imagenes-reunion-putin-witkoff-kushner?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c33c759bf5b1a1b769ad7.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c79f359bf5b52a80036e7.jpg",
     "category": null,
-    "text": "\"Follarme a la reina, robar un millón\": filtran audio de un alto cargo de la Fiscalía ucraniana",
-    "link": "https://actualidad.rt.com/actualidad/626102-follar-reina-robar-millon-alto-cargo-fiscalia-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Finaliza la reunión de Putin con Witkoff y Kushner tras más de tres horas",
+    "link": "https://actualidad.rt.com/actualidad/626130-finaliza-reunion-putin-witkoff-kushner?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c4e1459bf5b2e9c72c304.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c7888e9ff714dbf3040a9.jpg",
     "category": null,
-    "text": "Putin envía sus mejores deseos y agradecimiento a Trump",
-    "link": "https://actualidad.rt.com/actualidad/626120-putin-pidio-transmitir-agradeciemiento-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán lanza ataque de represalia contra varios petroleros vinculados a EE.UU. en Ormuz",
+    "link": "https://actualidad.rt.com/actualidad/626132-iran-lanza-ataque-represalia-petroleros-eeuu-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c52ece9ff714e07691813.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a99a958e9ff71091579fe3c.jpg",
     "category": null,
-    "text": "VIDEO: Putin se reúne con los enviados de Trump en el Kremlin",
-    "link": "https://actualidad.rt.com/actualidad/626066-video-putin-reune-enviados-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "INFOGRAFÍA: Estos son los países con las mayores reservas de petróleo",
+    "link": "https://actualidad.rt.com/actualidad/625748-infografia-paises-mayores-reservas-petroleo?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9be56ee9ff712e61747c92.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9bfc6359bf5b58475ba3b0.jpg",
     "category": null,
-    "text": "Proponen recortar prestaciones por discapacidad en el Reino Unido para financiar el rearme contra Rusia",
-    "link": "https://actualidad.rt.com/actualidad/626065-proponen-reino-unido-recortar-prestaciones-sociales-defensa?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9be3b559bf5b57387ae73e.jpeg",
-    "category": null,
-    "text": "Schubert vs. Bach: la historia detrás de la feroz discusión entre intelectuales rusos que incendió X",
-    "link": "https://actualidad.rt.com/actualidad/626057-encendida-disputa-shubert-bach-debate-rusia-video?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El precio de la devastación en Gaza: Israel afronta una grave crisis de agua",
+    "link": "https://actualidad.rt.com/actualidad/626072-precio-devastacion-gaza-israel-afrontar-crisis-agua?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
@@ -404,19 +418,5 @@
     "category": null,
     "text": "Últimas noticias | 05 septiembre 2026 - Mañana",
     "link": "http://es.euronews.com/video/2026/09/05/ultimas-noticias-05-septiembre-2026-manana"
-  },
-  {
-    "date": "2026-09-04",
-    "image": null,
-    "category": null,
-    "text": "¿Qué pasará ahora que un juez declaró nulo el juicio contra Lindsay Clancy, la madre acusada de matar a sus tres hijos en EE.UU.?",
-    "link": "https://www.bbc.com/mundo/articles/cy4z89zr77zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-04",
-    "image": null,
-    "category": null,
-    "text": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
-    "link": "https://www.bbc.com/mundo/articles/cwyzqr7v4n4o?at_medium=RSS&at_campaign=rss"
   }
 ]

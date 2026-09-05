@@ -7,8 +7,9 @@
  *
  * Si music/playlist.json existe, sus entradas se usan para forzar
  * titulo/artista de un archivo puntual (ej. bancos de musica libre que
- * nombran "Titulo - Artista" al reves). No hace falta que liste todos
- * los archivos: solo los que querés corregir.
+ * nombran "Titulo - Artista" al reves) y/o para agregar un credito de
+ * atribucion ("credit") cuando la licencia de la cancion lo exige. No
+ * hace falta que liste todos los archivos: solo los que querés corregir.
  */
 
 header('Content-Type: application/json; charset=utf-8');
@@ -46,6 +47,7 @@ foreach (scandir($musicDir) ?: [] as $file) {
     $ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
     if (!in_array($ext, $validExt, true)) continue;
 
+    $credit = $overrides[$file]['credit'] ?? '';
     if (isset($overrides[$file])) {
         $title = $overrides[$file]['title'] ?? '';
         $artist = $overrides[$file]['artist'] ?? '';
@@ -56,7 +58,7 @@ foreach (scandir($musicDir) ?: [] as $file) {
         [$artist, $title] = parseFromFilename($file);
     }
 
-    $tracks[] = ['file' => $file, 'title' => $title, 'artist' => $artist];
+    $tracks[] = ['file' => $file, 'title' => $title, 'artist' => $artist, 'credit' => $credit];
 }
 
 usort($tracks, function ($a, $b) {

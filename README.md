@@ -1,10 +1,10 @@
-# Fuente de navegador para OBS — Música 24/7 + Noticias
+# MUNDO WOW 24/7 — Fuente de navegador para OBS (Música + Noticias)
 
-Página HTML pensada como **Browser Source** de OBS para una transmisión
-24/7: reproduce música en aleatorio con el título en pantalla, muestra
-noticias con foto + texto + código QR hacia la nota, rota publicidades
-(imagen o video mudo) de fondo, y de tanto en tanto un popup invitando
-a suscribirse.
+Página HTML pensada como **Browser Source** de OBS para la transmisión
+24/7 de **MUNDO WOW 24/7**: reproduce música en aleatorio con el título
+en pantalla, muestra noticias con foto + texto + código QR hacia la
+nota, rota publicidades (imagen o video mudo) de fondo, y de tanto en
+tanto un popup invitando a suscribirse.
 
 ## Estructura
 
@@ -17,8 +17,7 @@ stats.html              panel para ver/exportar las impresiones de publicidad
 music/                 poné acá tus archivos de audio (mp3, m4a, ogg, wav, flac)
 music/playlist.json     lista de canciones (se autogenera con el script)
 news/news.json          noticias cargadas a mano
-news/rss.json           noticias auto-generadas desde el RSS de laubfal.com
-news/birthdays/01.json..12.json   efemérides (cumpleaños) por mes, a mano
+news/rss.json           noticias auto-generadas desde el RSS del sitio
 news/images/            imágenes locales de noticias (opcional)
 scripts/generate_news_from_rss.py        lee el RSS y actualiza news/rss.json
 .github/workflows/update-news-rss.yml    corre ese script cada 4 horas (ver mas abajo)
@@ -26,10 +25,12 @@ scripts/prune_news.py                    saca de news.json las noticias de mas d
 .github/workflows/prune-news.yml         corre ese script una vez por semana
 backgrounds/            poné acá las publicidades: imagen o video mudo
 backgrounds/playlist.json   lista de fondos locales (se autogenera con el script)
-backgrounds/external.json   fondos alojados afuera del repo (opcional, a mano)
+backgrounds/external.json   fondos alojados afuera del repo (a mano, y/o fotos automáticas de Pexels)
 scripts/generate_playlist.py             escanea /music y actualiza playlist.json
 scripts/generate_backgrounds_playlist.py escanea /backgrounds y actualiza su playlist.json
 .github/workflows/update-playlists.yml   corre esos scripts solo al subir archivos (ver mas abajo)
+scripts/generate_backgrounds_from_keywords.py       busca fotos en Pexels por keyword y actualiza external.json
+.github/workflows/update-backgrounds-keywords.yml   corre ese script una vez por día (ver mas abajo)
 hosting/.htaccess.example      plantilla de usuario/contraseña para hosting público
 HOSTING.md               guía de hosting en WordPress y protección de acceso
 ```
@@ -95,6 +96,23 @@ directamente su entrada en `music/playlist.json`:
 ```
 
 Esa corrección queda guardada aunque vuelvas a correr el script.
+
+### Crédito/atribución del artista
+
+Muchos bancos de música libre de derechos exigen dejar constancia del
+autor y/o la licencia al usar el tema. Para eso, agregá un campo
+`credit` a la entrada de ese tema en `music/playlist.json` (opcional,
+solo en los temas que lo necesiten):
+
+```json
+{ "file": "cancion1.mp3", "title": "Mi Título", "artist": "Mi Artista", "credit": "Música: Mi Artista (CC BY 4.0) — freemusicarchive.org" }
+```
+
+Se muestra como una línea chica y discreta debajo del artista, en el
+reproductor. Si un tema no tiene `credit` cargado, esa línea
+simplemente no aparece (no queda un hueco vacío). Igual que
+`title`/`artist`, `scripts/generate_playlist.py` nunca pisa este campo
+una vez cargado.
 
 ### No suenan los temas (o no rotan los fondos) — checklist rápido
 
@@ -168,7 +186,7 @@ el reloj y el reproductor de música siguen visibles arriba de todo.
   muestra sin QR.
   Antes de generar el QR, se le agregan automáticamente parámetros UTM
   para trackear en Analytics/YouTube cuánta gente escanea desde la
-  transmisión (`?utm_source=youtube&utm_medium=qrscan&utm_campaign=lasocia`,
+  transmisión (`?utm_source=youtube&utm_medium=qrscan&utm_campaign=lasociacomar`,
   o con `&` si el link ya tenía otros parámetros). Se ajusta en
   `js/app.js` → `CONFIG` → `qrUtmParams`.
   El QR tiene un fulgor pulsante alrededor para invitar a escanearlo
@@ -189,34 +207,42 @@ el reloj y el reproductor de música siguen visibles arriba de todo.
 - El color de fondo plano de la pantalla de noticias se ajusta en
   `css/style.css` → `:root` → `--news-flat-bg`.
 
-### Noticias automáticas desde el RSS de laubfal.com
+### Noticias automáticas desde un grupo de RSS internacionales
 
 Además de `news.json` (a mano), la página lee `news/rss.json` y
 mezcla ambas listas en la rotación. `news/rss.json` se genera solo:
-un GitHub Action corre cada 4 horas, lee
-`https://laubfal.com/feed/`, y actualiza el archivo con las notas más
-recientes del sitio (título, link, fecha e imagen destacada si el
-feed la trae) — sin pisar nunca lo que cargaste a mano en
+un GitHub Action corre cada 2 horas, lee un **grupo de feeds RSS de
+noticias internacionales en castellano** (configurado en
+`scripts/generate_news_from_rss.py` → `RSS_FEEDS`) y actualiza el
+archivo con las notas más recientes combinadas de todos ellos
+(título, link, fecha, imagen destacada y categoría del feed, cuando
+están disponibles) — sin pisar nunca lo que cargaste a mano en
 `news.json`.
 
-- Si el feed falla puntualmente o viene con un formato inesperado, el
-  script no toca `news/rss.json` (queda como estaba) en vez de
-  vaciarlo.
+- Feeds actuales del grupo: DW en Español, France 24 en Español, BBC
+  Mundo, Infobae, El País (Internacional), RT en Español, CNN en
+  Español y Euronews en Español. Se pueden agregar o sacar feeds
+  editando esa misma lista.
+- Cada feed aporta hasta `MAX_ITEMS_PER_FEED` (12) noticias, y el
+  archivo combinado se recorta a `MAX_TOTAL_ITEMS` (60) en total,
+  ordenado por fecha (más nuevo primero). Ambos límites se ajustan en
+  `scripts/generate_news_from_rss.py`.
+- Si un feed puntual falla (caído, bloqueado, cambió de URL) o viene
+  con un formato inesperado, el script lo saltea sin afectar a los
+  demás feeds del grupo; solo si **todos** fallan a la vez, deja
+  `news/rss.json` como estaba en vez de vaciarlo.
 - Las notas del RSS expiran solas igual que las manuales (ver
   `newsMaxAgeDays` arriba), así que no hace falta limpiar nada.
 - El trigger automático (`schedule`) de GitHub Actions solo corre
-  sobre la **rama por defecto** del repo — en este repositorio esa
-  rama por defecto ya es `claude/obs-music-browser-laura-1hda5z` (no
-  hay una rama `main` separada), así que el schedule ya está activo
-  sin pasos extra. Si en algún momento cambian la rama por defecto
-  (por ejemplo, al mergear a un `main` nuevo), hay que confirmar que
-  el schedule siga corriendo ahí.
+  sobre la **rama por defecto** del repo — si en algún momento cambia
+  la rama por defecto del repositorio, hay que confirmar que el
+  schedule siga corriendo ahí.
 - Para forzar una actualización sin esperar, o para probarlo, andá a
-  la pestaña **Actions** del repo → "Actualizar noticias desde el RSS
-  de laubfal.com" → **Run workflow**.
+  la pestaña **Actions** del repo → "Actualizar noticias desde el
+  grupo de RSS internacionales" → **Run workflow**.
 - Se puede correr a mano en cualquier momento con
   `python3 scripts/generate_news_from_rss.py`.
-- El intervalo (4 horas) se ajusta en
+- El intervalo (2 horas) se ajusta en
   `.github/workflows/update-news-rss.yml` (línea `cron`).
 
 ### Limpieza automática de `news.json`
@@ -234,47 +260,6 @@ borra.
 - El plazo (30 días) se ajusta en `scripts/prune_news.py` →
   `PRUNE_AFTER_DAYS`. El intervalo (semanal) en
   `.github/workflows/prune-news.yml` (línea `cron`).
-
-### Efemérides ("Hoy cumple años...")
-
-Los cumpleaños tienen **su propia pantalla y su propio horario**,
-separados de las noticias (no se mezclan en esa rotación): mismo
-mecanismo de pantalla completa, pero con **fondo de otro color**
-(`--birthday-flat-bg` en `css/style.css`, magenta más brillante que
-el burdeos de las noticias) y sin fila de QR (no hay nota que leer).
-Se cargan en `news/birthdays/`, **un archivo por mes** (`01.json` a
-`12.json`, enero a diciembre):
-
-```json
-[
-  { "day": 15, "name": "Nombre Apellido", "photo": "https://ejemplo.com/foto.jpg" },
-  { "day": 22, "name": "Otra Persona" }
-]
-```
-
-- **`day`**: el día del mes (número, sin ceros a la izquierda).
-- **`name`**: se arma solo el texto "¡Feliz cumpleaños, `name`!".
-- **`photo`** (opcional): si no la tenés, se muestra sin foto (no
-  hace falta borrar el campo, alcanza con omitirlo).
-- La página lee **solo el archivo del mes actual** y se queda con los
-  que coincidan con el día de hoy — no hace falta ninguna lógica de
-  medianoche: al pasar la fecha, el chequeo siguiente ya toma el día
-  nuevo solo.
-- **Frecuencia**: se chequea a los 5 minutos de abrir la página, y
-  después **como mínimo cada 1 hora**. Si ese día no hay ningún
-  cumpleaños cargado, no se muestra nada (no tiene sentido repetir
-  cuando hay pocos). Si el chequeo coincide justo con un bloque de
-  noticias en curso, no espera a la próxima hora entera: reintenta a
-  los 2 minutos para igual garantizar el mínimo de una vez por hora.
-  Se ajusta en `js/app.js` → `CONFIG` → `birthdayIntervalMs`
-  (frecuencia), `birthdayFirstDelayMs` (primer chequeo) y
-  `birthdayDisplayMs` (cuánto quedan visibles).
-- **Importante sobre las fechas**: no cargues cumpleaños "a ojo" — una
-  fecha de nacimiento incorrecta de una persona real, mostrada en
-  vivo, es un error real. Cargalos verificados, igual que hacés con
-  las noticias.
-- El tag ("CUMPLEAÑOS") se ajusta en `js/app.js` → `CONFIG` →
-  `birthdaysCategory`.
 
 ## 3. Cargar publicidades de fondo
 
@@ -342,6 +327,47 @@ subir el archivo a `/backgrounds`:
   insertar sus propios anuncios sobre el video en cualquier momento,
   lo cual arruinaría el spot pago.
 
+### Fotos automáticas de bancos gratuitos por keyword
+
+Además de las publicidades/sponsors, un GitHub Action busca fotos
+gratis en **Pexels** una vez por día y las agrega solo a
+`backgrounds/external.json`, para tener variedad de fondos sin subir
+imágenes a mano. Las keywords están en
+`scripts/generate_backgrounds_from_keywords.py` → `KEYWORDS` (por
+defecto, genéricas de noticias/entretenimiento: "news studio",
+"television broadcast", "entertainment lights", "red carpet event",
+"concert crowd" — se pueden cambiar libremente).
+
+- **Configuración única**: hace falta una API key gratuita de
+  [pexels.com/api](https://www.pexels.com/api/), cargada como secret
+  del repositorio en **Settings → Secrets and variables → Actions →
+  New repository secret**, con el nombre `PEXELS_API_KEY`. Sin este
+  secret, el workflow corre pero no hace nada (no rompe ni vacía
+  `external.json`).
+- Estas fotos se agregan **sin pisar** las entradas cargadas a mano en
+  `external.json` (ej. un video de sponsor): se marcan internamente
+  con `"source": "pexels-auto"`, y en cada corrida solo se regenera ese
+  grupo, dejando el resto tal cual.
+- Cada foto trae su **crédito de atribución** (`"credit": "Foto:
+  Fotógrafo / Pexels"`), que se muestra como un texto chico y discreto
+  abajo a la derecha de la pantalla mientras esa foto está de fondo
+  (se oculta solo si el fondo actual no tiene `credit` cargado, y
+  queda tapado automáticamente durante los bloques de noticias). El
+  mismo campo `credit` funciona para cualquier entrada de
+  `external.json`, no solo para las de Pexels — se puede usar igual en
+  una entrada cargada a mano.
+- Si alguna keyword puntual falla (o Pexels no devuelve resultados
+  para ella), se la saltea sin afectar a las demás; solo si **todas**
+  fallan a la vez se deja `external.json` como estaba.
+- Para forzar una actualización sin esperar al día siguiente, andá a
+  la pestaña **Actions** del repo → "Actualizar fondos desde Pexels
+  por keywords" → **Run workflow**.
+- Se puede correr a mano con
+  `PEXELS_API_KEY=tu-key python3 scripts/generate_backgrounds_from_keywords.py`.
+- La cantidad de fotos por keyword (`IMAGES_PER_KEYWORD`) y el
+  intervalo (diario, en `.github/workflows/update-backgrounds-keywords.yml`
+  → línea `cron`) se pueden ajustar.
+
 ### Contar impresiones (para reportarle a un sponsor)
 
 Cada vez que un archivo de `/backgrounds` pasa a mostrarse, queda
@@ -386,7 +412,7 @@ en pantalla** — se oculta sola apenas arranca un bloque, y vuelve a
 aparecer al terminar (el reproductor de música sube un poco para no
 quedar tapado por la franja).
 
-- El texto usa `@laubfal` como usuario provisorio en las tres redes,
+- El texto usa `@tunombre` como usuario provisorio en las tres redes,
   a confirmar. Para actualizarlo (o poner un usuario distinto por
   red), editá el texto de cada `<span>Seguinos en ...</span>` en
   `index.html` — hay **dos bloques idénticos** (el ticker se arma
@@ -456,11 +482,28 @@ usuario/contraseña (Basic Auth) y el detalle de `music/playlist.php`,
 que en ese tipo de hosting permite detectar mp3s nuevos sin correr
 ningún script.
 
+## Paleta de marca (`css/style.css` → `:root`)
+
+Todos los colores de la página salen de 6 variables CSS en `:root`,
+que reflejan la paleta simplificada de la marca MUNDO WOW 24/7. Para
+ajustar algún color de marca, editar solo estas variables (no hay
+colores de marca sueltos por otras partes del CSS):
+
+| Variable | Color | Uso |
+|---|---|---|
+| `--bg-1` | `#02102A` Azul fondo principal | fondo degradado detrás del slideshow de publicidades |
+| `--bg-2` / `--accent-2` | `#00245A` Azul secundario | segundo stop del fondo degradado, color plano de la pantalla de noticias (`--news-flat-bg`), y stop oscuro en los gradientes con el naranja |
+| `--accent` | `#FF7A00` Naranja principal | punto de "en vivo", CTA (popup de suscripción, botón de autoplay, barra de progreso) |
+| `--accent-3` | `#1673FF` Azul acento | texto/iconos destacados (reproductor, ticker) |
+| `--text` | `#FFFFFF` Blanco | texto principal |
+| `--text-dim` | `#D6DCE5` Gris claro | texto secundario (artista, separadores) |
+
 ## Personalización rápida (`js/app.js` → `CONFIG`)
 
 | Parámetro | Qué hace |
 |---|---|
 | `playlistRefreshMs` | cada cuánto relee `playlist.json` |
+| `audioCrossfadeMs` | duración del crossfade de audio entre una canción y la siguiente |
 | `newsRefreshMs` | cada cuánto relee `news.json` |
 | `newsIntervalMs` | cada cuánto se dispara un bloque de noticias |
 | `newsItemsPerBlock` | cuántas noticias seguidas se muestran por bloque |
@@ -497,10 +540,6 @@ navegador normal, ver más abajo), la página se auto-recupera sola de:
 - **QR o imagen de noticia caídos** (ej. `api.qrserver.com` lento):
   se ocultan en vez de mostrar el ícono de imagen rota en pantalla
   completa.
-
-## Ideas para seguir sumando
-
-- Historial de "últimas canciones" en pantalla.
-- Pedidos de canciones vía chat de Twitch/YouTube.
-- Franja de texto (ticker) con más noticias corriendo abajo.
-- Distintos "temas" visuales (día/noche, fechas especiales).
+- **Crossfade de audio que no llega a dispararse** (ej. no se pudo leer
+  la duración del archivo a tiempo): en vez de quedar en silencio, se
+  hace un corte seco directo al siguiente tema.

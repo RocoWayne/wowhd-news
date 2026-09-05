@@ -1,16 +1,15 @@
 :root{
-  /* Paleta basada en el logo de Laubfal (magenta/fucsia sobre fondo oscuro) */
-  --bg-1:#1a0512;
-  --bg-2:#33081f;
-  --accent:#E6007E;    /* magenta principal del logo */
-  --accent-2:#9C1458;  /* fucsia oscuro / burdeos, tono del subtítulo */
-  --accent-3:#FF6FB5;  /* rosa claro para acentos y texto destacado */
-  --text:#fff2f8;
-  --text-dim:#e3a9c6;
-  --card-bg:rgba(38,7,24,0.74);
+  /* Paleta de marca MUNDO WOW 24/7 (6 colores) */
+  --bg-1:#02102A;      /* azul fondo principal */
+  --bg-2:#00245A;      /* azul secundario */
+  --accent:#FF7A00;    /* naranja principal: CTA, pulso "EN VIVO", highlights */
+  --accent-2:#00245A;  /* azul secundario: usado como stop oscuro en gradientes con el naranja */
+  --accent-3:#1673FF;  /* azul acento: texto/iconos destacados sobre el fondo oscuro */
+  --text:#FFFFFF;      /* blanco */
+  --text-dim:#D6DCE5;  /* gris claro */
+  --card-bg:rgba(2,16,42,0.74);
   --card-border:rgba(255,255,255,0.08);
-  --news-flat-bg:#9C1458;     /* color plano de fondo para la pantalla de noticias */
-  --birthday-flat-bg:#E6007E; /* color plano de fondo para la pantalla de cumpleaños (distinto al de noticias) */
+  --news-flat-bg:#00245A;     /* color plano de fondo para la pantalla de noticias (azul secundario) */
 }
 
 *{box-sizing:border-box;}
@@ -61,9 +60,35 @@ html,body{
   inset:0;
   z-index:-1;
   background:
-    radial-gradient(circle at 15% 85%, rgba(230,0,126,0.30), transparent 45%),
-    radial-gradient(circle at 85% 20%, rgba(255,111,181,0.20), transparent 40%),
-    linear-gradient(160deg, rgba(26,5,18,0.6), rgba(51,8,31,0.6));
+    radial-gradient(circle at 15% 85%, rgba(255,122,0,0.25), transparent 45%),
+    radial-gradient(circle at 85% 20%, rgba(22,115,255,0.25), transparent 40%),
+    linear-gradient(160deg, rgba(2,16,42,0.6), rgba(0,36,90,0.6));
+}
+
+/* Credito del fondo actual (ver js/app.js -> showBackground). Debajo
+   de la pantalla de noticias (z-index 5) para que quede tapado solo
+   mientras esa pantalla esta activa, sin tener que ocultarlo a mano. */
+.bg-credit{
+  position:fixed;
+  z-index:3;
+  right:32px;
+  bottom:12px;
+  max-width:360px;
+  font-size:12px;
+  color:var(--text-dim);
+  opacity:.7;
+  text-align:right;
+  text-shadow:0 1px 4px rgba(0,0,0,0.6);
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  transition:opacity .4s ease, bottom .4s ease;
+  pointer-events:none;
+}
+.bg-credit:empty{display:none;}
+/* Cuando el ticker de redes esta visible, el credito sube para no quedar tapado */
+body.ticker-visible .bg-credit{
+  bottom:calc(12px + 52px);
 }
 
 /* ---------- Branding ---------- */
@@ -90,7 +115,7 @@ html,body{
   box-shadow:0 0 10px 2px var(--accent);
   animation:pulse 1.6s ease-in-out infinite;
 }
-.brand-name{color:var(--text);}
+.brand-name{color:var(--text); font-weight:800;}
 .brand-sep{color:var(--text-dim);}
 .brand-live{color:var(--accent-3); font-size:13px;}
 
@@ -122,7 +147,7 @@ html,body{
   left:32px;
   bottom:32px;
   right:32px;
-  max-width:640px;
+  max-width:460px;
   display:flex;
   align-items:center;
   gap:20px;
@@ -191,6 +216,22 @@ body.ticker-visible .player{
 .player.fading .player-title,
 .player.fading .player-artist{opacity:0;}
 
+/* Credito/atribucion discreto del artista, solo cuando la cancion lo
+   trae cargado (campo "credit" en music/playlist.json) - varios bancos
+   de musica libre de derechos lo exigen. Oculto por completo (sin
+   dejar hueco) si la cancion actual no tiene credito. */
+.player-credit{
+  font-size:11px;
+  color:var(--text-dim);
+  opacity:.75;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  transition:opacity .4s ease;
+}
+.player-credit:empty{display:none;}
+.player.fading .player-credit{opacity:0;}
+
 .progress-track{
   margin-top:10px;
   width:100%;
@@ -234,11 +275,6 @@ body.ticker-visible .player{
   opacity:1;
   visibility:visible;
   transition:opacity .7s ease, visibility 0s linear 0s;
-}
-/* Pantalla de cumpleaños: mismo layout que .news-screen (misma clase),
-   solo cambia el color de fondo para diferenciarla a simple vista. */
-.birthday-screen{
-  background:var(--birthday-flat-bg);
 }
 .news-tag{
   flex-shrink:0;
@@ -397,7 +433,7 @@ body.ticker-visible .player{
   z-index:9; /* debajo del popup de suscripcion (15) y de player/brand/clock (10) */
   height:52px;
   overflow:hidden;
-  background:linear-gradient(90deg, rgba(20,4,14,0.92), rgba(38,7,24,0.92));
+  background:linear-gradient(90deg, rgba(2,16,42,0.92), rgba(0,36,90,0.92));
   border-top:1px solid var(--card-border);
   backdrop-filter:blur(8px);
   opacity:0;

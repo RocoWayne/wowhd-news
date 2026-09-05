@@ -16,7 +16,7 @@ const CONFIG = {
   playlistRefreshMs: 2 * 60 * 1000,   // re-chequear /music cada 2 min
   newsRefreshMs: 3 * 60 * 1000,       // releer news.json cada 3 min
   newsIntervalMs: 15 * 60 * 1000,     // cada cuanto se dispara un bloque de noticias
-  newsItemsPerBlock: 2,                // cuantas noticias seguidas se muestran en cada bloque
+  newsItemsPerBlock: 3,                // cuantas noticias seguidas se muestran en cada bloque
   newsDisplayMs: 30 * 1000,           // cuánto queda visible cada noticia dentro del bloque
   newsMaxAgeDays: 7,                  // noticias con "date" mas viejo que esto se dejan de mostrar
   backgroundsRefreshMs: 2 * 60 * 1000,  // re-chequear /backgrounds cada 2 min

@@ -194,9 +194,9 @@ el reloj y el reproductor de música siguen visibles arriba de todo.
 - La página relee `news.json` sola cada 3 minutos, así que agregar o
   sacar noticias de la lista se refleja solo (sin reiniciar OBS).
 - **Al abrir la página** ya arranca mostrando un bloque de noticias
-  (por defecto, las primeras 2 de la lista) antes de empezar el
+  (por defecto, las primeras 3 de la lista) antes de empezar el
   slideshow de fondos.
-- Después, **cada 15 minutos** se dispara otro bloque de 2 noticias
+- Después, **cada 15 minutos** se dispara otro bloque de 3 noticias
   (retomando la rotación donde quedó la vez anterior), pausando el
   slideshow de fondos mientras dura y retomándolo solo al terminar.
   Cada noticia del bloque queda **30 segundos** en pantalla.

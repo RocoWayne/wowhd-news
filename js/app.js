@@ -575,6 +575,7 @@ function makeLayer(id) {
 }
 
 const bgLayers = [makeLayer("bgLayerA"), makeLayer("bgLayerB")];
+const bgCreditEl = document.getElementById("bgCredit");
 let activeLayerIndex = 0;
 const BG_CROSSFADE_MS = 1100; // debe coincidir con la transition de .bg-layer en CSS
 
@@ -608,11 +609,13 @@ function isExternalUrl(fileOrUrl) {
 }
 
 // backgrounds/external.json (opcional): fondos alojados afuera del repo
-// (GitHub Releases, Drive, Cloudflare R2, etc.), para no subir videos
-// pesados a git. Cada entrada es una URL completa, o
-// { "url": "...", "type": "video" } cuando la URL no termina en una
-// extension reconocible (ej. un link de descarga de Google Drive) y
-// hace falta indicar el tipo a mano.
+// (GitHub Releases, Drive, Cloudflare R2, bancos de imagenes gratuitos
+// traidos por keyword, etc.), para no subir videos pesados a git. Cada
+// entrada es una URL completa, o { "url": "...", "type": "video" }
+// cuando la URL no termina en una extension reconocible (ej. un link
+// de descarga de Google Drive) y hace falta indicar el tipo a mano.
+// El campo opcional "credit" (ej. "Foto: Fulano / Pexels") se muestra
+// discreto en pantalla mientras ese fondo esta activo.
 async function loadExternalBackgrounds() {
   try {
     const res = await fetch(CONFIG.backgroundsExternalUrl + "?t=" + Date.now());
@@ -622,10 +625,14 @@ async function loadExternalBackgrounds() {
     return list
       .map((entry) => {
         if (typeof entry === "string") {
-          return { file: entry, type: backgroundType(entry) };
+          return { file: entry, type: backgroundType(entry), credit: "" };
         }
         if (entry && entry.url) {
-          return { file: entry.url, type: entry.type || backgroundType(entry.url) };
+          return {
+            file: entry.url,
+            type: entry.type || backgroundType(entry.url),
+            credit: entry.credit || "",
+          };
         }
         return null;
       })
@@ -672,7 +679,7 @@ async function loadBackgrounds() {
   }
 
   const localItems = files
-    .map((file) => ({ file, type: backgroundType(file) }))
+    .map((file) => ({ file, type: backgroundType(file), credit: "" }))
     .filter((item) => item.type !== null);
 
   const externalItems = await loadExternalBackgrounds();
@@ -736,6 +743,7 @@ function crossfadeTo(idleIndex) {
 function showBackground(item) {
   currentBackground = item;
   recordBackgroundImpression(item.file); // para el reporte de impresiones (ver stats.html)
+  bgCreditEl.textContent = item.credit || "";
   const src = isExternalUrl(item.file)
     ? item.file
     : CONFIG.backgroundsDirUrl + encodeURIComponent(item.file);

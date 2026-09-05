@@ -25,10 +25,12 @@ scripts/prune_news.py                    saca de news.json las noticias de mas d
 .github/workflows/prune-news.yml         corre ese script una vez por semana
 backgrounds/            poné acá las publicidades: imagen o video mudo
 backgrounds/playlist.json   lista de fondos locales (se autogenera con el script)
-backgrounds/external.json   fondos alojados afuera del repo (opcional, a mano)
+backgrounds/external.json   fondos alojados afuera del repo (a mano, y/o fotos automáticas de Pexels)
 scripts/generate_playlist.py             escanea /music y actualiza playlist.json
 scripts/generate_backgrounds_playlist.py escanea /backgrounds y actualiza su playlist.json
 .github/workflows/update-playlists.yml   corre esos scripts solo al subir archivos (ver mas abajo)
+scripts/generate_backgrounds_from_keywords.py       busca fotos en Pexels por keyword y actualiza external.json
+.github/workflows/update-backgrounds-keywords.yml   corre ese script una vez por día (ver mas abajo)
 hosting/.htaccess.example      plantilla de usuario/contraseña para hosting público
 HOSTING.md               guía de hosting en WordPress y protección de acceso
 ```
@@ -324,6 +326,47 @@ subir el archivo a `/backgrounds`:
 - Ojo con no usar YouTube para esto: al embeberlo, YouTube puede
   insertar sus propios anuncios sobre el video en cualquier momento,
   lo cual arruinaría el spot pago.
+
+### Fotos automáticas de bancos gratuitos por keyword
+
+Además de las publicidades/sponsors, un GitHub Action busca fotos
+gratis en **Pexels** una vez por día y las agrega solo a
+`backgrounds/external.json`, para tener variedad de fondos sin subir
+imágenes a mano. Las keywords están en
+`scripts/generate_backgrounds_from_keywords.py` → `KEYWORDS` (por
+defecto, genéricas de noticias/entretenimiento: "news studio",
+"television broadcast", "entertainment lights", "red carpet event",
+"concert crowd" — se pueden cambiar libremente).
+
+- **Configuración única**: hace falta una API key gratuita de
+  [pexels.com/api](https://www.pexels.com/api/), cargada como secret
+  del repositorio en **Settings → Secrets and variables → Actions →
+  New repository secret**, con el nombre `PEXELS_API_KEY`. Sin este
+  secret, el workflow corre pero no hace nada (no rompe ni vacía
+  `external.json`).
+- Estas fotos se agregan **sin pisar** las entradas cargadas a mano en
+  `external.json` (ej. un video de sponsor): se marcan internamente
+  con `"source": "pexels-auto"`, y en cada corrida solo se regenera ese
+  grupo, dejando el resto tal cual.
+- Cada foto trae su **crédito de atribución** (`"credit": "Foto:
+  Fotógrafo / Pexels"`), que se muestra como un texto chico y discreto
+  abajo a la derecha de la pantalla mientras esa foto está de fondo
+  (se oculta solo si el fondo actual no tiene `credit` cargado, y
+  queda tapado automáticamente durante los bloques de noticias). El
+  mismo campo `credit` funciona para cualquier entrada de
+  `external.json`, no solo para las de Pexels — se puede usar igual en
+  una entrada cargada a mano.
+- Si alguna keyword puntual falla (o Pexels no devuelve resultados
+  para ella), se la saltea sin afectar a las demás; solo si **todas**
+  fallan a la vez se deja `external.json` como estaba.
+- Para forzar una actualización sin esperar al día siguiente, andá a
+  la pestaña **Actions** del repo → "Actualizar fondos desde Pexels
+  por keywords" → **Run workflow**.
+- Se puede correr a mano con
+  `PEXELS_API_KEY=tu-key python3 scripts/generate_backgrounds_from_keywords.py`.
+- La cantidad de fotos por keyword (`IMAGES_PER_KEYWORD`) y el
+  intervalo (diario, en `.github/workflows/update-backgrounds-keywords.yml`
+  → línea `cron`) se pueden ajustar.
 
 ### Contar impresiones (para reportarle a un sponsor)
 

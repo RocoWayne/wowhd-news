@@ -10,7 +10,6 @@
   --card-bg:rgba(38,7,24,0.74);
   --card-border:rgba(255,255,255,0.08);
   --news-flat-bg:#9C1458;     /* color plano de fondo para la pantalla de noticias */
-  --birthday-flat-bg:#E6007E; /* color plano de fondo para la pantalla de cumpleaños (distinto al de noticias) */
 }
 
 *{box-sizing:border-box;}
@@ -90,8 +89,6 @@ html,body{
   box-shadow:0 0 10px 2px var(--accent);
   animation:pulse 1.6s ease-in-out infinite;
 }
-.brand-name{color:var(--text);}
-.brand-sep{color:var(--text-dim);}
 .brand-live{color:var(--accent-3); font-size:13px;}
 
 @keyframes pulse{
@@ -234,11 +231,6 @@ body.ticker-visible .player{
   opacity:1;
   visibility:visible;
   transition:opacity .7s ease, visibility 0s linear 0s;
-}
-/* Pantalla de cumpleaños: mismo layout que .news-screen (misma clase),
-   solo cambia el color de fondo para diferenciarla a simple vista. */
-.birthday-screen{
-  background:var(--birthday-flat-bg);
 }
 .news-tag{
   flex-shrink:0;

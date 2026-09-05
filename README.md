@@ -17,8 +17,7 @@ stats.html              panel para ver/exportar las impresiones de publicidad
 music/                 poné acá tus archivos de audio (mp3, m4a, ogg, wav, flac)
 music/playlist.json     lista de canciones (se autogenera con el script)
 news/news.json          noticias cargadas a mano
-news/rss.json           noticias auto-generadas desde el RSS de laubfal.com
-news/birthdays/01.json..12.json   efemérides (cumpleaños) por mes, a mano
+news/rss.json           noticias auto-generadas desde el RSS del sitio
 news/images/            imágenes locales de noticias (opcional)
 scripts/generate_news_from_rss.py        lee el RSS y actualiza news/rss.json
 .github/workflows/update-news-rss.yml    corre ese script cada 4 horas (ver mas abajo)
@@ -235,47 +234,6 @@ borra.
   `PRUNE_AFTER_DAYS`. El intervalo (semanal) en
   `.github/workflows/prune-news.yml` (línea `cron`).
 
-### Efemérides ("Hoy cumple años...")
-
-Los cumpleaños tienen **su propia pantalla y su propio horario**,
-separados de las noticias (no se mezclan en esa rotación): mismo
-mecanismo de pantalla completa, pero con **fondo de otro color**
-(`--birthday-flat-bg` en `css/style.css`, magenta más brillante que
-el burdeos de las noticias) y sin fila de QR (no hay nota que leer).
-Se cargan en `news/birthdays/`, **un archivo por mes** (`01.json` a
-`12.json`, enero a diciembre):
-
-```json
-[
-  { "day": 15, "name": "Nombre Apellido", "photo": "https://ejemplo.com/foto.jpg" },
-  { "day": 22, "name": "Otra Persona" }
-]
-```
-
-- **`day`**: el día del mes (número, sin ceros a la izquierda).
-- **`name`**: se arma solo el texto "¡Feliz cumpleaños, `name`!".
-- **`photo`** (opcional): si no la tenés, se muestra sin foto (no
-  hace falta borrar el campo, alcanza con omitirlo).
-- La página lee **solo el archivo del mes actual** y se queda con los
-  que coincidan con el día de hoy — no hace falta ninguna lógica de
-  medianoche: al pasar la fecha, el chequeo siguiente ya toma el día
-  nuevo solo.
-- **Frecuencia**: se chequea a los 5 minutos de abrir la página, y
-  después **como mínimo cada 1 hora**. Si ese día no hay ningún
-  cumpleaños cargado, no se muestra nada (no tiene sentido repetir
-  cuando hay pocos). Si el chequeo coincide justo con un bloque de
-  noticias en curso, no espera a la próxima hora entera: reintenta a
-  los 2 minutos para igual garantizar el mínimo de una vez por hora.
-  Se ajusta en `js/app.js` → `CONFIG` → `birthdayIntervalMs`
-  (frecuencia), `birthdayFirstDelayMs` (primer chequeo) y
-  `birthdayDisplayMs` (cuánto quedan visibles).
-- **Importante sobre las fechas**: no cargues cumpleaños "a ojo" — una
-  fecha de nacimiento incorrecta de una persona real, mostrada en
-  vivo, es un error real. Cargalos verificados, igual que hacés con
-  las noticias.
-- El tag ("CUMPLEAÑOS") se ajusta en `js/app.js` → `CONFIG` →
-  `birthdaysCategory`.
-
 ## 3. Cargar publicidades de fondo
 
 Copiá las imágenes y/o videos a la carpeta `backgrounds/` y subilos al
@@ -386,7 +344,7 @@ en pantalla** — se oculta sola apenas arranca un bloque, y vuelve a
 aparecer al terminar (el reproductor de música sube un poco para no
 quedar tapado por la franja).
 
-- El texto usa `@laubfal` como usuario provisorio en las tres redes,
+- El texto usa `@tunombre` como usuario provisorio en las tres redes,
   a confirmar. Para actualizarlo (o poner un usuario distinto por
   red), editá el texto de cada `<span>Seguinos en ...</span>` en
   `index.html` — hay **dos bloques idénticos** (el ticker se arma

@@ -1,16 +1,15 @@
 # wowhd-news
 
 Fuente de navegador (Browser Source) para OBS: transmisión 24/7 de un
-sitio de noticias/entretenimiento (branding actual: "Laura Ubfal"). Es
-una app **100% estática** (HTML/CSS/JS vanilla, sin build ni framework)
-pensada para correr como página cargada en OBS, con contenido editable
-vía archivos JSON en el propio repo y automatización por GitHub
-Actions.
+sitio de noticias/entretenimiento. Es una app **100% estática**
+(HTML/CSS/JS vanilla, sin build ni framework) pensada para correr como
+página cargada en OBS, con contenido editable vía archivos JSON en el
+propio repo y automatización por GitHub Actions.
 
 Este archivo documenta la arquitectura para trabajar en el código. Para
 la guía de uso/edición de contenido (cómo cargar música, noticias,
-cumpleaños, publicidades) ver `README.md`; para hosting propio y
-protección con contraseña, `HOSTING.md`.
+publicidades) ver `README.md`; para hosting propio y protección con
+contraseña, `HOSTING.md`.
 
 ## Estructura de alto nivel
 
@@ -21,7 +20,7 @@ css/style.css        todos los estilos (variables de color en :root)
 js/app.js            toda la lógica de la app (~800 líneas, sin módulos)
 js/impressions.js    registro de impresiones de fondos en localStorage
 music/, backgrounds/ assets subidos por el usuario + su playlist.json generado
-news/                contenido editorial (news.json, rss.json, birthdays/*.json)
+news/                contenido editorial (news.json, rss.json)
 scripts/*.py         generadores/mantenimiento de los .json de arriba
 .github/workflows/   automatizan cuándo correr esos scripts
 hosting/             plantilla .htaccess para Basic Auth en hosting propio
@@ -50,10 +49,6 @@ secciones comentadas dentro del archivo:
   (auto-generado) y las muestra en bloques a pantalla completa
   (rotación temporizada, ver `CONFIG.newsIntervalMs` etc.), generando
   un QR client-side (via `api.qrserver.com`) para el link de cada nota.
-- **Cumpleaños**: lee solo `news/birthdays/<mes-actual>.json`, chequea
-  contra el día de hoy, corre en su propio timer independiente del de
-  noticias, comparte el layout CSS (`.news-screen`) pero con su propio
-  color de fondo.
 - **Fondos/publicidades**: escanea `backgrounds/` (PHP, autoindex, o
   `playlist.json`) + `backgrounds/external.json` (URLs externas), rota
   imágenes/videos con crossfade entre dos capas (`#bgLayerA`/`B`),
@@ -61,7 +56,7 @@ secciones comentadas dentro del archivo:
   `impressions.js`) cada vez que un fondo entra en pantalla.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
   simples que muestran/ocultan elementos del DOM, coordinados para no
-  superponerse con los bloques de noticias/cumpleaños.
+  superponerse con los bloques de noticias.
 - **Resiliencia**: todos los `fetch()` de refresco están pensados para
   fallar en silencio y reintentar en el próximo ciclo (no hay caída
   dura de la página si un JSON o archivo puntual falla) — ver la
@@ -81,9 +76,8 @@ mano y/o un `.json` autogenerado**, que `app.js` relee por polling
 |---|---|---|---|
 | Música | `music/playlist.json` (metadata override) | `scripts/generate_playlist.py` escaneando `music/` | GitHub Action al hacer push a `music/**` |
 | Fondos | `backgrounds/external.json` (URLs externas) | `scripts/generate_backgrounds_playlist.py` escaneando `backgrounds/` | GitHub Action al hacer push a `backgrounds/**` |
-| Noticias | `news/news.json` | `scripts/generate_news_from_rss.py` → `news/rss.json`, leyendo `https://laubfal.com/feed/` | GitHub Action con cron cada 4h (+ manual) |
+| Noticias | `news/news.json` | `scripts/generate_news_from_rss.py` → `news/rss.json`, leyendo el feed RSS configurado | GitHub Action con cron cada 4h (+ manual) |
 | Noticias (limpieza) | — | `scripts/prune_news.py` borra de `news.json` lo de +30 días | GitHub Action con cron semanal |
-| Cumpleaños | `news/birthdays/01.json`..`12.json` | — (100% manual) | — |
 
 Los tres workflows en `.github/workflows/` (`update-playlists.yml`,
 `update-news-rss.yml`, `prune-news.yml`) siguen el mismo patrón: corren
@@ -108,8 +102,8 @@ tiene `actions/checkout` + Python del runner, sin `pip install`).
 - `generate_playlist.py`: escanea `music/`, arma/actualiza `playlist.json`
   preservando overrides manuales de `title`/`artist`.
 - `generate_backgrounds_playlist.py`: mismo patrón para `backgrounds/`.
-- `generate_news_from_rss.py`: parsea el feed RSS de `laubfal.com`,
-  no pisa `news.json` si el feed falla o viene mal formado.
+- `generate_news_from_rss.py`: parsea el feed RSS configurado, no pisa
+  `news.json` si el feed falla o viene mal formado.
 - `prune_news.py`: borra de `news.json` (no de `rss.json`, que no
   necesita poda porque el RSS ya trae solo notas recientes) lo más
   viejo que `PRUNE_AFTER_DAYS` (30).

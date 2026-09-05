@@ -59,6 +59,10 @@
        esta activa (fondo de color plano, pensada para verse bien en
        un TV). Titulo + imagen + QR grande para escanear. -->
   <section class="news-screen" id="newsScreen">
+    <!-- Barra de progreso por noticia dentro de la tanda actual (estilo
+         "historias" de Instagram) - se arma dinamicamente en js/app.js
+         segun cuantas noticias tenga el bloque en curso. -->
+    <div class="news-progress" id="newsProgress"></div>
     <div class="news-tag" id="newsTag">NOTICIA</div>
     <img id="newsImage" class="news-image" src="" alt="">
     <div class="news-text" id="newsText"></div>

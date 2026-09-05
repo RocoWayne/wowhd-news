@@ -200,6 +200,12 @@ el reloj y el reproductor de música siguen visibles arriba de todo.
   (retomando la rotación donde quedó la vez anterior), pausando el
   slideshow de fondos mientras dura y retomándolo solo al terminar.
   Cada noticia del bloque queda **30 segundos** en pantalla.
+- Arriba del título se ve una **barra de progreso por noticia**
+  (estilo "historias" de Instagram): una barrita por cada noticia de
+  la tanda actual, que se va llenando en tiempo real mientras esa
+  noticia está en pantalla, para que se note cuánto falta para la
+  siguiente. Las anteriores quedan llenas y las que vienen después
+  quedan vacías.
 - Todo esto se ajusta en `js/app.js` → `CONFIG`: `newsIntervalMs`
   (cada cuánto se dispara un bloque), `newsItemsPerBlock` (cuántas
   noticias seguidas por bloque) y `newsDisplayMs` (cuánto dura cada

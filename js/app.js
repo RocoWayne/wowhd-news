@@ -407,10 +407,46 @@ setInterval(tickClock, 15000);
 // carga la pagina, y despues se repite cada CONFIG.newsIntervalMs.
 
 const newsScreen = document.getElementById("newsScreen");
+const newsProgress = document.getElementById("newsProgress");
 const newsTag = document.getElementById("newsTag");
 const newsImage = document.getElementById("newsImage");
 const newsText = document.getElementById("newsText");
 const newsQr = document.getElementById("newsQr");
+
+// Arma las barras de progreso (una por noticia de la tanda actual).
+function buildNewsProgress(count) {
+  newsProgress.innerHTML = "";
+  for (let i = 0; i < count; i++) {
+    const seg = document.createElement("div");
+    seg.className = "news-progress-seg";
+    const fill = document.createElement("div");
+    fill.className = "news-progress-fill";
+    seg.appendChild(fill);
+    newsProgress.appendChild(seg);
+  }
+}
+
+// Marca las barras anteriores a "index" como llenas, deja las
+// siguientes vacias, y anima la de "index" de 0% a 100% a lo largo de
+// durationMs (mismo tiempo que la noticia queda visible).
+function fillNewsProgress(index, durationMs) {
+  const fills = newsProgress.querySelectorAll(".news-progress-fill");
+  fills.forEach((fill, i) => {
+    if (i < index) {
+      fill.style.transition = "none";
+      fill.style.width = "100%";
+    } else if (i === index) {
+      fill.style.transition = "none";
+      fill.style.width = "0%";
+      void fill.offsetWidth; // fuerza reflow para que el 0% quede registrado antes de animar
+      fill.style.transition = `width ${durationMs}ms linear`;
+      fill.style.width = "100%";
+    } else {
+      fill.style.transition = "none";
+      fill.style.width = "0%";
+    }
+  });
+}
 
 let newsList = [];
 let newsIndex = 0;
@@ -528,9 +564,11 @@ async function runNewsBlock() {
 
   if (newsList && newsList.length > 0) {
     const count = Math.min(CONFIG.newsItemsPerBlock, newsList.length);
+    buildNewsProgress(count);
     for (let i = 0; i < count; i++) {
       const item = newsList[newsIndex % newsList.length];
       newsIndex++;
+      fillNewsProgress(i, CONFIG.newsDisplayMs);
       await showNewsItem(item);
       newsScreen.classList.remove("visible");
       await wait(700); // pausa breve entre una noticia y la siguiente (coincide con la transicion CSS)

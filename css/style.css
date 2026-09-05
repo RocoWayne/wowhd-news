@@ -276,6 +276,30 @@ body.ticker-visible .player{
   visibility:visible;
   transition:opacity .7s ease, visibility 0s linear 0s;
 }
+/* Barra de progreso por noticia (una por cada noticia de la tanda
+   actual), estilo "historias" de Instagram: la de la noticia visible
+   se va llenando durante newsDisplayMs, las anteriores quedan llenas
+   y las siguientes vacias. Se arma/anima desde js/app.js. */
+.news-progress{
+  flex-shrink:0;
+  display:flex;
+  gap:6px;
+  width:100%;
+  max-width:600px;
+}
+.news-progress-seg{
+  flex:1;
+  height:4px;
+  border-radius:4px;
+  background:rgba(255,255,255,0.3);
+  overflow:hidden;
+}
+.news-progress-fill{
+  height:100%;
+  width:0%;
+  background:#fff;
+  border-radius:4px;
+}
 .news-tag{
   flex-shrink:0;
   font-size:18px;

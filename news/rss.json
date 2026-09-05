@@ -1,72 +1,401 @@
 [
   {
-    "date": "2026-09-04",
-    "image": "https://i0.wp.com/media.lacapital.com.ar/p/40aedcde3211989911d769a13987afa7/adjuntos/205/imagenes/028/052/0028052524/642x0/smart/mirtha-legrandjpg.jpg?w=696&ssl=1",
-    "category": "POLEMICA",
-    "text": "Escándalo: Juana Viale no pudo con Rosenfeld y Marcovecchio",
-    "link": "https://laubfal.com/escandalo-juana-viale-no-pudo-con-rosenfeld-y-marcovecchio/"
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/a8f031de-a937-11f1-8f4d-005056a97e36/w:1024/p:16x9/FOTO-PORTADA-NEPAL-RESCATE-CHINO.jpg",
+    "category": "Asia-Pacífico",
+    "text": "Dos nuevos rescates alientan a seguir las tareas de búsqueda, diez días después de la riada en Nepal",
+    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260905-dos-nuevos-rescates-alientan-a-seguir-las-tareas-de-b%C3%BAsqueda-diez-d%C3%ADas-despu%C3%A9s-de-la-riada-en-nepal"
   },
   {
-    "date": "2026-09-04",
-    "image": "https://ci3.googleusercontent.com/meips/ADKq_NbvCPZguJv-GMmr_Pl5Xk-9apemj6hPqhtyKlC7EY5cjmhs72BBdfxuxEgSV8IG-nvcLUkTE4qrH9H0jvaR09NXjjXX02wtjtzEs2rCwCgRiRlAfEmG2Q=s0-d-e1-ft#https://cdn.pemsv11.net/1788542918665-FullSizeRender%202.JPG.jpeg",
-    "category": "PERSONAJES",
-    "text": "Angela Leiva entre los grandes",
-    "link": "https://laubfal.com/angela-leiva-entre-los-grandes/"
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/47cd4282-a939-11f1-be3b-005056bf30b7/w:1024/p:16x9/ES-20260905-084005-084225-CS.jpg",
+    "category": null,
+    "text": "Crisis en sistema judicial de Brasil: Lula pide transparencia en investigaciones",
+    "link": "https://www.france24.com/es/video/20260905-crisis-en-sistema-judicial-de-brasil-lula-pide-transparencia-en-investigaciones"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/6705284c-83da-11f1-8e2e-005056a97e36/w:1024/p:16x9/2026-07-19T232624Z-1353929316-UP1EM7J1T3YP5-RTRMADP-3-SOCCER-WORLDCUP-ESP-ARG.jpg",
+    "category": "Deportes",
+    "text": "La visita de Luis de la Fuente a Ceuta provoca críticas en Marruecos por su supuesto trasfondo político",
+    "link": "https://www.france24.com/es/deportes/20260905-la-visita-de-luis-de-la-fuente-a-ceuta-provoca-cr%C3%ADticas-en-marruecos-por-su-supuesto-trasfondo-pol%C3%ADtico"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/065014be-a935-11f1-867a-005056bfb2b6/w:1024/p:16x9/ES-20260905-073655-073845-CS.jpg",
+    "category": null,
+    "text": "Bangladesh: hospitales saturados por epidemia de sarampión que ha afectado principalmente a niños",
+    "link": "https://www.france24.com/es/video/20260905-bangladesh-hospitales-saturados-por-epidemia-de-sarampi%C3%B3n-que-ha-afectado-principalmente-a-ni%C3%B1os"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/301b75b0-a933-11f1-b846-005056a90284/w:1024/p:16x9/ES-20260905-073400-073623-CS.jpg",
+    "category": null,
+    "text": "Desde el terreno: las difíciles condiciones para llevar ayuda a sobrevivientes de la riada en Nepal",
+    "link": "https://www.france24.com/es/video/20260905-desde-el-terreno-las-dif%C3%ADciles-condiciones-para-llevar-ayuda-a-sobrevivientes-de-la-riada-en-nepal"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/ccb7efd2-69ed-11f1-9dc7-005056bf30b7/w:1024/p:16x9/AP080423049719.jpg",
+    "category": "América Latina",
+    "text": "Efecto Ormuz: la gasolina marca un récord histórico en Estados Unidos",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260905-efecto-ormuz-la-gasolina-marca-un-r%C3%A9cord-hist%C3%B3rico-en-estados-unidos"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/af96e922-a8c6-11f1-aac9-005056a90284/w:1024/p:16x9/5adc663ff0ec4912d7ac1f33ab3c44505aa9c78a.jpg",
+    "category": "Europa",
+    "text": "Enviados de Trump llegan a Moscú para intentar desbloquear las negociaciones entre Rusia y Ucrania",
+    "link": "https://www.france24.com/es/europa/20260905-enviados-de-trump-llegan-a-mosc%C3%BA-para-intentar-desbloquear-las-negociaciones-entre-rusia-y-ucrania"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "¿Qué le espera a Lindsay Clancy después de la nulidad del juicio por la muerte de sus hijos?",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260905-qu%C3%A9-le-espera-a-lindsay-clancy-despu%C3%A9s-de-la-nulidad-del-juicio-por-la-muerte-de-sus-hijos"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/294294ac-a8cb-11f1-bde0-005056a97e36/w:1024/p:16x9/ES-20260904-201158-201348-CS.jpg",
+    "category": null,
+    "text": "Parque de Dragon Ball en París en duda por no tener licencia oficial de los personajes",
+    "link": "https://www.france24.com/es/video/20260905-parque-de-dragon-ball-en-par%C3%ADs-en-duda-por-no-tener-licencia-oficial-de-los-personajes"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/4e7b3dc8-a8cb-11f1-85cf-005056a90284/w:1024/p:16x9/FORMATO-1-38.png",
+    "category": null,
+    "text": "Islas Malvinas: Milei atiza el debate sobre la soberanía del archipiélago",
+    "link": "https://www.france24.com/es/video/20260905-islas-malvinas-milei-atiza-el-debate-sobre-la-soberan%C3%ADa-del-archipi%C3%A9lago"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/32c6426c-a8bc-11f1-99d9-005056a90284/w:1024/p:16x9/MBAPPE-REAL-MADRID-BETIS.jpg",
+    "category": "Deportes",
+    "text": "Jornada adversa para los gigantes de Europa: Real Madrid y PSG sufren sus primeras derrotas en liga",
+    "link": "https://www.france24.com/es/deportes/20260905-real-madrid-psg-sufren-primeras-derrotas-liga"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
+    "link": "https://www.bbc.com/mundo/articles/c62j8j6lvy7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Estados Unidos ataca tres petroleros iraníes tras afirmar que sus buques de guerra habían sido objeto de un ataque",
+    "link": "https://www.bbc.com/mundo/articles/cwyzwxeqpq5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis",
+    "link": "https://www.bbc.com/mundo/articles/cx2zv86p1ryo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Cómo el juicio por asesinato de Lindsay Clancy ha dividido a EE.UU. sobre si es víctima de psicosis posparto o una criminal que mató a sus 3 hijos",
+    "link": "https://www.bbc.com/mundo/articles/c98094mlydvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Las preguntas que me hice tras estar a punto de morir sin darme cuenta un sábado cualquiera en mi propia casa",
+    "link": "https://www.bbc.com/mundo/articles/c4gd508v84jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Una doble explosión en un cuartel militar de Bolivia deja al menos 2 muertos y 81 heridos",
+    "link": "https://www.bbc.com/mundo/articles/c78076w3jeyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "La mina de turquesa donde nació nuestro alfabeto (y cuáles fueron las primeras palabras que encontraron)",
+    "link": "https://www.bbc.com/mundo/articles/cr4kxkp7ke6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
+    "link": "https://www.bbc.com/mundo/articles/c3327vepzv3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/2RQNBZCJ2FFT5ILEBCODELAAJY.jpg?auth=51f3971ea4074aea3e0159edae706ab639d4c4e5f620c50a759ebb0f9f483080",
+    "category": "Alemania",
+    "text": "En este pueblo ganó AfD su primer alcalde de Alemania y desde entonces no para de crecer",
+    "link": "https://elpais.com/internacional/2026-09-05/en-este-pueblo-gano-afd-su-primer-alcalde-de-alemania-y-desde-entonces-no-para-de-crecer.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260905/1211315_151948_video_1800.mp4",
+    "category": "Irán",
+    "text": "Estados Unidos bombardea tres petroleros iraníes, uno de ellos cerca de la estratégica isla de Jarg, en respuesta a ataques de Teherán",
+    "link": "https://elpais.com/internacional/2026-09-05/varias-explosiones-cerca-de-la-isla-de-jarg-principal-terminal-del-crudo-de-teheran-y-blanco-de-las-amenazas-de-trump.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/EQM5RKMWLZJYXLHKIF2XODQLEA.jpg?auth=a812405e2ff907b0d4b9def17cad5fa1349dbf2b578b27f765df465f77e78dfd",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Putin y Zelenski ordenan detener los ataques hasta el lunes por la visita de los enviados de Trump",
+    "link": "https://elpais.com/internacional/2026-09-05/los-negociadores-de-trump-llegan-a-moscu-para-intentar-reimpulsar-las-negociaciones-de-paz.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/3DC67VIAIRJE7NBN54E3OLU6XQ.jpg?auth=6784a6ae6c9fa69963f8a6eb591512473147c17e577a46c8f37f528445e423bf",
+    "category": "Italia",
+    "text": "Bienvenidos al “patriarcado mediterráneo”: el exgeneral Vannacci pone en jaque a la derecha italiana",
+    "link": "https://elpais.com/internacional/2026-09-05/bienvenidos-al-patriarcado-mediterraneo-el-exgeneral-vannacci-pone-en-jaque-a-la-derecha-italiana.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/TM75PQ6HSBH67ALY2IFXGZOPSQ.JPG?auth=0bf9b2ca05b01dc3629f465cd812016fc70dcd0d640b2b66004ca63eb75bbc25",
+    "category": "Ataque Estados Unidos a Venezuela",
+    "text": "La eterna espera de los damnificados en Venezuela que viven en refugios y albergues desde hace más de 15 años",
+    "link": "https://elpais.com/america/2026-09-05/la-eterna-espera-de-los-damnificados-en-venezuela-que-viven-en-refugios-y-albergues-desde-hace-mas-de-15-anos.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/QY2TZ3GTKVLQDG2ZBBAC4P7MOM.jpg?auth=744de93e76e361a33ae4c0fc1dd5b5b53fbb3697de7b48ac0ce003e1b74a526c",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Rusia usa arrestos y coacciones para lograr mandar más reclutas al frente con Ucrania",
+    "link": "https://elpais.com/internacional/2026-09-05/rusia-usa-arrestos-y-coacciones-para-lograr-mandar-mas-reclutas-en-el-frente-con-ucrania.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/J6QZ4GMZEVH6XFNJIG7FUKSVMM.jpg?auth=520d2f77dec0ac1de3c1471a890e784d10e5b01b7e7afd817097c50fa35857ad",
+    "category": "Corresponsales",
+    "text": "Un foso lleno de cocodrilos para una cárcel israelí",
+    "link": "https://elpais.com/internacional/historias-de-corresponsal/2026-09-05/un-foso-lleno-de-cocodrilos-para-una-carcel-israeli.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Rusia golpea una planta de fabricación de municiones cerca de Kiev",
+    "link": "https://actualidad.rt.com/actualidad/626112-rusia-golpea-planta-fabricacion-municiones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c2d87e9ff71147429d8d2.jpg",
+    "category": null,
+    "text": "VIDEO: Una anciana entra a una comisaría, abre fuego y luego es abatida por la Policía",
+    "link": "https://actualidad.rt.com/actualidad/626100-video-anciana-entra-comisaria-abre-fuego?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c2cc3e9ff714e6f1f42b7.jpg",
+    "category": null,
+    "text": "EE.UU. emite una alerta para sus ciudadanos en un país de Oriente Medio",
+    "link": "https://actualidad.rt.com/actualidad/626103-eeuu-emite-alerta-ciudadanos-pais?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9a7eb659bf5b638f18accb.jpg",
+    "category": null,
+    "text": "INFOGRAFÍA: Europa acumula un déficit comercial gigantesco con China",
+    "link": "https://actualidad.rt.com/actualidad/625793-alarma-ue-europa-acumular-deficit?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9bf24659bf5b1ddb21d1cd.png",
+    "category": null,
+    "text": "Secuestra a su expareja y la lanza desde un puente antes de quitarse la vida",
+    "link": "https://actualidad.rt.com/actualidad/626074-secuestrar-expareja-lanzar-puente-suicidarse?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c17d3e9ff71147429d8bb.jpg",
+    "category": null,
+    "text": "Sobornos y lavado millonario: destapan el complot entre 'call centers' y lo más alto del poder de Ucrania",
+    "link": "https://actualidad.rt.com/actualidad/626091-ucrania-sobornos-lavado-millonario-complot?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c0a8be9ff712e9227fc1d.jpg",
+    "category": null,
+    "text": "Níger acusa a Macron de orquestar una rebelión en el país y agradece a Rusia su ayuda",
+    "link": "https://actualidad.rt.com/actualidad/626087-niger-agradece-rusia-aliados-africanos-rebelion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c228ce9ff71286101545b.jpg",
+    "category": null,
+    "text": "VIDEO: Ferrari fuera de control impacta a toda velocidad y termina destrozado",
+    "link": "https://actualidad.rt.com/viral/626097-ferrari-fuera-control-impacta?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c12d559bf5b1a1e40e323.jpg",
+    "category": null,
+    "text": "VIDEO: Encapuchados bloquean el tráfico en protesta contra la inmigración irregular en el Reino Unido",
+    "link": "https://actualidad.rt.com/actualidad/626089-encapuchados-bloquean-trafico-protesta?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c006de9ff7120b11da5e4.jpg",
+    "category": null,
+    "text": "Nuevas observaciones del James Webb podrían resolver un viejo enigma cósmico",
+    "link": "https://actualidad.rt.com/actualidad/626070-nuevas-observaciones-james-webb-viejo-enigma?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Este es el plan de Trump tras la guerra: 3 ejes para Oriente Medio con Arabia Saudí, Irán y Gaza",
+    "link": "http://es.euronews.com/2026/09/05/este-es-el-plan-de-trump-tras-la-guerra-3-ejes-para-oriente-medio-con-arabia-saudi-iran-y-"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Nepal, dos personas rescatadas con vida 10 días después de las inundaciones",
+    "link": "http://es.euronews.com/2026/09/05/nepal-dos-personas-rescatadas-con-vida-10-dias-despues-de-las-inundaciones"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Belgrado conmemora a Mladić, criminal de guerra serbobosnio, sin honores oficiales",
+    "link": "http://es.euronews.com/2026/09/05/belgrado-conmemora-a-mladic-criminal-de-guerra-serbobosnio-sin-honores-oficiales"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "EE.UU. destruye 3 petroleros iraníes como represalia por los misiles contra Ormuz",
+    "link": "http://es.euronews.com/2026/09/05/medios-iranies-informan-de-ataque-de-eeuu-contra-petrolero-cerca-de-la-isla-de-kharg"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Los ataques nocturnos israelíes en Líbano dejan 3 muertos, según el Ministerio de Sanidad",
+    "link": "http://es.euronews.com/2026/09/05/los-ataques-nocturnos-israelies-en-libano-dejan-3-muertos-segun-el-ministerio-de-sanidad"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Al menos 2 muertos y 81 heridos tras varias explosiones en una base militar de Bolivia",
+    "link": "http://es.euronews.com/2026/09/05/al-menos-2-muertos-y-81-heridos-tras-varias-explosiones-en-una-base-militar-de-bolivia"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Alto el fuego entre Rusia y Ucrania durante la visita de EE.UU. con un plan para \"acabar la guerra\"",
+    "link": "http://es.euronews.com/2026/09/05/los-enviados-de-eeuu-witkoff-y-kushner-visitan-kiev-y-moscu-con-plan-para-acabar-la-guerra"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 05 septiembre 2026 - Mediodía",
+    "link": "http://es.euronews.com/video/2026/09/05/ultimas-noticias-05-septiembre-2026-mediodia"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 05 septiembre 2026 - Mañana",
+    "link": "http://es.euronews.com/video/2026/09/05/ultimas-noticias-05-septiembre-2026-manana"
   },
   {
     "date": "2026-09-04",
     "image": null,
-    "category": "ACTUALIDAD",
-    "text": "Wanda arma su propia novela en “MasterChef Celebrity”",
-    "link": "https://laubfal.com/wanda-arma-su-propia-novela-en-masterchef-celebrity/"
+    "category": null,
+    "text": "¿Qué pasará ahora que un juez declaró nulo el juicio contra Lindsay Clancy, la madre acusada de matar a sus tres hijos en EE.UU.?",
+    "link": "https://www.bbc.com/mundo/articles/cy4z89zr77zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-04",
     "image": null,
-    "category": "POLEMICA",
-    "text": "Susana Gimenez y Andrea del Boca le ganaron a Biasotti",
-    "link": "https://laubfal.com/susana-gimenez-y-andrea-del-boca-le-ganaron-a-biasotti/"
+    "category": null,
+    "text": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
+    "link": "https://www.bbc.com/mundo/articles/cwyzqr7v4n4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-04",
-    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f92f.png",
-    "category": "ACTUALIDAD",
-    "text": "Intervinieron quirúrgicamente a Alejandro Stoessel",
-    "link": "https://laubfal.com/intervinieron-quirurgicamente-a-alejandro-stoessel/"
-  },
-  {
-    "date": "2026-09-03",
-    "image": "https://i0.wp.com/images.produ.com/wp-content/uploads/2026/09/02172316/bigwp-AngelDeBritoEnBondi.jpg?resize=696%2C436&ssl=1",
-    "category": "PERSONAJES",
-    "text": "Mariano Chihade: “Bondi engordó a Mandarina”",
-    "link": "https://laubfal.com/mariano-chihade-bondi-engordo-a-mandarina/"
-  },
-  {
-    "date": "2026-09-03",
     "image": null,
-    "category": "ACTUALIDAD",
-    "text": "Moria Casan habló de Rial: “es un gallego jodido y me pidió muchos favores”",
-    "link": "https://laubfal.com/moria-casan-hablo-de-rial-es-un-gallego-jodido-y-me-pidio-muchos-favores/"
+    "category": null,
+    "text": "Documental BBC: cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
+    "link": "https://www.bbc.com/mundo/articles/cy7z03yyjp2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "image": null,
-    "category": "PERSONAJES",
-    "text": "Karina Mazzocco vuelve a la tele",
-    "link": "https://laubfal.com/karina-mazzocco-vuelve-a-la-tele/"
+    "category": null,
+    "text": "\"Colombia tiene una paranoia tras perder Panamá en 1903 que la ha llevado al aislacionismo en el Caribe, donde podría ser un motor\"",
+    "link": "https://www.bbc.com/mundo/articles/cvg73rn45gxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "date": "2026-09-03",
-    "image": "https://pbs.twimg.com/media/HRP3t8dbIAApyTb?format=jpg&name=small",
-    "category": "ACTUALIDAD",
-    "text": "En la noche del regreso de Tini, Emilia indignada",
-    "link": "https://laubfal.com/en-la-noche-del-regreso-de-tini-emilia-indignada/"
+    "date": "2026-09-04",
+    "image": "https://imagenes.elpais.com/resizer/v2/N5K4ASROXFEAZMK4XXGDYKOLHU.jpg?auth=053fcb2b9c87e2c7cd6ba10fde03326237f315fa559c2de7da071546854b1025",
+    "category": "Estados Unidos",
+    "text": "Trump ha entendido el futuro: los videojuegos y el campo de batalla de la política",
+    "link": "https://elpais.com/internacional/2026-09-04/trump-ha-entendido-el-futuro-los-videojuegos-y-el-campo-de-batalla-de-la-politica.html"
+  },
+  {
+    "date": "2026-09-04",
+    "image": null,
+    "category": null,
+    "text": "De la Espriella vuelve a mostrar cadáveres tras abatir a 4 miembros de un grupo armado",
+    "link": "http://es.euronews.com/2026/09/04/espriella-cadaveres-de-presuntos-narcoterroristas-abatidos"
+  },
+  {
+    "date": "2026-09-04",
+    "image": null,
+    "category": null,
+    "text": "EURONEWS HOY | Las noticias del 4 de septiembre de 2026: Milei reivindica la soberanía sobre las Malvinas",
+    "link": "http://es.euronews.com/2026/09/04/euronews-hoy-las-noticias-del-4-de-septiembre-de-2026-milei-reivindica-la-soberania-sobre-"
+  },
+  {
+    "date": "2026-09-04",
+    "image": null,
+    "category": null,
+    "text": "Serpientes y escorpiones invaden las tiendas de los desplazados en Gaza",
+    "link": "http://es.euronews.com/2026/09/04/serpientes-escorpiones-tiendas-desplazados-gaza"
   },
   {
     "date": "2026-09-02",
-    "image": "https://i0.wp.com/images.mubicdn.net/images/cast_member/52774/cache-222453-1494316640/image-w856.jpg?w=696&ssl=1",
-    "category": "PRIMICIAS",
-    "text": "En secreto (hasta ahora) se graba una serie con Echarri y Rada",
-    "link": "https://laubfal.com/en-secreto-hasta-ahora-se-graba-una-serie-con-echarri-y-rada/"
+    "image": "https://imagenes.elpais.com/resizer/v2/VETXK4GVV5GKZOF4W64PBFW3LY.jpg?auth=8420a5ffd92741274671fd0efc403daf7536df1f56d3ca42afc199245c3cc5f6",
+    "category": "Opinión",
+    "text": "Con las manos manchadas de catástrofe",
+    "link": "https://elpais.com/opinion/2026-09-02/con-las-manos-manchadas-de-catastrofe.html"
+  },
+  {
+    "date": "2026-08-31",
+    "image": "https://imagenes.elpais.com/resizer/v2/WGI3EGAB5RN27MF5TBYQTAJGZA.jpg?auth=8eb8429eec5de307f51e4b51dd1460fcc57ab4cdfbb153d7f134f38dd2f3ee29",
+    "category": "Islandia",
+    "text": "Portazo en Reikiavik, oportunidad perdida en Bruselas",
+    "link": "https://elpais.com/internacional/2026-08-31/portazo-en-reikiavik-oportunidad-perdida-en-bruselas.html"
+  },
+  {
+    "date": "2026-08-31",
+    "image": "https://imagenes.elpais.com/resizer/v2/7IJC7NEZHFNKTGZGAFJ54HMEHE.jpg?auth=e567af3374ff593f23b568089fac99fc28849ec96e970f15b716e651546a0d3d",
+    "category": "Balcanes",
+    "text": "El legado de odio de Mladic",
+    "link": "https://elpais.com/internacional/2026-08-31/el-legado-de-odio-de-mladic.html"
+  },
+  {
+    "date": "2026-08-30",
+    "image": "https://imagenes.elpais.com/resizer/v2/AQO2ZTSSJRFMJNASN5W267DNHY.jpg?auth=638598630741b9c1f3fedfc13d24441dae478233663769b1e66eb00d82cbd997",
+    "category": "Oriente Próximo",
+    "text": "Fin de época en Oriente Próximo",
+    "link": "https://elpais.com/internacional/2026-08-30/fin-de-epoca-en-oriente-proximo.html"
   }
 ]

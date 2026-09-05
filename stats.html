@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estadísticas de publicidad</title>
+<style>
+  :root{
+    --bg-1:#1a0512;
+    --bg-2:#33081f;
+    --accent:#E6007E;
+    --accent-2:#9C1458;
+    --text:#fff2f8;
+    --text-dim:#c9a3b8;
+    --card-bg:rgba(38,7,24,0.9);
+    --card-border:rgba(255,255,255,0.1);
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    min-height:100vh;
+    font-family:'Segoe UI',Arial,Helvetica,sans-serif;
+    color:var(--text);
+    background:linear-gradient(160deg, var(--bg-1), var(--bg-2));
+    padding:32px 24px 80px;
+  }
+  h1{font-size:26px; margin:0 0 4px;}
+  .subtitle{color:var(--text-dim); margin:0 0 28px; font-size:14px;}
+  .card{
+    background:var(--card-bg);
+    border:1px solid var(--card-border);
+    border-radius:16px;
+    padding:22px 24px;
+    margin-bottom:24px;
+    max-width:900px;
+  }
+  .period-line{display:flex; flex-wrap:wrap; align-items:center; gap:16px; margin-bottom:16px;}
+  .period-line strong{color:#fff;}
+  .actions{display:flex; gap:12px; flex-wrap:wrap;}
+  button{
+    background:linear-gradient(90deg, var(--accent-2), var(--accent));
+    color:#fff;
+    border:none;
+    padding:10px 20px;
+    border-radius:999px;
+    font-size:14px;
+    font-weight:700;
+    cursor:pointer;
+  }
+  button.secondary{
+    background:transparent;
+    border:1px solid var(--card-border);
+    color:var(--text);
+  }
+  table{width:100%; border-collapse:collapse; font-size:14px;}
+  th, td{text-align:left; padding:10px 12px; border-bottom:1px solid var(--card-border);}
+  th{color:var(--text-dim); font-weight:600; font-size:12px; letter-spacing:.5px; text-transform:uppercase;}
+  td.num{text-align:right; font-variant-numeric:tabular-nums; font-weight:700;}
+  th.num{text-align:right;}
+  .empty{color:var(--text-dim); font-size:14px; padding:20px 0;}
+  .note{
+    max-width:900px;
+    font-size:13px;
+    color:var(--text-dim);
+    background:rgba(255,255,255,0.04);
+    border:1px solid var(--card-border);
+    border-radius:12px;
+    padding:16px 18px;
+    line-height:1.5;
+  }
+  .history-item{margin-bottom:14px;}
+  .history-item summary{cursor:pointer; font-size:14px; padding:6px 0;}
+  .history-item summary strong{color:#fff;}
+  .badge{
+    display:inline-block;
+    font-size:11px;
+    font-weight:700;
+    letter-spacing:.5px;
+    padding:2px 8px;
+    border-radius:999px;
+    background:rgba(255,255,255,0.08);
+    color:var(--text-dim);
+  }
+</style>
+</head>
+<body>
+
+  <h1>Estadísticas de publicidad — /backgrounds</h1>
+  <p class="subtitle">Cuántas veces se mostró cada spot en la transmisión.</p>
+
+  <div class="card">
+    <div class="period-line">
+      <span>Período actual desde <strong id="periodStart">—</strong></span>
+      <span class="badge" id="totalBadge">0 impresiones</span>
+    </div>
+    <div class="actions">
+      <button id="downloadCsvBtn">Descargar CSV</button>
+      <button class="secondary" id="resetBtn">Reiniciar período</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <table id="currentTable">
+      <thead>
+        <tr>
+          <th>Archivo</th>
+          <th>Tipo</th>
+          <th class="num">Impresiones</th>
+          <th>Última vez mostrado</th>
+        </tr>
+      </thead>
+      <tbody id="currentTableBody"></tbody>
+    </table>
+    <p class="empty" id="emptyMsg" hidden>Todavía no se registró ninguna impresión en este período.</p>
+  </div>
+
+  <div class="card" id="historyCard" hidden>
+    <h2 style="font-size:16px; margin:0 0 12px;">Períodos anteriores</h2>
+    <div id="historyList"></div>
+  </div>
+
+  <p class="note">
+    Este conteo se guarda en el navegador donde corre la transmisión
+    (localStorage). Para verlo o exportarlo, abrí esta página
+    (<code>stats.html</code>) en la <strong>misma PC y perfil de
+    navegador</strong> que tiene la fuente de OBS abierta — o, si OBS
+    corre en otra máquina, en un navegador normal de esa misma PC
+    apuntando a esta URL. Se actualiza solo mientras la dejes abierta.
+  </p>
+
+  <script src="js/impressions.js"></script>
+  <script>
+    const VALID_VIDEO_EXT = [".mp4", ".webm", ".mov", ".m4v"];
+
+    function typeOf(file) {
+      const ext = file.slice(file.lastIndexOf(".")).toLowerCase();
+      return VALID_VIDEO_EXT.includes(ext) ? "Video" : "Imagen";
+    }
+
+    function fmtDate(iso) {
+      if (!iso) return "—";
+      const d = new Date(iso);
+      return d.toLocaleString("es-AR", { dateStyle: "medium", timeStyle: "short" });
+    }
+
+    function csvEscape(value) {
+      const s = String(value);
+      return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+    }
+
+    function buildRows(data) {
+      return Object.keys(data.counts)
+        .map((file) => ({
+          file,
+          type: typeOf(file),
+          count: data.counts[file],
+          lastShown: data.lastShown[file],
+        }))
+        .sort((a, b) => b.count - a.count);
+    }
+
+    function render() {
+      const data = loadImpressionsData() || emptyImpressionsData();
+      const rows = buildRows(data);
+
+      document.getElementById("periodStart").textContent = fmtDate(data.periodStart);
+      const total = rows.reduce((sum, r) => sum + r.count, 0);
+      document.getElementById("totalBadge").textContent =
+        total === 1 ? "1 impresión" : `${total} impresiones`;
+
+      const tbody = document.getElementById("currentTableBody");
+      tbody.innerHTML = "";
+      rows.forEach((r) => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${r.file.replace(/</g, "&lt;")}</td>
+          <td>${r.type}</td>
+          <td class="num">${r.count}</td>
+          <td>${fmtDate(r.lastShown)}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+      document.getElementById("emptyMsg").hidden = rows.length > 0;
+      document.getElementById("currentTable").hidden = rows.length === 0;
+
+      const historyCard = document.getElementById("historyCard");
+      const historyList = document.getElementById("historyList");
+      historyList.innerHTML = "";
+      if (data.history.length > 0) {
+        historyCard.hidden = false;
+        data.history.forEach((period, idx) => {
+          const periodRows = Object.keys(period.counts)
+            .map((file) => ({ file, type: typeOf(file), count: period.counts[file] }))
+            .sort((a, b) => b.count - a.count);
+          const periodTotal = periodRows.reduce((s, r) => s + r.count, 0);
+
+          const details = document.createElement("details");
+          details.className = "history-item";
+          const rowsHtml = periodRows
+            .map((r) => `<tr><td>${r.file.replace(/</g, "&lt;")}</td><td>${r.type}</td><td class="num">${r.count}</td></tr>`)
+            .join("");
+          details.innerHTML = `
+            <summary><strong>${fmtDate(period.periodStart)}</strong> → ${fmtDate(period.periodEnd)} — ${periodTotal} impresiones</summary>
+            <table>
+              <thead><tr><th>Archivo</th><th>Tipo</th><th class="num">Impresiones</th></tr></thead>
+              <tbody>${rowsHtml}</tbody>
+            </table>
+          `;
+          historyList.appendChild(details);
+        });
+      } else {
+        historyCard.hidden = true;
+      }
+
+      return { data, rows };
+    }
+
+    document.getElementById("downloadCsvBtn").addEventListener("click", () => {
+      const { rows } = render();
+      const lines = ["archivo,tipo,impresiones,ultima_vez"];
+      rows.forEach((r) => {
+        lines.push([csvEscape(r.file), r.type, r.count, r.lastShown || ""].join(","));
+      });
+      const blob = new Blob([lines.join("\n")], { type: "text/csv;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      const stamp = new Date().toISOString().slice(0, 10);
+      a.href = url;
+      a.download = `impresiones-publicidad-${stamp}.csv`;
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+
+    document.getElementById("resetBtn").addEventListener("click", () => {
+      const ok = confirm(
+        "¿Reiniciar el período actual?\n\nEl conteo de hoy se guarda en \"Períodos anteriores\" y arranca un contador nuevo en cero."
+      );
+      if (!ok) return;
+      resetImpressionsPeriod();
+      render();
+    });
+
+    render();
+    setInterval(render, 5000);
+    window.addEventListener("storage", (e) => {
+      if (e.key === IMPRESSIONS_KEY) render();
+    });
+  </script>
+</body>
+</html>

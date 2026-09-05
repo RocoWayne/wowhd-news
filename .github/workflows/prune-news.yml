@@ -1,0 +1,38 @@
+name: Limpiar noticias viejas de news.json
+
+# Corre una vez por semana y saca de news/news.json las noticias
+# cargadas a mano que ya superaron PRUNE_AFTER_DAYS (30, ver
+# scripts/prune_news.py) — asi el archivo no crece sin limite con el
+# tiempo. Distinto del filtro de 7 dias que ya aplica la pagina al
+# MOSTRAR noticias: esto borra fisicamente del archivo, con un margen
+# bastante mayor para no tocar nada por error.
+on:
+  schedule:
+    - cron: "0 6 * * 1" # lunes a las 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  prune-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Sacar noticias viejas de news/news.json
+        run: python3 scripts/prune_news.py
+
+      - name: Commitear si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/news.json
+          if git diff --cached --quiet; then
+            echo "Sin noticias viejas para sacar."
+          else
+            git commit -m "Auto-limpiar noticias viejas de news.json"
+            git push origin HEAD:${{ github.ref_name }}
+          fi

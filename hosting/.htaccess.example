@@ -1,0 +1,19 @@
+# Plantilla de proteccion por usuario/contrasena (Basic Auth) para
+# cuando esta carpeta se sube a un hosting con URL publica (ej. una
+# carpeta del hosting de WordPress).
+#
+# Paso a paso completo en HOSTING.md.
+#
+# 1. Generar la contrasena encriptada:
+#      openssl passwd -apr1 "tu-contrasena"
+# 2. Guardar "usuario:hash-generado" en un archivo .htpasswd,
+#    idealmente FUERA de la carpeta publica del sitio.
+# 3. Copiar este archivo como ".htaccess" dentro de la carpeta del
+#    proyecto en el hosting, y ajustar la ruta de AuthUserFile abajo
+#    a donde efectivamente quede el .htpasswd.
+# 4. No hace falta renombrar nada mas: cPanel/Apache lo toma solo.
+
+AuthType Basic
+AuthName "Acceso restringido"
+AuthUserFile /home/TU_USUARIO_DE_HOSTING/.htpasswd
+Require valid-user

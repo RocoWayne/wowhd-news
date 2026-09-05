@@ -1,0 +1,38 @@
+name: Actualizar noticias desde el RSS de laubfal.com
+
+# Nota: el trigger "schedule" de GitHub Actions solo corre sobre la
+# rama por defecto del repo. En este repositorio esa rama por defecto
+# ya es la que tiene este workflow, asi que corre solo cada 4 horas
+# sin pasos extra. Si alguna vez cambia la rama por defecto, confirmar
+# que el schedule la siga usando. Tambien se puede disparar a mano con
+# "Run workflow" en la pestaña Actions (workflow_dispatch, abajo).
+on:
+  schedule:
+    - cron: "0 */4 * * *" # cada 4 horas
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-news-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Generar news/rss.json desde el feed
+        run: python3 scripts/generate_news_from_rss.py
+
+      - name: Commitear si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/rss.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en las noticias del RSS."
+          else
+            git commit -m "Auto-actualizar noticias desde RSS"
+            git push origin HEAD:${{ github.ref_name }}
+          fi

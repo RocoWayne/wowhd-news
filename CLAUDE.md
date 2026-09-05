@@ -56,6 +56,12 @@ secciones comentadas dentro del archivo:
   (auto-generado) y las muestra en bloques a pantalla completa
   (rotación temporizada, ver `CONFIG.newsIntervalMs` etc.), generando
   un QR client-side (via `api.qrserver.com`) para el link de cada nota.
+  `#newsScreen` (con la barra de progreso `#newsProgress`, una por
+  noticia de la tanda) queda visible de corrido durante todo el
+  bloque; entre una noticia y la siguiente solo hace crossfade el
+  contenido de adentro (`#newsContent`), no la pantalla completa, para
+  que la barra de progreso no parpadee (`showNewsItem`/`runNewsBlock`).
+  Al terminar la tanda se muestra un mensaje de cierre (`#newsOutro`).
 - **Fondos/publicidades**: escanea `backgrounds/` (PHP, autoindex, o
   `playlist.json`) + `backgrounds/external.json` (URLs externas —
   sponsors cargados a mano y/o fotos automáticas de Wikimedia Commons

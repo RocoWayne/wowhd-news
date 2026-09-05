@@ -205,7 +205,10 @@ el reloj y el reproductor de música siguen visibles arriba de todo.
   la tanda actual, que se va llenando en tiempo real mientras esa
   noticia está en pantalla, para que se note cuánto falta para la
   siguiente. Las anteriores quedan llenas y las que vienen después
-  quedan vacías.
+  quedan vacías. La barra **persiste sin parpadear** durante toda la
+  tanda: entre una noticia y la siguiente solo hace un crossfade
+  rápido el contenido de abajo (título/imagen/texto/QR), no la
+  pantalla completa (ajustable en `CONFIG.newsContentFadeMs`).
 - Al terminar la tanda, antes de retomar el slideshow de fondos,
   aparece **15 segundos** un mensaje de cierre centrado en pantalla
   ("Estas fueron las noticias más importantes del momento. Seguimos

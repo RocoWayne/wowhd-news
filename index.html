@@ -61,14 +61,18 @@
   <section class="news-screen" id="newsScreen">
     <!-- Barra de progreso por noticia dentro de la tanda actual (estilo
          "historias" de Instagram) - se arma dinamicamente en js/app.js
-         segun cuantas noticias tenga el bloque en curso. -->
+         segun cuantas noticias tenga el bloque en curso. Vive fuera de
+         #newsContent a propósito: no debe parpadear en el crossfade
+         entre una noticia y la siguiente, solo el contenido de abajo. -->
     <div class="news-progress" id="newsProgress"></div>
-    <div class="news-tag" id="newsTag">NOTICIA</div>
-    <img id="newsImage" class="news-image" src="" alt="">
-    <div class="news-text" id="newsText"></div>
-    <div class="news-qr-row">
-      <img id="newsQr" class="news-qr" src="" alt="Código QR">
-      <span class="news-qr-label">Escaneá el código<br>para leer la nota completa</span>
+    <div class="news-content" id="newsContent">
+      <div class="news-tag" id="newsTag">NOTICIA</div>
+      <img id="newsImage" class="news-image" src="" alt="">
+      <div class="news-text" id="newsText"></div>
+      <div class="news-qr-row">
+        <img id="newsQr" class="news-qr" src="" alt="Código QR">
+        <span class="news-qr-label">Escaneá el código<br>para leer la nota completa</span>
+      </div>
     </div>
   </section>
 

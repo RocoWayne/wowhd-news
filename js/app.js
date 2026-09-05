@@ -19,6 +19,7 @@ const CONFIG = {
   newsItemsPerBlock: 3,                // cuantas noticias seguidas se muestran en cada bloque
   newsDisplayMs: 30 * 1000,           // cuánto queda visible cada noticia dentro del bloque
   newsOutroMs: 15 * 1000,             // cuánto dura el mensaje de cierre al terminar una tanda de noticias
+  newsContentFadeMs: 250,             // crossfade del contenido (no de la barra de progreso) entre una noticia y la siguiente
   newsMaxAgeDays: 7,                  // noticias con "date" mas viejo que esto se dejan de mostrar
   backgroundsRefreshMs: 2 * 60 * 1000,  // re-chequear /backgrounds cada 2 min
   backgroundImageDurationMs: 35 * 1000, // cuanto queda cada imagen antes de pasar a la siguiente
@@ -409,6 +410,7 @@ setInterval(tickClock, 15000);
 
 const newsScreen = document.getElementById("newsScreen");
 const newsProgress = document.getElementById("newsProgress");
+const newsContent = document.getElementById("newsContent");
 const newsTag = document.getElementById("newsTag");
 const newsImage = document.getElementById("newsImage");
 const newsText = document.getElementById("newsText");
@@ -517,41 +519,51 @@ function setSocialTickerVisible(visible) {
   document.body.classList.toggle("ticker-visible", visible);
 }
 
-// Muestra una noticia y espera CONFIG.newsDisplayMs antes de resolver.
-function showNewsItem(item) {
+// Muestra una noticia: primero hace un crossfade rapido de #newsContent
+// (tag/imagen/texto/QR) hacia el contenido nuevo, recien ahi arranca a
+// llenarse la barra de progreso de esta noticia (index), y espera
+// CONFIG.newsDisplayMs antes de resolver. La pantalla de noticias en si
+// (y la barra de progreso) NO se ocultan entre noticias - solo el
+// contenido de adentro hace el crossfade, para que la barra de
+// progreso quede visible de corrido durante toda la tanda.
+function showNewsItem(item, index) {
   if (!item || (!item.text && !item.image)) return Promise.resolve();
 
-  // La categoria viene del RSS (<category> de WordPress) cuando la
-  // noticia es automatica; si no hay, o es una noticia cargada a mano
-  // sin categoria, se usa el tag generico de siempre.
-  newsTag.textContent = item.category || "NOTICIA";
+  newsContent.classList.add("fading");
+  return wait(CONFIG.newsContentFadeMs).then(() => {
+    // La categoria viene del RSS (<category> de WordPress) cuando la
+    // noticia es automatica; si no hay, o es una noticia cargada a mano
+    // sin categoria, se usa el tag generico de siempre.
+    newsTag.textContent = item.category || "NOTICIA";
 
-  // Si la imagen no carga (link roto, 404), la ocultamos en vez de
-  // mostrar el ícono de imagen rota.
-  if (item.image) {
-    newsImage.onerror = () => { newsImage.style.display = "none"; };
-    newsImage.onload = () => { newsImage.style.display = ""; };
-    newsImage.src = item.image;
-  } else {
-    newsImage.style.display = "none";
-  }
+    // Si la imagen no carga (link roto, 404), la ocultamos en vez de
+    // mostrar el ícono de imagen rota.
+    if (item.image) {
+      newsImage.onerror = () => { newsImage.style.display = "none"; };
+      newsImage.onload = () => { newsImage.style.display = ""; };
+      newsImage.src = item.image;
+    } else {
+      newsImage.style.display = "none";
+    }
 
-  newsText.textContent = item.text || "";
+    newsText.textContent = item.text || "";
 
-  if (item.link) {
-    // Si el QR no carga (api.qrserver.com caido/lento/bloqueado),
-    // ocultamos toda la fila en vez de mostrar el icono de imagen rota
-    // a pantalla completa.
-    newsQr.onerror = () => { newsScreen.classList.add("no-link"); };
-    newsQr.onload = () => { newsScreen.classList.remove("no-link"); };
-    newsScreen.classList.remove("no-link");
-    newsQr.src = qrUrlFor(item.link);
-  } else {
-    newsScreen.classList.add("no-link");
-  }
+    if (item.link) {
+      // Si el QR no carga (api.qrserver.com caido/lento/bloqueado),
+      // ocultamos toda la fila en vez de mostrar el icono de imagen rota
+      // a pantalla completa.
+      newsQr.onerror = () => { newsScreen.classList.add("no-link"); };
+      newsQr.onload = () => { newsScreen.classList.remove("no-link"); };
+      newsScreen.classList.remove("no-link");
+      newsQr.src = qrUrlFor(item.link);
+    } else {
+      newsScreen.classList.add("no-link");
+    }
 
-  newsScreen.classList.add("visible");
-  return wait(CONFIG.newsDisplayMs);
+    newsContent.classList.remove("fading");
+    fillNewsProgress(index, CONFIG.newsDisplayMs);
+    return wait(CONFIG.newsDisplayMs);
+  });
 }
 
 // Corre un bloque completo de noticias: pausa el slideshow de fondos,
@@ -568,13 +580,11 @@ async function runNewsBlock() {
   if (newsList && newsList.length > 0) {
     const count = Math.min(CONFIG.newsItemsPerBlock, newsList.length);
     buildNewsProgress(count);
+    newsScreen.classList.add("visible");
     for (let i = 0; i < count; i++) {
       const item = newsList[newsIndex % newsList.length];
       newsIndex++;
-      fillNewsProgress(i, CONFIG.newsDisplayMs);
-      await showNewsItem(item);
-      newsScreen.classList.remove("visible");
-      await wait(700); // pausa breve entre una noticia y la siguiente (coincide con la transicion CSS)
+      await showNewsItem(item, i);
       // Cortamos cualquier carga de imagen que siga pendiente y limpiamos
       // el src, asi una respuesta tardia no puede "colarse" mas adelante.
       newsImage.onload = null;
@@ -584,6 +594,8 @@ async function runNewsBlock() {
       newsQr.onerror = null;
       newsQr.removeAttribute("src");
     }
+    newsScreen.classList.remove("visible");
+    await wait(700); // deja terminar el fade de salida del bloque antes del mensaje de cierre
 
     // Mensaje de cierre de la tanda, antes de retomar el slideshow de
     // fondos - solo si efectivamente hubo noticias para mostrar.

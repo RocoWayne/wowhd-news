@@ -300,6 +300,19 @@ body.ticker-visible .player{
   background:#fff;
   border-radius:4px;
 }
+/* Envuelve tag/imagen/texto/QR (todo menos la barra de progreso) para
+   poder hacer un crossfade rapido entre una noticia y la siguiente sin
+   que la pantalla completa (ni la barra de progreso) parpadee. */
+.news-content{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:22px;
+  transition:opacity .25s ease;
+}
+.news-content.fading{
+  opacity:0;
+}
 .news-tag{
   flex-shrink:0;
   font-size:18px;

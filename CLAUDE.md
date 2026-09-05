@@ -1,0 +1,133 @@
+# wowhd-news
+
+Fuente de navegador (Browser Source) para OBS: transmisión 24/7 de un
+sitio de noticias/entretenimiento (branding actual: "Laura Ubfal"). Es
+una app **100% estática** (HTML/CSS/JS vanilla, sin build ni framework)
+pensada para correr como página cargada en OBS, con contenido editable
+vía archivos JSON en el propio repo y automatización por GitHub
+Actions.
+
+Este archivo documenta la arquitectura para trabajar en el código. Para
+la guía de uso/edición de contenido (cómo cargar música, noticias,
+cumpleaños, publicidades) ver `README.md`; para hosting propio y
+protección con contraseña, `HOSTING.md`.
+
+## Estructura de alto nivel
+
+```
+index.html          página que se carga en OBS (una sola página, sin rutas)
+stats.html           panel standalone para ver impresiones de /backgrounds
+css/style.css        todos los estilos (variables de color en :root)
+js/app.js            toda la lógica de la app (~800 líneas, sin módulos)
+js/impressions.js    registro de impresiones de fondos en localStorage
+music/, backgrounds/ assets subidos por el usuario + su playlist.json generado
+news/                contenido editorial (news.json, rss.json, birthdays/*.json)
+scripts/*.py         generadores/mantenimiento de los .json de arriba
+.github/workflows/   automatizan cuándo correr esos scripts
+hosting/             plantilla .htaccess para Basic Auth en hosting propio
+```
+
+No hay `package.json`, build step, ni dependencias de servidor: todo el
+JS corre en el navegador y consume archivos estáticos vía `fetch()`.
+Por eso **hay que servir el sitio por HTTP** (nunca `file://`) para
+probarlo: `python3 -m http.server 8080`.
+
+## `js/app.js`: módulos internos (por sección, sin separación en archivos)
+
+Todo vive en un único script cargado directo en `index.html` (junto con
+`js/impressions.js`), sin bundler ni módulos ES. Se organiza en
+secciones comentadas dentro del archivo:
+
+- **`CONFIG`** (línea ~6): objeto único con todos los tiempos/URLs
+  ajustables — es el primer lugar a mirar para cambiar comportamiento
+  sin tocar lógica (intervalos de refresco, duración de bloques, tags,
+  parámetros UTM del QR, etc).
+- **Reproductor de música**: elige canciones al azar sin repetir la
+  anterior (`pickNextTrack`), intenta reproducir vía `music/playlist.php`
+  (si el hosting soporta PHP) o listado de directorio (autoindex), y
+  usa `music/playlist.json` como fuente de metadata/respaldo.
+- **Noticias**: mezcla `news/news.json` (manual) + `news/rss.json`
+  (auto-generado) y las muestra en bloques a pantalla completa
+  (rotación temporizada, ver `CONFIG.newsIntervalMs` etc.), generando
+  un QR client-side (via `api.qrserver.com`) para el link de cada nota.
+- **Cumpleaños**: lee solo `news/birthdays/<mes-actual>.json`, chequea
+  contra el día de hoy, corre en su propio timer independiente del de
+  noticias, comparte el layout CSS (`.news-screen`) pero con su propio
+  color de fondo.
+- **Fondos/publicidades**: escanea `backgrounds/` (PHP, autoindex, o
+  `playlist.json`) + `backgrounds/external.json` (URLs externas), rota
+  imágenes/videos con crossfade entre dos capas (`#bgLayerA`/`B`),
+  fuerza mute en videos, y llama a `logImpression()` (de
+  `impressions.js`) cada vez que un fondo entra en pantalla.
+- **Popup de suscripción** y **ticker de redes**: temporizadores
+  simples que muestran/ocultan elementos del DOM, coordinados para no
+  superponerse con los bloques de noticias/cumpleaños.
+- **Resiliencia**: todos los `fetch()` de refresco están pensados para
+  fallar en silencio y reintentar en el próximo ciclo (no hay caída
+  dura de la página si un JSON o archivo puntual falla) — ver la
+  sección "Resiliencia" del README para el detalle por caso.
+
+`js/impressions.js` es independiente: expone `logImpression(name)` que
+acumula conteos en `localStorage` (no hay backend), leído por
+`stats.html` para mostrar tabla + export CSV + reinicio de período.
+
+## Flujo de datos: contenido vs. automatización
+
+Cada tipo de contenido tiene la misma forma: **una fuente editable a
+mano y/o un `.json` autogenerado**, que `app.js` relee por polling
+(nunca websockets/push, todo es `setInterval` + `fetch`):
+
+| Contenido | Fuente manual | Autogenerado por | Cuándo corre |
+|---|---|---|---|
+| Música | `music/playlist.json` (metadata override) | `scripts/generate_playlist.py` escaneando `music/` | GitHub Action al hacer push a `music/**` |
+| Fondos | `backgrounds/external.json` (URLs externas) | `scripts/generate_backgrounds_playlist.py` escaneando `backgrounds/` | GitHub Action al hacer push a `backgrounds/**` |
+| Noticias | `news/news.json` | `scripts/generate_news_from_rss.py` → `news/rss.json`, leyendo `https://laubfal.com/feed/` | GitHub Action con cron cada 4h (+ manual) |
+| Noticias (limpieza) | — | `scripts/prune_news.py` borra de `news.json` lo de +30 días | GitHub Action con cron semanal |
+| Cumpleaños | `news/birthdays/01.json`..`12.json` | — (100% manual) | — |
+
+Los tres workflows en `.github/workflows/` (`update-playlists.yml`,
+`update-news-rss.yml`, `prune-news.yml`) siguen el mismo patrón: corren
+el script Python correspondiente y commitean el resultado con el
+usuario `github-actions[bot]` si hubo cambios, directo a la rama que
+disparó el evento (`git push origin HEAD:${{ github.ref_name }}`).
+Requieren `permissions: contents: write` en el workflow y "Read and
+write permissions" habilitado en Settings → Actions → General del
+repo (ver sección 0 del README).
+
+Los scripts en `scripts/*.py` son idempotentes y no destructivos por
+diseño: nunca pisan campos corregidos a mano (`title`/`artist` en
+playlists, `category` en noticias del RSS), solo agregan/quitan
+entradas según lo que encuentran en disco o en el feed.
+
+## `scripts/*.py`
+
+Sin dependencias externas más allá de la librería estándar (verificar
+imports si se agrega algo nuevo, para no romper el workflow que solo
+tiene `actions/checkout` + Python del runner, sin `pip install`).
+
+- `generate_playlist.py`: escanea `music/`, arma/actualiza `playlist.json`
+  preservando overrides manuales de `title`/`artist`.
+- `generate_backgrounds_playlist.py`: mismo patrón para `backgrounds/`.
+- `generate_news_from_rss.py`: parsea el feed RSS de `laubfal.com`,
+  no pisa `news.json` si el feed falla o viene mal formado.
+- `prune_news.py`: borra de `news.json` (no de `rss.json`, que no
+  necesita poda porque el RSS ya trae solo notas recientes) lo más
+  viejo que `PRUNE_AFTER_DAYS` (30).
+- `sync-local.sh`: `git pull` + log, para el escenario de hosting local
+  con `cron` (ver HOSTING.md, opción de repo privado sin URL pública).
+
+## Convenciones a mantener
+
+- Todo el código de UI (`index.html`, `js/*.js`, `css/style.css`, y los
+  comentarios existentes en el código) está en **español**, coherente
+  con el proyecto — mantener ese idioma al editar.
+- `CONFIG` en `js/app.js` es la superficie de ajuste preferida: antes
+  de hardcodear un tiempo/URL nuevo dentro de una función, agregarlo
+  ahí.
+- No introducir un build step ni dependencias de npm: el proyecto
+  depende de que GitHub Pages pueda servir los archivos tal cual están
+  en el repo, sin paso de compilación.
+- Los workflows commitean directo a la rama que los disparó (no abren
+  PR) — si se agrega un workflow nuevo que escribe al repo, seguir ese
+  mismo patrón (`contents: write`, checkout con `ref: ${{ github.ref_name }}`,
+  commit solo si `git diff --cached` no está vacío).

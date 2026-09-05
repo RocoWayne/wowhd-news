@@ -23,7 +23,7 @@ const CONFIG = {
   backgroundImageDurationMs: 35 * 1000, // cuanto queda cada imagen antes de pasar a la siguiente
   maxVideoDurationMs: 6 * 60 * 1000,    // watchdog: si un video se cuelga, forzar avance despues de esto
   qrSize: 200,
-  qrUtmParams: "utm_source=youtube&utm_medium=qrscan&utm_campaign=lasocia", // tracking del QR de noticias
+  qrUtmParams: "utm_source=youtube&utm_medium=qrscan&utm_campaign=lasociacomar", // tracking del QR de noticias
   subscribeFirstDelayMs: 60 * 1000,     // primera aparicion: al minuto de abrir la pagina
   subscribeIntervalMs: 10 * 60 * 1000,  // despues, cada 10 minutos
   subscribeDisplayMs: 15 * 1000,        // cuanto queda visible cada vez

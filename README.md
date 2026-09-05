@@ -167,7 +167,7 @@ el reloj y el reproductor de música siguen visibles arriba de todo.
   muestra sin QR.
   Antes de generar el QR, se le agregan automáticamente parámetros UTM
   para trackear en Analytics/YouTube cuánta gente escanea desde la
-  transmisión (`?utm_source=youtube&utm_medium=qrscan&utm_campaign=lasocia`,
+  transmisión (`?utm_source=youtube&utm_medium=qrscan&utm_campaign=lasociacomar`,
   o con `&` si el link ya tenía otros parámetros). Se ajusta en
   `js/app.js` → `CONFIG` → `qrUtmParams`.
   El QR tiene un fulgor pulsante alrededor para invitar a escanearlo

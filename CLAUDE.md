@@ -76,7 +76,7 @@ mano y/o un `.json` autogenerado**, que `app.js` relee por polling
 |---|---|---|---|
 | Música | `music/playlist.json` (metadata override) | `scripts/generate_playlist.py` escaneando `music/` | GitHub Action al hacer push a `music/**` |
 | Fondos | `backgrounds/external.json` (URLs externas) | `scripts/generate_backgrounds_playlist.py` escaneando `backgrounds/` | GitHub Action al hacer push a `backgrounds/**` |
-| Noticias | `news/news.json` | `scripts/generate_news_from_rss.py` → `news/rss.json`, leyendo el feed RSS configurado | GitHub Action con cron cada 4h (+ manual) |
+| Noticias | `news/news.json` | `scripts/generate_news_from_rss.py` → `news/rss.json`, combinando el grupo de feeds RSS en `RSS_FEEDS` | GitHub Action con cron cada 2h (+ manual) |
 | Noticias (limpieza) | — | `scripts/prune_news.py` borra de `news.json` lo de +30 días | GitHub Action con cron semanal |
 
 Los tres workflows en `.github/workflows/` (`update-playlists.yml`,
@@ -102,8 +102,10 @@ tiene `actions/checkout` + Python del runner, sin `pip install`).
 - `generate_playlist.py`: escanea `music/`, arma/actualiza `playlist.json`
   preservando overrides manuales de `title`/`artist`.
 - `generate_backgrounds_playlist.py`: mismo patrón para `backgrounds/`.
-- `generate_news_from_rss.py`: parsea el feed RSS configurado, no pisa
-  `news.json` si el feed falla o viene mal formado.
+- `generate_news_from_rss.py`: parsea el grupo de feeds RSS en
+  `RSS_FEEDS` (RSS 2.0 o Atom), combina y dedupea por link; un feed
+  puntual que falla se saltea sin afectar a los demás, y solo si
+  fallan todos deja `news/rss.json` sin tocar.
 - `prune_news.py`: borra de `news.json` (no de `rss.json`, que no
   necesita poda porque el RSS ya trae solo notas recientes) lo más
   viejo que `PRUNE_AFTER_DAYS` (30).

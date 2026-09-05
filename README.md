@@ -188,34 +188,42 @@ el reloj y el reproductor de música siguen visibles arriba de todo.
 - El color de fondo plano de la pantalla de noticias se ajusta en
   `css/style.css` → `:root` → `--news-flat-bg`.
 
-### Noticias automáticas desde el RSS de laubfal.com
+### Noticias automáticas desde un grupo de RSS internacionales
 
 Además de `news.json` (a mano), la página lee `news/rss.json` y
 mezcla ambas listas en la rotación. `news/rss.json` se genera solo:
-un GitHub Action corre cada 4 horas, lee
-`https://laubfal.com/feed/`, y actualiza el archivo con las notas más
-recientes del sitio (título, link, fecha e imagen destacada si el
-feed la trae) — sin pisar nunca lo que cargaste a mano en
+un GitHub Action corre cada 2 horas, lee un **grupo de feeds RSS de
+noticias internacionales en castellano** (configurado en
+`scripts/generate_news_from_rss.py` → `RSS_FEEDS`) y actualiza el
+archivo con las notas más recientes combinadas de todos ellos
+(título, link, fecha, imagen destacada y categoría del feed, cuando
+están disponibles) — sin pisar nunca lo que cargaste a mano en
 `news.json`.
 
-- Si el feed falla puntualmente o viene con un formato inesperado, el
-  script no toca `news/rss.json` (queda como estaba) en vez de
-  vaciarlo.
+- Feeds actuales del grupo: DW en Español, France 24 en Español, BBC
+  Mundo, Infobae, El País (Internacional), RT en Español, CNN en
+  Español y Euronews en Español. Se pueden agregar o sacar feeds
+  editando esa misma lista.
+- Cada feed aporta hasta `MAX_ITEMS_PER_FEED` (12) noticias, y el
+  archivo combinado se recorta a `MAX_TOTAL_ITEMS` (60) en total,
+  ordenado por fecha (más nuevo primero). Ambos límites se ajustan en
+  `scripts/generate_news_from_rss.py`.
+- Si un feed puntual falla (caído, bloqueado, cambió de URL) o viene
+  con un formato inesperado, el script lo saltea sin afectar a los
+  demás feeds del grupo; solo si **todos** fallan a la vez, deja
+  `news/rss.json` como estaba en vez de vaciarlo.
 - Las notas del RSS expiran solas igual que las manuales (ver
   `newsMaxAgeDays` arriba), así que no hace falta limpiar nada.
 - El trigger automático (`schedule`) de GitHub Actions solo corre
-  sobre la **rama por defecto** del repo — en este repositorio esa
-  rama por defecto ya es `claude/obs-music-browser-laura-1hda5z` (no
-  hay una rama `main` separada), así que el schedule ya está activo
-  sin pasos extra. Si en algún momento cambian la rama por defecto
-  (por ejemplo, al mergear a un `main` nuevo), hay que confirmar que
-  el schedule siga corriendo ahí.
+  sobre la **rama por defecto** del repo — si en algún momento cambia
+  la rama por defecto del repositorio, hay que confirmar que el
+  schedule siga corriendo ahí.
 - Para forzar una actualización sin esperar, o para probarlo, andá a
-  la pestaña **Actions** del repo → "Actualizar noticias desde el RSS
-  de laubfal.com" → **Run workflow**.
+  la pestaña **Actions** del repo → "Actualizar noticias desde el
+  grupo de RSS internacionales" → **Run workflow**.
 - Se puede correr a mano en cualquier momento con
   `python3 scripts/generate_news_from_rss.py`.
-- El intervalo (4 horas) se ajusta en
+- El intervalo (2 horas) se ajusta en
   `.github/workflows/update-news-rss.yml` (línea `cron`).
 
 ### Limpieza automática de `news.json`

@@ -1,10 +1,10 @@
-# Fuente de navegador para OBS — Música 24/7 + Noticias
+# MUNDO WOW 24/7 — Fuente de navegador para OBS (Música + Noticias)
 
-Página HTML pensada como **Browser Source** de OBS para una transmisión
-24/7: reproduce música en aleatorio con el título en pantalla, muestra
-noticias con foto + texto + código QR hacia la nota, rota publicidades
-(imagen o video mudo) de fondo, y de tanto en tanto un popup invitando
-a suscribirse.
+Página HTML pensada como **Browser Source** de OBS para la transmisión
+24/7 de **MUNDO WOW 24/7**: reproduce música en aleatorio con el título
+en pantalla, muestra noticias con foto + texto + código QR hacia la
+nota, rota publicidades (imagen o video mudo) de fondo, y de tanto en
+tanto un popup invitando a suscribirse.
 
 ## Estructura
 
@@ -421,6 +421,22 @@ una carpeta dentro del hosting de WordPress), ver
 usuario/contraseña (Basic Auth) y el detalle de `music/playlist.php`,
 que en ese tipo de hosting permite detectar mp3s nuevos sin correr
 ningún script.
+
+## Paleta de marca (`css/style.css` → `:root`)
+
+Todos los colores de la página salen de 6 variables CSS en `:root`,
+que reflejan la paleta simplificada de la marca MUNDO WOW 24/7. Para
+ajustar algún color de marca, editar solo estas variables (no hay
+colores de marca sueltos por otras partes del CSS):
+
+| Variable | Color | Uso |
+|---|---|---|
+| `--bg-1` | `#02102A` Azul fondo principal | fondo degradado detrás del slideshow de publicidades |
+| `--bg-2` / `--accent-2` | `#00245A` Azul secundario | segundo stop del fondo degradado, color plano de la pantalla de noticias (`--news-flat-bg`), y stop oscuro en los gradientes con el naranja |
+| `--accent` | `#FF7A00` Naranja principal | punto de "en vivo", CTA (popup de suscripción, botón de autoplay, barra de progreso) |
+| `--accent-3` | `#1673FF` Azul acento | texto/iconos destacados (reproductor, ticker) |
+| `--text` | `#FFFFFF` Blanco | texto principal |
+| `--text-dim` | `#D6DCE5` Gris claro | texto secundario (artista, separadores) |
 
 ## Personalización rápida (`js/app.js` → `CONFIG`)
 

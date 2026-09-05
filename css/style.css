@@ -1,15 +1,15 @@
 :root{
-  /* Paleta basada en el logo de Laubfal (magenta/fucsia sobre fondo oscuro) */
-  --bg-1:#1a0512;
-  --bg-2:#33081f;
-  --accent:#E6007E;    /* magenta principal del logo */
-  --accent-2:#9C1458;  /* fucsia oscuro / burdeos, tono del subtítulo */
-  --accent-3:#FF6FB5;  /* rosa claro para acentos y texto destacado */
-  --text:#fff2f8;
-  --text-dim:#e3a9c6;
-  --card-bg:rgba(38,7,24,0.74);
+  /* Paleta de marca MUNDO WOW 24/7 (6 colores) */
+  --bg-1:#02102A;      /* azul fondo principal */
+  --bg-2:#00245A;      /* azul secundario */
+  --accent:#FF7A00;    /* naranja principal: CTA, pulso "EN VIVO", highlights */
+  --accent-2:#00245A;  /* azul secundario: usado como stop oscuro en gradientes con el naranja */
+  --accent-3:#1673FF;  /* azul acento: texto/iconos destacados sobre el fondo oscuro */
+  --text:#FFFFFF;      /* blanco */
+  --text-dim:#D6DCE5;  /* gris claro */
+  --card-bg:rgba(2,16,42,0.74);
   --card-border:rgba(255,255,255,0.08);
-  --news-flat-bg:#9C1458;     /* color plano de fondo para la pantalla de noticias */
+  --news-flat-bg:#00245A;     /* color plano de fondo para la pantalla de noticias (azul secundario) */
 }
 
 *{box-sizing:border-box;}
@@ -60,9 +60,9 @@ html,body{
   inset:0;
   z-index:-1;
   background:
-    radial-gradient(circle at 15% 85%, rgba(230,0,126,0.30), transparent 45%),
-    radial-gradient(circle at 85% 20%, rgba(255,111,181,0.20), transparent 40%),
-    linear-gradient(160deg, rgba(26,5,18,0.6), rgba(51,8,31,0.6));
+    radial-gradient(circle at 15% 85%, rgba(255,122,0,0.25), transparent 45%),
+    radial-gradient(circle at 85% 20%, rgba(22,115,255,0.25), transparent 40%),
+    linear-gradient(160deg, rgba(2,16,42,0.6), rgba(0,36,90,0.6));
 }
 
 /* ---------- Branding ---------- */
@@ -89,6 +89,8 @@ html,body{
   box-shadow:0 0 10px 2px var(--accent);
   animation:pulse 1.6s ease-in-out infinite;
 }
+.brand-name{color:var(--text); font-weight:800;}
+.brand-sep{color:var(--text-dim);}
 .brand-live{color:var(--accent-3); font-size:13px;}
 
 @keyframes pulse{
@@ -389,7 +391,7 @@ body.ticker-visible .player{
   z-index:9; /* debajo del popup de suscripcion (15) y de player/brand/clock (10) */
   height:52px;
   overflow:hidden;
-  background:linear-gradient(90deg, rgba(20,4,14,0.92), rgba(38,7,24,0.92));
+  background:linear-gradient(90deg, rgba(2,16,42,0.92), rgba(0,36,90,0.92));
   border-top:1px solid var(--card-border);
   backdrop-filter:blur(8px);
   opacity:0;

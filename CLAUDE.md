@@ -1,10 +1,10 @@
 # wowhd-news
 
-Fuente de navegador (Browser Source) para OBS: transmisión 24/7 de un
-sitio de noticias/entretenimiento. Es una app **100% estática**
-(HTML/CSS/JS vanilla, sin build ni framework) pensada para correr como
-página cargada en OBS, con contenido editable vía archivos JSON en el
-propio repo y automatización por GitHub Actions.
+Fuente de navegador (Browser Source) para OBS: transmisión 24/7 de
+**MUNDO WOW 24/7**, un sitio de noticias/entretenimiento. Es una app
+**100% estática** (HTML/CSS/JS vanilla, sin build ni framework) pensada
+para correr como página cargada en OBS, con contenido editable vía
+archivos JSON en el propio repo y automatización por GitHub Actions.
 
 Este archivo documenta la arquitectura para trabajar en el código. Para
 la guía de uso/edición de contenido (cómo cargar música, noticias,
@@ -120,6 +120,12 @@ tiene `actions/checkout` + Python del runner, sin `pip install`).
 - `CONFIG` en `js/app.js` es la superficie de ajuste preferida: antes
   de hardcodear un tiempo/URL nuevo dentro de una función, agregarlo
   ahí.
+- Paleta de marca: solo 6 colores, definidos como variables CSS en
+  `css/style.css` → `:root` (`--bg-1`, `--bg-2`, `--accent`,
+  `--accent-2`, `--accent-3`, `--text`, `--text-dim`; ver la tabla en
+  el README). No introducir hex nuevos sueltos en el CSS — cualquier
+  color de marca debe salir de esas variables (o de un `rgba()` de esos
+  mismos valores, como en `.bg-glow`/`.social-ticker`).
 - No introducir un build step ni dependencias de npm: el proyecto
   depende de que GitHub Pages pueda servir los archivos tal cual están
   en el repo, sin paso de compilación.

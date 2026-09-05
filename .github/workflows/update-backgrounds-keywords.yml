@@ -1,11 +1,10 @@
-name: Actualizar fondos desde Pexels por keywords
+name: Actualizar fondos desde Wikimedia Commons por keywords
 
-# Trae fotos gratuitas de Pexels (ver scripts/generate_backgrounds_from_keywords.py
+# Trae fotos libres de Wikimedia Commons (ver scripts/generate_backgrounds_from_keywords.py
 # para la lista de keywords) y las agrega a backgrounds/external.json,
-# sin tocar las entradas cargadas a mano (ej. un video de sponsor).
-# Requiere el secret PEXELS_API_KEY (Settings -> Secrets and variables
-# -> Actions -> New repository secret) con una API key gratuita de
-# https://www.pexels.com/api/. Sin ese secret, el script no hace nada.
+# sin tocar las entradas cargadas a mano (ej. un video de sponsor). No
+# requiere ningun secret/API key: la API de Wikimedia Commons es
+# publica y no necesita registro.
 #
 # Nota: el trigger "schedule" de GitHub Actions solo corre sobre la
 # rama por defecto del repo. Tambien se puede disparar a mano con
@@ -26,9 +25,7 @@ jobs:
         with:
           ref: ${{ github.ref_name }}
 
-      - name: Buscar fotos en Pexels y actualizar backgrounds/external.json
-        env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+      - name: Buscar fotos en Wikimedia Commons y actualizar backgrounds/external.json
         run: python3 scripts/generate_backgrounds_from_keywords.py
 
       - name: Commitear si hubo cambios
@@ -37,8 +34,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add backgrounds/external.json
           if git diff --cached --quiet; then
-            echo "Sin cambios en los fondos de Pexels."
+            echo "Sin cambios en los fondos de Wikimedia Commons."
           else
-            git commit -m "Auto-actualizar fondos desde Pexels por keywords"
+            git commit -m "Auto-actualizar fondos desde Wikimedia Commons por keywords"
             git push origin HEAD:${{ github.ref_name }}
           fi

@@ -58,8 +58,8 @@ secciones comentadas dentro del archivo:
   un QR client-side (via `api.qrserver.com`) para el link de cada nota.
 - **Fondos/publicidades**: escanea `backgrounds/` (PHP, autoindex, o
   `playlist.json`) + `backgrounds/external.json` (URLs externas —
-  sponsors cargados a mano y/o fotos automáticas de Pexels por
-  keyword, marcadas con `source: "pexels-auto"`), rota imágenes/videos
+  sponsors cargados a mano y/o fotos automáticas de Wikimedia Commons
+  por keyword, marcadas con `source: "wikimedia-auto"`), rota imágenes/videos
   con crossfade entre dos capas (`#bgLayerA`/`B`), fuerza mute en
   videos, muestra el `credit` del fondo actual (si trae uno cargado)
   en `#bgCredit`, y llama a `logImpression()` (de
@@ -86,7 +86,7 @@ mano y/o un `.json` autogenerado**, que `app.js` relee por polling
 |---|---|---|---|
 | Música | `music/playlist.json` (metadata override) | `scripts/generate_playlist.py` escaneando `music/` | GitHub Action al hacer push a `music/**` |
 | Fondos (locales) | `backgrounds/external.json` (URLs externas, a mano) | `scripts/generate_backgrounds_playlist.py` escaneando `backgrounds/` | GitHub Action al hacer push a `backgrounds/**` |
-| Fondos (Pexels) | — (conserva las entradas manuales de `external.json`) | `scripts/generate_backgrounds_from_keywords.py` → agrega al grupo `source: "pexels-auto"` de `external.json` | GitHub Action con cron diario (+ manual), requiere secret `PEXELS_API_KEY` |
+| Fondos (Wikimedia) | — (conserva las entradas manuales de `external.json`) | `scripts/generate_backgrounds_from_keywords.py` → agrega al grupo `source: "wikimedia-auto"` de `external.json` | GitHub Action con cron diario (+ manual), sin API key |
 | Noticias | `news/news.json` | `scripts/generate_news_from_rss.py` → `news/rss.json`, combinando el grupo de feeds RSS en `RSS_FEEDS` | GitHub Action con cron cada 2h (+ manual) |
 | Noticias (limpieza) | — | `scripts/prune_news.py` borra de `news.json` lo de +30 días | GitHub Action con cron semanal |
 
@@ -113,13 +113,14 @@ tiene `actions/checkout` + Python del runner, sin `pip install`).
 - `generate_playlist.py`: escanea `music/`, arma/actualiza `playlist.json`
   preservando overrides manuales de `title`/`artist`.
 - `generate_backgrounds_playlist.py`: mismo patrón para `backgrounds/`.
-- `generate_backgrounds_from_keywords.py`: busca fotos en la API de
-  Pexels por cada keyword en `KEYWORDS`, con crédito de atribución
-  (`credit`). Requiere `PEXELS_API_KEY` en el entorno (sin ella no
-  hace nada); una keyword que falla se saltea, y solo si fallan todas
-  deja `backgrounds/external.json` sin tocar. Nunca pisa entradas
-  manuales de `external.json`: solo regenera las que ya vinieran
-  marcadas `source: "pexels-auto"` de una corrida anterior.
+- `generate_backgrounds_from_keywords.py`: busca fotos en la API
+  pública de Wikimedia Commons (sin API key) por cada keyword en
+  `KEYWORDS`, con crédito de atribución (`credit`: autor + licencia).
+  Descarta verticales y formatos no-imagen (SVG, PDF, etc). Una
+  keyword que falla se saltea, y solo si fallan todas deja
+  `backgrounds/external.json` sin tocar. Nunca pisa entradas manuales
+  de `external.json`: solo regenera las que ya vinieran marcadas
+  `source: "wikimedia-auto"` de una corrida anterior.
 - `generate_news_from_rss.py`: parsea el grupo de feeds RSS en
   `RSS_FEEDS` (RSS 2.0 o Atom), combina y dedupea por link; un feed
   puntual que falla se saltea sin afectar a los demás, y solo si

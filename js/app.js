@@ -68,6 +68,20 @@ function pickNextTrack() {
   if (currentTrack) {
     pool = playlist.filter((t) => t.file !== currentTrack.file);
   }
+
+  // Ademas de no repetir la misma cancion, tratamos de no repetir el
+  // mismo artista seguido (notorio en playlists chicas). Si excluir al
+  // artista actual dejara el pool vacio (ej. toda la playlist es del
+  // mismo artista), nos quedamos con el pool anterior en vez de trabar
+  // la seleccion.
+  if (currentTrack && currentTrack.artist) {
+    const currentArtist = currentTrack.artist.trim().toLowerCase();
+    const withoutSameArtist = pool.filter(
+      (t) => (t.artist || "").trim().toLowerCase() !== currentArtist
+    );
+    if (withoutSameArtist.length > 0) pool = withoutSameArtist;
+  }
+
   const shuffled = shuffle(pool);
   return shuffled[0];
 }

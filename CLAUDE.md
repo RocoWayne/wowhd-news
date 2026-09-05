@@ -42,7 +42,8 @@ secciones comentadas dentro del archivo:
   sin tocar lógica (intervalos de refresco, duración de bloques, tags,
   parámetros UTM del QR, etc).
 - **Reproductor de música**: elige canciones al azar sin repetir la
-  anterior (`pickNextTrack`), intenta reproducir vía `music/playlist.php`
+  anterior ni, cuando es posible, el mismo artista seguido
+  (`pickNextTrack`), intenta reproducir vía `music/playlist.php`
   (si el hosting soporta PHP) o listado de directorio (autoindex), y
   usa `music/playlist.json` como fuente de metadata/respaldo (incluye
   un campo opcional `credit` para atribución de licencias CC, que se

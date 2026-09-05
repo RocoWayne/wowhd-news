@@ -219,10 +219,13 @@ archivo con las notas más recientes combinadas de todos ellos
 están disponibles) — sin pisar nunca lo que cargaste a mano en
 `news.json`.
 
-- Feeds actuales del grupo: DW en Español, France 24 en Español, BBC
-  Mundo, Infobae, El País (Internacional), RT en Español, CNN en
-  Español y Euronews en Español. Se pueden agregar o sacar feeds
-  editando esa misma lista.
+- Feeds actuales del grupo (probados en vivo): France 24 en Español,
+  BBC Mundo, Infobae, El País (Internacional), RT en Español y
+  Euronews en Español. Se pueden agregar o sacar feeds editando esa
+  misma lista. DW en Español y CNN en Español se probaron y se
+  sacaron: sus URLs conocidas devuelven un bloqueo de bot (DW) o 404
+  (CNN) — si en algún momento se consigue una URL de RSS válida para
+  alguno de los dos, se puede volver a agregar.
 - Cada feed aporta hasta `MAX_ITEMS_PER_FEED` (12) noticias, y el
   archivo combinado se recorta a `MAX_TOTAL_ITEMS` (60) en total,
   ordenado por fecha (más nuevo primero). Ambos límites se ajustan en

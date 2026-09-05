@@ -26,14 +26,17 @@ from email.utils import parsedate_to_datetime
 # Grupo de RSS a combinar. Si alguno falla (caido, bloqueado, cambio de
 # URL) se lo saltea sin afectar a los demas ni al archivo ya generado -
 # ver main().
+#
+# DW y CNN en Español se sacaron de esta lista: sus URLs conocidas
+# (probadas en vivo, ver el historial de este archivo) devuelven un
+# bloqueo de bot (DW) o 404 (CNN). Si en algun momento se consigue una
+# URL de RSS valida para alguno de los dos, se puede agregar de nuevo.
 RSS_FEEDS = [
-    "https://rss.dw.com/rdf/rss-es-all",                # DW en Español
     "https://www.france24.com/es/rss",                  # France 24 en Español
     "https://feeds.bbci.co.uk/mundo/rss.xml",            # BBC Mundo
     "https://www.infobae.com/arc/outboundfeeds/rss/",   # Infobae (portada)
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",  # El Pais Internacional
     "https://actualidad.rt.com/rss",                     # RT en Español
-    "https://cnnespanol.cnn.com/feed",                   # CNN en Español
     "https://es.euronews.com/rss?level=theme&name=news", # Euronews en Español
 ]
 

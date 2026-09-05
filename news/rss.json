@@ -1,6 +1,20 @@
 [
   {
     "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/723fb060-a923-11f1-b0b4-005056a97e36/w:1024/p:16x9/4618cb5f0e1d2cf4af97bc7022b5a36e941960e5.jpg",
+    "category": "América Latina",
+    "text": "Bolivia investiga las explosiones en un cuartel de Viacha mientras crece la incertidumbre por los militares desaparecidos",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260905-bolivia-investiga-las-explosiones-en-un-cuartel-de-viacha-mientras-crece-la-incertidumbre-por-los-militares-desaparecidos"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://s.france24.com/media/display/38ef949a-9fc0-11f1-bc9f-005056a90284/w:1024/p:16x9/2026-08-24T130130Z-227415271-RC2X4NA0M8QI-RTRMADP-3-UKRAINE-CRISIS-INDEPENDENCE-DAY-1.jpg",
+    "category": "Europa",
+    "text": "Rusia y Ucrania frenan los ataques aéreos mientras los enviados de Trump buscan avanzar hacia un diálogo",
+    "link": "https://www.france24.com/es/europa/20260905-rusia-y-ucrania-frenan-los-ataques-a%C3%A9reos-mientras-los-enviados-de-trump-buscan-avanzar-hacia-un-di%C3%A1logo"
+  },
+  {
+    "date": "2026-09-05",
     "image": "https://s.france24.com/media/display/a8f031de-a937-11f1-8f4d-005056a97e36/w:1024/p:16x9/FOTO-PORTADA-NEPAL-RESCATE-CHINO.jpg",
     "category": "Asia-Pacífico",
     "text": "Dos nuevos rescates alientan a seguir las tareas de búsqueda, diez días después de la riada en Nepal",
@@ -64,20 +78,6 @@
   },
   {
     "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/4e7b3dc8-a8cb-11f1-85cf-005056a90284/w:1024/p:16x9/FORMATO-1-38.png",
-    "category": null,
-    "text": "Islas Malvinas: Milei atiza el debate sobre la soberanía del archipiélago",
-    "link": "https://www.france24.com/es/video/20260905-islas-malvinas-milei-atiza-el-debate-sobre-la-soberan%C3%ADa-del-archipi%C3%A9lago"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/32c6426c-a8bc-11f1-99d9-005056a90284/w:1024/p:16x9/MBAPPE-REAL-MADRID-BETIS.jpg",
-    "category": "Deportes",
-    "text": "Jornada adversa para los gigantes de Europa: Real Madrid y PSG sufren sus primeras derrotas en liga",
-    "link": "https://www.france24.com/es/deportes/20260905-real-madrid-psg-sufren-primeras-derrotas-liga"
-  },
-  {
-    "date": "2026-09-05",
     "image": null,
     "category": null,
     "text": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
@@ -87,7 +87,7 @@
     "date": "2026-09-05",
     "image": null,
     "category": null,
-    "text": "Estados Unidos ataca tres petroleros iraníes tras afirmar que sus buques de guerra habían sido objeto de un ataque",
+    "text": "Estados Unidos ataca tres petroleros iraníes tras afirmar que sus buques de guerra fueron objeto de una ofensiva de Teherán",
     "link": "https://www.bbc.com/mundo/articles/cwyzwxeqpq5o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -134,87 +134,87 @@
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/A2N64CO22FHRDECG3MWMITMB3A.jpg?auth=64f168e341dc189996443645262ad225a0441c8fa8c3e8d39a525cf22a291f7d&smart=true&width=5184&height=3456",
+    "image": "https://www.infobae.com/resizer/v2/LZVGZI7QSRAOVNPU5ZED7R3UUA.JPG?auth=de62e7f53b816c0bf4bba0e7704311bf2c0a37b35a95628d69e2cbe229bc864e&smart=true&width=3599&height=2322",
     "category": null,
-    "text": "FGR, Sedena y Guardia Nacional: así habría penetrado el Cártel de Sinaloa las instituciones, según Anabel Hernández",
-    "link": "https://www.infobae.com/mexico/2026/09/05/fgr-sedena-y-guardia-nacional-asi-habria-penetrado-el-cartel-de-sinaloa-las-instituciones-segun-anabel-hernandez/"
+    "text": "Gimnasia La Plata y Tigre le dan continuidad a la actividad del sábado en la 8ª fecha del Torneo Clausura: la agenda de partidos",
+    "link": "https://www.infobae.com/deportes/2026/09/05/aldosivi-banfield-inician-la-actividad-del-sabado-en-la-8-fecha-del-torneo-clausura-la-agenda-de-partidos/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/BRRVOJCCSNEXZFRVGQMZ27ZQFU.JPG?auth=caa9daaf6945ac0b7bf9d082b5bf96115ea0a7b46e0a3ed9265092a433b422eb&smart=true&width=2300&height=1294",
+    "image": "https://www.infobae.com/resizer/v2/64SKYVJKQRCT3J5BMDJVLAN2KE.png?auth=5bbc6a42d562c07b2f496bae0628a6f6a6369e88045f3c1d716f47a583df197c&smart=true&width=1890&height=1063",
     "category": null,
-    "text": "Impacto de Alpine en el Gran Premio de Italia: Pierre Gasly logró la pole position y Franco Colapinto largará 7°",
-    "link": "https://www.infobae.com/deportes/2026/09/05/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-del-gp-de-italia-hora-tv-y-todo-lo-que-hay-que-saber/"
+    "text": "Muerte de Bendito Menor| Petro cuestionó a la Policía Nacional tras operativo que ordenó De la Espriella: “Que me explique”",
+    "link": "https://www.infobae.com/colombia/2026/09/05/muerte-de-bendito-menor-petro-cuestiono-a-la-policia-nacional-tras-operativo-que-ordeno-de-la-espriella-que-me-explique/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/B5YNPDEZ6JCQJOTESHYTXSP2C4.jpg?auth=8c0f64fb23a36aedd7a902d7f5bc4a46b6608b156e9fd2ef518af0a9250cbde7&smart=true&width=3072&height=2048",
+    "image": "https://www.infobae.com/resizer/v2/FC44VZLMXRAE5KG4CRXOMYPY6M.jpg?auth=f09c42332cee8997ae6d7e06afaf5847a1f309aa9bcc2b5fc97ca5f4b3222155&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "El Papa recibirá en Buenos Aires a los donantes que ayuden a financiar su visita a la Argentina",
-    "link": "https://www.infobae.com/politica/2026/09/01/el-papa-recibira-en-buenos-aires-a-los-donantes-que-ayuden-a-financiar-su-visita-a-la-argentina/"
+    "text": "Vladimir Putin se reúne con los enviados de Donald Trump para dialogar sobre la guerra en Ucrania: “La situación no es sencilla”",
+    "link": "https://www.infobae.com/america/mundo/2026/09/05/vladimir-putin-se-reune-con-los-enviados-de-donald-trump-para-dialogar-sobre-la-guerra-en-ucrania-la-situacion-no-es-sencilla/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/OCM5BBR4NRDJVIKILRHQGVDLZ4.JPG?auth=1f457815adcc288017afa01c99b3ef956d0efe4bafd75b6cfe76f2507f41fbd0&smart=true&width=3400&height=2338",
+    "image": "https://www.infobae.com/resizer/v2/STP2PJ5UYVB5DP7JIJ4NHH2VQA.jpg?auth=84b9b843c17bfeb19fb67a47078127fdbdf39279eda0943be9f8b81b7665540f&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Schalke 04 vs. Bayern Múnich en vivo con Luis Díaz: el delantero de la selección Colombia será titular",
+    "text": "México vs Benín: sigue EN VIVO el minuto a minuto al Tri Femenil en el Mundial Sub-20: con dos errores se empata el partido",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/05/mexico-vs-benin-sigue-en-vivo-el-minuto-a-minuto-del-debut-del-tri-femenil-en-el-mundial-sub-20/"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://www.infobae.com/resizer/v2/TPPWBBUSMFCD7DRNOFS5IST63E.jpg?auth=6ef65cd5cb911a3c097ba91f06ca22a86c7acda6cc8d4c1ad463d1706f81dc1b&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Abastecer petróleo y gas: cuando el precio deja de ser lo primero",
+    "link": "https://www.infobae.com/movant/2026/09/04/abastecer-petroleo-y-gas-cuando-el-precio-deja-de-ser-lo-primero/"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://www.infobae.com/resizer/v2/AIDKTIDAWJBVNAAJFPWIK7HOZE.JPG?auth=2d220b62060a0b760c3b8fb80df70f718e90b2896fd86e9dccf2a8261d586be5&smart=true&width=3953&height=2640",
+    "category": null,
+    "text": "Schalke 04 vs. Bayern Múnich en vivo online con Luis Díaz: siga el minuto a minuto del partido de la Bundesliga",
     "link": "https://www.infobae.com/colombia/deportes/2026/09/05/schalke-04-vs-bayern-munich-en-vivo-goles-polemicas-del-var-y-el-minuto-a-minuto-de-luis-diaz-en-la-bundesliga/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/3H4OY3UFDZCBFPCMFL2QAI5VRY.png?auth=e48174d206b0b1adf59ff58a719ecdf5caf78411f685ac93eae96a722f2d29ee&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/VGEVVQ7XTZEC7CEF4MU6EMC4WY.JPG?auth=a4bc1d1e70de6eafc52aa4aaa77fcefdd1143f53af1d2ef9b9f3522ddff8056a&smart=true&width=3984&height=2656",
     "category": null,
-    "text": "Temblor hoy en México: más de 2 mil 300 réplicas de sismo registrado en Chiapas",
-    "link": "https://www.infobae.com/mexico/2026/09/05/temblor-hoy-en-mexico-noticias-actividad-sismica-5-de-septiembre-de-2026/"
+    "text": "Vélez reclamó ante AFA por los seis extranjeros de Boca en el partido de Copa Argentina: el reglamento y el vínculo Tapia-Riquelme",
+    "link": "https://www.infobae.com/deportes/2026/09/05/el-debate-detras-del-triunfo-de-boca-juniors-sobre-velez-en-la-copa-argentina-por-la-inclusion-de-seis-extranjeros-el-reclamo-que-evalua-el-fortin/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/JCI22G3WHND3NFNBZHEPMJFDSE.JPG?auth=27302dd81258ba3e51d940550f173ffb65c0c352c061cb518ccd92d8d4a508a5&smart=true&width=2300&height=1294",
+    "image": "https://www.infobae.com/resizer/v2/JWMJGHXWRZFQNLRYSOMCRTL36Y.png?auth=67a3173198b9e16344909542242296cbaf75fa11e1f70d826ff324e487cd344a&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "La vuelta histórica de Gasly para lograr la pole en Monza: su explosión en la radio y el festejo con Colapinto",
-    "link": "https://www.infobae.com/deportes/2026/09/05/la-vuelta-historica-de-gasly-para-lograr-la-pole-en-monza-su-explosion-en-la-radio-y-el-festejo-con-colapinto/"
+    "text": "Entre abucheos, protestas y un desmayo, Sheinbaum presenta avances de gobierno en Colima, acusa de ‘prianistas’ a manifestantes",
+    "link": "https://www.infobae.com/mexico/2026/09/05/sheinbaum-da-mensaje-desde-colima-entre-abucheos-y-protestas-si-siguen-gritando-son-irrespetuosos/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/WMYCAHJNRNCJXM3A246KE3KANY.jpg?auth=885e4f108239aba3cc4da652f4eef0bd460a22ba58a6fc2fd758838ebc0267f9&smart=true&width=832&height=437",
+    "image": "https://www.infobae.com/resizer/v2/GKEW4RRONRAT5P6UNBNMNVJZJY.png?auth=f7c6765ada91a1ce8e4e7169d928bc31ff09a87cfa4d598c2ef3e82d84c5241d&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones viales hoy 5 de septiembre",
-    "link": "https://www.infobae.com/mexico/deportes/2026/09/05/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-viales-hoy-5-de-septiembre/"
+    "text": "¿Buses o tanques? Transporte público en Perú se protege con cabinas blindadas y vidrios antibalas ante avance de la extorsión",
+    "link": "https://www.infobae.com/peru/2026/09/05/buses-o-tanques-conductores-en-peru-se-protegen-con-cabinas-de-acero-y-vidrios-antibalas-ante-avande-de-la-extorsion/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/LPA6UNJU7JCMFMSNWBQ6VNBBJY.jpg?auth=6e21cedaa9aa8d2c78d24b97f2652f33f22bfdde9e17756fb573ff7853b24f9b&smart=true&width=2048&height=1366",
+    "image": "https://www.infobae.com/resizer/v2/WJ5UUHECZNF6TJQ2EQSR5LS2HM.jpg?auth=560497666ae33105c00840c36b557d883a3cebb3b8c6e389078bc57a2c07d89d&smart=true&width=1980&height=1320",
     "category": null,
-    "text": "La dominicana Marileidy Paulino busca coronarse tetracampeona en la Liga Diamante ¿logrará hacer historia?",
-    "link": "https://www.infobae.com/republica-dominicana/2026/09/05/la-dominicana-marileidy-paulino-busca-coronarse-tetracampeona-en-la-liga-diamante-lograra-hacer-historia/"
+    "text": "Marc Toralles, Bru Busom y Rubén Sanmartín hacen historia al conseguir el primer “Oscar” de la montaña para el alpinismo español",
+    "link": "https://www.infobae.com/espana/deportes/2026/09/05/marc-toralles-bru-busom-y-ruben-sanmartin-hacen-historia-al-conseguir-el-primer-oscar-de-la-montana-para-el-alpinismo-espanol/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/MD3NRKE2DBDMBGKUYKYV4R2PPY.jpg?auth=2fd2c575490ba8bb1f715d78a741967e0de067f46bd8e5a5c703393321b328f7&smart=true&width=500&height=333",
+    "image": "https://www.infobae.com/resizer/v2/BSM5JKLY7RBPZDNUQSBWBIMDDA.jpg?auth=0fcc5e2640d4ea9c159a05b4d6225b722b65227fb08a3d64cfa87c97ead5f0fd&smart=true&width=900&height=506",
     "category": null,
-    "text": "Nuevo Nokia 1100: cuál es su precio y cómo se activa la función para cargar a otros celulares",
-    "link": "https://www.infobae.com/tecno/2026/09/05/nuevo-nokia-1100-cual-es-su-precio-y-como-se-activa-la-funcion-para-cargar-a-otros-celulares/"
+    "text": "Martín ‘Cochise’ Rodríguez, leyenda del ciclismo colombiano, se encuentra hospitalizado en Medellín: “Presentó mareos”",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/05/martin-cochise-rodriguez-leyenda-del-ciclismo-colombiano-se-encuentra-hospitalizado-en-medellin-presento-mareos/"
   },
   {
     "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/CYZGQNN45RDUXFSHN5NWPWAFJU.jpg?auth=835c517facd4f773fc5b34b919c61ca884285f4221492935f0857f4b2c1ae542&smart=true&width=5190&height=3460",
+    "image": "https://www.infobae.com/resizer/v2/KN643OMYMZCRZBQWYIPPJ3J5CE.png?auth=83e189491d42d5b9bc69d0ff68275c829804f44b826c7e664d01ad5ff195fb15&smart=true&width=1150&height=859",
     "category": null,
-    "text": "Estabilización del lago Gatún da un respiro a las operaciones del Canal de Panamá",
-    "link": "https://www.infobae.com/panama/2026/09/05/estabilizacion-del-lago-gatun-da-un-respiro-a-las-operaciones-del-canal-de-panama/"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/5VQ7HCNPJVGHLIDLQC36PGXVC4.jpg?auth=197a4ad7493096c20de29ef497c8791f8ae197366af8b9812039b82aeb667ce8&smart=true&width=790&height=450",
-    "category": null,
-    "text": "Once partidos y plataformas opositoras denuncian que la reforma constitucional busca “sepultar” la soberanía popular en Nicaragua",
-    "link": "https://www.infobae.com/nicaragua/2026/09/05/once-partidos-y-plataformas-opositoras-denuncian-que-la-reforma-constitucional-busca-sepultar-la-soberania-popular-en-nicaragua/"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://www.infobae.com/resizer/v2/T2NQWUFJBESJKYTHCVE32YBQDQ.jpg?auth=3f5e429b00655e68e22260558ef904db5e6ad2c9aad5b6f6a3bafc1c272b2fb8&smart=true&width=2500&height=1852",
-    "category": null,
-    "text": "Lobo gris mexicano, en riesgo de perder protección en EEUU: Trump ordena revisar su estatus tras denuncias por ataques a ganado",
-    "link": "https://www.infobae.com/mexico/2026/09/05/lobo-gris-mexicano-en-riesgo-de-perder-proteccion-en-eeuu-trump-ordena-revisar-su-estatus-tras-denuncias-por-ataques-a-ganado/"
+    "text": "Miami-Dade elimina 12 rutas de autobús y recorta horarios nocturnos en el presupuesto aprobado en primera votación",
+    "link": "https://www.infobae.com/estados-unidos/2026/09/05/miami-dade-elimina-12-rutas-de-autobus-y-recorta-horarios-nocturnos-en-el-presupuesto-aprobado-en-primera-votacion/"
   },
   {
     "date": "2026-09-05",
@@ -229,6 +229,13 @@
     "category": "Irán",
     "text": "Estados Unidos bombardea tres petroleros iraníes, uno de ellos cerca de la estratégica isla de Jarg, en respuesta a ataques de Teherán",
     "link": "https://elpais.com/internacional/2026-09-05/varias-explosiones-cerca-de-la-isla-de-jarg-principal-terminal-del-crudo-de-teheran-y-blanco-de-las-amenazas-de-trump.html"
+  },
+  {
+    "date": "2026-09-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/JKPZ7M5FYBPJVOYVOPAJJCYIXE.jpg?auth=0ff3d37269d0305177608e3ac7d47c27bfaa88fb56336f952c49d0b96e2e9d78",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "La UE revisa su método de sanciones para mantener la presión sobre Rusia",
+    "link": "https://elpais.com/internacional/2026-09-05/la-ue-revisa-su-metodo-de-sanciones-para-mantener-la-presion-sobre-rusia.html"
   },
   {
     "date": "2026-09-05",
@@ -260,80 +267,73 @@
   },
   {
     "date": "2026-09-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/J6QZ4GMZEVH6XFNJIG7FUKSVMM.jpg?auth=520d2f77dec0ac1de3c1471a890e784d10e5b01b7e7afd817097c50fa35857ad",
-    "category": "Corresponsales",
-    "text": "Un foso lleno de cocodrilos para una cárcel israelí",
-    "link": "https://elpais.com/internacional/historias-de-corresponsal/2026-09-05/un-foso-lleno-de-cocodrilos-para-una-carcel-israeli.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "category": null,
+    "text": "Putin comenta la solicitud ucraniana de alto al fuego",
+    "link": "https://actualidad.rt.com/actualidad/626125-putin-comenta-ucrania-alto-fuego?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c577659bf5b2e92384d7d.jpg",
     "category": null,
-    "text": "Rusia ataca un buque de carga seca con equipo militar occidental en un puerto ucraniano",
-    "link": "https://actualidad.rt.com/actualidad/626113-rusia-ataca-buque-carga-seca?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Witkoff a Putin: Trump le envía sus mejores deseos",
+    "link": "https://actualidad.rt.com/actualidad/626124-witkoff-putin-trump-le-envia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c565be9ff712e61747d09.jpg",
     "category": null,
-    "text": "Rusia golpea una planta de fabricación de municiones cerca de Kiev",
-    "link": "https://actualidad.rt.com/actualidad/626112-rusia-golpea-planta-fabricacion-municiones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Enviado de Trump agradece a Putin alto el fuego de 3 días para garantizar su segura llegada",
+    "link": "https://actualidad.rt.com/actualidad/626123-enviado-trump-agradece-putin-suspension-ataques?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c2d87e9ff71147429d8d2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c49ebe9ff714e9866bba8.jpg",
     "category": null,
-    "text": "VIDEO: Una anciana entra a una comisaría, abre fuego y luego es abatida por la Policía",
-    "link": "https://actualidad.rt.com/actualidad/626100-video-anciana-entra-comisaria-abre-fuego?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Rusia inaugura el oleoducto principal de uno de los proyectos más grandes del Ártico",
+    "link": "https://actualidad.rt.com/actualidad/626119-rusia-inaugura-oleoducto-vostok-oil?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c2cc3e9ff714e6f1f42b7.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c31f059bf5b4c41312533.jpg",
     "category": null,
-    "text": "EE.UU. emite una alerta para sus ciudadanos en un país de Oriente Medio",
-    "link": "https://actualidad.rt.com/actualidad/626103-eeuu-emite-alerta-ciudadanos-pais?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Espero que pueda dormir bien por la noche\": Abogado de Lindsay Clancy carga contra el miembro del jurado que bloqueó su absolución",
+    "link": "https://actualidad.rt.com/actualidad/626093-dormir-abogado-lindsay-clancy-carga-miembro-jurado?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9a7eb659bf5b638f18accb.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c33c759bf5b1a1b769ad7.jpg",
     "category": null,
-    "text": "INFOGRAFÍA: Europa acumula un déficit comercial gigantesco con China",
-    "link": "https://actualidad.rt.com/actualidad/625793-alarma-ue-europa-acumular-deficit?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Follarme a la reina, robar un millón\": filtran audio de un alto cargo de la Fiscalía ucraniana",
+    "link": "https://actualidad.rt.com/actualidad/626102-follar-reina-robar-millon-alto-cargo-fiscalia-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9bf24659bf5b1ddb21d1cd.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c4e1459bf5b2e9c72c304.jpg",
     "category": null,
-    "text": "Secuestra a su expareja y la lanza desde un puente antes de quitarse la vida",
-    "link": "https://actualidad.rt.com/actualidad/626074-secuestrar-expareja-lanzar-puente-suicidarse?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Putin envía sus mejores deseos y agradecimiento a Trump",
+    "link": "https://actualidad.rt.com/actualidad/626120-putin-pidio-transmitir-agradeciemiento-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c17d3e9ff71147429d8bb.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c52ece9ff714e07691813.jpg",
     "category": null,
-    "text": "Sobornos y lavado millonario: destapan el complot entre 'call centers' y lo más alto del poder de Ucrania",
-    "link": "https://actualidad.rt.com/actualidad/626091-ucrania-sobornos-lavado-millonario-complot?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Putin se reúne con los enviados de Trump en el Kremlin",
+    "link": "https://actualidad.rt.com/actualidad/626066-video-putin-reune-enviados-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c0a8be9ff712e9227fc1d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9be56ee9ff712e61747c92.jpg",
     "category": null,
-    "text": "Níger acusa a Macron de orquestar una rebelión en el país y agradece a Rusia su ayuda",
-    "link": "https://actualidad.rt.com/actualidad/626087-niger-agradece-rusia-aliados-africanos-rebelion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Proponen recortar prestaciones por discapacidad en el Reino Unido para financiar el rearme contra Rusia",
+    "link": "https://actualidad.rt.com/actualidad/626065-proponen-reino-unido-recortar-prestaciones-sociales-defensa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c228ce9ff71286101545b.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9be3b559bf5b57387ae73e.jpeg",
     "category": null,
-    "text": "VIDEO: Ferrari fuera de control impacta a toda velocidad y termina destrozado",
-    "link": "https://actualidad.rt.com/viral/626097-ferrari-fuera-control-impacta?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9c12d559bf5b1a1e40e323.jpg",
-    "category": null,
-    "text": "VIDEO: Encapuchados bloquean el tráfico en protesta contra la inmigración irregular en el Reino Unido",
-    "link": "https://actualidad.rt.com/actualidad/626089-encapuchados-bloquean-trafico-protesta?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Schubert vs. Bach: la historia detrás de la feroz discusión entre intelectuales rusos que incendió X",
+    "link": "https://actualidad.rt.com/actualidad/626057-encendida-disputa-shubert-bach-debate-rusia-video?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-05",
@@ -395,6 +395,13 @@
     "date": "2026-09-05",
     "image": null,
     "category": null,
+    "text": "Últimas noticias | 05 septiembre 2026 - Tarde",
+    "link": "http://es.euronews.com/video/2026/09/05/ultimas-noticias-05-septiembre-2026-tarde"
+  },
+  {
+    "date": "2026-09-05",
+    "image": null,
+    "category": null,
     "text": "Últimas noticias | 05 septiembre 2026 - Mañana",
     "link": "http://es.euronews.com/video/2026/09/05/ultimas-noticias-05-septiembre-2026-manana"
   },
@@ -411,12 +418,5 @@
     "category": null,
     "text": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
     "link": "https://www.bbc.com/mundo/articles/cwyzqr7v4n4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-04",
-    "image": null,
-    "category": null,
-    "text": "Documental BBC: cómo ha cambiado la vida en El Salvador en los 4 años de guerra de Bukele contra las maras",
-    "link": "https://www.bbc.com/mundo/articles/cy7z03yyjp2o?at_medium=RSS&at_campaign=rss"
   }
 ]

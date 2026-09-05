@@ -11,7 +11,10 @@ a mano en playlist.json una vez generado.
 Este script NUNCA pisa una entrada que ya exista en playlist.json
 (así no se pierden las correcciones manuales al volver a correrlo):
 solo agrega los archivos nuevos que encuentra en /music y saca del
-listado los que ya no están.
+listado los que ya no están. Por eso tambien es seguro agregar a mano
+un campo "credit" a una entrada (atribucion del autor, cuando la
+licencia de musica libre de derechos lo exige): el script nunca lo va
+a tocar.
 
 Uso:
     python3 scripts/generate_playlist.py

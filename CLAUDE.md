@@ -44,7 +44,13 @@ secciones comentadas dentro del archivo:
 - **Reproductor de música**: elige canciones al azar sin repetir la
   anterior (`pickNextTrack`), intenta reproducir vía `music/playlist.php`
   (si el hosting soporta PHP) o listado de directorio (autoindex), y
-  usa `music/playlist.json` como fuente de metadata/respaldo.
+  usa `music/playlist.json` como fuente de metadata/respaldo (incluye
+  un campo opcional `credit` para atribución de licencias CC, que se
+  muestra discreto en el player). Usa dos elementos `<audio>`
+  (`audioA`/`audioB`, mismo patrón que las dos capas de fondo) para
+  hacer crossfade real entre canciones (`beginCrossfade`), con un
+  corte seco de respaldo (`hardSwitchToNext`) si el cruce no llega a
+  dispararse a tiempo.
 - **Noticias**: mezcla `news/news.json` (manual) + `news/rss.json`
   (auto-generado) y las muestra en bloques a pantalla completa
   (rotación temporizada, ver `CONFIG.newsIntervalMs` etc.), generando

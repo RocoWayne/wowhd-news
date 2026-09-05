@@ -43,6 +43,7 @@
       <div class="player-label">SONANDO AHORA</div>
       <div class="player-title" id="trackTitle">Cargando playlist…</div>
       <div class="player-artist" id="trackArtist">&nbsp;</div>
+      <div class="player-credit" id="trackCredit"></div>
       <div class="progress-track">
         <div class="progress-fill" id="progressFill"></div>
       </div>
@@ -117,7 +118,10 @@
     </div>
   </div>
 
-  <audio id="audio" preload="auto"></audio>
+  <!-- Dos elementos de audio para poder hacer crossfade real entre una
+       cancion y la siguiente (misma idea que las dos capas de fondo). -->
+  <audio id="audioA" preload="auto"></audio>
+  <audio id="audioB" preload="auto"></audio>
 
   <div class="autoplay-gate" id="autoplayGate">
     <div class="autoplay-box">

@@ -95,6 +95,23 @@ directamente su entrada en `music/playlist.json`:
 
 Esa corrección queda guardada aunque vuelvas a correr el script.
 
+### Crédito/atribución del artista
+
+Muchos bancos de música libre de derechos exigen dejar constancia del
+autor y/o la licencia al usar el tema. Para eso, agregá un campo
+`credit` a la entrada de ese tema en `music/playlist.json` (opcional,
+solo en los temas que lo necesiten):
+
+```json
+{ "file": "cancion1.mp3", "title": "Mi Título", "artist": "Mi Artista", "credit": "Música: Mi Artista (CC BY 4.0) — freemusicarchive.org" }
+```
+
+Se muestra como una línea chica y discreta debajo del artista, en el
+reproductor. Si un tema no tiene `credit` cargado, esa línea
+simplemente no aparece (no queda un hueco vacío). Igual que
+`title`/`artist`, `scripts/generate_playlist.py` nunca pisa este campo
+una vez cargado.
+
 ### No suenan los temas (o no rotan los fondos) — checklist rápido
 
 - ¿Pasaron ya 1-2 minutos desde que subiste los archivos? El Action
@@ -443,6 +460,7 @@ colores de marca sueltos por otras partes del CSS):
 | Parámetro | Qué hace |
 |---|---|
 | `playlistRefreshMs` | cada cuánto relee `playlist.json` |
+| `audioCrossfadeMs` | duración del crossfade de audio entre una canción y la siguiente |
 | `newsRefreshMs` | cada cuánto relee `news.json` |
 | `newsIntervalMs` | cada cuánto se dispara un bloque de noticias |
 | `newsItemsPerBlock` | cuántas noticias seguidas se muestran por bloque |
@@ -479,3 +497,6 @@ navegador normal, ver más abajo), la página se auto-recupera sola de:
 - **QR o imagen de noticia caídos** (ej. `api.qrserver.com` lento):
   se ocultan en vez de mostrar el ícono de imagen rota en pantalla
   completa.
+- **Crossfade de audio que no llega a dispararse** (ej. no se pudo leer
+  la duración del archivo a tiempo): en vez de quedar en silencio, se
+  hace un corte seco directo al siguiente tema.

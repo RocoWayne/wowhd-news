@@ -24,6 +24,7 @@ const CONFIG = {
   maxVideoDurationMs: 6 * 60 * 1000,    // watchdog: si un video se cuelga, forzar avance despues de esto
   qrSize: 200,
   qrUtmParams: "utm_source=youtube&utm_medium=qrscan&utm_campaign=lasociacomar", // tracking del QR de noticias
+  audioCrossfadeMs: 3000, // duracion del crossfade de audio entre una cancion y la siguiente
   subscribeFirstDelayMs: 60 * 1000,     // primera aparicion: al minuto de abrir la pagina
   subscribeIntervalMs: 10 * 60 * 1000,  // despues, cada 10 minutos
   subscribeDisplayMs: 15 * 1000,        // cuanto queda visible cada vez
@@ -36,9 +37,11 @@ const VALID_BACKGROUND_EXT = [...VALID_IMAGE_EXT, ...VALID_VIDEO_EXT];
 
 // ---------------- Reproductor ----------------
 
-const audio = document.getElementById("audio");
+const audioA = document.getElementById("audioA");
+const audioB = document.getElementById("audioB");
 const trackTitleEl = document.getElementById("trackTitle");
 const trackArtistEl = document.getElementById("trackArtist");
+const trackCreditEl = document.getElementById("trackCredit");
 const progressFill = document.getElementById("progressFill");
 const playerEl = document.getElementById("player");
 const autoplayGate = document.getElementById("autoplayGate");
@@ -164,6 +167,7 @@ async function loadPlaylist() {
         file: t.file,
         title: t.title || parsed.title,
         artist: t.artist || parsed.artist,
+        credit: t.credit || "",
       };
     });
     return;
@@ -188,6 +192,7 @@ async function loadPlaylist() {
       file,
       title: override.title || parsed.title,
       artist: override.artist || parsed.artist,
+      credit: override.credit || "",
     };
   });
 }
@@ -197,42 +202,153 @@ function updateNowPlayingUI(track) {
   setTimeout(() => {
     trackTitleEl.textContent = track.title || track.file;
     trackArtistEl.textContent = track.artist || "";
+    trackCreditEl.textContent = track.credit || "";
     playerEl.classList.remove("fading");
   }, 220);
 }
 
-function playTrack(track) {
-  if (!track) return;
+// Dos elementos <audio> (misma idea que las dos capas de fondo): uno
+// suena de punta a punta mientras el otro precarga y hace fade-in del
+// siguiente tema, para que el corte entre canciones no sea seco.
+// `frontAudio` es el que se esta por terminar (el que dispara el
+// crossfade); `displayAudio` es el que corresponde a lo que se ve en
+// pantalla como "sonando ahora" (cambia apenas arranca el crossfade,
+// no cuando termina).
+let frontAudio = audioA;
+let displayAudio = audioA;
+let crossfading = false;
+
+function otherAudio(el) {
+  return el === audioA ? audioB : audioA;
+}
+
+function applyNowPlaying(track) {
   currentTrack = track;
-  audio.src = "music/" + encodeURIComponent(track.file);
-  audio.play().then(() => {
+  updateNowPlayingUI(track);
+}
+
+// Arranca la primera cancion de la transmision (o la retoma si el
+// audio se habia quedado sin nada por cualquier motivo). Sin fade: no
+// hay una cancion anterior de la que despedirse.
+function startPlayback() {
+  const track = pickNextTrack();
+  if (!track) return;
+  frontAudio.volume = 1;
+  frontAudio.src = "music/" + encodeURIComponent(track.file);
+  frontAudio.currentTime = 0;
+  displayAudio = frontAudio;
+  frontAudio.play().then(() => {
     autoplayGate.classList.add("hidden");
   }).catch((err) => {
     console.warn("Autoplay bloqueado, esperando interacción:", err);
     autoplayGate.classList.remove("hidden");
   });
-  updateNowPlayingUI(track);
+  applyNowPlaying(track);
 }
 
-function playNext() {
+// Corte de respaldo sin fade, para cuando el crossfade no se pudo
+// disparar a tiempo (ej. no llegamos a conocer la duracion del audio
+// antes de que termine). Reutiliza el mismo elemento para no perder
+// continuidad.
+function hardSwitchToNext() {
   const next = pickNextTrack();
-  if (next) playTrack(next);
+  if (!next) return;
+  frontAudio.volume = 1;
+  frontAudio.src = "music/" + encodeURIComponent(next.file);
+  frontAudio.currentTime = 0;
+  displayAudio = frontAudio;
+  frontAudio.play().catch(() => {});
+  applyNowPlaying(next);
 }
 
-audio.addEventListener("ended", playNext);
-audio.addEventListener("error", () => {
-  console.warn("Error reproduciendo, salto a la siguiente canción.");
-  setTimeout(playNext, 800);
-});
-audio.addEventListener("timeupdate", () => {
-  if (audio.duration) {
-    progressFill.style.width = (audio.currentTime / audio.duration) * 100 + "%";
+function beginCrossfade() {
+  if (crossfading) return;
+  const next = pickNextTrack();
+  if (!next) return;
+
+  const outgoing = frontAudio;
+  const incoming = otherAudio(frontAudio);
+  crossfading = true;
+
+  incoming.volume = 0;
+  incoming.src = "music/" + encodeURIComponent(next.file);
+  incoming.currentTime = 0;
+  const playPromise = incoming.play();
+  if (playPromise && playPromise.catch) playPromise.catch(() => {});
+
+  // El titulo/progreso ya pasa a mostrar el tema entrante desde que
+  // arranca el cruce, como en una radio real.
+  displayAudio = incoming;
+  applyNowPlaying(next);
+
+  const stepMs = 50;
+  const steps = Math.max(1, Math.round(CONFIG.audioCrossfadeMs / stepMs));
+  let step = 0;
+  const timer = setInterval(() => {
+    step++;
+    const t = Math.min(1, step / steps);
+    outgoing.volume = 1 - t;
+    incoming.volume = t;
+    if (t >= 1) {
+      clearInterval(timer);
+      outgoing.pause();
+      outgoing.removeAttribute("src");
+      outgoing.load();
+      frontAudio = incoming;
+      crossfading = false;
+    }
+  }, stepMs);
+}
+
+function handleTimeUpdate(el) {
+  if (el === displayAudio && el.duration && isFinite(el.duration)) {
+    progressFill.style.width = (el.currentTime / el.duration) * 100 + "%";
   }
-});
+  // Solo el audio que esta "al frente" (el que se esta por terminar)
+  // dispara el proximo cruce, y solo si dura lo suficiente como para
+  // que un crossfade tenga sentido (evita temas muy cortos disparando
+  // el cruce casi al arrancar).
+  if (el === frontAudio && !crossfading && el.duration && isFinite(el.duration)) {
+    const fadeSec = CONFIG.audioCrossfadeMs / 1000;
+    const remaining = el.duration - el.currentTime;
+    if (el.duration > fadeSec * 1.5 && remaining <= fadeSec) {
+      beginCrossfade();
+    }
+  }
+}
+
+function handleEnded(el) {
+  // Red de seguridad: si el tema que esta al frente termina sin haber
+  // disparado el crossfade (ej. no se pudo leer la duracion a tiempo),
+  // pasamos al siguiente con un corte seco en vez de quedar en silencio.
+  if (el === frontAudio && !crossfading) {
+    hardSwitchToNext();
+  }
+}
+
+function handleAudioError(el) {
+  console.warn("Error reproduciendo, salto a la siguiente canción.");
+  if (el === frontAudio) {
+    crossfading = false;
+    setTimeout(hardSwitchToNext, 800);
+  } else {
+    // Fallo el tema que se estaba precargando para el cruce: lo
+    // abortamos y seguimos con el que ya estaba sonando.
+    crossfading = false;
+    el.pause();
+    el.removeAttribute("src");
+  }
+}
+
+for (const el of [audioA, audioB]) {
+  el.addEventListener("timeupdate", () => handleTimeUpdate(el));
+  el.addEventListener("ended", () => handleEnded(el));
+  el.addEventListener("error", () => handleAudioError(el));
+}
 
 autoplayBtn.addEventListener("click", () => {
   autoplayGate.classList.add("hidden");
-  audio.play();
+  displayAudio.play();
 });
 
 setInterval(async () => {
@@ -240,9 +356,10 @@ setInterval(async () => {
   // Si al arrancar la pagina la playlist estaba vacia (playlist.json
   // todavia no listo, red lenta, etc.) y recien ahora aparecen temas,
   // arrancamos la reproduccion aca — si no, el audio quedaba mudo el
-  // resto de la transmision porque nada mas vuelve a llamar a playNext().
+  // resto de la transmision porque nada mas vuelve a arrancar la
+  // primera cancion.
   if (playlist.length > 0 && !currentTrack) {
-    playNext();
+    startPlayback();
   }
 }, CONFIG.playlistRefreshMs);
 
@@ -251,8 +368,8 @@ setInterval(async () => {
 // solos cada rato, en vez de quedar mudos el resto de la transmision
 // esperando un click que en OBS nunca va a llegar.
 setInterval(() => {
-  if (currentTrack && audio.paused) {
-    audio.play().then(() => autoplayGate.classList.add("hidden")).catch(() => {});
+  if (currentTrack && displayAudio.paused) {
+    displayAudio.play().then(() => autoplayGate.classList.add("hidden")).catch(() => {});
   }
 }, 15000);
 
@@ -707,7 +824,7 @@ setTimeout(() => {
 
 (async function start() {
   await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds()]);
-  if (playlist.length > 0) playNext();
+  if (playlist.length > 0) startPlayback();
   else {
     trackTitleEl.textContent = "Sin canciones en /music";
     trackArtistEl.textContent = "Agregá archivos y actualizá playlist.json";

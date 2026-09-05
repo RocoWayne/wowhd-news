@@ -190,6 +190,22 @@ body.ticker-visible .player{
 .player.fading .player-title,
 .player.fading .player-artist{opacity:0;}
 
+/* Credito/atribucion discreto del artista, solo cuando la cancion lo
+   trae cargado (campo "credit" en music/playlist.json) - varios bancos
+   de musica libre de derechos lo exigen. Oculto por completo (sin
+   dejar hueco) si la cancion actual no tiene credito. */
+.player-credit{
+  font-size:11px;
+  color:var(--text-dim);
+  opacity:.75;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  transition:opacity .4s ease;
+}
+.player-credit:empty{display:none;}
+.player.fading .player-credit{opacity:0;}
+
 .progress-track{
   margin-top:10px;
   width:100%;

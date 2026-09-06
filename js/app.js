@@ -68,6 +68,13 @@ const CONFIG = {
   marketsFirstDelayMs: 15 * 60 * 1000,  // primera pantalla de mercados a los 15 min de abrir la pagina
   marketsIntervalMs: 90 * 60 * 1000,    // despues, cada 1 hora y media
   marketsDisplayMs: 30 * 1000,          // cuanto queda visible la pantalla de mercados
+  liveCams: [                           // lista curada a mano de camaras publicas (nombre + URL de YouTube)
+    { name: "Times Square, Nueva York", url: "https://www.youtube.com/watch?v=VjSIXFwB_WQ" },
+    { name: "Times Square Norte, Nueva York", url: "https://www.youtube.com/watch?v=JQ_jwk_7OVE" },
+  ],
+  liveCamFirstDelayMs: 20 * 60 * 1000,  // primera camara a los 20 min de abrir la pagina
+  liveCamIntervalMs: 25 * 60 * 1000,    // despues, cada 25 min aprox
+  liveCamDisplayMs: 45 * 1000,          // cuanto queda visible cada camara
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];
@@ -654,9 +661,10 @@ function showNewsItem(item, index) {
 // Si no hay noticias cargadas, no hace nada mas que asegurarse de que
 // el slideshow este corriendo.
 async function runNewsBlock() {
-  // No pisar la pantalla de clima, cotizacion o mercados si justo
-  // estan en pantalla: esta tanda se saltea y arranca en el proximo turno.
-  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
+  // No pisar la pantalla de clima, cotizacion, mercados o camara en
+  // vivo si justo estan en pantalla: esta tanda se saltea y arranca en
+  // el proximo turno.
+  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning || liveCamBlockRunning) return;
   newsBlockRunning = true;
   pauseBackgroundRotation();
 
@@ -1061,9 +1069,10 @@ function buildWeatherColumns() {
 let weatherBlockRunning = false;
 
 async function runWeatherBlock() {
-  // No pisar un bloque de noticias, cotizacion o mercados que ya este
-  // en pantalla; se saltea esta vez y se reintenta en el proximo turno.
-  if (weatherBlockRunning || newsBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
+  // No pisar un bloque de noticias, cotizacion, mercados o camara en
+  // vivo que ya este en pantalla; se saltea esta vez y se reintenta en
+  // el proximo turno.
+  if (weatherBlockRunning || newsBlockRunning || currencyBlockRunning || marketsBlockRunning || liveCamBlockRunning) return;
 
   // Si todavia no hay ningun dato de clima cargado (API caida, sin
   // conexion, primera carga que no llego a tiempo), no mostramos la
@@ -1166,9 +1175,9 @@ function buildCurrencyColumns() {
 let currencyBlockRunning = false;
 
 async function runCurrencyBlock() {
-  // No pisar noticias, clima o mercados si justo estan en pantalla; se
-  // saltea esta vez y se reintenta en el proximo turno.
-  if (currencyBlockRunning || newsBlockRunning || weatherBlockRunning || marketsBlockRunning) return;
+  // No pisar noticias, clima, mercados o camara en vivo si justo estan
+  // en pantalla; se saltea esta vez y se reintenta en el proximo turno.
+  if (currencyBlockRunning || newsBlockRunning || weatherBlockRunning || marketsBlockRunning || liveCamBlockRunning) return;
 
   // Si todavia no hay ningun dato de cotizacion cargado (API caida,
   // sin conexion), no mostramos la pantalla vacia - se reintenta sola
@@ -1274,9 +1283,10 @@ function buildMarketsColumns() {
 let marketsBlockRunning = false;
 
 async function runMarketsBlock() {
-  // No pisar noticias, clima o cotizacion si justo estan en pantalla;
-  // se saltea esta vez y se reintenta en el proximo turno.
-  if (marketsBlockRunning || newsBlockRunning || weatherBlockRunning || currencyBlockRunning) return;
+  // No pisar noticias, clima, cotizacion o camara en vivo si justo
+  // estan en pantalla; se saltea esta vez y se reintenta en el
+  // proximo turno.
+  if (marketsBlockRunning || newsBlockRunning || weatherBlockRunning || currencyBlockRunning || liveCamBlockRunning) return;
 
   // Si todavia no hay ningun dato de mercados cargado (API caida, sin
   // conexion), no mostramos la pantalla vacia - se reintenta sola en
@@ -1313,6 +1323,68 @@ setTimeout(() => {
   setInterval(runMarketsBlock, CONFIG.marketsIntervalMs);
 }, CONFIG.marketsFirstDelayMs);
 
+// ---------------- Cámara pública en vivo ----------------
+// Pantalla completa que reemplaza el fondo de publicidades cada tanto
+// (mismo mecanismo que noticias/clima/cotizacion/mercados), embebiendo
+// una camara de YouTube de la lista curada a mano en CONFIG.liveCams.
+// A diferencia de las otras pantallas, no depende de ninguna API: la
+// lista se edita a mano acá arriba en CONFIG, agregando/sacando
+// entradas con nombre + URL de YouTube.
+
+const livecamScreen = document.getElementById("livecamScreen");
+const livecamFrame = document.getElementById("livecamFrame");
+const livecamCaption = document.getElementById("livecamCaption");
+
+let liveCamIndex = 0;
+let liveCamBlockRunning = false;
+
+// Acepta las formas mas comunes de URL de YouTube
+// (watch?v=, youtu.be/, /live/, /embed/) y devuelve solo el ID del
+// video, o null si no matchea ninguna.
+function extractYoutubeVideoId(url) {
+  if (!url) return null;
+  const match = url.match(/(?:youtu\.be\/|[?&]v=|\/embed\/|\/live\/)([\w-]{11})/);
+  return match ? match[1] : null;
+}
+
+async function runLiveCamBlock() {
+  // No pisar noticias, clima, cotizacion o mercados si justo estan en
+  // pantalla; se saltea esta vez y se reintenta en el proximo turno.
+  if (liveCamBlockRunning || newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
+
+  if (!CONFIG.liveCams || CONFIG.liveCams.length === 0) return;
+
+  const cam = CONFIG.liveCams[liveCamIndex % CONFIG.liveCams.length];
+  liveCamIndex++;
+  const videoId = extractYoutubeVideoId(cam.url);
+  if (!videoId) return; // URL mal cargada en CONFIG.liveCams: se saltea en vez de romper
+
+  liveCamBlockRunning = true;
+  pauseBackgroundRotation();
+
+  livecamCaption.textContent = cam.name || "";
+  // mute=1 obligatorio (autoplay con audio esta bloqueado por los
+  // navegadores) y ademas no queremos que compita con la musica.
+  livecamFrame.src =
+    `https://www.youtube.com/embed/${videoId}` +
+    `?autoplay=1&mute=1&controls=0&modestbranding=1&rel=0&playsinline=1`;
+  livecamScreen.classList.add("visible");
+
+  await wait(CONFIG.liveCamDisplayMs);
+
+  livecamScreen.classList.remove("visible");
+  await wait(700); // deja terminar el fade de salida antes de retomar fondos
+  livecamFrame.src = ""; // corta la carga/reproduccion del iframe fuera de pantalla
+
+  liveCamBlockRunning = false;
+  resumeBackgroundRotation();
+}
+
+setTimeout(() => {
+  runLiveCamBlock();
+  setInterval(runLiveCamBlock, CONFIG.liveCamIntervalMs);
+}, CONFIG.liveCamFirstDelayMs);
+
 // ---------------- Popup de suscripción ----------------
 // Desciende desde el centro-arriba, queda visible subscribeDisplayMs
 // y vuelve a subir. Arranca al minuto de abrir la pagina y despues se
@@ -1322,9 +1394,9 @@ const subscribePopup = document.getElementById("subscribePopup");
 
 function showSubscribePopup() {
   // Evitamos superponerlo con la pantalla de noticias, clima,
-  // cotizacion o mercados a pantalla completa; si coincide, se salta
-  // esta vez y aparece en el proximo turno.
-  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
+  // cotizacion, mercados o camara en vivo a pantalla completa; si
+  // coincide, se salta esta vez y aparece en el proximo turno.
+  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning || liveCamBlockRunning) return;
 
   subscribePopup.classList.add("visible");
   setTimeout(() => {

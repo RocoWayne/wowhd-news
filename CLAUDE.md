@@ -95,11 +95,21 @@ secciones comentadas dentro del archivo:
   precio y variación 24hs de las criptomonedas de
   `CONFIG.marketsAssets` (`loadMarkets`/`runMarketsBlock`). Se pisa
   mutuamente con noticias, clima y cotización.
+- **Cámara pública en vivo**: mismo mecanismo de pantalla completa que
+  las anteriores, pero sin ninguna API: embebe una cámara de YouTube de
+  la lista curada a mano en `CONFIG.liveCams` (nombre + URL), extrae el
+  ID del video con `extractYoutubeVideoId` (acepta las URLs típicas de
+  YouTube) y arma el iframe con `autoplay=1&mute=1` (mute obligatorio
+  para no competir con la música) (`runLiveCamBlock`). El nombre del
+  lugar se muestra en `#livecamCaption`, ubicado a propósito en la
+  esquina inferior **derecha** (la izquierda la tapa el reproductor de
+  música, que tiene mayor z-index). Se pisa mutuamente con noticias,
+  clima, cotización y mercados.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
   simples que muestran/ocultan elementos del DOM. El ticker es siempre
   visible (su z-index queda por encima de noticias/clima/cotización/
-  mercados); el popup se coordina para no superponerse con esos cuatro
-  bloques.
+  mercados/cámara en vivo); el popup se coordina para no superponerse
+  con esos cinco bloques.
 - **Resiliencia**: todos los `fetch()` de refresco están pensados para
   fallar en silencio y reintentar en el próximo ciclo (no hay caída
   dura de la página si un JSON o archivo puntual falla) — ver la

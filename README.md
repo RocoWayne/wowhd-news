@@ -343,6 +343,35 @@ cotización.
   `marketsIntervalMs` (cada cuánto se repite) y `marketsDisplayMs`
   (cuánto queda visible cada vez).
 
+### Pantalla de cámara pública en vivo
+
+Cada tanto (por defecto, cada 25 minutos aprox., empezando a los 20
+minutos de abrir la página) aparece una pantalla completa con una
+cámara pública embebida de YouTube, con el nombre del lugar en un
+cartel abajo a la derecha.
+
+- A diferencia de clima/cotización/mercados, **no usa ninguna API**:
+  la lista de cámaras se carga a mano en `js/app.js` →
+  `CONFIG.liveCams`, como un array de `{ name, url }` (la URL puede
+  ser cualquier formato típico de YouTube: `watch?v=`, `youtu.be/`,
+  `/live/`). Para agregar o sacar cámaras, editar directamente esa
+  lista.
+- El video se reproduce siempre muteado (para no competir con la
+  música) y sin controles.
+- Si una URL de la lista no tiene un ID de video reconocible, esa
+  entrada se saltea sola en vez de romper el bloque.
+- Se pisa mutuamente con las pantallas de noticias, clima, cotización
+  y mercados: si coinciden, una se saltea esa vez y aparece en el
+  próximo turno.
+- El resto de los tiempos se ajustan en `js/app.js` → `CONFIG`:
+  `liveCamFirstDelayMs` (cuándo aparece la primera vez),
+  `liveCamIntervalMs` (cada cuánto se repite) y `liveCamDisplayMs`
+  (cuánto queda visible cada cámara).
+- **Importante**: al no depender de una API, no hay una forma limpia
+  de detectar si una cámara puntual se cayó o dejó de transmitir (a
+  diferencia de un fetch que falla prolijo) — conviene revisar la
+  lista de tanto en tanto para sacar cámaras que ya no funcionen.
+
 ### Limpieza automática de `news.json`
 
 `news/news.json` (las noticias cargadas a mano) no tiene un tope de
@@ -629,6 +658,10 @@ colores de marca sueltos por otras partes del CSS):
 | `marketsFirstDelayMs` | cuándo aparece la primera pantalla de mercados después de abrir la página |
 | `marketsIntervalMs` | cada cuánto se repite la pantalla de mercados |
 | `marketsDisplayMs` | cuánto queda visible la pantalla de mercados cada vez |
+| `liveCams` | lista curada a mano de cámaras públicas (nombre + URL de YouTube) |
+| `liveCamFirstDelayMs` | cuándo aparece la primera cámara después de abrir la página |
+| `liveCamIntervalMs` | cada cuánto se repite la pantalla de cámara en vivo |
+| `liveCamDisplayMs` | cuánto queda visible cada cámara |
 
 ## Resiliencia para transmisiones largas (24/7)
 

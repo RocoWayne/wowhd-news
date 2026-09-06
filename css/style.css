@@ -635,6 +635,64 @@ body.ticker-visible .player{
   color:var(--text-dim);
 }
 
+/* ---------- Pantalla de camara publica en vivo ----------
+   Reemplaza el fondo de publicidades cada CONFIG.liveCamIntervalMs
+   (ver runLiveCamBlock en js/app.js). A diferencia de las otras
+   pantallas a pantalla completa, esta no usa el fondo plano de marca:
+   el iframe de YouTube ocupa toda la pantalla (escalado tipo
+   "object-fit:cover" via min-width/min-height en vw/vh, ya que un
+   iframe no soporta object-fit), con el nombre del lugar superpuesto
+   abajo, arriba del ticker (que es siempre visible). */
+.livecam-screen{
+  position:fixed;
+  inset:0;
+  z-index:5;
+  background:#000;
+  opacity:0;
+  visibility:hidden;
+  pointer-events:none;
+  overflow:hidden;
+  transition:opacity .7s ease, visibility 0s linear .7s;
+}
+.livecam-screen.visible{
+  opacity:1;
+  visibility:visible;
+  transition:opacity .7s ease, visibility 0s linear 0s;
+}
+.livecam-frame-wrap{
+  position:absolute;
+  inset:0;
+  overflow:hidden;
+}
+.livecam-frame{
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:100%;
+  height:100%;
+  min-width:177.78vh; /* cubre todo el ancho en pantallas mas angostas que 16:9 */
+  min-height:56.25vw; /* cubre todo el alto en pantallas mas anchas que 16:9 */
+  transform:translate(-50%, -50%);
+  border:0;
+  pointer-events:none; /* es solo fondo: no queremos que capture clicks/scroll */
+}
+/* Esquina inferior derecha a proposito: la izquierda la ocupa el
+   reproductor de musica (que tiene mayor z-index y tapa cualquier cosa
+   puesta ahi), y abajo de todo esta el ticker (siempre visible). */
+.livecam-caption{
+  position:absolute;
+  right:40px;
+  bottom:90px;
+  padding:14px 26px;
+  background:linear-gradient(270deg, var(--accent-2), rgba(0,36,90,0));
+  border-right:4px solid var(--accent);
+  border-radius:4px;
+  font-size:22px;
+  font-weight:800;
+  color:#fff;
+  text-shadow:0 2px 10px rgba(0,0,0,0.5);
+}
+
 /* ---------- Popup de suscripción ---------- */
 .subscribe-popup{
   position:fixed;

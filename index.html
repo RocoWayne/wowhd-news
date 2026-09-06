@@ -115,6 +115,26 @@
     <div class="markets-columns" id="marketsColumns"></div>
   </section>
 
+  <!-- Pantalla de camara publica en vivo: reemplaza el fondo de
+       publicidades cada tanto (ver js/app.js -> runLiveCamBlock),
+       embebiendo una camara de YouTube de la lista curada a mano en
+       CONFIG.liveCams, con el nombre del lugar superpuesto abajo. A
+       diferencia de clima/cotizacion/mercados, esta no depende de
+       ninguna API: la lista de camaras se carga y edita a mano. -->
+  <section class="livecam-screen" id="livecamScreen">
+    <div class="livecam-frame-wrap">
+      <iframe
+        id="livecamFrame"
+        class="livecam-frame"
+        src=""
+        title="Cámara en vivo"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+      ></iframe>
+    </div>
+    <div class="livecam-caption" id="livecamCaption"></div>
+  </section>
+
   <!-- Popup de suscripción: desciende desde arriba al centro cada
        tanto, invitando a suscribirse. -->
   <div class="subscribe-popup" id="subscribePopup">

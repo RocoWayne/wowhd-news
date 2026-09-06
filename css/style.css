@@ -99,25 +99,25 @@ body.ticker-visible .bg-credit{
   left:32px;
   display:flex;
   align-items:center;
-  gap:12px;
-  padding:14px 24px;
+  gap:14px;
+  padding:18px 30px;
   background:var(--card-bg);
   border:1px solid var(--card-border);
   border-radius:999px;
   backdrop-filter:blur(6px);
   font-weight:600;
   letter-spacing:1px;
-  font-size:24px;
+  font-size:32px;
 }
 .brand-dot{
-  width:14px;height:14px;border-radius:50%;
+  width:18px;height:18px;border-radius:50%;
   background:var(--accent);
   box-shadow:0 0 10px 2px var(--accent);
   animation:pulse 1.6s ease-in-out infinite;
 }
 .brand-name{color:var(--text); font-weight:800;}
 .brand-sep{color:var(--text-dim);}
-.brand-live{color:var(--accent-3); font-size:19px;}
+.brand-live{color:var(--accent-3); font-size:25px;}
 
 @keyframes pulse{
   0%,100%{opacity:1; transform:scale(1);}
@@ -129,13 +129,13 @@ body.ticker-visible .bg-credit{
   z-index:10;
   top:28px;
   right:32px;
-  padding:14px 24px;
+  padding:18px 30px;
   background:var(--card-bg);
   border:1px solid var(--card-border);
   border-radius:999px;
   backdrop-filter:blur(6px);
   font-variant-numeric:tabular-nums;
-  font-size:24px;
+  font-size:32px;
   font-weight:600;
   letter-spacing:1px;
 }

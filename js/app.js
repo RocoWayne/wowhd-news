@@ -85,6 +85,7 @@ const CONFIG = {
   liveCamFirstDelayMs: 20 * 60 * 1000,  // primera camara a los 20 min (cae en :20-:25 de cada hora, el hueco mas grande de la hora: lejos de noticias/clima/cotizacion/mercados)
   liveCamIntervalMs: 60 * 60 * 1000,    // despues, 1 vez por hora
   liveCamDisplayMs: 5 * 60 * 1000,      // cuanto queda visible cada camara (5 min)
+  tickerEnabled: false,                 // apagado momentaneamente a pedido - poner en true para reactivar el ticker de redes
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];
@@ -614,9 +615,10 @@ function wait(ms) {
 }
 
 // Ticker inferior de redes: siempre visible (incluso durante noticias
-// y clima, ya que su z-index queda por encima de esas pantallas). El
-// CSS hace el resto (animacion de entrada y marquee corriendo).
-document.body.classList.add("ticker-visible");
+// y clima, ya que su z-index queda por encima de esas pantallas) salvo
+// que CONFIG.tickerEnabled este en false (apagado momentaneo a pedido).
+// El CSS hace el resto (animacion de entrada y marquee corriendo).
+if (CONFIG.tickerEnabled) document.body.classList.add("ticker-visible");
 
 // Carga una imagen en "imgEl" y resuelve true/false segun si termino
 // cargando bien o no (error, o se paso de timeoutMs sin resolver -

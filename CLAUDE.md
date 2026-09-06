@@ -51,7 +51,10 @@ secciones comentadas dentro del archivo:
   (`audioA`/`audioB`, mismo patrón que las dos capas de fondo) para
   hacer crossfade real entre canciones (`beginCrossfade`), con un
   corte seco de respaldo (`hardSwitchToNext`) si el cruce no llega a
-  dispararse a tiempo.
+  dispararse a tiempo, y `abortCrossfade()` si el tema ENTRANTE de un
+  cruce en curso falla a mitad de camino (crítico: sin esto, el
+  interval del fundido queda huérfano y termina pisando también al
+  tema que sí sonaba bien, dejando la música muda sin recuperación).
 - **Noticias**: mezcla `news/news.json` (manual) + `news/rss.json`
   (auto-generado) y las muestra en bloques a pantalla completa
   (rotación temporizada, ver `CONFIG.newsIntervalMs` etc.), generando

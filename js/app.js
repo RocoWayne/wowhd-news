@@ -277,6 +277,12 @@ function hardSwitchToNext() {
   applyNowPlaying(next);
 }
 
+// Guardados a nivel modulo (no locales a beginCrossfade) para que
+// handleAudioError pueda abortar un cruce en curso de forma prolija -
+// ver abortCrossfade().
+let crossfadeTimer = null;
+let crossfadePreviousTrack = null;
+
 function beginCrossfade() {
   if (crossfading) return;
   const next = pickNextTrack();
@@ -285,6 +291,7 @@ function beginCrossfade() {
   const outgoing = frontAudio;
   const incoming = otherAudio(frontAudio);
   crossfading = true;
+  crossfadePreviousTrack = currentTrack;
 
   incoming.volume = 0;
   incoming.src = "music/" + encodeURIComponent(next.file);
@@ -300,13 +307,14 @@ function beginCrossfade() {
   const stepMs = 50;
   const steps = Math.max(1, Math.round(CONFIG.audioCrossfadeMs / stepMs));
   let step = 0;
-  const timer = setInterval(() => {
+  crossfadeTimer = setInterval(() => {
     step++;
     const t = Math.min(1, step / steps);
     outgoing.volume = 1 - t;
     incoming.volume = t;
     if (t >= 1) {
-      clearInterval(timer);
+      clearInterval(crossfadeTimer);
+      crossfadeTimer = null;
       outgoing.pause();
       outgoing.removeAttribute("src");
       outgoing.load();
@@ -314,6 +322,28 @@ function beginCrossfade() {
       crossfading = false;
     }
   }, stepMs);
+}
+
+// Si el tema ENTRANTE de un cruce falla a mitad de camino (404,
+// archivo corrupto, etc.), hay que abortar el cruce entero en vez de
+// dejar el interval de arriba corriendo solo: si lo dejamos, termina
+// igual pisando (pausando y sacandole el src) al tema que SI estaba
+// sonando bien, y reasigna frontAudio/displayAudio al elemento roto
+// (sin src) - a partir de ahi la musica queda muda para siempre, sin
+// forma de auto-recuperarse (un <audio> sin src no dispara timeupdate
+// ni error, asi que ni el proximo crossfade ni la red de seguridad de
+// cada 15s pueden hacer nada). Volvemos frontAudio/displayAudio al
+// tema que ya estaba andando, a volumen 1, y restauramos el "now
+// playing" a ese tema.
+function abortCrossfade() {
+  if (crossfadeTimer) {
+    clearInterval(crossfadeTimer);
+    crossfadeTimer = null;
+  }
+  frontAudio.volume = 1;
+  displayAudio = frontAudio;
+  crossfading = false;
+  if (crossfadePreviousTrack) applyNowPlaying(crossfadePreviousTrack);
 }
 
 function handleTimeUpdate(el) {
@@ -344,15 +374,16 @@ function handleEnded(el) {
 
 function handleAudioError(el) {
   console.warn("Error reproduciendo, salto a la siguiente canción.");
+  el.pause();
+  el.removeAttribute("src");
   if (el === frontAudio) {
     crossfading = false;
     setTimeout(hardSwitchToNext, 800);
-  } else {
-    // Fallo el tema que se estaba precargando para el cruce: lo
-    // abortamos y seguimos con el que ya estaba sonando.
-    crossfading = false;
-    el.pause();
-    el.removeAttribute("src");
+  } else if (crossfading) {
+    // Fallo el tema entrante a mitad de un cruce: abortamos el cruce
+    // entero (ver abortCrossfade) en vez de dejar el interval huerfano
+    // corriendo, que terminaria rompiendo tambien al que sí sonaba bien.
+    abortCrossfade();
   }
 }
 

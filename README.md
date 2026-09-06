@@ -317,6 +317,32 @@ que la pantalla de clima.
   `currencyIntervalMs` (cada cuánto se repite) y `currencyDisplayMs`
   (cuánto queda visible cada vez).
 
+### Pantalla de resumen de mercados (cripto)
+
+Cada tanto (por defecto, cada 1 hora y media, empezando a los 15
+minutos de abrir la página) aparece una pantalla completa mostrando
+precio en USD y variación de las últimas 24hs de Bitcoin, Ethereum,
+BNB, Solana y XRP, en columnas — mismo mecanismo que clima y
+cotización.
+
+- Usa la API pública de **CoinGecko**, que no requiere API key ni
+  registro.
+- Si todavía no hay ningún dato cargado (API caída, sin conexión), la
+  pantalla directamente no se muestra esa vez, y se reintenta sola en
+  el próximo turno.
+- Los datos se refrescan solos cada `marketsRefreshMs` (por defecto,
+  30 minutos).
+- Se pisa mutuamente con las pantallas de noticias, clima y
+  cotización: si coinciden, una se saltea esa vez y aparece en el
+  próximo turno.
+- Las criptomonedas se ajustan en `js/app.js` → `CONFIG.marketsAssets`:
+  cada entrada necesita el `id` de CoinGecko, el `symbol` y el
+  `label`.
+- El resto de los tiempos se ajustan en `js/app.js` → `CONFIG`:
+  `marketsFirstDelayMs` (cuándo aparece la primera vez),
+  `marketsIntervalMs` (cada cuánto se repite) y `marketsDisplayMs`
+  (cuánto queda visible cada vez).
+
 ### Limpieza automática de `news.json`
 
 `news/news.json` (las noticias cargadas a mano) no tiene un tope de
@@ -598,6 +624,11 @@ colores de marca sueltos por otras partes del CSS):
 | `currencyFirstDelayMs` | cuándo aparece la primera pantalla de cotización después de abrir la página |
 | `currencyIntervalMs` | cada cuánto se repite la pantalla de cotización |
 | `currencyDisplayMs` | cuánto queda visible la pantalla de cotización cada vez |
+| `marketsAssets` | criptomonedas que se muestran en la pantalla de mercados (id de CoinGecko, símbolo y nombre) |
+| `marketsRefreshMs` | cada cuánto se vuelve a consultar la API de mercados |
+| `marketsFirstDelayMs` | cuándo aparece la primera pantalla de mercados después de abrir la página |
+| `marketsIntervalMs` | cada cuánto se repite la pantalla de mercados |
+| `marketsDisplayMs` | cuánto queda visible la pantalla de mercados cada vez |
 
 ## Resiliencia para transmisiones largas (24/7)
 

@@ -90,10 +90,16 @@ secciones comentadas dentro del archivo:
   `CONFIG.currencyCurrencies` (`loadCurrency`/`runCurrencyBlock`). Se
   pisa mutuamente con noticias y clima, y el popup de suscripción
   también se saltea si está en pantalla.
+- **Resumen de mercados (cripto)**: mismo mecanismo que clima/
+  cotización, vía la API pública de CoinGecko (sin API key), mostrando
+  precio y variación 24hs de las criptomonedas de
+  `CONFIG.marketsAssets` (`loadMarkets`/`runMarketsBlock`). Se pisa
+  mutuamente con noticias, clima y cotización.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
   simples que muestran/ocultan elementos del DOM. El ticker es siempre
-  visible (su z-index queda por encima de noticias/clima/cotización);
-  el popup se coordina para no superponerse con esos tres bloques.
+  visible (su z-index queda por encima de noticias/clima/cotización/
+  mercados); el popup se coordina para no superponerse con esos cuatro
+  bloques.
 - **Resiliencia**: todos los `fetch()` de refresco están pensados para
   fallar en silencio y reintentar en el próximo ciclo (no hay caída
   dura de la página si un JSON o archivo puntual falla) — ver la

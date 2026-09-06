@@ -56,6 +56,18 @@ const CONFIG = {
   currencyFirstDelayMs: 10 * 60 * 1000, // primera pantalla de cotizacion a los 10 min de abrir la pagina
   currencyIntervalMs: 60 * 60 * 1000,   // despues, cada 1 hora aprox
   currencyDisplayMs: 30 * 1000,         // cuanto queda visible la pantalla de cotizacion
+  marketsApiUrl: "https://api.coingecko.com/api/v3/simple/price", // API publica de CoinGecko, sin API key
+  marketsAssets: [                      // criptomonedas que se muestran (id de CoinGecko + simbolo/nombre)
+    { id: "bitcoin", symbol: "BTC", label: "Bitcoin" },
+    { id: "ethereum", symbol: "ETH", label: "Ethereum" },
+    { id: "binancecoin", symbol: "BNB", label: "BNB" },
+    { id: "solana", symbol: "SOL", label: "Solana" },
+    { id: "ripple", symbol: "XRP", label: "XRP" },
+  ],
+  marketsRefreshMs: 30 * 60 * 1000,     // re-consultar los precios cada 30 min
+  marketsFirstDelayMs: 15 * 60 * 1000,  // primera pantalla de mercados a los 15 min de abrir la pagina
+  marketsIntervalMs: 90 * 60 * 1000,    // despues, cada 1 hora y media
+  marketsDisplayMs: 30 * 1000,          // cuanto queda visible la pantalla de mercados
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];
@@ -642,9 +654,9 @@ function showNewsItem(item, index) {
 // Si no hay noticias cargadas, no hace nada mas que asegurarse de que
 // el slideshow este corriendo.
 async function runNewsBlock() {
-  // No pisar la pantalla de clima ni la de cotizacion si justo estan en
-  // pantalla: esta tanda se saltea y arranca en el proximo turno.
-  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning) return;
+  // No pisar la pantalla de clima, cotizacion o mercados si justo
+  // estan en pantalla: esta tanda se saltea y arranca en el proximo turno.
+  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
   newsBlockRunning = true;
   pauseBackgroundRotation();
 
@@ -1049,9 +1061,9 @@ function buildWeatherColumns() {
 let weatherBlockRunning = false;
 
 async function runWeatherBlock() {
-  // No pisar un bloque de noticias o de cotizacion que ya este en
-  // pantalla; se saltea esta vez y se reintenta en el proximo turno.
-  if (weatherBlockRunning || newsBlockRunning || currencyBlockRunning) return;
+  // No pisar un bloque de noticias, cotizacion o mercados que ya este
+  // en pantalla; se saltea esta vez y se reintenta en el proximo turno.
+  if (weatherBlockRunning || newsBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
 
   // Si todavia no hay ningun dato de clima cargado (API caida, sin
   // conexion, primera carga que no llego a tiempo), no mostramos la
@@ -1154,9 +1166,9 @@ function buildCurrencyColumns() {
 let currencyBlockRunning = false;
 
 async function runCurrencyBlock() {
-  // No pisar noticias o clima si justo estan en pantalla; se saltea
-  // esta vez y se reintenta en el proximo turno.
-  if (currencyBlockRunning || newsBlockRunning || weatherBlockRunning) return;
+  // No pisar noticias, clima o mercados si justo estan en pantalla; se
+  // saltea esta vez y se reintenta en el proximo turno.
+  if (currencyBlockRunning || newsBlockRunning || weatherBlockRunning || marketsBlockRunning) return;
 
   // Si todavia no hay ningun dato de cotizacion cargado (API caida,
   // sin conexion), no mostramos la pantalla vacia - se reintenta sola
@@ -1187,6 +1199,112 @@ setTimeout(() => {
   setInterval(runCurrencyBlock, CONFIG.currencyIntervalMs);
 }, CONFIG.currencyFirstDelayMs);
 
+// ---------------- Resumen de mercados (cripto) ----------------
+// Pantalla completa que reemplaza el fondo de publicidades cada tanto
+// (mismo mecanismo que noticias/clima/cotizacion), mostrando precio y
+// variacion 24hs de las criptomonedas de CONFIG.marketsAssets. Usa la
+// API publica de CoinGecko (sin API key). Mismo esquema que las otras
+// pantallas: los datos se refrescan solos cada CONFIG.marketsRefreshMs,
+// y la pantalla se dispara aparte cada CONFIG.marketsIntervalMs con el
+// ultimo dato cargado.
+
+const marketsScreen = document.getElementById("marketsScreen");
+const marketsColumns = document.getElementById("marketsColumns");
+
+// { bitcoin: { usd: 65000, usd_24h_change: 1.23 }, ... } o null si
+// todavia no se pudo cargar nada. Si una consulta falla, se deja el
+// ultimo dato bueno.
+let marketsData = null;
+
+async function loadMarkets() {
+  const ids = CONFIG.marketsAssets.map((a) => a.id).join(",");
+  const url = `${CONFIG.marketsApiUrl}?ids=${ids}&vs_currencies=usd&include_24hr_change=true`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return;
+    const data = await res.json();
+    if (data && typeof data === "object") marketsData = data;
+  } catch {
+    // sin conexion o API caida: nos quedamos con marketsData anterior
+  }
+}
+
+// Precios grandes (>=100, ej. Bitcoin) se redondean a entero con
+// separador de miles; los menores muestran mas decimales para no
+// perder precision (ej. XRP, que vale centavos de dolar).
+function formatMarketPrice(value) {
+  if (value == null || !isFinite(value)) return "--";
+  if (value >= 100) return "$" + Math.round(value).toLocaleString("es-AR");
+  if (value >= 1) return "$" + value.toLocaleString("es-AR", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  return "$" + value.toLocaleString("es-AR", { minimumFractionDigits: 3, maximumFractionDigits: 4 });
+}
+
+function formatMarketChange(value) {
+  if (value == null || !isFinite(value)) return "";
+  const arrow = value >= 0 ? "▲" : "▼";
+  const sign = value >= 0 ? "+" : "";
+  return `${arrow} ${sign}${value.toFixed(2)}%`;
+}
+
+function buildMarketsColumns() {
+  marketsColumns.innerHTML = "";
+  CONFIG.marketsAssets.forEach((asset) => {
+    const entry = marketsData ? marketsData[asset.id] : null;
+    const price = entry ? entry.usd : null;
+    const col = document.createElement("div");
+    col.className = "markets-col";
+    if (price == null) {
+      col.innerHTML = `
+        <div class="markets-symbol">${asset.symbol}</div>
+        <div class="markets-label">Sin datos</div>
+      `;
+    } else {
+      col.innerHTML = `
+        <div class="markets-symbol">${asset.symbol}</div>
+        <div class="markets-label">${asset.label}</div>
+        <div class="markets-price">${formatMarketPrice(price)}</div>
+        <div class="markets-change">${formatMarketChange(entry.usd_24h_change)}</div>
+      `;
+    }
+    marketsColumns.appendChild(col);
+  });
+}
+
+let marketsBlockRunning = false;
+
+async function runMarketsBlock() {
+  // No pisar noticias, clima o cotizacion si justo estan en pantalla;
+  // se saltea esta vez y se reintenta en el proximo turno.
+  if (marketsBlockRunning || newsBlockRunning || weatherBlockRunning || currencyBlockRunning) return;
+
+  // Si todavia no hay ningun dato de mercados cargado (API caida, sin
+  // conexion), no mostramos la pantalla vacia - se reintenta sola en
+  // el proximo turno con lo que traiga el proximo loadMarkets().
+  const hasData =
+    marketsData && CONFIG.marketsAssets.some((a) => marketsData[a.id] && marketsData[a.id].usd != null);
+  if (!hasData) return;
+
+  marketsBlockRunning = true;
+  pauseBackgroundRotation();
+
+  buildMarketsColumns();
+
+  marketsScreen.classList.add("visible");
+  await wait(CONFIG.marketsDisplayMs);
+  marketsScreen.classList.remove("visible");
+  await wait(700); // deja terminar el fade de salida antes de retomar fondos
+
+  marketsBlockRunning = false;
+  resumeBackgroundRotation();
+}
+
+setInterval(loadMarkets, CONFIG.marketsRefreshMs);
+
+setTimeout(() => {
+  runMarketsBlock();
+  setInterval(runMarketsBlock, CONFIG.marketsIntervalMs);
+}, CONFIG.marketsFirstDelayMs);
+
 // ---------------- Popup de suscripción ----------------
 // Desciende desde el centro-arriba, queda visible subscribeDisplayMs
 // y vuelve a subir. Arranca al minuto de abrir la pagina y despues se
@@ -1195,10 +1313,10 @@ setTimeout(() => {
 const subscribePopup = document.getElementById("subscribePopup");
 
 function showSubscribePopup() {
-  // Evitamos superponerlo con la pantalla de noticias, clima o
-  // cotizacion a pantalla completa; si coincide, se salta esta vez y
-  // aparece en el proximo turno.
-  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning) return;
+  // Evitamos superponerlo con la pantalla de noticias, clima,
+  // cotizacion o mercados a pantalla completa; si coincide, se salta
+  // esta vez y aparece en el proximo turno.
+  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
 
   subscribePopup.classList.add("visible");
   setTimeout(() => {
@@ -1214,7 +1332,7 @@ setTimeout(() => {
 // ---------------- Arranque ----------------
 
 (async function start() {
-  await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds(), loadWeather(), loadCurrency()]);
+  await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds(), loadWeather(), loadCurrency(), loadMarkets()]);
   if (playlist.length > 0) startPlayback();
   else {
     trackTitleEl.textContent = "Sin canciones en /music";

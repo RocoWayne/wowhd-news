@@ -104,6 +104,17 @@
     <div class="currency-columns" id="currencyColumns"></div>
   </section>
 
+  <!-- Pantalla de resumen de mercados (cripto): reemplaza el fondo de
+       publicidades cada tanto (ver js/app.js -> runMarketsBlock),
+       mostrando precio y variación 24hs de las principales
+       criptomonedas. Mismo mecanismo de fade y fondo plano que
+       news-screen/weather-screen/currency-screen. Las columnas se
+       arman dinamicamente en js/app.js. -->
+  <section class="markets-screen" id="marketsScreen">
+    <div class="markets-title" id="marketsTitle">Resumen de mercados</div>
+    <div class="markets-columns" id="marketsColumns"></div>
+  </section>
+
   <!-- Popup de suscripción: desciende desde arriba al centro cada
        tanto, invitando a suscribirse. -->
   <div class="subscribe-popup" id="subscribePopup">

@@ -572,9 +572,9 @@ body.ticker-visible .player{
 }
 
 /* ---------- Ticker inferior de redes ----------
-   Visible solo cuando NO hay un bloque de noticias en pantalla
-   (js/app.js hace toggle de body.ticker-visible). Franja completa al
-   pie de la pantalla, con un marquee infinito de iconos + texto. */
+   Siempre visible, incluso durante noticias y clima (su z-index queda
+   por encima de esas pantallas a proposito). Franja completa al pie
+   de la pantalla, con un marquee infinito de iconos + texto. */
 .social-ticker{
   position:fixed;
   left:0;

@@ -571,12 +571,10 @@ function wait(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-// Ticker inferior de redes: visible solo mientras NO hay un bloque de
-// noticias en pantalla (ver runNewsBlock). El CSS hace el resto
-// (aparecer/desaparecer y correr el marquee solo cuando esta visible).
-function setSocialTickerVisible(visible) {
-  document.body.classList.toggle("ticker-visible", visible);
-}
+// Ticker inferior de redes: siempre visible (incluso durante noticias
+// y clima, ya que su z-index queda por encima de esas pantallas). El
+// CSS hace el resto (animacion de entrada y marquee corriendo).
+document.body.classList.add("ticker-visible");
 
 // Muestra una noticia: primero hace un crossfade rapido de #newsContent
 // (tag/imagen/texto/QR) hacia el contenido nuevo, recien ahi arranca a
@@ -635,7 +633,6 @@ async function runNewsBlock() {
   // runWeatherBlock): esta tanda se saltea y arranca en el proximo turno.
   if (newsBlockRunning || weatherBlockRunning) return;
   newsBlockRunning = true;
-  setSocialTickerVisible(false);
   pauseBackgroundRotation();
 
   if (newsList && newsList.length > 0) {
@@ -668,7 +665,6 @@ async function runNewsBlock() {
 
   newsBlockRunning = false;
   resumeBackgroundRotation();
-  setSocialTickerVisible(true);
 }
 
 setInterval(async () => {
@@ -1052,7 +1048,6 @@ async function runWeatherBlock() {
   if (!hasData) return;
 
   weatherBlockRunning = true;
-  setSocialTickerVisible(false);
   pauseBackgroundRotation();
 
   const today = new Intl.DateTimeFormat("es-AR", {
@@ -1071,7 +1066,6 @@ async function runWeatherBlock() {
 
   weatherBlockRunning = false;
   resumeBackgroundRotation();
-  setSocialTickerVisible(true);
 }
 
 setInterval(loadWeather, CONFIG.weatherRefreshMs);

@@ -263,6 +263,33 @@ están disponibles) — sin pisar nunca lo que cargaste a mano en
 - El intervalo (2 horas) se ajusta en
   `.github/workflows/update-news-rss.yml` (línea `cron`).
 
+### Pantalla de clima
+
+Cada tanto (por defecto, cada 18 minutos, empezando a los 5 minutos de
+abrir la página) aparece una pantalla completa con el clima actual del
+día, en columnas, de las mismas 5 ciudades que rota el reloj (Buenos
+Aires, Lima, Bogotá, Ciudad de México y Nueva York), reemplazando el
+slideshow de fondos igual que un bloque de noticias.
+
+- Usa la API pública de **Open-Meteo** (`https://open-meteo.com`), que
+  no requiere API key ni registro.
+- Cada columna muestra bandera, ciudad, ícono + descripción del clima,
+  temperatura actual y mínima/máxima del día.
+- Los datos del clima se refrescan solos cada `weatherRefreshMs` (por
+  defecto, 30 minutos) — no hace falta actualizarlos más seguido.
+- La pantalla de clima y el bloque de noticias **nunca se superponen**:
+  si coinciden, uno de los dos se saltea esa vez y aparece en el
+  próximo turno (igual que ya hace el popup de suscripción con las
+  noticias).
+- Las ciudades se ajustan en `js/app.js` → `CONFIG.clockZones` (mismo
+  array que usa el reloj rotativo): cada entrada necesita `flag`,
+  `label`, `timeZone` y las coordenadas `lat`/`lon` para consultar el
+  clima de esa ciudad.
+- El resto de los tiempos se ajustan en `js/app.js` → `CONFIG`:
+  `weatherFirstDelayMs` (cuándo aparece la primera vez),
+  `weatherIntervalMs` (cada cuánto se repite) y `weatherDisplayMs`
+  (cuánto queda visible cada vez).
+
 ### Limpieza automática de `news.json`
 
 `news/news.json` (las noticias cargadas a mano) no tiene un tope de
@@ -533,6 +560,12 @@ colores de marca sueltos por otras partes del CSS):
 | `backgroundsRefreshMs` | cada cuánto relee la carpeta `backgrounds/` |
 | `backgroundImageDurationMs` | cuánto queda cada imagen de fondo antes de pasar a la siguiente |
 | `maxVideoDurationMs` | watchdog: si un video de fondo se cuelga sin terminar, fuerza el avance después de esto |
+| `clockRotationMs` | cada cuánto cambia de país el reloj |
+| `clockZones` | países que rotan en el reloj y en la pantalla de clima (bandera, ciudad, zona horaria y coordenadas) |
+| `weatherRefreshMs` | cada cuánto se vuelve a consultar la API del clima |
+| `weatherFirstDelayMs` | cuándo aparece la primera pantalla de clima después de abrir la página |
+| `weatherIntervalMs` | cada cuánto se repite la pantalla de clima |
+| `weatherDisplayMs` | cuánto queda visible la pantalla de clima cada vez |
 
 ## Resiliencia para transmisiones largas (24/7)
 

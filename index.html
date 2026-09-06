@@ -83,6 +83,16 @@
     <p>Estas fueron las noticias más importantes del momento.<br>Seguimos en un rato.</p>
   </section>
 
+  <!-- Pantalla de clima: reemplaza el fondo de publicidades cada tanto
+       (ver js/app.js -> runWeatherBlock), mostrando el clima actual de
+       las mismas ciudades que rota el reloj, en columnas. Mismo
+       mecanismo de fade y fondo plano que news-screen/news-outro. Las
+       columnas se arman dinamicamente en js/app.js. -->
+  <section class="weather-screen" id="weatherScreen">
+    <div class="weather-title" id="weatherTitle">Clima de hoy</div>
+    <div class="weather-columns" id="weatherColumns"></div>
+  </section>
+
   <!-- Popup de suscripción: desciende desde arriba al centro cada
        tanto, invitando a suscribirse. -->
   <div class="subscribe-popup" id="subscribePopup">

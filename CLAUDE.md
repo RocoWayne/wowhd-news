@@ -73,9 +73,19 @@ secciones comentadas dentro del archivo:
   videos, muestra el `credit` del fondo actual (si trae uno cargado)
   en `#bgCredit`, y llama a `logImpression()` (de
   `impressions.js`) cada vez que un fondo entra en pantalla.
+- **Clima**: pantalla completa (mismo mecanismo que las noticias) que
+  muestra el clima actual, en columnas, de las mismas ciudades que
+  rota el reloj (`CONFIG.clockZones`), vía la API pública de
+  Open-Meteo (sin API key). Los datos se refrescan solos cada
+  `CONFIG.weatherRefreshMs`; la pantalla se dispara aparte, cada
+  `CONFIG.weatherIntervalMs`, con el último dato cargado
+  (`loadWeather`/`runWeatherBlock`). Se pisa mutuamente con el bloque
+  de noticias (cada uno chequea que el otro no esté corriendo antes de
+  arrancar) y el popup de suscripción también se saltea si el clima
+  está en pantalla.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
   simples que muestran/ocultan elementos del DOM, coordinados para no
-  superponerse con los bloques de noticias.
+  superponerse con los bloques de noticias ni de clima.
 - **Resiliencia**: todos los `fetch()` de refresco están pensados para
   fallar en silencio y reintentar en el próximo ciclo (no hay caída
   dura de la página si un JSON o archivo puntual falla) — ver la

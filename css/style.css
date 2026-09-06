@@ -414,6 +414,85 @@ body.ticker-visible .player{
   margin:0;
 }
 
+/* ---------- Pantalla de clima ----------
+   Reemplaza el fondo de publicidades cada CONFIG.weatherIntervalMs (ver
+   runWeatherBlock en js/app.js), mostrando el clima actual de las
+   mismas ciudades que rota el reloj (CONFIG.clockZones), en columnas.
+   Mismo mecanismo de fade y fondo plano que .news-screen/.news-outro. */
+.weather-screen{
+  position:fixed;
+  inset:0;
+  z-index:5;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:50px;
+  padding:40px 6%;
+  text-align:center;
+  background:var(--news-flat-bg);
+  opacity:0;
+  visibility:hidden;
+  pointer-events:none;
+  transition:opacity .7s ease, visibility 0s linear .7s;
+}
+.weather-screen.visible{
+  opacity:1;
+  visibility:visible;
+  transition:opacity .7s ease, visibility 0s linear 0s;
+}
+.weather-title{
+  font-size:clamp(26px, 3vw, 42px);
+  font-weight:800;
+  color:#fff;
+  text-shadow:0 2px 12px rgba(0,0,0,0.35);
+}
+.weather-columns{
+  display:flex;
+  justify-content:center;
+  gap:clamp(20px, 4vw, 60px);
+  flex-wrap:wrap;
+}
+.weather-col{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:10px;
+  min-width:180px;
+  padding:26px 20px;
+  background:rgba(255,255,255,0.06);
+  border:1px solid rgba(255,255,255,0.12);
+  border-radius:20px;
+}
+.weather-flag{
+  font-size:36px;
+  line-height:1;
+}
+.weather-city{
+  font-size:20px;
+  font-weight:700;
+  color:var(--text-dim);
+  text-transform:uppercase;
+  letter-spacing:1px;
+}
+.weather-icon{
+  font-size:56px;
+  line-height:1;
+}
+.weather-temp-now{
+  font-size:44px;
+  font-weight:800;
+  color:#fff;
+}
+.weather-desc{
+  font-size:18px;
+  color:var(--text-dim);
+}
+.weather-temp-range{
+  font-size:16px;
+  color:rgba(255,255,255,0.7);
+}
+
 /* ---------- Popup de suscripción ---------- */
 .subscribe-popup{
   position:fixed;

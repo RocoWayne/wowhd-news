@@ -31,13 +31,18 @@ const CONFIG = {
   subscribeIntervalMs: 10 * 60 * 1000,  // despues, cada 10 minutos
   subscribeDisplayMs: 15 * 1000,        // cuanto queda visible cada vez
   clockRotationMs: 5 * 60 * 1000,       // cada cuanto cambia de pais el reloj
-  clockZones: [                         // paises que va mostrando el reloj, en este orden
-    { flag: "🇦🇷", timeZone: "America/Argentina/Buenos_Aires" },
-    { flag: "🇵🇪", timeZone: "America/Lima" },
-    { flag: "🇨🇴", timeZone: "America/Bogota" },
-    { flag: "🇲🇽", timeZone: "America/Mexico_City" },
-    { flag: "🇺🇸", timeZone: "America/New_York" },
+  clockZones: [                         // paises que va mostrando el reloj (y el clima, ver mas abajo), en este orden
+    { flag: "🇦🇷", label: "Buenos Aires", timeZone: "America/Argentina/Buenos_Aires", lat: -34.6037, lon: -58.3816 },
+    { flag: "🇵🇪", label: "Lima", timeZone: "America/Lima", lat: -12.0464, lon: -77.0428 },
+    { flag: "🇨🇴", label: "Bogotá", timeZone: "America/Bogota", lat: 4.7110, lon: -74.0721 },
+    { flag: "🇲🇽", label: "Ciudad de México", timeZone: "America/Mexico_City", lat: 19.4326, lon: -99.1332 },
+    { flag: "🇺🇸", label: "Nueva York", timeZone: "America/New_York", lat: 40.7128, lon: -74.0060 },
   ],
+  weatherApiUrl: "https://api.open-meteo.com/v1/forecast", // API publica de Open-Meteo, sin API key
+  weatherRefreshMs: 30 * 60 * 1000,     // re-consultar el clima cada 30 min (no hace falta mas seguido)
+  weatherFirstDelayMs: 5 * 60 * 1000,   // primera pantalla de clima a los 5 min de abrir la pagina
+  weatherIntervalMs: 18 * 60 * 1000,    // despues, cada 18 min (no es multiplo de newsIntervalMs, para no pisarse siempre en el mismo punto)
+  weatherDisplayMs: 20 * 1000,          // cuanto queda visible la pantalla de clima
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];
@@ -626,7 +631,9 @@ function showNewsItem(item, index) {
 // Si no hay noticias cargadas, no hace nada mas que asegurarse de que
 // el slideshow este corriendo.
 async function runNewsBlock() {
-  if (newsBlockRunning) return;
+  // No pisar la pantalla de clima si justo esta en pantalla (ver
+  // runWeatherBlock): esta tanda se saltea y arranca en el proximo turno.
+  if (newsBlockRunning || weatherBlockRunning) return;
   newsBlockRunning = true;
   setSocialTickerVisible(false);
   pauseBackgroundRotation();
@@ -933,6 +940,139 @@ setInterval(async () => {
   await loadBackgrounds();
 }, CONFIG.backgroundsRefreshMs);
 
+// ---------------- Clima ----------------
+// Pantalla completa que reemplaza el fondo de publicidades cada tanto
+// (mismo mecanismo que las noticias), mostrando el clima actual de las
+// mismas ciudades que rota el reloj (CONFIG.clockZones), en columnas.
+// Usa la API publica de Open-Meteo (sin API key). Los datos se
+// refrescan solos cada CONFIG.weatherRefreshMs; la pantalla se dispara
+// aparte, cada CONFIG.weatherIntervalMs, usando el ultimo dato cargado.
+
+const weatherScreen = document.getElementById("weatherScreen");
+const weatherTitle = document.getElementById("weatherTitle");
+const weatherColumns = document.getElementById("weatherColumns");
+
+// Traduccion breve + icono para los codigos de clima WMO que devuelve
+// Open-Meteo. Un codigo no listado (o sin dato) cae en el default.
+const WEATHER_CODES = {
+  0: ["Despejado", "☀️"],
+  1: ["Mayormente despejado", "🌤️"],
+  2: ["Parcialmente nublado", "⛅"],
+  3: ["Nublado", "☁️"],
+  45: ["Niebla", "🌫️"],
+  48: ["Niebla helada", "🌫️"],
+  51: ["Llovizna débil", "🌦️"],
+  53: ["Llovizna", "🌦️"],
+  55: ["Llovizna intensa", "🌧️"],
+  61: ["Lluvia débil", "🌧️"],
+  63: ["Lluvia", "🌧️"],
+  65: ["Lluvia intensa", "🌧️"],
+  71: ["Nieve débil", "🌨️"],
+  73: ["Nieve", "🌨️"],
+  75: ["Nieve intensa", "❄️"],
+  80: ["Chubascos débiles", "🌦️"],
+  81: ["Chubascos", "🌧️"],
+  82: ["Chubascos intensos", "⛈️"],
+  95: ["Tormenta", "⛈️"],
+  96: ["Tormenta con granizo", "⛈️"],
+  99: ["Tormenta fuerte con granizo", "⛈️"],
+};
+function weatherCodeInfo(code) {
+  return WEATHER_CODES[code] || ["--", "🌡️"];
+}
+
+// Array paralelo a CONFIG.clockZones (mismo orden/indice), o null si
+// todavia no se pudo cargar nada. Si una consulta falla, se deja el
+// ultimo dato bueno en vez de romper la pantalla (fallo en silencio).
+let weatherData = null;
+
+async function loadWeather() {
+  const lats = CONFIG.clockZones.map((z) => z.lat).join(",");
+  const lons = CONFIG.clockZones.map((z) => z.lon).join(",");
+  const url =
+    `${CONFIG.weatherApiUrl}?latitude=${lats}&longitude=${lons}` +
+    `&current=temperature_2m,weather_code` +
+    `&daily=temperature_2m_max,temperature_2m_min` +
+    `&timezone=auto&forecast_days=1`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return;
+    const data = await res.json();
+    // Open-Meteo devuelve un array cuando se piden varias coordenadas
+    // en una sola consulta (una entrada por ciudad, mismo orden).
+    weatherData = Array.isArray(data) ? data : [data];
+  } catch {
+    // sin conexion o API caida: nos quedamos con weatherData anterior
+  }
+}
+
+function buildWeatherColumns() {
+  weatherColumns.innerHTML = "";
+  CONFIG.clockZones.forEach((zone, i) => {
+    const entry = weatherData ? weatherData[i] : null;
+    const col = document.createElement("div");
+    col.className = "weather-col";
+    if (!entry || !entry.current) {
+      col.innerHTML = `
+        <div class="weather-flag">${zone.flag}</div>
+        <div class="weather-city">${zone.label}</div>
+        <div class="weather-icon">🌡️</div>
+        <div class="weather-desc">Sin datos</div>
+      `;
+    } else {
+      const [desc, icon] = weatherCodeInfo(entry.current.weather_code);
+      const now = Math.round(entry.current.temperature_2m);
+      const max = Math.round(entry.daily?.temperature_2m_max?.[0]);
+      const min = Math.round(entry.daily?.temperature_2m_min?.[0]);
+      col.innerHTML = `
+        <div class="weather-flag">${zone.flag}</div>
+        <div class="weather-city">${zone.label}</div>
+        <div class="weather-icon">${icon}</div>
+        <div class="weather-temp-now">${now}°</div>
+        <div class="weather-desc">${desc}</div>
+        <div class="weather-temp-range">Mín ${min}° · Máx ${max}°</div>
+      `;
+    }
+    weatherColumns.appendChild(col);
+  });
+}
+
+let weatherBlockRunning = false;
+
+async function runWeatherBlock() {
+  // No pisar un bloque de noticias que ya este en pantalla; se saltea
+  // esta vez y se reintenta en el proximo turno.
+  if (weatherBlockRunning || newsBlockRunning) return;
+  weatherBlockRunning = true;
+  setSocialTickerVisible(false);
+  pauseBackgroundRotation();
+
+  const today = new Intl.DateTimeFormat("es-AR", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    timeZone: "America/Argentina/Buenos_Aires",
+  }).format(new Date());
+  weatherTitle.textContent = `Clima de hoy, ${today}`;
+  buildWeatherColumns();
+
+  weatherScreen.classList.add("visible");
+  await wait(CONFIG.weatherDisplayMs);
+  weatherScreen.classList.remove("visible");
+  await wait(700); // deja terminar el fade de salida antes de retomar fondos
+
+  weatherBlockRunning = false;
+  resumeBackgroundRotation();
+  setSocialTickerVisible(true);
+}
+
+setInterval(loadWeather, CONFIG.weatherRefreshMs);
+
+setTimeout(() => {
+  runWeatherBlock();
+  setInterval(runWeatherBlock, CONFIG.weatherIntervalMs);
+}, CONFIG.weatherFirstDelayMs);
+
 // ---------------- Popup de suscripción ----------------
 // Desciende desde el centro-arriba, queda visible subscribeDisplayMs
 // y vuelve a subir. Arranca al minuto de abrir la pagina y despues se
@@ -941,9 +1081,10 @@ setInterval(async () => {
 const subscribePopup = document.getElementById("subscribePopup");
 
 function showSubscribePopup() {
-  // Evitamos superponerlo con la pantalla de noticias a pantalla
-  // completa; si coincide, se salta esta vez y aparece en el proximo turno.
-  if (newsBlockRunning) return;
+  // Evitamos superponerlo con la pantalla de noticias o de clima a
+  // pantalla completa; si coincide, se salta esta vez y aparece en el
+  // proximo turno.
+  if (newsBlockRunning || weatherBlockRunning) return;
 
   subscribePopup.classList.add("visible");
   setTimeout(() => {
@@ -959,7 +1100,7 @@ setTimeout(() => {
 // ---------------- Arranque ----------------
 
 (async function start() {
-  await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds()]);
+  await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds(), loadWeather()]);
   if (playlist.length > 0) startPlayback();
   else {
     trackTitleEl.textContent = "Sin canciones en /music";

@@ -65,6 +65,15 @@ secciones comentadas dentro del archivo:
   bloque; entre una noticia y la siguiente solo hace crossfade el
   contenido de adentro (`#newsContent`), no la pantalla completa, para
   que la barra de progreso no parpadee (`showNewsItem`/`runNewsBlock`).
+  Dentro de `showNewsItem`, el orden importa para que el crossfade se
+  vea fluido: primero se completa el fade a opacity:0 (recien ahi se
+  limpia el `src` de la imagen/QR anteriores, nunca antes — sacarle el
+  `src` a una imagen la "rompe" al instante, y hacerlo con el fade
+  todavia semi-opaco se ve como un parpadeo), y la imagen/QR
+  ENTRANTES se precargan con `loadImageWithTimeout` (con
+  `CONFIG.newsMediaTimeoutMs` de tope) y se esperan **antes** de sacar
+  la clase `fading` — así nunca aparece primero el texto y después, de
+  golpe, la imagen.
   Al terminar la tanda se muestra un mensaje de cierre (`#newsOutro`).
 - **Fondos/publicidades**: escanea `backgrounds/` (PHP, autoindex, o
   `playlist.json`) + `backgrounds/external.json` (URLs externas —

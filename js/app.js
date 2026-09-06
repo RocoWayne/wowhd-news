@@ -19,7 +19,8 @@ const CONFIG = {
   newsItemsPerBlock: 3,                // cuantas noticias seguidas se muestran en cada bloque
   newsDisplayMs: 30 * 1000,           // cuánto queda visible cada noticia dentro del bloque
   newsOutroMs: 15 * 1000,             // cuánto dura el mensaje de cierre al terminar una tanda de noticias
-  newsContentFadeMs: 250,             // crossfade del contenido (no de la barra de progreso) entre una noticia y la siguiente
+  newsContentFadeMs: 500,             // crossfade del contenido (no de la barra de progreso) entre una noticia y la siguiente
+  newsMediaTimeoutMs: 3000,           // cuanto se espera como maximo a que carguen la imagen/QR entrantes antes de revelar el contenido igual
   newsMaxAgeDays: 7,                  // noticias con "date" mas viejo que esto se dejan de mostrar
   backgroundsRefreshMs: 2 * 60 * 1000,  // re-chequear /backgrounds cada 2 min
   backgroundImageDurationMs: 35 * 1000, // cuanto queda cada imagen antes de pasar a la siguiente
@@ -617,9 +618,33 @@ function wait(ms) {
 // CSS hace el resto (animacion de entrada y marquee corriendo).
 document.body.classList.add("ticker-visible");
 
+// Carga una imagen en "imgEl" y resuelve true/false segun si termino
+// cargando bien o no (error, o se paso de timeoutMs sin resolver -
+// asi una imagen colgada nunca bloquea la rotacion de noticias mas de
+// la cuenta). Nunca rechaza la promesa.
+function loadImageWithTimeout(imgEl, src, timeoutMs) {
+  return new Promise((resolve) => {
+    let done = false;
+    const finish = (ok) => {
+      if (done) return;
+      done = true;
+      imgEl.onload = null;
+      imgEl.onerror = null;
+      resolve(ok);
+    };
+    imgEl.onload = () => finish(true);
+    imgEl.onerror = () => finish(false);
+    imgEl.src = src;
+    setTimeout(() => finish(false), timeoutMs);
+  });
+}
+
 // Muestra una noticia: primero hace un crossfade rapido de #newsContent
-// (tag/imagen/texto/QR) hacia el contenido nuevo, recien ahi arranca a
-// llenarse la barra de progreso de esta noticia (index), y espera
+// (tag/imagen/texto/QR) hacia el contenido nuevo, esperando a que la
+// imagen y el QR entrantes terminen de cargar (o fallen/venzan el
+// timeout) ANTES de volver a mostrar el contenido - asi no aparece
+// primero el texto y despues, de golpe, la imagen. Recien ahi arranca
+// a llenarse la barra de progreso de esta noticia (index), y espera
 // CONFIG.newsDisplayMs antes de resolver. La pantalla de noticias en si
 // (y la barra de progreso) NO se ocultan entre noticias - solo el
 // contenido de adentro hace el crossfade, para que la barra de
@@ -628,35 +653,54 @@ function showNewsItem(item, index) {
   if (!item || (!item.text && !item.image)) return Promise.resolve();
 
   newsContent.classList.add("fading");
-  return wait(CONFIG.newsContentFadeMs).then(() => {
+  return wait(CONFIG.newsContentFadeMs).then(async () => {
+    // Recien aca el fade de salida termino de verdad (opacity:0, ya
+    // invisible) - es el momento seguro para cortar cualquier carga
+    // pendiente y limpiar el src de la nota anterior. Hacerlo antes
+    // (por ejemplo, apenas arranca el fade) se alcanza a ver: sacarle
+    // el src a una imagen la "rompe" al instante, mientras el fade
+    // todavia esta casi del todo opaco.
+    newsImage.onload = null;
+    newsImage.onerror = null;
+    newsImage.removeAttribute("src");
+    newsQr.onload = null;
+    newsQr.onerror = null;
+    newsQr.removeAttribute("src");
+
     // La categoria viene del RSS (<category> de WordPress) cuando la
     // noticia es automatica; si no hay, o es una noticia cargada a mano
     // sin categoria, se usa el tag generico de siempre.
     newsTag.textContent = item.category || "NOTICIA";
-
-    // Si la imagen no carga (link roto, 404), la ocultamos en vez de
-    // mostrar el ícono de imagen rota.
-    if (item.image) {
-      newsImage.onerror = () => { newsImage.style.display = "none"; };
-      newsImage.onload = () => { newsImage.style.display = ""; };
-      newsImage.src = item.image;
-    } else {
-      newsImage.style.display = "none";
-    }
-
     newsText.textContent = item.text || "";
 
+    const loaders = [];
+
+    if (item.image) {
+      loaders.push(
+        loadImageWithTimeout(newsImage, item.image, CONFIG.newsMediaTimeoutMs).then((ok) => {
+          newsImage.classList.toggle("news-image-hidden", !ok);
+        })
+      );
+    } else {
+      newsImage.removeAttribute("src");
+      newsImage.classList.add("news-image-hidden");
+    }
+
     if (item.link) {
+      newsScreen.classList.remove("no-link");
       // Si el QR no carga (api.qrserver.com caido/lento/bloqueado),
       // ocultamos toda la fila en vez de mostrar el icono de imagen rota
       // a pantalla completa.
-      newsQr.onerror = () => { newsScreen.classList.add("no-link"); };
-      newsQr.onload = () => { newsScreen.classList.remove("no-link"); };
-      newsScreen.classList.remove("no-link");
-      newsQr.src = qrUrlFor(item.link);
+      loaders.push(
+        loadImageWithTimeout(newsQr, qrUrlFor(item.link), CONFIG.newsMediaTimeoutMs).then((ok) => {
+          if (!ok) newsScreen.classList.add("no-link");
+        })
+      );
     } else {
       newsScreen.classList.add("no-link");
     }
+
+    await Promise.all(loaders);
 
     newsContent.classList.remove("fading");
     fillNewsProgress(index, CONFIG.newsDisplayMs);
@@ -685,14 +729,6 @@ async function runNewsBlock() {
       const item = newsList[newsIndex % newsList.length];
       newsIndex++;
       await showNewsItem(item, i);
-      // Cortamos cualquier carga de imagen que siga pendiente y limpiamos
-      // el src, asi una respuesta tardia no puede "colarse" mas adelante.
-      newsImage.onload = null;
-      newsImage.onerror = null;
-      newsImage.removeAttribute("src");
-      newsQr.onload = null;
-      newsQr.onerror = null;
-      newsQr.removeAttribute("src");
     }
     newsScreen.classList.remove("visible");
     await wait(700); // deja terminar el fade de salida del bloque antes del mensaje de cierre

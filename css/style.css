@@ -308,10 +308,19 @@ body.ticker-visible .player{
   flex-direction:column;
   align-items:center;
   gap:22px;
-  transition:opacity .25s ease;
+  transition:opacity .5s ease;
 }
 .news-content.fading{
   opacity:0;
+}
+/* La imagen/QR de la noticia entrante ya estan cargadas (ver
+   showNewsItem en js/app.js, que espera el load/error antes de sacar
+   ".fading") antes de que #news-content vuelva a opacity:1 - por eso
+   no hace falta un fade propio para ellas, alcanza con ocultarlas sin
+   afectar el layout cuando la nota no trae imagen o el link no genero
+   QR. */
+.news-image-hidden{
+  display:none;
 }
 .news-tag{
   flex-shrink:0;

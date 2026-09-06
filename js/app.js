@@ -30,6 +30,14 @@ const CONFIG = {
   subscribeFirstDelayMs: 60 * 1000,     // primera aparicion: al minuto de abrir la pagina
   subscribeIntervalMs: 10 * 60 * 1000,  // despues, cada 10 minutos
   subscribeDisplayMs: 15 * 1000,        // cuanto queda visible cada vez
+  clockRotationMs: 5 * 60 * 1000,       // cada cuanto cambia de pais el reloj
+  clockZones: [                         // paises que va mostrando el reloj, en este orden
+    { flag: "🇦🇷", timeZone: "America/Argentina/Buenos_Aires" },
+    { flag: "🇵🇪", timeZone: "America/Lima" },
+    { flag: "🇨🇴", timeZone: "America/Bogota" },
+    { flag: "🇲🇽", timeZone: "America/Mexico_City" },
+    { flag: "🇺🇸", timeZone: "America/New_York" },
+  ],
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];
@@ -421,16 +429,31 @@ setInterval(() => {
 }, 15000);
 
 // ---------------- Reloj ----------------
+// Va rotando cada CONFIG.clockRotationMs entre los paises de
+// CONFIG.clockZones, mostrando la hora real de cada uno (via
+// Intl.DateTimeFormat con su timeZone), no la hora local del navegador.
 
 const clockEl = document.getElementById("clock");
+let clockZoneIndex = 0;
+
 function tickClock() {
-  const now = new Date();
-  const hh = String(now.getHours()).padStart(2, "0");
-  const mm = String(now.getMinutes()).padStart(2, "0");
-  clockEl.textContent = `🇦🇷 ${hh}:${mm}`;
+  const zone = CONFIG.clockZones[clockZoneIndex];
+  const parts = new Intl.DateTimeFormat("es-AR", {
+    timeZone: zone.timeZone,
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  }).formatToParts(new Date());
+  const hh = parts.find((p) => p.type === "hour").value;
+  const mm = parts.find((p) => p.type === "minute").value;
+  clockEl.textContent = `${zone.flag} ${hh}:${mm}`;
 }
 tickClock();
 setInterval(tickClock, 15000);
+setInterval(() => {
+  clockZoneIndex = (clockZoneIndex + 1) % CONFIG.clockZones.length;
+  tickClock();
+}, CONFIG.clockRotationMs);
 
 // ---------------- Noticias ----------------
 // Pantalla completa que reemplaza el fondo de publicidades mientras

@@ -1043,6 +1043,14 @@ async function runWeatherBlock() {
   // No pisar un bloque de noticias que ya este en pantalla; se saltea
   // esta vez y se reintenta en el proximo turno.
   if (weatherBlockRunning || newsBlockRunning) return;
+
+  // Si todavia no hay ningun dato de clima cargado (API caida, sin
+  // conexion, primera carga que no llego a tiempo), no mostramos la
+  // pantalla vacia - se reintenta sola en el proximo turno con lo que
+  // traiga el proximo loadWeather().
+  const hasData = Array.isArray(weatherData) && weatherData.some((e) => e && e.current);
+  if (!hasData) return;
+
   weatherBlockRunning = true;
   setSocialTickerVisible(false);
   pauseBackgroundRotation();

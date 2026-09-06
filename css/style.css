@@ -450,16 +450,16 @@ body.ticker-visible .player{
 .weather-columns{
   display:flex;
   justify-content:center;
-  gap:clamp(20px, 4vw, 60px);
-  flex-wrap:wrap;
+  gap:clamp(16px, 3vw, 40px);
 }
 .weather-col{
   display:flex;
   flex-direction:column;
   align-items:center;
   gap:10px;
-  min-width:180px;
-  padding:26px 20px;
+  width:230px;
+  flex:0 0 230px;
+  padding:26px 14px;
   background:rgba(255,255,255,0.06);
   border:1px solid rgba(255,255,255,0.12);
   border-radius:20px;
@@ -469,11 +469,12 @@ body.ticker-visible .player{
   line-height:1;
 }
 .weather-city{
-  font-size:20px;
+  font-size:18px;
   font-weight:700;
   color:var(--text-dim);
   text-transform:uppercase;
-  letter-spacing:1px;
+  letter-spacing:0.5px;
+  white-space:nowrap;
 }
 .weather-icon{
   font-size:56px;

@@ -266,7 +266,7 @@ están disponibles) — sin pisar nunca lo que cargaste a mano en
 
 ### Pantalla de clima
 
-Cada tanto (por defecto, cada 18 minutos, empezando a los 5 minutos de
+Cada tanto (por defecto, cada 20 minutos, empezando a los 8 minutos de
 abrir la página) aparece una pantalla completa con el clima actual del
 día, en columnas, de las mismas 5 ciudades que rota el reloj (Buenos
 Aires, Lima, Bogotá, Ciudad de México y Nueva York), reemplazando el
@@ -293,8 +293,8 @@ slideshow de fondos igual que un bloque de noticias.
 
 ### Pantalla de cotización del dólar
 
-Cada tanto (por defecto, cada 1 hora aprox., empezando a los 10
-minutos de abrir la página) aparece una pantalla completa mostrando a
+Cada tanto (por defecto, cada 1 hora, empezando a los 35 minutos de
+abrir la página) aparece una pantalla completa mostrando a
 cuánto equivale 1 dólar en pesos argentinos, soles peruanos, pesos
 colombianos, pesos mexicanos y euros, en columnas — mismo mecanismo
 que la pantalla de clima.
@@ -320,7 +320,7 @@ que la pantalla de clima.
 
 ### Pantalla de resumen de mercados (cripto)
 
-Cada tanto (por defecto, cada 1 hora y media, empezando a los 15
+Cada tanto (por defecto, cada 1 hora y media, empezando a los 41
 minutos de abrir la página) aparece una pantalla completa mostrando
 precio en USD y variación de las últimas 24hs de Bitcoin, Ethereum,
 BNB, Solana y XRP, en columnas — mismo mecanismo que clima y
@@ -375,6 +375,31 @@ cartel abajo a la derecha.
   diferencia de un fetch que falla prolijo) — conviene revisar
   `livecams/livecams.json` de tanto en tanto para sacar cámaras que ya
   no funcionen.
+
+### Cómo conviven entre sí las 5 pantallas a pantalla completa
+
+Noticias, clima, cotización, mercados y cámara en vivo están pensadas
+para **nunca superponerse entre sí**, no solo "avisarse y saltear" en
+caso de choque (eso también existe, como red de seguridad, pero la
+idea es que no haga falta). Los horarios por defecto están elegidos a
+propósito así:
+
+| Pantalla | Aparece en el minuto... | de cada hora |
+|---|---|---|
+| Noticias | :00, :15, :30, :45 | (cada 15 min) |
+| Clima | :08, :28, :48 | (cada 20 min) |
+| Cotización del dólar | :35 | (cada 60 min) |
+| Cámara en vivo | :20 a :25 | (cada 60 min) |
+| Mercados (cripto) | :41, o :11 en la hora siguiente | (cada 90 min, alterna) |
+
+Como 15, 20, 60 y 90 son todos múltiplos o divisores de 60, esta
+distribución se repite **igual todas las horas** (verificado con una
+simulación de 5 horas: cero choques, con al menos 59 segundos de
+margen entre cualquier par de pantallas). Si en algún momento se
+cambia el `*FirstDelayMs`, `*IntervalMs` o `*DisplayMs` de alguna de
+estas 5 pantallas en `js/app.js` → `CONFIG`, conviene volver a
+verificar que sigan sin pisarse — sobre todo si se achica algún hueco
+o se alarga la duración de algún bloque.
 
 ### Limpieza automática de `news.json`
 

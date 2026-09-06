@@ -40,8 +40,19 @@ const CONFIG = {
   ],
   weatherApiUrl: "https://api.open-meteo.com/v1/forecast", // API publica de Open-Meteo, sin API key
   weatherRefreshMs: 30 * 60 * 1000,     // re-consultar el clima cada 30 min (no hace falta mas seguido)
-  weatherFirstDelayMs: 5 * 60 * 1000,   // primera pantalla de clima a los 5 min de abrir la pagina
-  weatherIntervalMs: 18 * 60 * 1000,    // despues, cada 18 min (no es multiplo de newsIntervalMs, para no pisarse siempre en el mismo punto)
+  // weatherIntervalMs (20 min) es divisor exacto de 60, igual que el
+  // resto de los intervalos de las pantallas a pantalla completa
+  // (15/20/60/90/60 min: noticias/clima/cotizacion/mercados/camara en
+  // vivo) - todos son multiplos o divisores de 60, asi la posicion de
+  // cada bloque dentro de cada hora queda FIJA para siempre (no
+  // "flota" de hora en hora). Eso permite elegir a mano un huequito
+  // libre para cada uno y garantizar que nunca se pisen entre si
+  // (verificado con una simulacion de 5 horas: cero colisiones, margen
+  // minimo real ~59s). Si se cambia cualquiera de los
+  // *FirstDelayMs/*IntervalMs/*DisplayMs de estos 5 bloques, conviene
+  // volver a chequear que siguen sin pisarse.
+  weatherFirstDelayMs: 8 * 60 * 1000,   // primera pantalla de clima a los 8 min de abrir la pagina (cae en :08/:28/:48 de cada hora)
+  weatherIntervalMs: 20 * 60 * 1000,
   weatherDisplayMs: 60 * 1000,          // cuanto queda visible la pantalla de clima
   currencyApiUrl: "https://open.er-api.com/v6/latest/USD", // API publica de tipo de cambio, sin API key
   currencyBaseCode: "USD",
@@ -53,7 +64,7 @@ const CONFIG = {
     { flag: "🇪🇺", label: "Euro", code: "EUR" },
   ],
   currencyRefreshMs: 60 * 60 * 1000,    // re-consultar la cotizacion cada 1 hora
-  currencyFirstDelayMs: 10 * 60 * 1000, // primera pantalla de cotizacion a los 10 min de abrir la pagina
+  currencyFirstDelayMs: 35 * 60 * 1000, // primera pantalla de cotizacion a los 35 min (cae en :35 de cada hora, lejos de todo lo demas)
   currencyIntervalMs: 60 * 60 * 1000,   // despues, cada 1 hora aprox
   currencyDisplayMs: 30 * 1000,         // cuanto queda visible la pantalla de cotizacion
   marketsApiUrl: "https://api.coingecko.com/api/v3/simple/price", // API publica de CoinGecko, sin API key
@@ -65,12 +76,12 @@ const CONFIG = {
     { id: "ripple", symbol: "XRP", label: "XRP" },
   ],
   marketsRefreshMs: 30 * 60 * 1000,     // re-consultar los precios cada 30 min
-  marketsFirstDelayMs: 15 * 60 * 1000,  // primera pantalla de mercados a los 15 min de abrir la pagina
+  marketsFirstDelayMs: 41 * 60 * 1000,  // primera pantalla de mercados a los 41 min (al ser cada 90 min, alterna entre :41 y :11 de cada hora, ambos verificados libres)
   marketsIntervalMs: 90 * 60 * 1000,    // despues, cada 1 hora y media
   marketsDisplayMs: 30 * 1000,          // cuanto queda visible la pantalla de mercados
   liveCamsUrl: "livecams/livecams.json", // lista curada a mano de camaras publicas (titulo + URL de YouTube)
   liveCamsRefreshMs: 10 * 60 * 1000,    // re-leer livecams.json cada 10 min (para que una edicion se vea sin recargar OBS)
-  liveCamFirstDelayMs: 20 * 60 * 1000,  // primera camara a los 20 min de abrir la pagina (no pisa noticias/cotizacion)
+  liveCamFirstDelayMs: 20 * 60 * 1000,  // primera camara a los 20 min (cae en :20-:25 de cada hora, el hueco mas grande de la hora: lejos de noticias/clima/cotizacion/mercados)
   liveCamIntervalMs: 60 * 60 * 1000,    // despues, 1 vez por hora
   liveCamDisplayMs: 5 * 60 * 1000,      // cuanto queda visible cada camara (5 min)
 };

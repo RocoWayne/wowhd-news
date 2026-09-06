@@ -629,6 +629,12 @@ propio como se explica en `HOSTING.md`.
 5. Si el audio no arranca solo (política de autoplay), tildá también
    la opción de OBS que permite reproducción de medios sin interacción,
    o simplemente refrescá la fuente una vez al agregarla.
+6. **No hace falta refrescar la fuente a mano después de eso**: la
+   página se recarga sola cada 24 horas (ajustable en `js/app.js` →
+   `CONFIG.autoReloadMs`) para tomar cualquier cambio de código que se
+   haya subido al repo mientras tanto. Si justo hay un bloque a
+   pantalla completa en pantalla (noticias, clima, etc.), espera a que
+   termine antes de recargar, para no cortarlo a la mitad.
 
 ## 9. Más adelante: hosting propio (ej. WordPress)
 
@@ -692,6 +698,7 @@ colores de marca sueltos por otras partes del CSS):
 | `liveCamFirstDelayMs` | cuándo aparece la primera cámara después de abrir la página |
 | `liveCamIntervalMs` | cada cuánto se repite la pantalla de cámara en vivo |
 | `liveCamDisplayMs` | cuánto queda visible cada cámara |
+| `autoReloadMs` | cada cuánto se recarga sola la página (para tomar cambios de código sin refrescar la fuente de OBS a mano) |
 
 ## Resiliencia para transmisiones largas (24/7)
 

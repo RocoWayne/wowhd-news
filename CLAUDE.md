@@ -121,6 +121,12 @@ secciones comentadas dentro del archivo:
   visible (su z-index queda por encima de noticias/clima/cotización/
   mercados/cámara en vivo); el popup se coordina para no superponerse
   con esos cinco bloques.
+- **Recarga automática**: la pagina se recarga sola cada
+  `CONFIG.autoReloadMs` (por defecto, 24 horas) vía
+  `scheduleAutoReload()`, para que la fuente de navegador de OBS tome
+  cambios de código sin que haga falta refrescarla a mano. Si justo hay
+  un bloque a pantalla completa corriendo, espera (reintentando cada 5s)
+  a que termine antes de recargar, en vez de cortarlo a la mitad.
 - **Resiliencia**: todos los `fetch()` de refresco están pensados para
   fallar en silencio y reintentar en el próximo ciclo (no hay caída
   dura de la página si un JSON o archivo puntual falla) — ver la

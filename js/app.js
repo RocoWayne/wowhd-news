@@ -86,6 +86,7 @@ const CONFIG = {
   liveCamIntervalMs: 60 * 60 * 1000,    // despues, 1 vez por hora
   liveCamDisplayMs: 5 * 60 * 1000,      // cuanto queda visible cada camara (5 min)
   tickerEnabled: false,                 // apagado momentaneamente a pedido - poner en true para reactivar el ticker de redes
+  autoReloadMs: 24 * 60 * 60 * 1000,    // recarga la pagina sola cada 24 horas, para que la fuente de OBS tome cambios de codigo sin refrescar a mano
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];
@@ -1470,6 +1471,31 @@ setTimeout(() => {
   showSubscribePopup();
   setInterval(showSubscribePopup, CONFIG.subscribeIntervalMs);
 }, CONFIG.subscribeFirstDelayMs);
+
+// ---------------- Recarga automática ----------------
+// La fuente de navegador en OBS carga la pagina una sola vez y la deja
+// corriendo indefinidamente - un cambio de codigo (HTML/CSS/JS) subido
+// al repo nunca se ve reflejado ahi hasta que alguien refresca la
+// fuente a mano. Para no depender de eso, la pagina se recarga sola
+// cada CONFIG.autoReloadMs. Si justo hay un bloque a pantalla completa
+// en curso (noticias/clima/cotizacion/mercados/camara en vivo), espera
+// a que termine en vez de cortarlo a la mitad.
+function scheduleAutoReload() {
+  setTimeout(function tryReload() {
+    const anyBlockRunning =
+      newsBlockRunning ||
+      weatherBlockRunning ||
+      currencyBlockRunning ||
+      marketsBlockRunning ||
+      liveCamBlockRunning;
+    if (anyBlockRunning) {
+      setTimeout(tryReload, 5000); // reintenta en 5s si justo hay algo en pantalla
+    } else {
+      location.reload();
+    }
+  }, CONFIG.autoReloadMs);
+}
+scheduleAutoReload();
 
 // ---------------- Arranque ----------------
 

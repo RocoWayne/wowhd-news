@@ -42,7 +42,7 @@ const CONFIG = {
   weatherRefreshMs: 30 * 60 * 1000,     // re-consultar el clima cada 30 min (no hace falta mas seguido)
   weatherFirstDelayMs: 5 * 60 * 1000,   // primera pantalla de clima a los 5 min de abrir la pagina
   weatherIntervalMs: 18 * 60 * 1000,    // despues, cada 18 min (no es multiplo de newsIntervalMs, para no pisarse siempre en el mismo punto)
-  weatherDisplayMs: 20 * 1000,          // cuanto queda visible la pantalla de clima
+  weatherDisplayMs: 60 * 1000,          // cuanto queda visible la pantalla de clima
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];

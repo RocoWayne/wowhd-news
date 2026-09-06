@@ -83,9 +83,17 @@ secciones comentadas dentro del archivo:
   de noticias (cada uno chequea que el otro no esté corriendo antes de
   arrancar) y el popup de suscripción también se saltea si el clima
   está en pantalla.
+- **Cotización del dólar**: mismo mecanismo que el clima (pantalla
+  completa, datos que se refrescan solos aparte de cuándo se
+  muestran), vía la API pública `open.er-api.com` (sin API key),
+  mostrando a cuánto equivale 1 dólar en las monedas de
+  `CONFIG.currencyCurrencies` (`loadCurrency`/`runCurrencyBlock`). Se
+  pisa mutuamente con noticias y clima, y el popup de suscripción
+  también se saltea si está en pantalla.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
-  simples que muestran/ocultan elementos del DOM, coordinados para no
-  superponerse con los bloques de noticias ni de clima.
+  simples que muestran/ocultan elementos del DOM. El ticker es siempre
+  visible (su z-index queda por encima de noticias/clima/cotización);
+  el popup se coordina para no superponerse con esos tres bloques.
 - **Resiliencia**: todos los `fetch()` de refresco están pensados para
   fallar en silencio y reintentar en el próximo ciclo (no hay caída
   dura de la página si un JSON o archivo puntual falla) — ver la

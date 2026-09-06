@@ -93,6 +93,17 @@
     <div class="weather-columns" id="weatherColumns"></div>
   </section>
 
+  <!-- Pantalla de cotización del dólar: reemplaza el fondo de
+       publicidades cada tanto (ver js/app.js -> runCurrencyBlock),
+       mostrando a cuánto equivale 1 dólar en las monedas de los mismos
+       países que rotan el reloj/clima, más el euro. Mismo mecanismo de
+       fade y fondo plano que news-screen/weather-screen. Las columnas
+       se arman dinamicamente en js/app.js. -->
+  <section class="currency-screen" id="currencyScreen">
+    <div class="currency-title" id="currencyTitle">Cotización del dólar</div>
+    <div class="currency-columns" id="currencyColumns"></div>
+  </section>
+
   <!-- Popup de suscripción: desciende desde arriba al centro cada
        tanto, invitando a suscribirse. -->
   <div class="subscribe-popup" id="subscribePopup">

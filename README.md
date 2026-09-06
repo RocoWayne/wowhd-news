@@ -290,6 +290,33 @@ slideshow de fondos igual que un bloque de noticias.
   `weatherIntervalMs` (cada cuánto se repite) y `weatherDisplayMs`
   (cuánto queda visible cada vez).
 
+### Pantalla de cotización del dólar
+
+Cada tanto (por defecto, cada 1 hora aprox., empezando a los 10
+minutos de abrir la página) aparece una pantalla completa mostrando a
+cuánto equivale 1 dólar en pesos argentinos, soles peruanos, pesos
+colombianos, pesos mexicanos y euros, en columnas — mismo mecanismo
+que la pantalla de clima.
+
+- Usa la API pública **open.er-api.com**, que no requiere API key ni
+  registro.
+- Si todavía no hay ningún dato cargado (API caída, sin conexión), la
+  pantalla directamente no se muestra esa vez, y se reintenta sola en
+  el próximo turno — nunca se ve una pantalla vacía con "Sin datos" en
+  todas las columnas.
+- Los datos se refrescan solos cada `currencyRefreshMs` (por defecto,
+  1 hora) — no hace falta actualizarlos más seguido.
+- Se pisa mutuamente con las pantallas de noticias y clima: si
+  coinciden, una de las dos se saltea esa vez y aparece en el próximo
+  turno.
+- Las monedas se ajustan en `js/app.js` → `CONFIG.currencyCurrencies`:
+  cada entrada necesita `flag`, `label` y el código ISO (`code`) de la
+  moneda tal como lo devuelve la API.
+- El resto de los tiempos se ajustan en `js/app.js` → `CONFIG`:
+  `currencyFirstDelayMs` (cuándo aparece la primera vez),
+  `currencyIntervalMs` (cada cuánto se repite) y `currencyDisplayMs`
+  (cuánto queda visible cada vez).
+
 ### Limpieza automática de `news.json`
 
 `news/news.json` (las noticias cargadas a mano) no tiene un tope de
@@ -566,6 +593,11 @@ colores de marca sueltos por otras partes del CSS):
 | `weatherFirstDelayMs` | cuándo aparece la primera pantalla de clima después de abrir la página |
 | `weatherIntervalMs` | cada cuánto se repite la pantalla de clima |
 | `weatherDisplayMs` | cuánto queda visible la pantalla de clima cada vez |
+| `currencyCurrencies` | monedas que se muestran en la pantalla de cotización (bandera, nombre y código ISO) |
+| `currencyRefreshMs` | cada cuánto se vuelve a consultar la API de cotización |
+| `currencyFirstDelayMs` | cuándo aparece la primera pantalla de cotización después de abrir la página |
+| `currencyIntervalMs` | cada cuánto se repite la pantalla de cotización |
+| `currencyDisplayMs` | cuánto queda visible la pantalla de cotización cada vez |
 
 ## Resiliencia para transmisiones largas (24/7)
 

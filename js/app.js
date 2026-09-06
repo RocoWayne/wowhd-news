@@ -43,6 +43,19 @@ const CONFIG = {
   weatherFirstDelayMs: 5 * 60 * 1000,   // primera pantalla de clima a los 5 min de abrir la pagina
   weatherIntervalMs: 18 * 60 * 1000,    // despues, cada 18 min (no es multiplo de newsIntervalMs, para no pisarse siempre en el mismo punto)
   weatherDisplayMs: 60 * 1000,          // cuanto queda visible la pantalla de clima
+  currencyApiUrl: "https://open.er-api.com/v6/latest/USD", // API publica de tipo de cambio, sin API key
+  currencyBaseCode: "USD",
+  currencyCurrencies: [                 // monedas que se muestran (mismos paises que el reloj/clima + euro)
+    { flag: "🇦🇷", label: "Peso argentino", code: "ARS" },
+    { flag: "🇵🇪", label: "Sol peruano", code: "PEN" },
+    { flag: "🇨🇴", label: "Peso colombiano", code: "COP" },
+    { flag: "🇲🇽", label: "Peso mexicano", code: "MXN" },
+    { flag: "🇪🇺", label: "Euro", code: "EUR" },
+  ],
+  currencyRefreshMs: 60 * 60 * 1000,    // re-consultar la cotizacion cada 1 hora
+  currencyFirstDelayMs: 10 * 60 * 1000, // primera pantalla de cotizacion a los 10 min de abrir la pagina
+  currencyIntervalMs: 60 * 60 * 1000,   // despues, cada 1 hora aprox
+  currencyDisplayMs: 30 * 1000,         // cuanto queda visible la pantalla de cotizacion
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];
@@ -629,9 +642,9 @@ function showNewsItem(item, index) {
 // Si no hay noticias cargadas, no hace nada mas que asegurarse de que
 // el slideshow este corriendo.
 async function runNewsBlock() {
-  // No pisar la pantalla de clima si justo esta en pantalla (ver
-  // runWeatherBlock): esta tanda se saltea y arranca en el proximo turno.
-  if (newsBlockRunning || weatherBlockRunning) return;
+  // No pisar la pantalla de clima ni la de cotizacion si justo estan en
+  // pantalla: esta tanda se saltea y arranca en el proximo turno.
+  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning) return;
   newsBlockRunning = true;
   pauseBackgroundRotation();
 
@@ -1036,9 +1049,9 @@ function buildWeatherColumns() {
 let weatherBlockRunning = false;
 
 async function runWeatherBlock() {
-  // No pisar un bloque de noticias que ya este en pantalla; se saltea
-  // esta vez y se reintenta en el proximo turno.
-  if (weatherBlockRunning || newsBlockRunning) return;
+  // No pisar un bloque de noticias o de cotizacion que ya este en
+  // pantalla; se saltea esta vez y se reintenta en el proximo turno.
+  if (weatherBlockRunning || newsBlockRunning || currencyBlockRunning) return;
 
   // Si todavia no hay ningun dato de clima cargado (API caida, sin
   // conexion, primera carga que no llego a tiempo), no mostramos la
@@ -1075,6 +1088,105 @@ setTimeout(() => {
   setInterval(runWeatherBlock, CONFIG.weatherIntervalMs);
 }, CONFIG.weatherFirstDelayMs);
 
+// ---------------- Cotización del dólar ----------------
+// Pantalla completa que reemplaza el fondo de publicidades cada tanto
+// (mismo mecanismo que noticias/clima), mostrando a cuanto equivale
+// 1 dolar en las monedas de CONFIG.currencyCurrencies. Usa la API
+// publica open.er-api.com (sin API key). Mismo esquema que el clima:
+// los datos se refrescan solos cada CONFIG.currencyRefreshMs, y la
+// pantalla se dispara aparte cada CONFIG.currencyIntervalMs con el
+// ultimo dato cargado.
+
+const currencyScreen = document.getElementById("currencyScreen");
+const currencyTitle = document.getElementById("currencyTitle");
+const currencyColumns = document.getElementById("currencyColumns");
+
+// { ARS: 1234.5, PEN: 3.7, ... } o null si todavia no se pudo cargar
+// nada. Si una consulta falla, se deja el ultimo dato bueno.
+let currencyRates = null;
+
+async function loadCurrency() {
+  try {
+    const res = await fetch(CONFIG.currencyApiUrl);
+    if (!res.ok) return;
+    const data = await res.json();
+    if (data && data.rates) currencyRates = data.rates;
+  } catch {
+    // sin conexion o API caida: nos quedamos con currencyRates anterior
+  }
+}
+
+// Los valores grandes (ej. ARS, COP, ya en cientos/miles) se redondean
+// a entero con separador de miles; los menores a 100 (ej. PEN, MXN,
+// EUR) muestran decimales para no perder precision (18.62 no debe
+// verse como "19").
+function formatCurrencyValue(value) {
+  if (value == null || !isFinite(value)) return "--";
+  if (value >= 100) return Math.round(value).toLocaleString("es-AR");
+  return value.toLocaleString("es-AR", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+}
+
+function buildCurrencyColumns() {
+  currencyColumns.innerHTML = "";
+  CONFIG.currencyCurrencies.forEach((currency) => {
+    const value = currencyRates ? currencyRates[currency.code] : null;
+    const col = document.createElement("div");
+    col.className = "currency-col";
+    if (value == null) {
+      col.innerHTML = `
+        <div class="currency-flag">${currency.flag}</div>
+        <div class="currency-code">${currency.code}</div>
+        <div class="currency-value">--</div>
+        <div class="currency-label">Sin datos</div>
+      `;
+    } else {
+      col.innerHTML = `
+        <div class="currency-flag">${currency.flag}</div>
+        <div class="currency-code">${currency.code}</div>
+        <div class="currency-value">${formatCurrencyValue(value)}</div>
+        <div class="currency-label">${currency.label}</div>
+      `;
+    }
+    currencyColumns.appendChild(col);
+  });
+}
+
+let currencyBlockRunning = false;
+
+async function runCurrencyBlock() {
+  // No pisar noticias o clima si justo estan en pantalla; se saltea
+  // esta vez y se reintenta en el proximo turno.
+  if (currencyBlockRunning || newsBlockRunning || weatherBlockRunning) return;
+
+  // Si todavia no hay ningun dato de cotizacion cargado (API caida,
+  // sin conexion), no mostramos la pantalla vacia - se reintenta sola
+  // en el proximo turno con lo que traiga el proximo loadCurrency().
+  const hasData =
+    currencyRates && CONFIG.currencyCurrencies.some((c) => currencyRates[c.code] != null);
+  if (!hasData) return;
+
+  currencyBlockRunning = true;
+  pauseBackgroundRotation();
+
+  currencyTitle.textContent = `Cotización del dólar (1 ${CONFIG.currencyBaseCode})`;
+  buildCurrencyColumns();
+
+  currencyScreen.classList.add("visible");
+  await wait(CONFIG.currencyDisplayMs);
+  currencyScreen.classList.remove("visible");
+  await wait(700); // deja terminar el fade de salida antes de retomar fondos
+
+  currencyBlockRunning = false;
+  resumeBackgroundRotation();
+}
+
+setInterval(loadCurrency, CONFIG.currencyRefreshMs);
+
+setTimeout(() => {
+  runCurrencyBlock();
+  setInterval(runCurrencyBlock, CONFIG.currencyIntervalMs);
+}, CONFIG.currencyFirstDelayMs);
+
 // ---------------- Popup de suscripción ----------------
 // Desciende desde el centro-arriba, queda visible subscribeDisplayMs
 // y vuelve a subir. Arranca al minuto de abrir la pagina y despues se
@@ -1083,10 +1195,10 @@ setTimeout(() => {
 const subscribePopup = document.getElementById("subscribePopup");
 
 function showSubscribePopup() {
-  // Evitamos superponerlo con la pantalla de noticias o de clima a
-  // pantalla completa; si coincide, se salta esta vez y aparece en el
-  // proximo turno.
-  if (newsBlockRunning || weatherBlockRunning) return;
+  // Evitamos superponerlo con la pantalla de noticias, clima o
+  // cotizacion a pantalla completa; si coincide, se salta esta vez y
+  // aparece en el proximo turno.
+  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning) return;
 
   subscribePopup.classList.add("visible");
   setTimeout(() => {
@@ -1102,7 +1214,7 @@ setTimeout(() => {
 // ---------------- Arranque ----------------
 
 (async function start() {
-  await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds(), loadWeather()]);
+  await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds(), loadWeather(), loadCurrency()]);
   if (playlist.length > 0) startPlayback();
   else {
     trackTitleEl.textContent = "Sin canciones en /music";

@@ -1209,6 +1209,7 @@ setTimeout(() => {
 // ultimo dato cargado.
 
 const marketsScreen = document.getElementById("marketsScreen");
+const marketsTitle = document.getElementById("marketsTitle");
 const marketsColumns = document.getElementById("marketsColumns");
 
 // { bitcoin: { usd: 65000, usd_24h_change: 1.23 }, ... } o null si
@@ -1287,6 +1288,13 @@ async function runMarketsBlock() {
   marketsBlockRunning = true;
   pauseBackgroundRotation();
 
+  const today = new Intl.DateTimeFormat("es-AR", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    timeZone: "America/Argentina/Buenos_Aires",
+  }).format(new Date());
+  marketsTitle.textContent = `Resumen de mercados, ${today}`;
   buildMarketsColumns();
 
   marketsScreen.classList.add("visible");

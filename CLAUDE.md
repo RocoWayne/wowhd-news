@@ -21,6 +21,7 @@ js/app.js            toda la lógica de la app (~800 líneas, sin módulos)
 js/impressions.js    registro de impresiones de fondos en localStorage
 music/, backgrounds/ assets subidos por el usuario + su playlist.json generado
 news/                contenido editorial (news.json, rss.json)
+livecams/            lista curada a mano de camaras publicas (livecams.json)
 scripts/*.py         generadores/mantenimiento de los .json de arriba
 .github/workflows/   automatizan cuándo correr esos scripts
 hosting/             plantilla .htaccess para Basic Auth en hosting propio
@@ -97,14 +98,15 @@ secciones comentadas dentro del archivo:
   mutuamente con noticias, clima y cotización.
 - **Cámara pública en vivo**: mismo mecanismo de pantalla completa que
   las anteriores, pero sin ninguna API: embebe una cámara de YouTube de
-  la lista curada a mano en `CONFIG.liveCams` (nombre + URL), extrae el
-  ID del video con `extractYoutubeVideoId` (acepta las URLs típicas de
-  YouTube) y arma el iframe con `autoplay=1&mute=1` (mute obligatorio
-  para no competir con la música) (`runLiveCamBlock`). El nombre del
-  lugar se muestra en `#livecamCaption`, ubicado a propósito en la
-  esquina inferior **derecha** (la izquierda la tapa el reproductor de
-  música, que tiene mayor z-index). Se pisa mutuamente con noticias,
-  clima, cotización y mercados.
+  la lista curada a mano en `livecams/livecams.json` (array de
+  `{ title, url }`, `loadLiveCams`), extrae el ID del video con
+  `extractYoutubeVideoId` (acepta las URLs típicas de YouTube) y arma
+  el iframe con `autoplay=1&mute=1` (mute obligatorio para no competir
+  con la música) (`runLiveCamBlock`). El nombre del lugar se muestra en
+  `#livecamCaption`, ubicado a propósito en la esquina inferior
+  **derecha** (la izquierda la tapa el reproductor de música, que tiene
+  mayor z-index). Se pisa mutuamente con noticias, clima, cotización y
+  mercados.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
   simples que muestran/ocultan elementos del DOM. El ticker es siempre
   visible (su z-index queda por encima de noticias/clima/cotización/
@@ -132,6 +134,7 @@ mano y/o un `.json` autogenerado**, que `app.js` relee por polling
 | Fondos (Wikimedia) | — (conserva las entradas manuales de `external.json`) | `scripts/generate_backgrounds_from_keywords.py` → agrega al grupo `source: "wikimedia-auto"` de `external.json` | GitHub Action con cron diario (+ manual), sin API key |
 | Noticias | `news/news.json` | `scripts/generate_news_from_rss.py` → `news/rss.json`, combinando el grupo de feeds RSS en `RSS_FEEDS` | GitHub Action con cron cada 2h (+ manual) |
 | Noticias (limpieza) | — | `scripts/prune_news.py` borra de `news.json` lo de +30 días | GitHub Action con cron semanal |
+| Cámaras en vivo | `livecams/livecams.json` (título + URL de YouTube, a mano) | — (no hay autogeneración, es 100% curado) | — |
 
 Los tres workflows en `.github/workflows/` (`update-playlists.yml`,
 `update-news-rss.yml`, `prune-news.yml`) siguen el mismo patrón: corren

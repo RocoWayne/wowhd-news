@@ -68,13 +68,11 @@ const CONFIG = {
   marketsFirstDelayMs: 15 * 60 * 1000,  // primera pantalla de mercados a los 15 min de abrir la pagina
   marketsIntervalMs: 90 * 60 * 1000,    // despues, cada 1 hora y media
   marketsDisplayMs: 30 * 1000,          // cuanto queda visible la pantalla de mercados
-  liveCams: [                           // lista curada a mano de camaras publicas (nombre + URL de YouTube)
-    { name: "Times Square, Nueva York", url: "https://www.youtube.com/watch?v=VjSIXFwB_WQ" },
-    { name: "Times Square Norte, Nueva York", url: "https://www.youtube.com/watch?v=JQ_jwk_7OVE" },
-  ],
-  liveCamFirstDelayMs: 20 * 60 * 1000,  // primera camara a los 20 min de abrir la pagina
-  liveCamIntervalMs: 25 * 60 * 1000,    // despues, cada 25 min aprox
-  liveCamDisplayMs: 45 * 1000,          // cuanto queda visible cada camara
+  liveCamsUrl: "livecams/livecams.json", // lista curada a mano de camaras publicas (titulo + URL de YouTube)
+  liveCamsRefreshMs: 10 * 60 * 1000,    // re-leer livecams.json cada 10 min (para que una edicion se vea sin recargar OBS)
+  liveCamFirstDelayMs: 20 * 60 * 1000,  // primera camara a los 20 min de abrir la pagina (no pisa noticias/cotizacion)
+  liveCamIntervalMs: 60 * 60 * 1000,    // despues, 1 vez por hora
+  liveCamDisplayMs: 5 * 60 * 1000,      // cuanto queda visible cada camara (5 min)
 };
 
 const VALID_AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".flac"];
@@ -1326,17 +1324,30 @@ setTimeout(() => {
 // ---------------- Cámara pública en vivo ----------------
 // Pantalla completa que reemplaza el fondo de publicidades cada tanto
 // (mismo mecanismo que noticias/clima/cotizacion/mercados), embebiendo
-// una camara de YouTube de la lista curada a mano en CONFIG.liveCams.
-// A diferencia de las otras pantallas, no depende de ninguna API: la
-// lista se edita a mano acá arriba en CONFIG, agregando/sacando
-// entradas con nombre + URL de YouTube.
+// una camara de YouTube de la lista curada a mano en
+// CONFIG.liveCamsUrl (livecams/livecams.json: array de
+// { title, url }). A diferencia de las otras pantallas, no depende de
+// ninguna API externa: la lista es un JSON del propio repo que se
+// edita a mano.
 
 const livecamScreen = document.getElementById("livecamScreen");
 const livecamFrame = document.getElementById("livecamFrame");
 const livecamCaption = document.getElementById("livecamCaption");
 
+let liveCams = [];
 let liveCamIndex = 0;
 let liveCamBlockRunning = false;
+
+async function loadLiveCams() {
+  try {
+    const res = await fetch(CONFIG.liveCamsUrl + "?t=" + Date.now());
+    if (!res.ok) return;
+    const data = await res.json();
+    if (Array.isArray(data)) liveCams = data;
+  } catch {
+    // sin conexion o archivo no disponible: nos quedamos con la lista anterior
+  }
+}
 
 // Acepta las formas mas comunes de URL de YouTube
 // (watch?v=, youtu.be/, /live/, /embed/) y devuelve solo el ID del
@@ -1352,17 +1363,17 @@ async function runLiveCamBlock() {
   // pantalla; se saltea esta vez y se reintenta en el proximo turno.
   if (liveCamBlockRunning || newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
 
-  if (!CONFIG.liveCams || CONFIG.liveCams.length === 0) return;
+  if (!liveCams || liveCams.length === 0) return;
 
-  const cam = CONFIG.liveCams[liveCamIndex % CONFIG.liveCams.length];
+  const cam = liveCams[liveCamIndex % liveCams.length];
   liveCamIndex++;
   const videoId = extractYoutubeVideoId(cam.url);
-  if (!videoId) return; // URL mal cargada en CONFIG.liveCams: se saltea en vez de romper
+  if (!videoId) return; // URL mal cargada en livecams.json: se saltea en vez de romper
 
   liveCamBlockRunning = true;
   pauseBackgroundRotation();
 
-  livecamCaption.textContent = cam.name || "";
+  livecamCaption.textContent = cam.title || "";
   // mute=1 obligatorio (autoplay con audio esta bloqueado por los
   // navegadores) y ademas no queremos que compita con la musica.
   livecamFrame.src =
@@ -1379,6 +1390,8 @@ async function runLiveCamBlock() {
   liveCamBlockRunning = false;
   resumeBackgroundRotation();
 }
+
+setInterval(loadLiveCams, CONFIG.liveCamsRefreshMs);
 
 setTimeout(() => {
   runLiveCamBlock();
@@ -1412,7 +1425,7 @@ setTimeout(() => {
 // ---------------- Arranque ----------------
 
 (async function start() {
-  await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds(), loadWeather(), loadCurrency(), loadMarkets()]);
+  await Promise.all([loadPlaylist(), loadNews(), loadBackgrounds(), loadWeather(), loadCurrency(), loadMarkets(), loadLiveCams()]);
   if (playlist.length > 0) startPlayback();
   else {
     trackTitleEl.textContent = "Sin canciones en /music";

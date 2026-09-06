@@ -1,6 +1,13 @@
 [
   {
     "date": "2026-09-06",
+    "image": "https://s.france24.com/media/display/d39fa430-a9ed-11f1-a7f3-005056a90284/w:1024/p:16x9/2026-09-06T110616Z-810290491-RC2MDNA5BHIR-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
+    "category": "Europa",
+    "text": "En directo: los enviados de EE. UU., Kushner y Witkoff, llegan a Kiev tras conversaciones \"sustanciales\" con Putin",
+    "link": "https://www.france24.com/es/europa/20260906-en-directo-kushner-y-witkoff-enviados-de-ee-uu-llegan-a-kiev-tras-conversaciones-sustanciales-con-putin"
+  },
+  {
+    "date": "2026-09-06",
     "image": "https://s.france24.com/media/display/dedd8abc-a99b-11f1-a149-005056bfb2b6/w:1024/p:16x9/ES-20260905-210443-211155-CS.jpg",
     "category": null,
     "text": "¿Cómo podría escalar el conflicto en Yemen y qué implicaciones tendría para la región?",
@@ -38,106 +45,134 @@
     "date": "2026-09-06",
     "image": null,
     "category": null,
+    "text": "Por qué Keiko Fujimori ha declarado el estado de emergencia en 5 cárceles peruanas y qué busca con esta medida",
+    "link": "https://www.bbc.com/mundo/articles/cvgy90jpg97o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
+    "text": "El matemático que llevaba 7 años trabajando en descifrar un enigma que fue resuelto por un aficionado",
+    "link": "https://www.bbc.com/mundo/articles/cpw9lgvenkgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
+    "text": "Por qué nos salen úlceras en la boca y qué puedes hacer para aliviar sus síntomas",
+    "link": "https://www.bbc.com/mundo/articles/cp8djeyrpd8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
+    "text": "La \"nueva generación sangrienta de mujeres\" que recurre al terror para contar América Latina",
+    "link": "https://www.bbc.com/mundo/articles/c1l6gr8zm9lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
     "text": "EE.UU. e Irán intercambian ataques contra buques petroleros mientras se recrudece el conflicto",
     "link": "https://www.bbc.com/mundo/articles/cwyzwxeqpq5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/FAR735RAGZAXZKCO5RRNHPVTHY.jpg?auth=6ac3dbcf3d5e3af0080d77118090fbe5512836165c0e272244530bbf9af8e97a&smart=true&width=2048&height=1470",
+    "image": null,
     "category": null,
-    "text": "Elecciones Edomex 2027: IEEM ya tiene fecha para arrancar el proceso electoral",
-    "link": "https://www.infobae.com/mexico/2026/09/06/elecciones-edomex-2027-ieem-ya-tiene-fecha-para-arrancar-el-proceso-electoral/"
+    "text": "Una doble explosión en un cuartel militar de Bolivia deja al menos 3 muertos y 81 heridos",
+    "link": "https://www.bbc.com/mundo/articles/c78076w3jeyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/7CBDLY2GLRFSFCMHTB7BHQRV3M.jpg?auth=d05409b62a7c5cac58e9c6ea67a4b507f55f10d583d2116f29393a18b17539a6&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/IVAV5TIJM5FS3JVFJ2YGPI2FEQ.jpg?auth=cc126fd72c9b26bf7cab7aa7113d1512c68c51b58e8e2731c2a95f2c6a8cfe6e&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "EN VIVO | Clima CDMX y resto de México hoy 6 de septiembre: se esperan lluvias fuertes a intensas en más de 20 estados",
-    "link": "https://www.infobae.com/mexico/2026/09/06/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-6-de-septiembre-se-esperan-lluvias-fuertes-a-intensas-en-mas-de-20-estados/"
+    "text": "Se registra sismo de 4.1 de magnitud",
+    "link": "https://www.infobae.com/mexico/2026/09/06/se-registra-sismo-de-41-de-magnitud/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/G2BNCKZJB5DU7KXG7GRFLZE2XM.jpg?auth=bee49d5f3bea49d829034346851432163731008bc31cf4ab179642a3c47c7975&smart=true&width=1980&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/7GXVDDUH6VD6DL7RFMD73BEKIU.JPG?auth=67b1af9283a8ce1ec6a9252ca5dac0501edcff404fdd782258551f2e96d8caa9&smart=true&width=2960&height=1968",
     "category": null,
-    "text": "Lo mataron de dos puñaladas en Entre Ríos e investigan una presunta deuda vinculada a la cosecha",
-    "link": "https://www.infobae.com/sociedad/policiales/2026/09/06/lo-mataron-de-dos-punaladas-en-entre-rios-e-investigan-una-presunta-deuda-vinculada-a-la-cosecha/"
+    "text": "Bandera roja en el Gran Premio de Italia de la Fórmula 1: George Russell lidera y Franco Colapinto marcha 4°",
+    "link": "https://www.infobae.com/deportes/2026/09/06/franco-colapinto-largara-en-el-puesto-7-con-su-alpine-el-gran-premio-de-italia-de-la-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/ZULUPAOL4JDGDBKW7GZYD4LMZ4.jpg?auth=1d87044ec683951fc38ec9ceb4d473415a08554d3e8373366213733291cd895a&smart=true&width=4845&height=3234",
+    "image": "https://www.infobae.com/resizer/v2/UDXNJPANLFE3RKG7YDRWNMJSZU.jpg?auth=00baf2b8a42989bba9ac2f44bc4ff0e11869ebdd6aab97d50c505eac8065b36e&smart=true&width=2048&height=1365",
     "category": null,
-    "text": "¿Cuántas aves se han extinguido por culpa del ser humano? España y Portugal lanzan una base de datos para conocer la respuesta",
-    "link": "https://www.infobae.com/espana/2026/09/06/cuantas-aves-se-han-extinguido-por-culpa-del-ser-humano-espana-y-portugal-lanzan-una-base-de-datos-para-conocer-la-respuesta/"
+    "text": "Richard Concepción Carhuancho: “Esos fallos del TC sobre Fujimori y Humala han sido selectivos e invadieron la justicia ordinaria”",
+    "link": "https://www.infobae.com/peru/2026/09/06/richard-concepcion-carhuancho-considera-que-fallos-del-tc-en-casos-fujimori-y-humala-han-sido-selectivos-e-invadieron-la-justicia-ordinaria/"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://www.infobae.com/resizer/v2/ZCIKSUJFAZHXRHZZQZN2RSULBM.jpg?auth=f77766ff8844bf63e16ed75a3f43a225f09de1f14316a4e5f67702383cb5a9f4&smart=true&width=1536&height=864",
+    "category": null,
+    "text": "El fuerte accidente de Charles Leclerc que generó una bandera roja en el Gran Premio de Italia de la Fórmula 1",
+    "link": "https://www.infobae.com/deportes/2026/09/06/el-fuerte-accidente-de-charles-leclerc-que-genero-una-bandera-roja-en-el-gran-premio-de-italia-de-la-formula-1/"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://www.infobae.com/resizer/v2/U7KBWYYGHJB5FONL3BKTF3Q6II.JPG?auth=7758cfd07c77943788a898e6f63f69dfa772ff83834142071a8b582e514671e0&smart=true&width=5789&height=3859",
+    "category": null,
+    "text": "Los padres de un autor del tiroteo en la mezquita de San Diego afirman que un centro de salud mental no siguió alertas del FBI",
+    "link": "https://www.infobae.com/estados-unidos/2026/09/06/los-padres-de-un-autor-del-tiroteo-en-la-mezquita-de-san-diego-afirman-que-un-centro-de-salud-mental-no-siguio-alertas-del-fbi/"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://www.infobae.com/resizer/v2/QUI7HVJMTZG2NAJMVQNQDRVYDE.jpg?auth=5ac5f9ab0d21f6033488a1f29af09ca365ee03ee1e39c18b7fbf1dcb70c8c56b&smart=true&width=2048&height=1380",
+    "category": null,
+    "text": "Temblor hoy en México: se registra sismo de magnitud 4.2 en Chiapas",
+    "link": "https://www.infobae.com/mexico/2026/09/06/temblor-hoy-en-mexico-noticias-actividad-sismica-6-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://www.infobae.com/resizer/v2/RZPBW3YL45CDXOMLZ4AXBOVISY.jpg?auth=54d5617fe6539ca84606dab315a4fb4289e03037cc11504840fae5e41b36655b&smart=true&width=1920&height=1262",
+    "category": null,
+    "text": "US Open 2026: cuándo y dónde ver los octavos de final desde México",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/06/us-open-2026-cuando-y-donde-ver-los-octavos-de-final-desde-mexico/"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://www.infobae.com/resizer/v2/PZEDZZXFUFB23AQDO6MP2MKEK4.JPG?auth=9d3798f44c2a1dc17c210b68104d4f9eae580c231b961035e1c29f2db39a61b2&smart=true&width=4435&height=2957",
+    "category": null,
+    "text": "Lavrov acusó a Alemania de iniciar un conflicto abierto con Rusia: “En esencia, viene a declararnos la guerra”",
+    "link": "https://www.infobae.com/america/mundo/2026/09/06/lavrov-acuso-a-alemania-de-iniciar-un-conflicto-abierto-con-rusia-en-esencia-viene-a-declararnos-la-guerra/"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://www.infobae.com/resizer/v2/UTDONV2QOZEC3I372IGUBXSSRY.jpeg?auth=1578d904c45563963a3fd69c718a8a7ee99403fde917f790b100175e86ed20a2&smart=true&width=1280&height=720",
+    "category": null,
+    "text": "Clima en Piura: esta será la temperatura y probabilidad de lluvia para este domingo 6 de septiembre",
+    "link": "https://www.infobae.com/peru/2026/09/06/clima-en-peru-temperatura-y-probabilidad-de-lluvia-para-piura-este-6-de-septiembre/"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://www.infobae.com/resizer/v2/US4KVK7ZMJCKRLTVWG5UZCKZXU.png?auth=7beaf9020910b11326b2c284c4fda240ac8798c046c9228a44840747bbffec82&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Grietas en las paredes: cuáles son normales y qué señales pueden indicar un problema estructural",
+    "link": "https://www.infobae.com/tendencias/2026/09/06/grietas-en-las-paredes-cuales-son-normales-y-que-senales-pueden-indicar-un-problema-estructural/"
   },
   {
     "date": "2026-09-06",
     "image": null,
     "category": null,
-    "text": "Lecturas para acompañar la vuelta al cole de Primaria a Bachillerato",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/06/lecturas-para-acompanar-la-vuelta-al-cole-de-primaria-a-bachillerato/"
+    "text": "Las aguas del Mediterráneo alcanzaron el 13 de agosto un récord de 28,54 grados",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/06/las-aguas-del-mediterraneo-alcanzaron-el-13-de-agosto-un-record-de-2854-grados/"
   },
   {
     "date": "2026-09-06",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/RO42YHFZP5F4BN5BB4ZO4DAVFQ.png?auth=88cec518da55e9039bb39ae79438d595710842968c97b51cae9af9cb4e4f28b0&smart=true&width=1359&height=764",
     "category": null,
-    "text": "Bill McKibben, ambientalista: \"Las renovables tienden a democratizar la energía\"",
-    "link": "https://www.infobae.com/america/agencias/2026/09/06/bill-mckibben-ambientalista-las-renovables-tienden-a-democratizar-la-energia/"
+    "text": "Gran Premio de Italia EN VIVO: Charles Leclerc abandona la carrera y causa bandera roja",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/06/gran-premio-de-italia-sigue-en-vivo-el-minuto-a-minuto-de-la-carrera-donde-compite-checo-perez/"
   },
   {
     "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "Nepal y China sitúan en 1.372 los muertos doce días después de las devastadoras riadas",
-    "link": "https://www.infobae.com/america/agencias/2026/09/06/nepal-y-china-situan-en-1372-los-muertos-doce-dias-despues-de-las-devastadoras-riadas/"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "Cohete portador alemán pone en órbita satélites por primera vez desde continente europeo",
-    "link": "https://www.infobae.com/america/agencias/2026/09/06/cohete-portador-aleman-pone-en-orbita-satelites-por-primera-vez-desde-continente-europeo/"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "El atajo polar de China pone a prueba su viabilidad comercial",
-    "link": "https://www.infobae.com/america/agencias/2026/09/06/el-atajo-polar-de-china-pone-a-prueba-su-viabilidad-comercial/"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "Tres muertos en un incendio que se sospecha fue provocado en el centro de Japón",
-    "link": "https://www.infobae.com/america/agencias/2026/09/06/tres-muertos-en-un-incendio-que-se-sospecha-fue-provocado-en-el-centro-de-japon/"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/DFAXXY3FNNG4ZLT36BSBE3XRV4.png?auth=f6da56f8beea0a7cd4e1394ffef318c4894e9ab118d2a6277c2642af611012b4&smart=true&width=1078&height=671",
-    "category": null,
-    "text": "Una nena de 6 años murió en un incendio en La Plata: las primeras hipótesis apuntan a que se cayó una vela",
-    "link": "https://www.infobae.com/sociedad/2026/09/06/una-nena-de-6-anos-murio-en-un-incendio-en-la-plata-las-primeras-hipotesis-apuntan-a-que-se-cayo-una-vela/"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "El príncipe Guillermo representará a Carlos III en el funeral del rey Harald V de Noruega",
-    "link": "https://www.infobae.com/america/agencias/2026/09/06/el-principe-guillermo-representara-a-carlos-iii-en-el-funeral-del-rey-harald-v-de-noruega/"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/TRSFUI4SWVDRNL3HG3GZ2DWXGY.jpg?auth=3bbd1998286b35b7ba330899b5d5082e3f350a0dbbb0ccaf400089d9b32f950a",
+    "image": "https://imagenes.elpais.com/resizer/v2/5G4GCHNMMFDKXD2SVMNNVIQ2YA.JPG?auth=e3f06ce0ffad404ce23f2e289386dd7d757b29db3468706d2e13a7e5c60fe6fa",
     "category": "Europa",
     "text": "Escalada de amenazas en las fronteras de Europa",
     "link": "https://elpais.com/internacional/2026-09-06/escalada-de-amenazas-en-las-fronteras-de-europa.html"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/BBEFXPHFMRDPDO5LPHHRZ7PIHQ.jpg?auth=81f5a4fb5fe87763664e8c8cbdcd11494fb012c2187e81f01788dc7fc67f15b3",
-    "category": "Derecho internacional",
-    "text": "Tomoko Akane, presidenta del Tribunal Penal Internacional: “Tarde o temprano la Historia nos pedirá cuentas a todos. ¿Dónde estabas?\"",
-    "link": "https://elpais.com/internacional/2026-09-06/tomoko-akane-presidenta-del-tribunal-penal-internacional-tarde-o-temprano-la-historia-nos-pedira-cuentas-a-todos-donde-estabas.html"
   },
   {
     "date": "2026-09-06",
@@ -145,6 +180,13 @@
     "category": "Canadá",
     "text": "Canadá se atreve a plantar cara a Trump",
     "link": "https://elpais.com/internacional/2026-09-06/canada-se-atreve-a-plantar-cara-a-trump.html"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://imagenes.elpais.com/resizer/v2/BBEFXPHFMRDPDO5LPHHRZ7PIHQ.jpg?auth=81f5a4fb5fe87763664e8c8cbdcd11494fb012c2187e81f01788dc7fc67f15b3",
+    "category": "Derecho internacional",
+    "text": "Tomoko Akane, presidenta del Tribunal Penal Internacional: “Tarde o temprano la Historia nos pedirá cuentas a todos. ¿Dónde estabas?\"",
+    "link": "https://elpais.com/internacional/2026-09-06/tomoko-akane-presidenta-del-tribunal-penal-internacional-tarde-o-temprano-la-historia-nos-pedira-cuentas-a-todos-donde-estabas.html"
   },
   {
     "date": "2026-09-06",
@@ -162,17 +204,24 @@
   },
   {
     "date": "2026-09-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/GBMCHFQ6KRF2BCGBC3GCG4Z4RY.JPG?auth=85c3057d4b556b11bdf883f1de231dfc8f66b7659bfff261aadb5728a51d02f5",
+    "image": "https://imagenes.elpais.com/resizer/v2/TPU2ZX3RVVBMJDVN2T5ZGXRMO4.jpg?auth=30a15ce0df8f256d242befdf25d756e7a0e2012f13bc721da9ad19b76ae82287",
+    "category": "Alemania",
+    "text": "La participación se dispara en las elecciones regionales alemanas donde la extrema derecha aspira a gobernar",
+    "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260906/1211464_113156_video_1800.mp4",
     "category": "Alemania",
     "text": "Segregar a los extranjeros y relativizar el nazismo: así se acerca la extrema derecha al poder en Alemania",
     "link": "https://elpais.com/internacional/2026-09-06/segregar-a-los-extranjeros-y-relativizar-el-nazismo-asi-se-acerca-la-extrema-derecha-al-poder-en-alemania.html"
   },
   {
     "date": "2026-09-06",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260904/1210782_015007_video_1800.mp4",
-    "category": "Argentina",
-    "text": "Las Malvinas: la herida abierta que une a los argentinos",
-    "link": "https://elpais.com/argentina/2026-09-06/las-malvinas-la-herida-abierta-que-une-a-los-argentinos.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/3U6NURCFCRKV5PBJGUMWPNKI64.jpg?auth=ad6e3cb2995a391bac2c3071c7c543a0c52d7cc00f2a01ea4c7005e6cea81e7d",
+    "category": "Ataques militares",
+    "text": "Los enviados de Trump se reúnen con Zelenski en Kiev para intentar relanzar las negociaciones de paz",
+    "link": "https://elpais.com/internacional/2026-09-06/los-enviados-de-trump-se-reunen-con-zelenski-para-intentar-relanzar-las-negociaciones-de-paz.html"
   },
   {
     "date": "2026-09-06",
@@ -183,80 +232,94 @@
   },
   {
     "date": "2026-09-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/B6EJDW5SZBMW3ABGN3AXW6DNNI.jpg?auth=a9350aa4ff44bfbe4173f472152c3322b108e9816ee44446b82ab41fe17f0a03",
-    "category": "Líbano",
-    "text": "Israel ataca de nuevo el sur del Líbano y acusa a Hezbolá de lanzar drones contra sus soldados",
-    "link": "https://elpais.com/internacional/2026-09-06/israel-ataca-de-nuevo-el-sur-del-libano-y-acusa-a-hezbola-de-lanzar-drones-contra-sus-soldados.html"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d1df859bf5b25af21fe4c.png",
+    "image": null,
     "category": null,
-    "text": "VIDEO: Por primera vez, un lanzamiento espacial desde Europa continental logra llegar a la órbita",
-    "link": "https://actualidad.rt.com/actualidad/626174-primera-vez-lanzamiento-espacial-europa-continental?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Detienen a decenas de migrantes por lanzar piedras a militares y guardias civiles en Ceuta",
+    "link": "https://actualidad.rt.com/actualidad/626206-detener-decenas-migrantes-lanzar-piedras-militares?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
     "image": null,
     "category": null,
-    "text": "Hunter Biden anuncia que podría postularse a la presidencia",
-    "link": "https://actualidad.rt.com/actualidad/626175-hunter-biden-anuncia-podria-postularse-presidencia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ataque ucraniano contra un mercado en una ciudad rusa deja al menos 6 heridos",
+    "link": "https://actualidad.rt.com/actualidad/626213-ataque-ucraniano-mercado-ciudad-rusa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9cffc5e9ff71375a79fa7a.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d61cce9ff715fcc28a760.jpg",
     "category": null,
-    "text": "La dominicana Joheirry Mola se corona Miss Mundo 2026",
-    "link": "https://actualidad.rt.com/viral/626165-dominicana-joheirry-mola-corona-miss?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "IMPACTANTE MOMENTO en que un rayo cae a centímetros de un vehículo (VIDEO)",
+    "link": "https://actualidad.rt.com/viral/626203-impactante-momento-rayo-cae-centimetros?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9cfdca59bf5b245b6f812b.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d5f8c59bf5b25a964b2f4.jpeg",
     "category": null,
-    "text": "Bessent compara a un país vecino con \"un perrito chillón que no para de ladrar\"",
-    "link": "https://actualidad.rt.com/actualidad/626164-bessent-compara-pais-vecino-perrito?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Irán muestra sus ataques contra un portaviones y un destructor de EE.UU.",
+    "link": "https://actualidad.rt.com/actualidad/626204-medios-iranies-imagenes-ataques-petroleros-buques-militares?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d157be9ff71376120935a.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d3a98e9ff714b9d6c65ee.jpg",
     "category": null,
-    "text": "Explosión de pirotecnia deja al menos nueve muertos en una fiesta patronal en México",
-    "link": "https://actualidad.rt.com/actualidad/626172-explosion-pirotecnia-deja-nueve-muertos-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "Tres personas heridas en un ataque ucraniano contra una zona residencial de una ciudad rusa",
-    "link": "https://actualidad.rt.com/actualidad/626171-tres-personas-heridas-ataque-ucraniano?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9cf31fe9ff715f9d318948.jpg",
-    "category": null,
-    "text": "Justicia de Ecuador ordena exigir explicaciones a EE.UU. por operativo que dejó pescadores desaparecidos",
-    "link": "https://actualidad.rt.com/actualidad/626161-justicia-ecuador-ordena-exigir-explicaciones-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9cfb62e9ff7160707ed58c.jpg",
-    "category": null,
-    "text": "El huracán Lowell avanza hacia Hawái y amenaza con ráfagas dañinas y oleaje peligroso",
-    "link": "https://actualidad.rt.com/actualidad/626160-huracan-lowell-avanza-hawai-alerta-estadi?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La desalentadora advertencia de Bill Gates sobre la IA",
+    "link": "https://actualidad.rt.com/actualidad/626188-desalentadora-advertencia-bill-gates-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
     "image": null,
     "category": null,
-    "text": "Ataque ucraniano contra vehículo civil en una provincia fronteriza rusa deja un muerto y un herido",
-    "link": "https://actualidad.rt.com/actualidad/626170-ataque-ucraniano-vehiculo-civil-provincia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "EE.UU. revela el número de buques desviados desde la reanudación de su bloqueo marítimo a Irán",
+    "link": "https://actualidad.rt.com/actualidad/626205-eeuu-revela-numero-buques-desviados?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d049de9ff7151e46a29d7.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d4a5e59bf5b71a5269c18.jpg",
     "category": null,
-    "text": "VIDEO: Drones rusos neutralizan drones ucranianos en el aire",
-    "link": "https://actualidad.rt.com/actualidad/626167-video-drones-rusos-neutralizan-drones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Asesinan a tiros al vidente 'El Brujo de México' y detienen a su escolta",
+    "link": "https://actualidad.rt.com/actualidad/626187-asesinan-tiros-vidente-brujo-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d3b10e9ff7160707ed5b2.jpg",
+    "category": null,
+    "text": "¿Habla con su mascota? La ciencia analiza cómo le habla y qué efecto tiene en su bienestar",
+    "link": "https://actualidad.rt.com/actualidad/626183-herramienta-unica-busca-explicar-mascotas-ayudan?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d212259bf5b25751af8b2.jpg",
+    "category": null,
+    "text": "Dirigente de uno de los principales equipos peruanos se quiebra en rueda de prensa tras ser agredido",
+    "link": "https://actualidad.rt.com/actualidad/626173-dirigente-principales-equipos-peruanos-quiebra?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d29fa59bf5b25af21fe57.jpg",
+    "category": null,
+    "text": "VIDEO: Otro volcán vuelve a rugir en Indonesia y lanza una columna de ceniza de un kilómetro",
+    "link": "https://actualidad.rt.com/actualidad/626180-volcan-vuelve-rugir-indonesia-columna-ceniza?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
+    "text": "Netanyahu califica a Qatar de “estado hostil” y justifica su ataque de 2025",
+    "link": "http://es.euronews.com/2026/09/06/netanyahu-califica-a-qatar-de-estado-hostil-y-justifica-su-ataque-de-2025"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
+    "text": "Ulrich Siegmund de AfD vota en unas elecciones clave en Alemania",
+    "link": "http://es.euronews.com/video/2026/09/06/ulrich-siegmund-de-afd-vota-en-unas-elecciones-clave-en-alemania"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
+    "text": "Fuerzas iraníes atacan dron naval estadounidense que intenta entrar en el estrecho de Ormuz",
+    "link": "http://es.euronews.com/2026/09/06/fuerzas-iranies-atacan-dron-naval-estadounidense-que-intenta-entrar-en-el-estrecho-de-ormu"
   },
   {
     "date": "2026-09-06",
@@ -264,6 +327,13 @@
     "category": null,
     "text": "Suspensión masiva de vuelos en el principal aeropuerto de Indonesia por la erupción de un volcán",
     "link": "http://es.euronews.com/2026/09/06/suspension-masiva-de-vuelos-en-el-principal-aeropuerto-de-indonesia-por-la-erupcion-de-un-"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 06 septiembre 2026 - Mediodía",
+    "link": "http://es.euronews.com/video/2026/09/06/ultimas-noticias-06-septiembre-2026-mediodia"
   },
   {
     "date": "2026-09-06",
@@ -323,13 +393,6 @@
   },
   {
     "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/ab9be378-a965-11f1-b203-005056bfb2b6/w:1024/p:16x9/ES-20260905-110211-110817-CS.jpg",
-    "category": null,
-    "text": "Análisis: ¿EE. UU. logrará que Rusia y Ucrania retomen los diálogos diplomáticos?",
-    "link": "https://www.france24.com/es/video/20260905-an%C3%A1lisis-ee-uu-lograr%C3%A1-que-rusia-y-ucrania-retomen-los-di%C3%A1logos-diplom%C3%A1ticos"
-  },
-  {
-    "date": "2026-09-05",
     "image": null,
     "category": null,
     "text": "\"Me creí todo lo que me dijeron\": la mujer que alquiló un apartamento a los terroristas del 11-S habla en exclusiva con la BBC",
@@ -355,68 +418,5 @@
     "category": null,
     "text": "La mina de turquesa donde nació nuestro alfabeto (y cuáles fueron las primeras palabras que encontraron)",
     "link": "https://www.bbc.com/mundo/articles/cr4kxkp7ke6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
-    "link": "https://www.bbc.com/mundo/articles/c62j8j6lvy7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "Las preguntas que me hice tras estar a punto de morir sin darme cuenta un sábado cualquiera en mi propia casa",
-    "link": "https://www.bbc.com/mundo/articles/c4gd508v84jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "Una doble explosión en un cuartel militar de Bolivia deja al menos 2 muertos y 81 heridos",
-    "link": "https://www.bbc.com/mundo/articles/c78076w3jeyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
-    "link": "https://www.bbc.com/mundo/articles/c3327vepzv3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "Este es el plan de Trump tras la guerra: 3 ejes para Oriente Medio con Arabia Saudí, Irán y Gaza",
-    "link": "http://es.euronews.com/2026/09/05/este-es-el-plan-de-trump-tras-la-guerra-3-ejes-para-oriente-medio-con-arabia-saudi-iran-y-"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "Nepal, dos personas rescatadas con vida 10 días después de las inundaciones",
-    "link": "http://es.euronews.com/2026/09/05/nepal-dos-personas-rescatadas-con-vida-10-dias-despues-de-las-inundaciones"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "Belgrado conmemora a Mladić, criminal de guerra serbobosnio, sin honores oficiales",
-    "link": "http://es.euronews.com/2026/09/05/belgrado-conmemora-a-mladic-criminal-de-guerra-serbobosnio-sin-honores-oficiales"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "EE.UU. destruye 3 petroleros iraníes como represalia por los misiles contra Ormuz",
-    "link": "http://es.euronews.com/2026/09/05/medios-iranies-informan-de-ataque-de-eeuu-contra-petrolero-cerca-de-la-isla-de-kharg"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "Los ataques nocturnos israelíes en Líbano dejan 3 muertos, según el Ministerio de Sanidad",
-    "link": "http://es.euronews.com/2026/09/05/los-ataques-nocturnos-israelies-en-libano-dejan-3-muertos-segun-el-ministerio-de-sanidad"
   }
 ]

@@ -1,6 +1,41 @@
 [
   {
     "date": "2026-09-06",
+    "image": "https://s.france24.com/media/display/b1532306-a9c1-11f1-beb6-005056bf30b7/w:1024/p:16x9/AP26249227385663.jpg",
+    "category": "Europa",
+    "text": "Sajonia-Anhalt, el estado alemán que podría darle una histórica victoria a la extrema derecha",
+    "link": "https://www.france24.com/es/europa/20260906-sajonia-anhalt-el-estado-alem%C3%A1n-que-podr%C3%ADa-darle-una-hist%C3%B3rica-victoria-a-la-extrema-derecha"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://s.france24.com/media/display/dfca2d0a-aa03-11f1-a5b9-005056a90284/w:1024/p:16x9/2026-09-06T130916Z-756521472-RC2JDNASRNYL-RTRMADP-3-NEPAL-FLOODS-CHINA-GYIRONG.jpg",
+    "category": "Asia-Pacífico",
+    "text": "Nepal y el Tíbet elevan a 1.384 las víctimas mortales mientras continúa la búsqueda de desaparecidos",
+    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260906-nepal-y-el-t%C3%ADbet-elevan-a-1-384-las-v%C3%ADctimas-mortales-mientras-contin%C3%BAa-la-b%C3%BAsqueda-de-desaparecidos"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://s.france24.com/media/display/1310d9fe-a9fd-11f1-bdf7-005056bf30b7/w:1024/p:16x9/ES-20260906-073612-073733-CS.jpg",
+    "category": null,
+    "text": "Búsqueda de palestinos desaparecidos en ataques israelíes es obstaculizada por escasez de recursos",
+    "link": "https://www.france24.com/es/video/20260906-b%C3%BAsqueda-de-palestinos-desaparecidos-en-ataques-israel%C3%ADes-es-obstaculizada-por-escasez-de-recursos"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://s.france24.com/media/display/ffb01808-a9f6-11f1-a7cc-005056bf30b7/w:1024/p:16x9/ES-20260906-073315-073542-CS.jpg",
+    "category": null,
+    "text": "Escalan enfrentamientos entre hutíes y fuerzas del Gobierno de Yemen reconocido internacionalmente",
+    "link": "https://www.france24.com/es/video/20260906-escalan-enfrentamientos-entre-hut%C3%ADes-y-fuerzas-del-gobierno-de-yemen-reconocido-internacionalmente"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://s.france24.com/media/display/c676b5c8-a600-11f1-b43a-005056bf30b7/w:1024/p:16x9/2026-08-27T120141Z-1943397897-RC2Q6NAF1QXY-RTRMADP-3-IRAN-CRISIS-HORMUZ.jpg",
+    "category": "Medio Oriente",
+    "text": "En directo: Irán reivindica ataque contra un buque estadounidense en Ormuz, pero Washington lo niega",
+    "link": "https://www.france24.com/es/medio-oriente/20260906-en-directo-ir%C3%A1n-reivindica-un-ataque-contra-un-buque-estadounidense-en-ormuz-pero-estados-unidos-lo-niega"
+  },
+  {
+    "date": "2026-09-06",
     "image": "https://s.france24.com/media/display/d39fa430-a9ed-11f1-a7f3-005056a90284/w:1024/p:16x9/2026-09-06T110616Z-810290491-RC2MDNA5BHIR-RTRMADP-3-UKRAINE-CRISIS-USA-ENVOYS.jpg",
     "category": "Europa",
     "text": "En directo: los enviados de EE. UU., Kushner y Witkoff, llegan a Kiev tras conversaciones \"sustanciales\" con Putin",
@@ -52,6 +87,13 @@
     "date": "2026-09-06",
     "image": null,
     "category": null,
+    "text": "Los aciertos y errores de 3 mapas que usamos hoy (y por qué el aprobado ahora por la ONU tampoco representa correctamente al mundo)",
+    "link": "https://www.bbc.com/mundo/articles/c07l1l0knpjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
     "text": "El matemático que llevaba 7 años trabajando en descifrar un enigma que fue resuelto por un aficionado",
     "link": "https://www.bbc.com/mundo/articles/cpw9lgvenkgo?at_medium=RSS&at_campaign=rss"
   },
@@ -59,8 +101,8 @@
     "date": "2026-09-06",
     "image": null,
     "category": null,
-    "text": "Por qué nos salen úlceras en la boca y qué puedes hacer para aliviar sus síntomas",
-    "link": "https://www.bbc.com/mundo/articles/cp8djeyrpd8o?at_medium=RSS&at_campaign=rss"
+    "text": "Pattaya, la aldea de pescadores en Tailandia que la guerra de Vietnam convirtió en \"la ciudad del pecado\"",
+    "link": "https://www.bbc.com/mundo/articles/cx2zy390ewvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-06",
@@ -73,99 +115,106 @@
     "date": "2026-09-06",
     "image": null,
     "category": null,
+    "text": "Por qué nos salen úlceras en la boca y qué puedes hacer para aliviar sus síntomas",
+    "link": "https://www.bbc.com/mundo/articles/cp8djeyrpd8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
     "text": "EE.UU. e Irán intercambian ataques contra buques petroleros mientras se recrudece el conflicto",
     "link": "https://www.bbc.com/mundo/articles/cwyzwxeqpq5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-06",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/D43MKYV5RRAJBCBNHTR66HL2XE.jpg?auth=1a038469132c29e5fbc8feb106de468326d952d489bf913fdb2283b18522ff65&smart=true&width=1920&height=1280",
     "category": null,
-    "text": "Una doble explosión en un cuartel militar de Bolivia deja al menos 3 muertos y 81 heridos",
-    "link": "https://www.bbc.com/mundo/articles/c78076w3jeyo?at_medium=RSS&at_campaign=rss"
+    "text": "Contraloría inicia investigación por presunto ingreso irregular de Juan José Santiváñez al Ministerio del Interior",
+    "link": "https://www.infobae.com/peru/2026/09/06/contraloria-inicia-investigacion-por-ingreso-presuntamente-irregular-de-juan-jose-santivanez-al-despacho-del-general-arriola/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/IVAV5TIJM5FS3JVFJ2YGPI2FEQ.jpg?auth=cc126fd72c9b26bf7cab7aa7113d1512c68c51b58e8e2731c2a95f2c6a8cfe6e&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/SIA45CRKIRB6XHNML6IUXXMMGE.jpg?auth=a36a2d73c5ce2a4cfce087b168a3f2c2f812cf457f47cb6ac220b5e2870a9780&smart=true&width=1632&height=918",
     "category": null,
-    "text": "Se registra sismo de 4.1 de magnitud",
-    "link": "https://www.infobae.com/mexico/2026/09/06/se-registra-sismo-de-41-de-magnitud/"
+    "text": "Una empresa alemana logró el primer lanzamiento orbital privado desde territorio europeo",
+    "link": "https://www.infobae.com/america/ciencia-america/2026/09/06/una-empresa-alemana-logro-el-primer-lanzamiento-orbital-privado-desde-territorio-europeo/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/7GXVDDUH6VD6DL7RFMD73BEKIU.JPG?auth=67b1af9283a8ce1ec6a9252ca5dac0501edcff404fdd782258551f2e96d8caa9&smart=true&width=2960&height=1968",
+    "image": "https://www.infobae.com/resizer/v2/I3PKUEHA2BDG7KPOTT6LYPIEQM.jpg?auth=25430685a471a08f3a30a176afeda814dd89388536b6731ae68049e567725256&smart=true&width=3266&height=1837",
     "category": null,
-    "text": "Bandera roja en el Gran Premio de Italia de la Fórmula 1: George Russell lidera y Franco Colapinto marcha 4°",
-    "link": "https://www.infobae.com/deportes/2026/09/06/franco-colapinto-largara-en-el-puesto-7-con-su-alpine-el-gran-premio-de-italia-de-la-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/"
+    "text": "Reviven polémica entre Millonarios y Mondragón, candidato a asistente técnico de Alberto Gamero, por comentarios del exportero: “Gracias Faryd”",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/06/reviven-polemica-entre-millonarios-y-mondragon-candidato-a-asistente-tecnico-de-alberto-gamero-por-comentarios-del-exportero-gracias-faryd/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/UDXNJPANLFE3RKG7YDRWNMJSZU.jpg?auth=00baf2b8a42989bba9ac2f44bc4ff0e11869ebdd6aab97d50c505eac8065b36e&smart=true&width=2048&height=1365",
+    "image": "https://www.infobae.com/resizer/v2/NPE6EO2GANDDRMU6APXBHZLEL4.png?auth=6ef6973948e75b31a2b96627abfe6a88026db1f48d82e5a957a7998d1226dfe4&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Richard Concepción Carhuancho: “Esos fallos del TC sobre Fujimori y Humala han sido selectivos e invadieron la justicia ordinaria”",
-    "link": "https://www.infobae.com/peru/2026/09/06/richard-concepcion-carhuancho-considera-que-fallos-del-tc-en-casos-fujimori-y-humala-han-sido-selectivos-e-invadieron-la-justicia-ordinaria/"
+    "text": "¿Vuelve la alianza PAN-PRI? Esto es lo que cambió en la postura de Jorge Romero",
+    "link": "https://www.infobae.com/mexico/2026/09/06/vuelve-la-alianza-pan-pri-esto-es-lo-que-cambio-en-la-postura-de-jorge-romero/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/ZCIKSUJFAZHXRHZZQZN2RSULBM.jpg?auth=f77766ff8844bf63e16ed75a3f43a225f09de1f14316a4e5f67702383cb5a9f4&smart=true&width=1536&height=864",
+    "image": "https://www.infobae.com/resizer/v2/CN4IACPBVRF7DNM6VCXVKRAIKA.jpg?auth=eed33828d867bd1b08fc895365abdc7bfeabc484a32df1aa767612be83894ad9&smart=true&width=1920&height=1076",
     "category": null,
-    "text": "El fuerte accidente de Charles Leclerc que generó una bandera roja en el Gran Premio de Italia de la Fórmula 1",
-    "link": "https://www.infobae.com/deportes/2026/09/06/el-fuerte-accidente-de-charles-leclerc-que-genero-una-bandera-roja-en-el-gran-premio-de-italia-de-la-formula-1/"
+    "text": "La Sunafil advierte que el trabajo del hogar no puede incluir apoyo en negocios del empleador",
+    "link": "https://www.infobae.com/peru/2026/09/06/la-sunafil-advierte-que-el-trabajo-del-hogar-no-puede-incluir-apoyo-en-negocios-del-empleador/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/U7KBWYYGHJB5FONL3BKTF3Q6II.JPG?auth=7758cfd07c77943788a898e6f63f69dfa772ff83834142071a8b582e514671e0&smart=true&width=5789&height=3859",
+    "image": "https://www.infobae.com/resizer/v2/XPUSMUQMWZDBJHZWHZHPE73RIE.jpg?auth=499bc9036b375ef98f98c49dea6f5d8f7eb17b0a0e0280b76576940e8c618a2b&smart=true&width=1920&height=1079",
     "category": null,
-    "text": "Los padres de un autor del tiroteo en la mezquita de San Diego afirman que un centro de salud mental no siguió alertas del FBI",
-    "link": "https://www.infobae.com/estados-unidos/2026/09/06/los-padres-de-un-autor-del-tiroteo-en-la-mezquita-de-san-diego-afirman-que-un-centro-de-salud-mental-no-siguio-alertas-del-fbi/"
+    "text": "Sporting Cristal 1-0 Los Chankas EN VIVO HOY: minuto a minuto del partido por Torneo Clausura de Liga 1 2026",
+    "link": "https://www.infobae.com/peru/2026/09/06/sporting-cristal-vs-los-chankas-en-vivo-hoy-minuto-a-minuto-partido-gallardo-fecha-8-torneo-clausura-liga-1-2026-goles-resumen-resultado/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/QUI7HVJMTZG2NAJMVQNQDRVYDE.jpg?auth=5ac5f9ab0d21f6033488a1f29af09ca365ee03ee1e39c18b7fbf1dcb70c8c56b&smart=true&width=2048&height=1380",
+    "image": "https://www.infobae.com/resizer/v2/ESVBUHP3NBEPBO7L36D622RQKQ.png?auth=f3234dbe7b66873a15ef7ad061ff2ad918db61659d4e29b62855c84d6ea079df&smart=true&width=514&height=289",
     "category": null,
-    "text": "Temblor hoy en México: se registra sismo de magnitud 4.2 en Chiapas",
-    "link": "https://www.infobae.com/mexico/2026/09/06/temblor-hoy-en-mexico-noticias-actividad-sismica-6-de-septiembre-de-2026/"
+    "text": "Video: ciego, anciano y atrapado entre rocas, cómo fue el rescate de un caballo abandonado en Río Negro",
+    "link": "https://www.infobae.com/sociedad/2026/09/06/video-ciego-anciano-y-atrapado-entre-rocas-como-fue-el-rescate-de-un-caballo-abandonado-en-rio-negro/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/RZPBW3YL45CDXOMLZ4AXBOVISY.jpg?auth=54d5617fe6539ca84606dab315a4fb4289e03037cc11504840fae5e41b36655b&smart=true&width=1920&height=1262",
+    "image": "https://www.infobae.com/resizer/v2/55SBCWXYX5BJ7IAHETO2TL5U7I.png?auth=c4ca146f6272948447d728f2e0186de503464e85e8a5709d1b805006f56c8711&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "US Open 2026: cuándo y dónde ver los octavos de final desde México",
-    "link": "https://www.infobae.com/mexico/deportes/2026/09/06/us-open-2026-cuando-y-donde-ver-los-octavos-de-final-desde-mexico/"
+    "text": "Golazo de Santiago González con esquinado remate en Sporting Cristal vs Los Chankas por Liga 1 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/06/gol-santiago-gonzalez-sporting-cristal-vs-los-chankas-liga-1-2026-video-hoy/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/PZEDZZXFUFB23AQDO6MP2MKEK4.JPG?auth=9d3798f44c2a1dc17c210b68104d4f9eae580c231b961035e1c29f2db39a61b2&smart=true&width=4435&height=2957",
+    "image": "https://www.infobae.com/resizer/v2/LHCMEBR77ZBNBNGHFPWRH4TIEE.JPG?auth=b19f9903462bd9bcd621012dbbfa89a2f771f53eaf77bb63c26cad64854900b2&smart=true&width=6000&height=4000",
     "category": null,
-    "text": "Lavrov acusó a Alemania de iniciar un conflicto abierto con Rusia: “En esencia, viene a declararnos la guerra”",
-    "link": "https://www.infobae.com/america/mundo/2026/09/06/lavrov-acuso-a-alemania-de-iniciar-un-conflicto-abierto-con-rusia-en-esencia-viene-a-declararnos-la-guerra/"
+    "text": "Los enviados de EEUU calificaron como positivas las conversaciones con Zelensky en Kiev: “Muy alentador”",
+    "link": "https://www.infobae.com/america/mundo/2026/09/06/steve-witkoff-califico-como-positivas-las-conversaciones-con-volodimir-zelensky-en-kiev-muy-alentador/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/UTDONV2QOZEC3I372IGUBXSSRY.jpeg?auth=1578d904c45563963a3fd69c718a8a7ee99403fde917f790b100175e86ed20a2&smart=true&width=1280&height=720",
+    "image": "https://www.infobae.com/resizer/v2/QM3SDSQBMJC6RAH44KOQNUVQJE.jpg?auth=a07878992c9e0cc2e89cf3d017933fd32e57116f931ffd2a2e63bd114d4636c0&smart=true&width=1528&height=1029",
     "category": null,
-    "text": "Clima en Piura: esta será la temperatura y probabilidad de lluvia para este domingo 6 de septiembre",
-    "link": "https://www.infobae.com/peru/2026/09/06/clima-en-peru-temperatura-y-probabilidad-de-lluvia-para-piura-este-6-de-septiembre/"
+    "text": "Capturan en Medellín a ciudadano neerlandés con circular roja de Interpol: lideraba una estructura dedicada al tráfico de drogas hacia Europa",
+    "link": "https://www.infobae.com/colombia/2026/09/06/capturan-en-medellin-a-ciudadano-neerlandes-con-circular-roja-de-interpol-lideraba-una-estructura-dedicada-al-trafico-de-drogas-hacia-europa/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/US4KVK7ZMJCKRLTVWG5UZCKZXU.png?auth=7beaf9020910b11326b2c284c4fda240ac8798c046c9228a44840747bbffec82&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/TN3RVHDVO5FSLPWJ43QO7XS35M.png?auth=5d4e1787136d8ffd278546d0d0cd45cfce7a11d26491456e05962132e58465da&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Grietas en las paredes: cuáles son normales y qué señales pueden indicar un problema estructural",
-    "link": "https://www.infobae.com/tendencias/2026/09/06/grietas-en-las-paredes-cuales-son-normales-y-que-senales-pueden-indicar-un-problema-estructural/"
+    "text": "La hipertensión sin control mantiene riesgo de infarto en México, señalan expertos",
+    "link": "https://www.infobae.com/mexico/2026/09/06/la-hipertension-sin-control-mantiene-riesgo-de-infarto-en-el-pais-senalan-expertos/"
   },
   {
     "date": "2026-09-06",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/JYUSTW2G5ZF4XMMMMUFO75NLEI.JPG?auth=6fffbb24fc0c5c149eae8c34572f55a2ebb4a8b9fdc1616269a7bd4a4b80deda&smart=true&width=4718&height=3145",
     "category": null,
-    "text": "Las aguas del Mediterráneo alcanzaron el 13 de agosto un récord de 28,54 grados",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/06/las-aguas-del-mediterraneo-alcanzaron-el-13-de-agosto-un-record-de-2854-grados/"
+    "text": "El partido de ultraderecha alemán AfD arrasa en las elecciones de Alta Sajonia, según los sondeos a pie de urna: “Hemos hecho historia”",
+    "link": "https://www.infobae.com/espana/2026/09/06/el-partido-de-ultraderecha-aleman-afd-arrasa-en-las-elecciones-de-alta-sajonia-segun-los-sondeos-a-pie-de-urna-hemos-hecho-historia/"
   },
   {
     "date": "2026-09-06",
-    "image": "https://www.infobae.com/resizer/v2/RO42YHFZP5F4BN5BB4ZO4DAVFQ.png?auth=88cec518da55e9039bb39ae79438d595710842968c97b51cae9af9cb4e4f28b0&smart=true&width=1359&height=764",
-    "category": null,
-    "text": "Gran Premio de Italia EN VIVO: Charles Leclerc abandona la carrera y causa bandera roja",
-    "link": "https://www.infobae.com/mexico/deportes/2026/09/06/gran-premio-de-italia-sigue-en-vivo-el-minuto-a-minuto-de-la-carrera-donde-compite-checo-perez/"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260906/1211464_113156_video_1800.mp4",
+    "category": "Alemania",
+    "text": "La extrema derecha roza la mayoría absoluta en Sajonia-Anhalt, según los sondeos",
+    "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html"
   },
   {
     "date": "2026-09-06",
@@ -183,13 +232,6 @@
   },
   {
     "date": "2026-09-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/BBEFXPHFMRDPDO5LPHHRZ7PIHQ.jpg?auth=81f5a4fb5fe87763664e8c8cbdcd11494fb012c2187e81f01788dc7fc67f15b3",
-    "category": "Derecho internacional",
-    "text": "Tomoko Akane, presidenta del Tribunal Penal Internacional: “Tarde o temprano la Historia nos pedirá cuentas a todos. ¿Dónde estabas?\"",
-    "link": "https://elpais.com/internacional/2026-09-06/tomoko-akane-presidenta-del-tribunal-penal-internacional-tarde-o-temprano-la-historia-nos-pedira-cuentas-a-todos-donde-estabas.html"
-  },
-  {
-    "date": "2026-09-06",
     "image": "https://imagenes.elpais.com/resizer/v2/LMEOEWXNL5GAHBTLUCBTK7MACY.jpg?auth=2b9fbdb82f61b8e931d44be6936310203ad6d330339e802d3be59c5b8343afd4",
     "category": "Opinión",
     "text": "¿Confusión europea? ¡Volver a Ventotene!",
@@ -204,10 +246,10 @@
   },
   {
     "date": "2026-09-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/TPU2ZX3RVVBMJDVN2T5ZGXRMO4.jpg?auth=30a15ce0df8f256d242befdf25d756e7a0e2012f13bc721da9ad19b76ae82287",
-    "category": "Alemania",
-    "text": "La participación se dispara en las elecciones regionales alemanas donde la extrema derecha aspira a gobernar",
-    "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/BBEFXPHFMRDPDO5LPHHRZ7PIHQ.jpg?auth=81f5a4fb5fe87763664e8c8cbdcd11494fb012c2187e81f01788dc7fc67f15b3",
+    "category": "Derecho internacional",
+    "text": "Tomoko Akane, presidenta del Tribunal Penal Internacional: “Tarde o temprano la Historia nos pedirá cuentas a todos. ¿Dónde estabas?\"",
+    "link": "https://elpais.com/internacional/2026-09-06/tomoko-akane-presidenta-del-tribunal-penal-internacional-tarde-o-temprano-la-historia-nos-pedira-cuentas-a-todos-donde-estabas.html"
   },
   {
     "date": "2026-09-06",
@@ -232,73 +274,87 @@
   },
   {
     "date": "2026-09-06",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d8749e9ff714bd510484b.jpg",
     "category": null,
-    "text": "Detienen a decenas de migrantes por lanzar piedras a militares y guardias civiles en Ceuta",
-    "link": "https://actualidad.rt.com/actualidad/626206-detener-decenas-migrantes-lanzar-piedras-militares?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Rusia es responsable de los bombardeos atómicos de EE.UU. contra Japón\", afirma un catedrático japonés",
+    "link": "https://actualidad.rt.com/actualidad/626230-catedratico-japones-culpar-rusia-hiroshima-nagasaki?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
     "image": null,
     "category": null,
-    "text": "Ataque ucraniano contra un mercado en una ciudad rusa deja al menos 6 heridos",
-    "link": "https://actualidad.rt.com/actualidad/626213-ataque-ucraniano-mercado-ciudad-rusa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Luchador se desploma y muere justo después de un combate",
+    "link": "https://actualidad.rt.com/actualidad/626238-luchador-desploma-muere-despues-combate?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d61cce9ff715fcc28a760.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d93e8e9ff71138a3d18a4.jpg",
     "category": null,
-    "text": "IMPACTANTE MOMENTO en que un rayo cae a centímetros de un vehículo (VIDEO)",
-    "link": "https://actualidad.rt.com/viral/626203-impactante-momento-rayo-cae-centimetros?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Sondeos apuntan a arrolladora victoria de la opositora AfD en las elecciones que podrían marcar el futuro de Merz",
+    "link": "https://actualidad.rt.com/actualidad/626216-llegan-primeros-resultados-elecciones-regionales-alemania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d5f8c59bf5b25a964b2f4.jpeg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d8c8659bf5b170c773785.jpg",
     "category": null,
-    "text": "VIDEO: Irán muestra sus ataques contra un portaviones y un destructor de EE.UU.",
-    "link": "https://actualidad.rt.com/actualidad/626204-medios-iranies-imagenes-ataques-petroleros-buques-militares?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Roba una patrulla, la embiste contra una casa y se enfrenta a mordiscos con los agentes",
+    "link": "https://actualidad.rt.com/viral/626228-video-roba-patrulla-embiste-casa-enfrenta-mordiscos-policia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d3a98e9ff714b9d6c65ee.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d784459bf5b25a964b314.jpg",
     "category": null,
-    "text": "La desalentadora advertencia de Bill Gates sobre la IA",
-    "link": "https://actualidad.rt.com/actualidad/626188-desalentadora-advertencia-bill-gates-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "No solo importa qué se come: la hora de las comidas podría afectar nuestra salud",
+    "link": "https://actualidad.rt.com/actualidad/626212-importa-come-hora-comidas-cambiar-higado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d8c2659bf5b01a46a3f90.jpg",
+    "category": null,
+    "text": "VIDEO: Drones asestan un duro golpe a centros logísticos ucranianos",
+    "link": "https://actualidad.rt.com/actualidad/626224-video-drones-asestar-duro-golpe-centros-logisticos-ucranianos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d899459bf5b70c25660c1.jpg",
+    "category": null,
+    "text": "EE.UU. emite alerta de seguridad para una ciudad mexicana por una \"amenaza\"",
+    "link": "https://actualidad.rt.com/actualidad/626231-eeuu-emite-alerta-seguridad-ciudad-mexiana?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d8918e9ff71375a79fabe.jpg",
+    "category": null,
+    "text": "VIDEO: Drones rusos destrozan equipos ucranianos",
+    "link": "https://actualidad.rt.com/actualidad/626226-video-drones-rusos-destrozan-equipos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d8399e9ff71135e23af34.jpg",
+    "category": null,
+    "text": "NYT: Ucrania premia con contratos millonarios a proveedores de armas investigados por estafa",
+    "link": "https://actualidad.rt.com/actualidad/626220-ucrania-da-contratos-millonarios-armas-fraude?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d819459bf5b71a5269c4b.jpg",
+    "category": null,
+    "text": "\"Ilusión vana que nunca se hará realidad\": Irán se pronuncia sobre las esperanzas frustradas de EE.UU.",
+    "link": "https://actualidad.rt.com/actualidad/626215-ilusion-vana-hacer-realidad-iran-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-06",
     "image": null,
     "category": null,
-    "text": "EE.UU. revela el número de buques desviados desde la reanudación de su bloqueo marítimo a Irán",
-    "link": "https://actualidad.rt.com/actualidad/626205-eeuu-revela-numero-buques-desviados?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Yemen: El ejército prosaudí ataca un campamento en Jawf tras el lanzamiento de misiles en Taiz por los hutíes",
+    "link": "http://es.euronews.com/2026/09/06/yemen-el-ejercito-prosaudi-ataca-un-campamento-en-jawf-tras-el-lanzamiento-de-misiles"
   },
   {
     "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d4a5e59bf5b71a5269c18.jpg",
+    "image": null,
     "category": null,
-    "text": "Asesinan a tiros al vidente 'El Brujo de México' y detienen a su escolta",
-    "link": "https://actualidad.rt.com/actualidad/626187-asesinan-tiros-vidente-brujo-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d3b10e9ff7160707ed5b2.jpg",
-    "category": null,
-    "text": "¿Habla con su mascota? La ciencia analiza cómo le habla y qué efecto tiene en su bienestar",
-    "link": "https://actualidad.rt.com/actualidad/626183-herramienta-unica-busca-explicar-mascotas-ayudan?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d212259bf5b25751af8b2.jpg",
-    "category": null,
-    "text": "Dirigente de uno de los principales equipos peruanos se quiebra en rueda de prensa tras ser agredido",
-    "link": "https://actualidad.rt.com/actualidad/626173-dirigente-principales-equipos-peruanos-quiebra?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9d29fa59bf5b25af21fe57.jpg",
-    "category": null,
-    "text": "VIDEO: Otro volcán vuelve a rugir en Indonesia y lanza una columna de ceniza de un kilómetro",
-    "link": "https://actualidad.rt.com/actualidad/626180-volcan-vuelve-rugir-indonesia-columna-ceniza?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Teherán declara fin de “la era de las respuestas proporcionales”",
+    "link": "http://es.euronews.com/2026/09/06/teheran-declara-fin-de-la-era-de-las-respuestas-proporcionales"
   },
   {
     "date": "2026-09-06",
@@ -332,6 +388,13 @@
     "date": "2026-09-06",
     "image": null,
     "category": null,
+    "text": "Últimas noticias | 06 septiembre 2026 - Tarde",
+    "link": "http://es.euronews.com/video/2026/09/06/ultimas-noticias-06-septiembre-2026-tarde"
+  },
+  {
+    "date": "2026-09-06",
+    "image": null,
+    "category": null,
     "text": "Últimas noticias | 06 septiembre 2026 - Mediodía",
     "link": "http://es.euronews.com/video/2026/09/06/ultimas-noticias-06-septiembre-2026-mediodia"
   },
@@ -355,68 +418,5 @@
     "category": "Medio Oriente",
     "text": "“La casa está vacía”: el drama de las familias palestinas bajo la violencia en Cisjordania",
     "link": "https://www.france24.com/es/medio-oriente/20260905-la-casa-est%C3%A1-vac%C3%ADa-el-drama-de-las-familias-palestinas-bajo-la-violencia-en-cisjordania"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/4b5ca5b2-a977-11f1-9aa7-005056a90284/w:1024/p:16x9/ES-20260905-161143-161359-CS.jpg",
-    "category": null,
-    "text": "De Mercator a Equal Earth: ¿por qué los mapas son símbolos de poder y qué representa el cambio?",
-    "link": "https://www.france24.com/es/video/20260905-de-mercator-a-equal-earth-por-qu%C3%A9-los-mapas-son-s%C3%ADmbolos-de-poder-y-qu%C3%A9-representa-el-cambio"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/a5716734-a974-11f1-922b-005056bf30b7/w:1024/p:16x9/ES-20260905-131149-131345-CS.jpg",
-    "category": null,
-    "text": "Justicia argentina ordena devolver obra robada por nazis que apareció en Mar de Plata",
-    "link": "https://www.france24.com/es/video/20260905-justicia-argentina-ordena-devolver-obra-robada-por-nazis-que-apareci%C3%B3-en-mar-de-plata"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/5dc8f20a-a96d-11f1-8602-005056bf30b7/w:1024/p:16x9/ES-20260905-123824-124002-CS.jpg",
-    "category": null,
-    "text": "Informe desde Katmandú: dos personas fueron rescatadas con vida tras 10 días de la riada",
-    "link": "https://www.france24.com/es/video/20260905-informe-desde-katmand%C3%BA-dos-personas-fueron-rescatadas-con-vida-tras-10-d%C3%ADas-de-la-riada"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/01b7923e-a96b-11f1-aa72-005056bf30b7/w:1024/p:16x9/ES-20260905-123604-123752-CS.jpg",
-    "category": null,
-    "text": "Israel retoma ataques contra Líbano a pesar del alto el fuego con Hezbolá",
-    "link": "https://www.france24.com/es/video/20260905-israel-retoma-ataques-contra-l%C3%ADbano-a-pesar-del-alto-el-fuego-con-hezbol%C3%A1"
-  },
-  {
-    "date": "2026-09-05",
-    "image": "https://s.france24.com/media/display/ef0aa5de-a967-11f1-a1a8-005056a90284/w:1024/p:16x9/ES-20260905-111342-111503-CS.jpg",
-    "category": null,
-    "text": "Informe desde Lima: Fujimori declara estado de emergencia en cinco cárceles",
-    "link": "https://www.france24.com/es/video/20260905-informe-desde-lima-fujimori-declara-estado-de-emergencia-en-cinco-c%C3%A1rceles"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "\"Me creí todo lo que me dijeron\": la mujer que alquiló un apartamento a los terroristas del 11-S habla en exclusiva con la BBC",
-    "link": "https://www.bbc.com/mundo/articles/crl63jdn7n4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis",
-    "link": "https://www.bbc.com/mundo/articles/cx2zv86p1ryo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "Cómo el juicio por asesinato de Lindsay Clancy ha dividido a EE.UU. sobre si es víctima de psicosis posparto o una criminal que mató a sus 3 hijos",
-    "link": "https://www.bbc.com/mundo/articles/c98094mlydvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-05",
-    "image": null,
-    "category": null,
-    "text": "La mina de turquesa donde nació nuestro alfabeto (y cuáles fueron las primeras palabras que encontraron)",
-    "link": "https://www.bbc.com/mundo/articles/cr4kxkp7ke6o?at_medium=RSS&at_campaign=rss"
   }
 ]

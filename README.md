@@ -362,8 +362,12 @@ punto rojo pulsante) y el nombre del lugar en letra grande.
   10 minutos), así una edición se ve sin recargar OBS.
 - El video se reproduce siempre muteado (para no competir con la
   música) y sin controles.
-- Si una URL de la lista no tiene un ID de video reconocible, esa
-  entrada se saltea sola en vez de romper el bloque.
+- Si una URL de la lista no tiene un ID de video reconocible, o el
+  video sí tiene un ID válido pero está caído/privado/eliminado, esa
+  entrada se saltea sola y prueba con la siguiente de la lista — nunca
+  se llega a mostrar una pantalla rota. Si todas las cámaras de la
+  lista fallan en el mismo turno, esa vuelta no se muestra nada y se
+  reintenta en el próximo turno.
 - Se pisa mutuamente con las pantallas de noticias, clima, cotización
   y mercados: si coinciden, una se saltea esa vez y aparece en el
   próximo turno.
@@ -371,14 +375,14 @@ punto rojo pulsante) y el nombre del lugar en letra grande.
   `liveCamFirstDelayMs` (cuándo aparece la primera vez),
   `liveCamIntervalMs` (cada cuánto se repite) y `liveCamDisplayMs`
   (cuánto queda visible cada cámara).
-- **Importante**: al no depender de una API, no hay una forma limpia
-  de detectar si una cámara puntual se cayó o dejó de transmitir (a
-  diferencia de un fetch que falla prolijo) — conviene revisar
-  `livecams/livecams.json` de tanto en tanto para sacar cámaras que ya
-  no funcionen. Esto es a propósito no bloqueante: si el video de una
-  entrada no está disponible, el iframe simplemente no reproduce nada
-  esa vuelta y la siguiente cámara de la lista sale normal en su
-  turno — no hace falta sacarla enseguida, solo cuando moleste.
+- **Importante**: la detección de cámara caída se hace probando a
+  reproducirla de verdad (vía la API oficial de YouTube, no un
+  `<iframe src="...">` fijo), así que no hace falta revisar
+  `livecams/livecams.json` a mano para sacar cámaras muertas — el
+  bloque ya las saltea solo. Igual conviene limpiarlas de vez en
+  cuando si se sabe que una dejó de existir, para no gastar esos ~5
+  segundos de espera (`liveCamLoadTimeoutMs`) en cada turno que le
+  toque.
 - Algunas cámaras de naturaleza son **estacionales** (por ejemplo, la
   de los osos pardos en las cataratas Brooks, Alaska, solo transmite
   activamente durante la temporada de pesca del salmón, aprox.

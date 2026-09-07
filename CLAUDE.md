@@ -106,12 +106,27 @@ secciones comentadas dentro del archivo:
   `CONFIG.marketsAssets` (`loadMarkets`/`runMarketsBlock`). Se pisa
   mutuamente con noticias, clima y cotización.
 - **Cámara pública en vivo**: mismo mecanismo de pantalla completa que
-  las anteriores, pero sin ninguna API: embebe una cámara de YouTube de
-  la lista curada a mano en `livecams/livecams.json` (array de
-  `{ title, url }`, `loadLiveCams`), extrae el ID del video con
-  `extractYoutubeVideoId` (acepta las URLs típicas de YouTube) y arma
-  el iframe con `autoplay=1&mute=1` (mute obligatorio para no competir
-  con la música) (`runLiveCamBlock`). El cartel `#livecamCaption`,
+  las anteriores, pero sin ninguna API JSON: embebe una cámara de
+  YouTube de la lista curada a mano en `livecams/livecams.json` (array
+  de `{ title, url }`, `loadLiveCams`), extrae el ID del video con
+  `extractYoutubeVideoId` (acepta las URLs típicas de YouTube). A
+  diferencia de un `<iframe src="...">` fijo, usa la API oficial de
+  YouTube (`YT.Player`, cargada bajo demanda con `ensureYoutubeApi`,
+  reemplazando en el DOM al `<div id="livecamFrame">` la primera vez
+  que hace falta) para poder escuchar el evento `onError`: una URL con
+  buena forma puede seguir estando caída, ser privada o haber sido
+  eliminada, y eso solo se sabe intentando reproducirla de verdad.
+  `tryLoadLiveCam(videoId)` intenta reproducir un video y devuelve una
+  Promise<boolean> (según `onError`, `onStateChange` — PLAYING/
+  BUFFERING cuenta como éxito — o, si no pasó nada, el timeout de
+  `CONFIG.liveCamLoadTimeoutMs` como beneficio de la duda). `runLiveCamBlock`
+  prueba las cámaras de la lista en orden hasta encontrar una que
+  funcione (o se queda sin pantalla esa vuelta si fallan todas), nunca
+  muestra una pantalla rota, y `mute=1` (obligatorio: autoplay con
+  audio está bloqueado por los navegadores, y además no queremos
+  competir con la música) se pide una sola vez al crear el player y
+  queda aplicado a todas las cargas siguientes vía `loadVideoById`. El
+  cartel `#livecamCaption`,
   ubicado a propósito en la esquina inferior **derecha** (la izquierda
   la tapa el reproductor de música, que tiene mayor z-index), muestra
   un badge grande "EN VIVO" con punto rojo pulsante (`.livecam-live-dot`,

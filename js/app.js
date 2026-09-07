@@ -82,6 +82,7 @@ const CONFIG = {
   marketsDisplayMs: 30 * 1000,          // cuanto queda visible la pantalla de mercados
   liveCamsUrl: "livecams/livecams.json", // lista curada a mano de camaras publicas (titulo + URL de YouTube)
   liveCamsRefreshMs: 10 * 60 * 1000,    // re-leer livecams.json cada 10 min (para que una edicion se vea sin recargar OBS)
+  liveCamLoadTimeoutMs: 5 * 1000,       // cuanto esperar a que una camara avise que fallo antes de darla por buena y mostrarla igual
   liveCamFirstDelayMs: 17 * 60 * 1000,  // primera camara a los 17 min (deja las 3 apariciones/hora en :17, :37, :57 - la mejor combinacion posible)
   liveCamIntervalMs: 20 * 60 * 1000,    // despues, cada 20 min (3 veces por hora)
   liveCamDisplayMs: 7 * 60 * 1000,      // cuanto queda visible cada camara (7 min)
@@ -1407,7 +1408,6 @@ setTimeout(() => {
 // edita a mano.
 
 const livecamScreen = document.getElementById("livecamScreen");
-const livecamFrame = document.getElementById("livecamFrame");
 const livecamCaption = document.getElementById("livecamCaption");
 const livecamPlace = document.getElementById("livecamPlace");
 
@@ -1435,6 +1435,90 @@ function extractYoutubeVideoId(url) {
   return match ? match[1] : null;
 }
 
+// Player de YouTube reusado entre camaras/turnos (creado una sola vez,
+// la primera vez que hace falta). Se usa la API oficial de YouTube
+// (en vez de un <iframe src="..."> fijo) para poder escuchar el evento
+// onError: una URL con buena forma puede seguir estando caida, ser
+// privada o haber sido eliminada, y eso solo se sabe intentando
+// reproducirla. `liveCamSettleCurrent` conecta esos eventos (que se
+// registran una sola vez, al crear el player) con la promesa de la
+// llamada a `tryLoadLiveCam` que este activa en cada momento.
+let ytApiPromise = null;
+let ytPlayer = null;
+let liveCamSettleCurrent = null;
+
+function ensureYoutubeApi() {
+  if (ytApiPromise) return ytApiPromise;
+  ytApiPromise = new Promise((resolve) => {
+    if (window.YT && window.YT.Player) {
+      resolve();
+      return;
+    }
+    const previous = window.onYouTubeIframeAPIReady;
+    window.onYouTubeIframeAPIReady = () => {
+      if (typeof previous === "function") previous();
+      resolve();
+    };
+    const script = document.createElement("script");
+    script.src = "https://www.youtube.com/iframe_api";
+    document.head.appendChild(script);
+  });
+  return ytApiPromise;
+}
+
+function handleYtError() {
+  if (liveCamSettleCurrent) liveCamSettleCurrent(false);
+}
+
+function handleYtStateChange(e) {
+  const playingOrBuffering = e.data === YT.PlayerState.PLAYING || e.data === YT.PlayerState.BUFFERING;
+  if (playingOrBuffering && liveCamSettleCurrent) liveCamSettleCurrent(true);
+}
+
+// Intenta reproducir `videoId`; devuelve una Promise<boolean> (true si
+// arrancó bien, false si YouTube reportó un error - video privado,
+// eliminado, con embeds deshabilitados, etc). Si no pasa nada en
+// `CONFIG.liveCamLoadTimeoutMs` (ni error ni estado de reproducción),
+// se le da el beneficio de la duda y se toma como éxito.
+function tryLoadLiveCam(videoId) {
+  return ensureYoutubeApi().then(
+    () =>
+      new Promise((resolve) => {
+        let settled = false;
+        const settle = (ok) => {
+          if (settled) return;
+          settled = true;
+          liveCamSettleCurrent = null;
+          clearTimeout(timeoutId);
+          resolve(ok);
+        };
+        liveCamSettleCurrent = settle;
+        const timeoutId = setTimeout(() => settle(true), CONFIG.liveCamLoadTimeoutMs);
+
+        if (!ytPlayer) {
+          ytPlayer = new YT.Player("livecamFrame", {
+            videoId,
+            playerVars: { autoplay: 1, mute: 1, controls: 0, modestbranding: 1, rel: 0, playsinline: 1 },
+            events: {
+              onReady: () => {
+                ytPlayer.getIframe().classList.add("livecam-frame");
+                settle(true);
+              },
+              onError: handleYtError,
+              onStateChange: handleYtStateChange,
+            },
+          });
+        } else {
+          // mute=1 obligatorio (autoplay con audio esta bloqueado por
+          // los navegadores) y ademas no queremos que compita con la
+          // musica: se pide una sola vez al crear el player y queda
+          // aplicado para todas las cargas siguientes.
+          ytPlayer.loadVideoById(videoId);
+        }
+      })
+  );
+}
+
 async function runLiveCamBlock() {
   // No pisar noticias, clima, cotizacion o mercados si justo estan en
   // pantalla; se saltea esta vez y se reintenta en el proximo turno.
@@ -1442,28 +1526,34 @@ async function runLiveCamBlock() {
 
   if (!liveCams || liveCams.length === 0) return;
 
-  const cam = liveCams[liveCamIndex % liveCams.length];
-  liveCamIndex++;
-  const videoId = extractYoutubeVideoId(cam.url);
-  if (!videoId) return; // URL mal cargada en livecams.json: se saltea en vez de romper
-
   liveCamBlockRunning = true;
   pauseBackgroundRotation();
 
   try {
-    livecamPlace.textContent = cam.title || "";
-    // mute=1 obligatorio (autoplay con audio esta bloqueado por los
-    // navegadores) y ademas no queremos que compita con la musica.
-    livecamFrame.src =
-      `https://www.youtube.com/embed/${videoId}` +
-      `?autoplay=1&mute=1&controls=0&modestbranding=1&rel=0&playsinline=1`;
-    livecamScreen.classList.add("visible");
+    // Prueba las camaras de la lista en orden (arrancando donde quedo
+    // la vez anterior) hasta encontrar una que funcione, saltando en
+    // silencio las que tengan una URL mal cargada o esten caidas /
+    // privadas / eliminadas. Si ninguna de toda la lista funciona,
+    // esta vuelta no se muestra nada (se reintenta en el proximo turno).
+    for (let attempt = 0; attempt < liveCams.length; attempt++) {
+      const cam = liveCams[liveCamIndex % liveCams.length];
+      liveCamIndex++;
+      const videoId = extractYoutubeVideoId(cam.url);
+      if (!videoId) continue;
 
-    await wait(CONFIG.liveCamDisplayMs);
+      const ok = await tryLoadLiveCam(videoId);
+      if (!ok) continue;
 
-    livecamScreen.classList.remove("visible");
-    await wait(700); // deja terminar el fade de salida antes de retomar fondos
-    livecamFrame.src = ""; // corta la carga/reproduccion del iframe fuera de pantalla
+      livecamPlace.textContent = cam.title || "";
+      livecamScreen.classList.add("visible");
+
+      await wait(CONFIG.liveCamDisplayMs);
+
+      livecamScreen.classList.remove("visible");
+      await wait(700); // deja terminar el fade de salida antes de retomar fondos
+      ytPlayer.stopVideo(); // corta la reproduccion fuera de pantalla
+      break;
+    }
   } finally {
     liveCamBlockRunning = false;
     resumeBackgroundRotation();

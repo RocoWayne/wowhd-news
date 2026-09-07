@@ -120,17 +120,15 @@
        embebiendo una camara de YouTube de la lista curada a mano en
        CONFIG.liveCams, con el nombre del lugar superpuesto abajo. A
        diferencia de clima/cotizacion/mercados, esta no depende de
-       ninguna API: la lista de camaras se carga y edita a mano. -->
+       ninguna API: la lista de camaras se carga y edita a mano.
+       #livecamFrame arranca como un <div> vacio a proposito: la API de
+       YouTube (YT.Player, cargada bajo demanda en app.js) lo reemplaza
+       por su propio <iframe> la primera vez que hace falta, para poder
+       escuchar el evento onError y saltar a la siguiente camara de la
+       lista si una puntual esta caida/privada/eliminada. -->
   <section class="livecam-screen" id="livecamScreen">
     <div class="livecam-frame-wrap">
-      <iframe
-        id="livecamFrame"
-        class="livecam-frame"
-        src=""
-        title="Cámara en vivo"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-      ></iframe>
+      <div id="livecamFrame" class="livecam-frame"></div>
     </div>
     <div class="livecam-caption" id="livecamCaption">
       <div class="livecam-live-badge"><span class="livecam-live-dot"></span>EN VIVO</div>

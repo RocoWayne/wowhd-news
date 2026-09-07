@@ -222,7 +222,16 @@ tiene `actions/checkout` + Python del runner, sin `pip install`).
   keyword que falla se saltea, y solo si fallan todas deja
   `backgrounds/external.json` sin tocar. Nunca pisa entradas manuales
   de `external.json`: solo regenera las que ya vinieran marcadas
-  `source: "wikimedia-auto"` de una corrida anterior.
+  `source: "wikimedia-auto"` de una corrida anterior (no las acumula:
+  cada corrida reemplaza ese grupo entero por resultados frescos).
+  Importante: la búsqueda de Wikimedia devuelve siempre los mismos
+  resultados en el mismo orden para una keyword dada, así que sin
+  variar el offset el pool queda fijo para siempre por más veces que
+  corra el workflow — por eso pide un offset al azar
+  (`gsroffset`, acotado por `OFFSET_WINDOW`) en cada corrida, para que
+  el cron diario sí vaya trayendo fotos distintas con el tiempo. Para
+  más variedad, la palanca más directa es agregar keywords a la lista
+  (o subir `IMAGES_PER_KEYWORD`).
 - `generate_news_from_rss.py`: parsea el grupo de feeds RSS en
   `RSS_FEEDS` (RSS 2.0 o Atom), combina y dedupea por link; un feed
   puntual que falla se saltea sin afectar a los demás, y solo si

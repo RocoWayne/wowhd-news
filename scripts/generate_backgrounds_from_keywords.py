@@ -24,22 +24,41 @@ correr a mano para probarlo o forzar una actualizacion.
 import html
 import json
 import os
+import random
 import re
 import sys
 import urllib.parse
 import urllib.request
 
 # Keywords genericas de noticias/entretenimiento, acorde al contenido
-# de MUNDO WOW 24/7. Se pueden agregar/sacar libremente.
+# de MUNDO WOW 24/7. Se pueden agregar/sacar libremente - mas keywords
+# es la forma mas directa de sumar variedad al pool de fondos.
 KEYWORDS = [
     "news studio",
     "television broadcast",
     "entertainment lights",
     "red carpet event",
     "concert crowd",
+    "dj console",
+    "night club",
+    "music festival",
+    "radio station",
+    "stadium concert",
+    "urban skyline night",
+    "neon lights city",
+    "live music stage",
+    "crowd cheering",
+    "recording studio",
 ]
 
-IMAGES_PER_KEYWORD = 3
+IMAGES_PER_KEYWORD = 5
+# Wikimedia devuelve los resultados de una busqueda siempre en el
+# mismo orden de relevancia: sin variar el offset, cada corrida trae
+# exactamente las mismas fotos de siempre para una keyword dada, sin
+# importar cuantas veces se repita. Arrancar en un offset al azar (en
+# vez de siempre en 0) hace que cada corrida del workflow pueda traer
+# una tanda distinta de fotos dentro de los resultados de esa keyword.
+OFFSET_WINDOW = 15
 IMAGE_WIDTH = 1920  # ancho pedido para el thumbnail (se recorta solo si el original es mas chico)
 API_URL = "https://commons.wikimedia.org/w/api.php"
 VALID_MIME_PREFIXES = ("image/jpeg", "image/png", "image/webp")
@@ -67,6 +86,7 @@ def fetch_keyword(query):
         "gsrsearch": query,
         "gsrnamespace": 6,  # namespace "File"
         "gsrlimit": IMAGES_PER_KEYWORD,
+        "gsroffset": random.randint(0, OFFSET_WINDOW),
         "prop": "imageinfo",
         "iiprop": "url|size|mime|extmetadata",
         "iiurlwidth": IMAGE_WIDTH,

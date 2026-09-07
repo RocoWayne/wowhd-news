@@ -523,9 +523,12 @@ libres en **Wikimedia Commons** una vez por día y las agrega solo a
 `backgrounds/external.json`, para tener variedad de fondos sin subir
 imágenes a mano. Las keywords están en
 `scripts/generate_backgrounds_from_keywords.py` → `KEYWORDS` (por
-defecto, genéricas de noticias/entretenimiento: "news studio",
-"television broadcast", "entertainment lights", "red carpet event",
-"concert crowd" — se pueden cambiar libremente).
+defecto, 15 genéricas de noticias/música/entretenimiento: "news
+studio", "television broadcast", "entertainment lights", "red carpet
+event", "concert crowd", "dj console", "night club", "music festival",
+"radio station", "stadium concert", "urban skyline night", "neon
+lights city", "live music stage", "crowd cheering", "recording
+studio" — se pueden agregar/sacar libremente).
 
 - **Sin configuración**: la API de Wikimedia Commons es pública y no
   requiere API key ni registro — el workflow funciona de una sin
@@ -534,6 +537,16 @@ defecto, genéricas de noticias/entretenimiento: "news studio",
   pensado para fondo de pantalla) en formato jpg/png/webp (se
   descartan SVG, PDF u otros archivos que puedan aparecer en la
   búsqueda).
+- **Importante sobre la variedad**: para una keyword dada, Wikimedia
+  siempre devuelve los mismos resultados en el mismo orden — sin variar
+  el punto de partida de la búsqueda, el pool de fotos quedaría fijo
+  para siempre por más veces que corra el workflow. Por eso cada
+  corrida arranca en un punto al azar dentro de los resultados de cada
+  keyword (`gsroffset`), así el cron diario sí va trayendo fotos nuevas
+  con el tiempo en vez de repetir siempre las mismas 3-5 por keyword.
+  Si después de un tiempo se siguen viendo pocas fotos distintas, la
+  forma más directa de sumar variedad es agregar más keywords a la
+  lista (cada una trae hasta `IMAGES_PER_KEYWORD` fotos propias).
 - Estas fotos se agregan **sin pisar** las entradas cargadas a mano en
   `external.json` (ej. un video de sponsor): se marcan internamente
   con `"source": "wikimedia-auto"`, y en cada corrida solo se

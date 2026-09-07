@@ -346,10 +346,11 @@ cotización.
 
 ### Pantalla de cámara pública en vivo
 
-Cada tanto (por defecto, 1 vez por hora, empezando a los 20 minutos de
-abrir la página) aparece una pantalla completa con una cámara pública
-embebida de YouTube durante 5 minutos, con el nombre del lugar en un
-cartel abajo a la derecha.
+Cada tanto (por defecto, cada 20 minutos, empezando a los 17 minutos de
+abrir la página — o sea a los :17, :37 y :57 de cada hora) aparece una
+pantalla completa con una cámara pública embebida de YouTube durante 7
+minutos, con un cartel abajo a la derecha que dice "EN VIVO" (con un
+punto rojo pulsante) y el nombre del lugar en letra grande.
 
 - A diferencia de clima/cotización/mercados, **no usa ninguna API**:
   la lista de cámaras se carga a mano en **`livecams/livecams.json`**,
@@ -389,17 +390,29 @@ propósito así:
 | Noticias | :00, :15, :30, :45 | (cada 15 min) |
 | Clima | :08, :28, :48 | (cada 20 min) |
 | Cotización del dólar | :35 | (cada 60 min) |
-| Cámara en vivo | :20 a :25 | (cada 60 min) |
+| Cámara en vivo | :17 a :24, :37 a :44, :57 a :04 | (cada 20 min) |
 | Mercados (cripto) | :41, o :11 en la hora siguiente | (cada 90 min, alterna) |
 
 Como 15, 20, 60 y 90 son todos múltiplos o divisores de 60, esta
-distribución se repite **igual todas las horas** (verificado con una
-simulación de 5 horas: cero choques, con al menos 59 segundos de
-margen entre cualquier par de pantallas). Si en algún momento se
-cambia el `*FirstDelayMs`, `*IntervalMs` o `*DisplayMs` de alguna de
-estas 5 pantallas en `js/app.js` → `CONFIG`, conviene volver a
-verificar que sigan sin pisarse — sobre todo si se achica algún hueco
-o se alarga la duración de algún bloque.
+distribución se repite **igual todas las horas**. Con la cámara en vivo
+mostrándose 3 veces por hora durante 7 minutos cada vez (21 de los 60
+minutos de la hora), ya **no entran las 5 pantallas sin ningún roce**:
+la cuenta no cierra por más que se reacomoden los horarios (se
+verificó con una simulación de todas las combinaciones posibles). Con
+los horarios de arriba, elegidos para minimizar el impacto, el único
+cruce que queda es:
+
+- La cámara de **:57 a :04** tapa la tanda de noticias que le toca
+  salir justo a las **:00 en punto** — esa tanda se saltea esa vuelta y
+  se retoma normal a las :15 (no se pierde contenido, solo se corre).
+- Un roce menor con mercados a las :41 (si justo le toca ese slot en
+  vez de :11), sin impacto visible más allá de un salteo ocasional.
+
+Clima y cotización quedan completamente libres de cruces. Si en algún
+momento se cambia el `*FirstDelayMs`, `*IntervalMs` o `*DisplayMs` de
+alguna de estas 5 pantallas en `js/app.js` → `CONFIG`, conviene volver
+a revisar los cruces — sobre todo si se achica algún hueco o se alarga
+la duración de algún bloque.
 
 ### Limpieza automática de `news.json`
 

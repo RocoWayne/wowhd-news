@@ -82,9 +82,17 @@ const CONFIG = {
   marketsDisplayMs: 30 * 1000,          // cuanto queda visible la pantalla de mercados
   liveCamsUrl: "livecams/livecams.json", // lista curada a mano de camaras publicas (titulo + URL de YouTube)
   liveCamsRefreshMs: 10 * 60 * 1000,    // re-leer livecams.json cada 10 min (para que una edicion se vea sin recargar OBS)
-  liveCamFirstDelayMs: 20 * 60 * 1000,  // primera camara a los 20 min (cae en :20-:25 de cada hora, el hueco mas grande de la hora: lejos de noticias/clima/cotizacion/mercados)
-  liveCamIntervalMs: 60 * 60 * 1000,    // despues, 1 vez por hora
-  liveCamDisplayMs: 5 * 60 * 1000,      // cuanto queda visible cada camara (5 min)
+  liveCamFirstDelayMs: 17 * 60 * 1000,  // primera camara a los 17 min (deja las 3 apariciones/hora en :17, :37, :57 - la mejor combinacion posible)
+  liveCamIntervalMs: 20 * 60 * 1000,    // despues, cada 20 min (3 veces por hora)
+  liveCamDisplayMs: 7 * 60 * 1000,      // cuanto queda visible cada camara (7 min)
+  // Nota sobre colisiones: con 3 apariciones/hora de 7 min cada una (21 de
+  // los 60 min de la hora ocupados), ya no hay una combinacion que evite
+  // TODOS los cruces con noticias/clima/cotizacion/mercados (la cuenta no
+  // cierra: ver detalle en README). Con :17/:37/:57 el unico cruce que
+  // queda es la camara de :57 tapando la tanda de noticias de :00 en punto
+  // (se resume normal en :15) y un roce menor con mercados a las :41. El
+  // resto de las pantallas queda intacto. Si se necesita volver a "cero
+  // colisiones total", hay que bajar la duracion o subir el intervalo.
   tickerEnabled: false,                 // apagado momentaneamente a pedido - poner en true para reactivar el ticker de redes
   autoReloadMs: 24 * 60 * 60 * 1000,    // recarga la pagina sola cada 24 horas, para que la fuente de OBS tome cambios de codigo sin refrescar a mano
 };

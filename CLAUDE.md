@@ -72,16 +72,26 @@ secciones comentadas dentro del archivo:
   noticia de la tanda) queda visible de corrido durante todo el
   bloque; entre una noticia y la siguiente solo hace crossfade el
   contenido de adentro (`#newsContent`), no la pantalla completa, para
-  que la barra de progreso no parpadee (`showNewsItem`/`runNewsBlock`).
-  Dentro de `showNewsItem`, el orden importa para que el crossfade se
-  vea fluido: primero se completa el fade a opacity:0 (recien ahi se
-  limpia el `src` de la imagen/QR anteriores, nunca antes — sacarle el
-  `src` a una imagen la "rompe" al instante, y hacerlo con el fade
-  todavia semi-opaco se ve como un parpadeo), y la imagen/QR
-  ENTRANTES se precargan con `loadImageWithTimeout` (con
-  `CONFIG.newsMediaTimeoutMs` de tope) y se esperan **antes** de sacar
-  la clase `fading` — así nunca aparece primero el texto y después, de
-  golpe, la imagen.
+  que la barra de progreso no parpadee (`fadeOutNewsContent`/
+  `tryLoadNewsContent`/`runNewsBlock`). El orden importa para que el
+  crossfade se vea fluido: `fadeOutNewsContent` completa primero el
+  fade a opacity:0 (recien ahi limpia el `src` de la imagen/QR
+  anteriores, nunca antes — sacarle el `src` a una imagen la "rompe"
+  al instante, y hacerlo con el fade todavia semi-opaco se ve como un
+  parpadeo) y se llama **una sola vez por espacio de la tanda** (no en
+  cada intento de noticia); `tryLoadNewsContent` precarga la imagen/QR
+  ENTRANTES con `loadImageWithTimeout` (con `CONFIG.newsMediaTimeoutMs`
+  de tope) y se espera **antes** de que `runNewsBlock` saque la clase
+  `fading` — así nunca aparece primero el texto y después, de golpe,
+  la imagen. Si la noticia tiene link pero el QR no llega a generarse
+  (`api.qrserver.com` caído/lento/bloqueado), `tryLoadNewsContent`
+  devuelve `false` y la noticia se ignora entera (no tiene sentido
+  mostrar una nota sin forma de acceder a ella): `runNewsBlock` prueba
+  la siguiente noticia de la lista en el mismo espacio de la barra de
+  progreso, acotado a `newsList.length` intentos para no quedar en
+  loop infinito si fallaran todas a la vez. Una noticia sin link nunca
+  necesita QR, así que no cuenta como falla — se muestra normal sin
+  esa fila (`no-link`).
   Al terminar la tanda se muestra un mensaje de cierre (`#newsOutro`).
 - **Fondos/publicidades**: escanea `backgrounds/` (PHP, autoindex, o
   `playlist.json`) + `backgrounds/external.json` (URLs externas —

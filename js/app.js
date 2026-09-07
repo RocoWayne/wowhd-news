@@ -675,73 +675,67 @@ function loadImageWithTimeout(imgEl, src, timeoutMs) {
   });
 }
 
-// Muestra una noticia: primero hace un crossfade rapido de #newsContent
-// (tag/imagen/texto/QR) hacia el contenido nuevo, esperando a que la
-// imagen y el QR entrantes terminen de cargar (o fallen/venzan el
-// timeout) ANTES de volver a mostrar el contenido - asi no aparece
-// primero el texto y despues, de golpe, la imagen. Recien ahi arranca
-// a llenarse la barra de progreso de esta noticia (index), y espera
-// CONFIG.newsDisplayMs antes de resolver. La pantalla de noticias en si
-// (y la barra de progreso) NO se ocultan entre noticias - solo el
-// contenido de adentro hace el crossfade, para que la barra de
-// progreso quede visible de corrido durante toda la tanda.
-function showNewsItem(item, index) {
-  if (!item || (!item.text && !item.image)) return Promise.resolve();
-
+// Hace el crossfade de salida de #newsContent (tag/imagen/texto/QR) y
+// limpia el src de la nota anterior. Recien cuando el fade termina de
+// verdad (opacity:0, ya invisible) es el momento seguro para cortar
+// cualquier carga pendiente y sacar el src - hacerlo antes (por
+// ejemplo, apenas arranca el fade) se alcanza a ver: sacarle el src a
+// una imagen la "rompe" al instante, mientras el fade todavia esta
+// casi del todo opaco. Se llama una sola vez por espacio de la barra
+// de progreso, no en cada intento de `tryLoadNewsContent` (ver abajo).
+function fadeOutNewsContent() {
   newsContent.classList.add("fading");
-  return wait(CONFIG.newsContentFadeMs).then(async () => {
-    // Recien aca el fade de salida termino de verdad (opacity:0, ya
-    // invisible) - es el momento seguro para cortar cualquier carga
-    // pendiente y limpiar el src de la nota anterior. Hacerlo antes
-    // (por ejemplo, apenas arranca el fade) se alcanza a ver: sacarle
-    // el src a una imagen la "rompe" al instante, mientras el fade
-    // todavia esta casi del todo opaco.
+  return wait(CONFIG.newsContentFadeMs).then(() => {
     newsImage.onload = null;
     newsImage.onerror = null;
     newsImage.removeAttribute("src");
     newsQr.onload = null;
     newsQr.onerror = null;
     newsQr.removeAttribute("src");
-
-    // La categoria viene del RSS (<category> de WordPress) cuando la
-    // noticia es automatica; si no hay, o es una noticia cargada a mano
-    // sin categoria, se usa el tag generico de siempre.
-    newsTag.textContent = item.category || "NOTICIA";
-    newsText.textContent = item.text || "";
-
-    const loaders = [];
-
-    if (item.image) {
-      loaders.push(
-        loadImageWithTimeout(newsImage, item.image, CONFIG.newsMediaTimeoutMs).then((ok) => {
-          newsImage.classList.toggle("news-image-hidden", !ok);
-        })
-      );
-    } else {
-      newsImage.removeAttribute("src");
-      newsImage.classList.add("news-image-hidden");
-    }
-
-    if (item.link) {
-      newsScreen.classList.remove("no-link");
-      // Si el QR no carga (api.qrserver.com caido/lento/bloqueado),
-      // ocultamos toda la fila en vez de mostrar el icono de imagen rota
-      // a pantalla completa.
-      loaders.push(
-        loadImageWithTimeout(newsQr, qrUrlFor(item.link), CONFIG.newsMediaTimeoutMs).then((ok) => {
-          if (!ok) newsScreen.classList.add("no-link");
-        })
-      );
-    } else {
-      newsScreen.classList.add("no-link");
-    }
-
-    await Promise.all(loaders);
-
-    newsContent.classList.remove("fading");
-    fillNewsProgress(index, CONFIG.newsDisplayMs);
-    return wait(CONFIG.newsDisplayMs);
   });
+}
+
+// Intenta cargar el contenido de `item` en #newsContent (que ya tiene
+// que estar invisible - ver fadeOutNewsContent) y espera a que la
+// imagen y el QR entrantes terminen de cargar (o fallen/venzan el
+// timeout) ANTES de que el llamador vuelva a mostrar el contenido -
+// asi no aparece primero el texto y despues, de golpe, la imagen.
+// Devuelve false si la noticia tiene link pero el QR no llega a
+// generarse/cargar (api.qrserver.com caido/lento/bloqueado): en ese
+// caso no tiene sentido mostrar la nota sin forma de acceder a ella
+// completa, asi que se ignora entera en vez de mostrarla sin QR.
+async function tryLoadNewsContent(item) {
+  // La categoria viene del RSS (<category> de WordPress) cuando la
+  // noticia es automatica; si no hay, o es una noticia cargada a mano
+  // sin categoria, se usa el tag generico de siempre.
+  newsTag.textContent = item.category || "NOTICIA";
+  newsText.textContent = item.text || "";
+
+  const loaders = [];
+
+  if (item.image) {
+    loaders.push(
+      loadImageWithTimeout(newsImage, item.image, CONFIG.newsMediaTimeoutMs).then((ok) => {
+        newsImage.classList.toggle("news-image-hidden", !ok);
+      })
+    );
+  } else {
+    newsImage.removeAttribute("src");
+    newsImage.classList.add("news-image-hidden");
+  }
+
+  let qrOk = true;
+  if (item.link) {
+    newsScreen.classList.remove("no-link");
+    qrOk = await loadImageWithTimeout(newsQr, qrUrlFor(item.link), CONFIG.newsMediaTimeoutMs);
+  } else {
+    // Nota sin link: nunca necesito QR, no es una falla - se muestra
+    // normal sin esa fila.
+    newsScreen.classList.add("no-link");
+  }
+
+  await Promise.all(loaders);
+  return qrOk;
 }
 
 // Corre un bloque completo de noticias: pausa el slideshow de fondos,
@@ -769,9 +763,31 @@ async function runNewsBlock() {
       buildNewsProgress(count);
       newsScreen.classList.add("visible");
       for (let i = 0; i < count; i++) {
-        const item = newsList[newsIndex % newsList.length];
-        newsIndex++;
-        await showNewsItem(item, i);
+        await fadeOutNewsContent();
+
+        // Prueba noticias de la lista (en orden, retomando donde quedo
+        // la rotacion) hasta encontrar una que cargue bien - si una
+        // tiene link pero el QR no llega a generarse, se ignora entera
+        // y se prueba la siguiente, sin gastar este espacio de la
+        // barra de progreso en una nota sin forma de acceder a ella.
+        // Acotado a newsList.length intentos para no quedar en loop
+        // infinito si TODAS fallaran a la vez (ej. api.qrserver.com
+        // caido del todo).
+        let shown = false;
+        for (let attempt = 0; attempt < newsList.length && !shown; attempt++) {
+          const item = newsList[newsIndex % newsList.length];
+          newsIndex++;
+          shown = await tryLoadNewsContent(item);
+        }
+
+        if (shown) {
+          newsContent.classList.remove("fading");
+          fillNewsProgress(i, CONFIG.newsDisplayMs);
+          await wait(CONFIG.newsDisplayMs);
+        }
+        // Si ninguna noticia de toda la lista pudo mostrarse, este
+        // espacio de la tanda se saltea sin mostrar nada (rarisimo: solo
+        // pasa si el QR fallara para todas las notas con link a la vez).
       }
       newsScreen.classList.remove("visible");
       await wait(700); // deja terminar el fade de salida del bloque antes del mensaje de cierre

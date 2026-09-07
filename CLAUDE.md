@@ -83,15 +83,18 @@ secciones comentadas dentro del archivo:
   ENTRANTES con `loadImageWithTimeout` (con `CONFIG.newsMediaTimeoutMs`
   de tope) y se espera **antes** de que `runNewsBlock` saque la clase
   `fading` — así nunca aparece primero el texto y después, de golpe,
-  la imagen. Si la noticia tiene link pero el QR no llega a generarse
-  (`api.qrserver.com` caído/lento/bloqueado), `tryLoadNewsContent`
+  la imagen. Si la noticia tiene imagen y esta no llega a cargar, o
+  tiene link y el QR no llega a generarse (`api.qrserver.com` caído/
+  lento/bloqueado, o la imagen puntual caída/404), `tryLoadNewsContent`
   devuelve `false` y la noticia se ignora entera (no tiene sentido
-  mostrar una nota sin forma de acceder a ella): `runNewsBlock` prueba
-  la siguiente noticia de la lista en el mismo espacio de la barra de
-  progreso, acotado a `newsList.length` intentos para no quedar en
-  loop infinito si fallaran todas a la vez. Una noticia sin link nunca
-  necesita QR, así que no cuenta como falla — se muestra normal sin
-  esa fila (`no-link`).
+  mostrar una nota rota o sin forma de acceder a ella completa):
+  `runNewsBlock` prueba la siguiente noticia de la lista en el mismo
+  espacio de la barra de progreso, acotado a `newsList.length`
+  intentos para no quedar en loop infinito si fallaran todas a la vez.
+  Imagen y QR se cargan en paralelo (no uno después del otro) para no
+  duplicar la espera del peor caso. Una noticia sin imagen o sin link
+  nunca necesita esos elementos, así que no cuenta como falla — se
+  muestra normal sin esa parte (`no-link` para el QR).
   Al terminar la tanda se muestra un mensaje de cierre (`#newsOutro`).
 - **Fondos/publicidades**: escanea `backgrounds/` (PHP, autoindex, o
   `playlist.json`) + `backgrounds/external.json` (URLs externas —

@@ -700,10 +700,13 @@ function fadeOutNewsContent() {
 // imagen y el QR entrantes terminen de cargar (o fallen/venzan el
 // timeout) ANTES de que el llamador vuelva a mostrar el contenido -
 // asi no aparece primero el texto y despues, de golpe, la imagen.
-// Devuelve false si la noticia tiene link pero el QR no llega a
-// generarse/cargar (api.qrserver.com caido/lento/bloqueado): en ese
-// caso no tiene sentido mostrar la nota sin forma de acceder a ella
-// completa, asi que se ignora entera en vez de mostrarla sin QR.
+// Devuelve false - y la noticia se ignora entera, probando la
+// siguiente de la lista - si la noticia tiene imagen y esta no llega a
+// cargar, o si tiene link y el QR no llega a generarse/cargar
+// (api.qrserver.com caido/lento/bloqueado): en ningun caso tiene
+// sentido mostrar la nota rota o incompleta. Una noticia sin imagen o
+// sin link nunca necesita esos elementos, asi que no contar como falla
+// - se muestra normal sin esa parte.
 async function tryLoadNewsContent(item) {
   // La categoria viene del RSS (<category> de WordPress) cuando la
   // noticia es automatica; si no hay, o es una noticia cargada a mano
@@ -711,11 +714,17 @@ async function tryLoadNewsContent(item) {
   newsTag.textContent = item.category || "NOTICIA";
   newsText.textContent = item.text || "";
 
+  // Imagen y QR se cargan en paralelo (no uno despues del otro) para
+  // no duplicar la espera del peor caso: si ambos tardaran el timeout
+  // completo, en paralelo se sigue esperando newsMediaTimeoutMs en vez
+  // de 2x.
   const loaders = [];
 
+  let imageOk = true;
   if (item.image) {
     loaders.push(
       loadImageWithTimeout(newsImage, item.image, CONFIG.newsMediaTimeoutMs).then((ok) => {
+        imageOk = ok;
         newsImage.classList.toggle("news-image-hidden", !ok);
       })
     );
@@ -727,7 +736,11 @@ async function tryLoadNewsContent(item) {
   let qrOk = true;
   if (item.link) {
     newsScreen.classList.remove("no-link");
-    qrOk = await loadImageWithTimeout(newsQr, qrUrlFor(item.link), CONFIG.newsMediaTimeoutMs);
+    loaders.push(
+      loadImageWithTimeout(newsQr, qrUrlFor(item.link), CONFIG.newsMediaTimeoutMs).then((ok) => {
+        qrOk = ok;
+      })
+    );
   } else {
     // Nota sin link: nunca necesito QR, no es una falla - se muestra
     // normal sin esa fila.
@@ -735,7 +748,7 @@ async function tryLoadNewsContent(item) {
   }
 
   await Promise.all(loaders);
-  return qrOk;
+  return imageOk && qrOk;
 }
 
 // Corre un bloque completo de noticias: pausa el slideshow de fondos,

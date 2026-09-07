@@ -1,5 +1,10 @@
 [
   {
+    "file": "Akatsuki Rising - The Mini Vandals.mp3",
+    "title": "The Mini Vandals",
+    "artist": "Akatsuki Rising"
+  },
+  {
     "file": "Amazing Grace - Casa Rosa.mp3",
     "title": "Casa Rosa",
     "artist": "Amazing Grace"
@@ -18,6 +23,11 @@
     "file": "Como Vamos_ - Casa Rosa.mp3",
     "title": "Casa Rosa",
     "artist": "Como Vamos_"
+  },
+  {
+    "file": "Drifting Memories - The Mini Vandals.mp3",
+    "title": "The Mini Vandals",
+    "artist": "Drifting Memories"
   },
   {
     "file": "Everything (feat. Rodina & Alfie Tito) - Rodina feat. Alfie Tito.mp3",
@@ -70,6 +80,11 @@
     "artist": "The Grey Room _ Density & Time"
   },
   {
+    "file": "Rain Over Kyoto Station - The Mini Vandals.mp3",
+    "title": "The Mini Vandals",
+    "artist": "Rain Over Kyoto Station"
+  },
+  {
     "file": "Shining (feat. Leon Albertson & Adryon de León) - Leon Albertson feat. Adryon de León.mp3",
     "title": "Shining (feat. Leon Albertson & Adryon de León)",
     "artist": "Leon Albertson feat. Adryon de León"
@@ -83,5 +98,10 @@
     "file": "Tiburtina - Schwartzy.mp3",
     "title": "Schwartzy",
     "artist": "Tiburtina"
+  },
+  {
+    "file": "Viral Bliss, Im Uncomfortable - Ryan Stasik (1).mp3",
+    "title": "Ryan Stasik (1)",
+    "artist": "Viral Bliss, Im Uncomfortable"
   }
 ]

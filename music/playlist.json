@@ -1,8 +1,18 @@
 [
   {
+    "file": "Amazing Grace - Casa Rosa.mp3",
+    "title": "Casa Rosa",
+    "artist": "Amazing Grace"
+  },
+  {
     "file": "CAVERNS - Density & Time.mp3",
     "title": "Density & Time",
     "artist": "CAVERNS"
+  },
+  {
+    "file": "Como Vamos_ - Casa Rosa.mp3",
+    "title": "Casa Rosa",
+    "artist": "Como Vamos_"
   },
   {
     "file": "Everything (feat. Rodina & Alfie Tito) - Rodina feat. Alfie Tito.mp3",
@@ -13,6 +23,11 @@
     "file": "Hopeful Freedom - Asher Fulero.mp3",
     "title": "Hopeful Freedom",
     "artist": "Asher Fulero"
+  },
+  {
+    "file": "Pienso Viento - Casa Rosa.mp3",
+    "title": "Casa Rosa",
+    "artist": "Pienso Viento"
   },
   {
     "file": "Pulsar - The Grey Room _ Density & Time.mp3",

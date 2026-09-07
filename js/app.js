@@ -642,19 +642,6 @@ function loadImageWithTimeout(imgEl, src, timeoutMs) {
   });
 }
 
-// Variantes de diseño para el contenido de una noticia (ver
-// css/style.css -> ".news-layout-*"). "image" es el diseño de base
-// (imagen grande + texto); "text" y "quote" no muestran imagen aunque
-// la nota traiga una, para que la tanda no se sienta repetitiva.
-const NEWS_LAYOUTS = ["image", "text", "quote"];
-
-function pickNewsLayout(item) {
-  // Sin imagen en la nota, "image" no tiene sentido - elegimos entre
-  // las otras dos.
-  const layouts = item.image ? NEWS_LAYOUTS : NEWS_LAYOUTS.filter((l) => l !== "image");
-  return layouts[Math.floor(Math.random() * layouts.length)];
-}
-
 // Muestra una noticia: primero hace un crossfade rapido de #newsContent
 // (tag/imagen/texto/QR) hacia el contenido nuevo, esperando a que la
 // imagen y el QR entrantes terminen de cargar (o fallen/venzan el
@@ -689,21 +676,15 @@ function showNewsItem(item, index) {
     newsTag.textContent = item.category || "NOTICIA";
     newsText.textContent = item.text || "";
 
-    const layout = pickNewsLayout(item);
-    newsContent.classList.remove("news-layout-image", "news-layout-text", "news-layout-quote");
-    newsContent.classList.add("news-layout-" + layout);
-
     const loaders = [];
 
-    if (item.image && layout === "image") {
+    if (item.image) {
       loaders.push(
         loadImageWithTimeout(newsImage, item.image, CONFIG.newsMediaTimeoutMs).then((ok) => {
           newsImage.classList.toggle("news-image-hidden", !ok);
         })
       );
     } else {
-      // El layout "text"/"quote" no muestra imagen aunque la nota
-      // traiga una (ver CSS) - ni siquiera hace falta cargarla.
       newsImage.removeAttribute("src");
       newsImage.classList.add("news-image-hidden");
     }

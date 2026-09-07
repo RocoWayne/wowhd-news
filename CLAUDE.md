@@ -75,11 +75,6 @@ secciones comentadas dentro del archivo:
   la clase `fading` — así nunca aparece primero el texto y después, de
   golpe, la imagen.
   Al terminar la tanda se muestra un mensaje de cierre (`#newsOutro`).
-  Cada noticia elige al azar uno de 3 diseños (`pickNewsLayout`:
-  "image" con imagen grande, "text" sin imagen con texto más grande, o
-  "quote" sin imagen con estilo de cita destacada), aplicado como clase
-  `news-layout-*` en `#newsContent` (ver CSS), para que la tanda no se
-  sienta repetitiva aunque el contenido vaya cambiando.
 - **Fondos/publicidades**: escanea `backgrounds/` (PHP, autoindex, o
   `playlist.json`) + `backgrounds/external.json` (URLs externas —
   sponsors cargados a mano y/o fotos automáticas de Wikimedia Commons

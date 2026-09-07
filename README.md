@@ -6,6 +6,10 @@ en pantalla, muestra noticias con foto + texto + código QR hacia la
 nota, rota publicidades (imagen o video mudo) de fondo, y de tanto en
 tanto un popup invitando a suscribirse.
 
+> **Todos los derechos reservados.** Este código es de uso exclusivo
+> del proyecto MUNDO WOW 24/7 — ver [`LICENSE`](./LICENSE) antes de
+> reutilizarlo, copiarlo o adaptarlo para otro fin.
+
 ## Estructura
 
 ```

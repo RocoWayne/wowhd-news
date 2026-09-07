@@ -125,8 +125,16 @@ secciones comentadas dentro del archivo:
   `CONFIG.autoReloadMs` (por defecto, 24 horas) vía
   `scheduleAutoReload()`, para que la fuente de navegador de OBS tome
   cambios de código sin que haga falta refrescarla a mano. Si justo hay
-  un bloque a pantalla completa corriendo, espera (reintentando cada 5s)
-  a que termine antes de recargar, en vez de cortarlo a la mitad.
+  un bloque a pantalla completa corriendo, espera (reintentando cada 5s,
+  hasta un tope de 2 minutos) a que termine antes de recargar, en vez de
+  cortarlo a la mitad.
+- **Blindaje de los `xBlockRunning`**: `runNewsBlock`/`runWeatherBlock`/
+  `runCurrencyBlock`/`runMarketsBlock`/`runLiveCamBlock` envuelven su
+  cuerpo en `try/finally` para garantizar que el flag (`newsBlockRunning`
+  etc.) vuelva a `false` y el slideshow se retome pase lo que pase,
+  incluso ante una excepcion inesperada — como los 5 bloques (y la
+  recarga automática) se consultan entre si antes de arrancar, un flag
+  que quedara trabado en `true` congelaria en cascada a todos los demás.
 - **Resiliencia**: todos los `fetch()` de refresco están pensados para
   fallar en silencio y reintentar en el próximo ciclo (no hay caída
   dura de la página si un JSON o archivo puntual falla) — ver la

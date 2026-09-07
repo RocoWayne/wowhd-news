@@ -724,28 +724,36 @@ async function runNewsBlock() {
   newsBlockRunning = true;
   pauseBackgroundRotation();
 
-  if (newsList && newsList.length > 0) {
-    const count = Math.min(CONFIG.newsItemsPerBlock, newsList.length);
-    buildNewsProgress(count);
-    newsScreen.classList.add("visible");
-    for (let i = 0; i < count; i++) {
-      const item = newsList[newsIndex % newsList.length];
-      newsIndex++;
-      await showNewsItem(item, i);
+  // try/finally: si algo de lo de adentro tirara una excepcion
+  // inesperada, newsBlockRunning igual tiene que volver a false y el
+  // slideshow tiene que retomar - si no, este bloque queda "trabado"
+  // en true para siempre, lo que bloquearia en cascada a todos los
+  // demas bloques (se avisan entre si) y hasta a la recarga automatica
+  // (tambien espera a que ningun bloque este corriendo).
+  try {
+    if (newsList && newsList.length > 0) {
+      const count = Math.min(CONFIG.newsItemsPerBlock, newsList.length);
+      buildNewsProgress(count);
+      newsScreen.classList.add("visible");
+      for (let i = 0; i < count; i++) {
+        const item = newsList[newsIndex % newsList.length];
+        newsIndex++;
+        await showNewsItem(item, i);
+      }
+      newsScreen.classList.remove("visible");
+      await wait(700); // deja terminar el fade de salida del bloque antes del mensaje de cierre
+
+      // Mensaje de cierre de la tanda, antes de retomar el slideshow de
+      // fondos - solo si efectivamente hubo noticias para mostrar.
+      newsOutro.classList.add("visible");
+      await wait(CONFIG.newsOutroMs);
+      newsOutro.classList.remove("visible");
+      await wait(700); // deja terminar el fade antes de retomar fondos
     }
-    newsScreen.classList.remove("visible");
-    await wait(700); // deja terminar el fade de salida del bloque antes del mensaje de cierre
-
-    // Mensaje de cierre de la tanda, antes de retomar el slideshow de
-    // fondos - solo si efectivamente hubo noticias para mostrar.
-    newsOutro.classList.add("visible");
-    await wait(CONFIG.newsOutroMs);
-    newsOutro.classList.remove("visible");
-    await wait(700); // deja terminar el fade antes de retomar fondos
+  } finally {
+    newsBlockRunning = false;
+    resumeBackgroundRotation();
   }
-
-  newsBlockRunning = false;
-  resumeBackgroundRotation();
 }
 
 setInterval(async () => {
@@ -914,8 +922,12 @@ function advanceBackground() {
 }
 
 // Apaga y limpia la capa que quedo debajo despues del cruce, para no
-// gastar red/CPU de mas reproduciendo un video invisible.
+// gastar red/CPU de mas reproduciendo un video invisible. Si para
+// cuando este timer llega a correr la capa ya volvio a quedar activa
+// (dos avances de fondo muy seguidos, uno detras de otro), no la
+// tocamos - apagarla igual cortaria el fondo que se esta mostrando.
 function deactivateLayer(layer) {
+  if (layer.el.classList.contains("active")) return;
   layer.el.classList.remove("active");
   layer.video.onended = null;
   layer.video.onerror = null;
@@ -1132,22 +1144,24 @@ async function runWeatherBlock() {
   weatherBlockRunning = true;
   pauseBackgroundRotation();
 
-  const today = new Intl.DateTimeFormat("es-AR", {
-    weekday: "long",
-    day: "numeric",
-    month: "long",
-    timeZone: "America/Argentina/Buenos_Aires",
-  }).format(new Date());
-  weatherTitle.textContent = `Clima de hoy, ${today}`;
-  buildWeatherColumns();
+  try {
+    const today = new Intl.DateTimeFormat("es-AR", {
+      weekday: "long",
+      day: "numeric",
+      month: "long",
+      timeZone: "America/Argentina/Buenos_Aires",
+    }).format(new Date());
+    weatherTitle.textContent = `Clima de hoy, ${today}`;
+    buildWeatherColumns();
 
-  weatherScreen.classList.add("visible");
-  await wait(CONFIG.weatherDisplayMs);
-  weatherScreen.classList.remove("visible");
-  await wait(700); // deja terminar el fade de salida antes de retomar fondos
-
-  weatherBlockRunning = false;
-  resumeBackgroundRotation();
+    weatherScreen.classList.add("visible");
+    await wait(CONFIG.weatherDisplayMs);
+    weatherScreen.classList.remove("visible");
+    await wait(700); // deja terminar el fade de salida antes de retomar fondos
+  } finally {
+    weatherBlockRunning = false;
+    resumeBackgroundRotation();
+  }
 }
 
 setInterval(loadWeather, CONFIG.weatherRefreshMs);
@@ -1237,16 +1251,18 @@ async function runCurrencyBlock() {
   currencyBlockRunning = true;
   pauseBackgroundRotation();
 
-  currencyTitle.textContent = `Cotización del dólar (1 ${CONFIG.currencyBaseCode})`;
-  buildCurrencyColumns();
+  try {
+    currencyTitle.textContent = `Cotización del dólar (1 ${CONFIG.currencyBaseCode})`;
+    buildCurrencyColumns();
 
-  currencyScreen.classList.add("visible");
-  await wait(CONFIG.currencyDisplayMs);
-  currencyScreen.classList.remove("visible");
-  await wait(700); // deja terminar el fade de salida antes de retomar fondos
-
-  currencyBlockRunning = false;
-  resumeBackgroundRotation();
+    currencyScreen.classList.add("visible");
+    await wait(CONFIG.currencyDisplayMs);
+    currencyScreen.classList.remove("visible");
+    await wait(700); // deja terminar el fade de salida antes de retomar fondos
+  } finally {
+    currencyBlockRunning = false;
+    resumeBackgroundRotation();
+  }
 }
 
 setInterval(loadCurrency, CONFIG.currencyRefreshMs);
@@ -1346,22 +1362,24 @@ async function runMarketsBlock() {
   marketsBlockRunning = true;
   pauseBackgroundRotation();
 
-  const today = new Intl.DateTimeFormat("es-AR", {
-    weekday: "long",
-    day: "numeric",
-    month: "long",
-    timeZone: "America/Argentina/Buenos_Aires",
-  }).format(new Date());
-  marketsTitle.textContent = `Resumen de mercados, ${today}`;
-  buildMarketsColumns();
+  try {
+    const today = new Intl.DateTimeFormat("es-AR", {
+      weekday: "long",
+      day: "numeric",
+      month: "long",
+      timeZone: "America/Argentina/Buenos_Aires",
+    }).format(new Date());
+    marketsTitle.textContent = `Resumen de mercados, ${today}`;
+    buildMarketsColumns();
 
-  marketsScreen.classList.add("visible");
-  await wait(CONFIG.marketsDisplayMs);
-  marketsScreen.classList.remove("visible");
-  await wait(700); // deja terminar el fade de salida antes de retomar fondos
-
-  marketsBlockRunning = false;
-  resumeBackgroundRotation();
+    marketsScreen.classList.add("visible");
+    await wait(CONFIG.marketsDisplayMs);
+    marketsScreen.classList.remove("visible");
+    await wait(700); // deja terminar el fade de salida antes de retomar fondos
+  } finally {
+    marketsBlockRunning = false;
+    resumeBackgroundRotation();
+  }
 }
 
 setInterval(loadMarkets, CONFIG.marketsRefreshMs);
@@ -1423,22 +1441,24 @@ async function runLiveCamBlock() {
   liveCamBlockRunning = true;
   pauseBackgroundRotation();
 
-  livecamCaption.textContent = cam.title || "";
-  // mute=1 obligatorio (autoplay con audio esta bloqueado por los
-  // navegadores) y ademas no queremos que compita con la musica.
-  livecamFrame.src =
-    `https://www.youtube.com/embed/${videoId}` +
-    `?autoplay=1&mute=1&controls=0&modestbranding=1&rel=0&playsinline=1`;
-  livecamScreen.classList.add("visible");
+  try {
+    livecamCaption.textContent = cam.title || "";
+    // mute=1 obligatorio (autoplay con audio esta bloqueado por los
+    // navegadores) y ademas no queremos que compita con la musica.
+    livecamFrame.src =
+      `https://www.youtube.com/embed/${videoId}` +
+      `?autoplay=1&mute=1&controls=0&modestbranding=1&rel=0&playsinline=1`;
+    livecamScreen.classList.add("visible");
 
-  await wait(CONFIG.liveCamDisplayMs);
+    await wait(CONFIG.liveCamDisplayMs);
 
-  livecamScreen.classList.remove("visible");
-  await wait(700); // deja terminar el fade de salida antes de retomar fondos
-  livecamFrame.src = ""; // corta la carga/reproduccion del iframe fuera de pantalla
-
-  liveCamBlockRunning = false;
-  resumeBackgroundRotation();
+    livecamScreen.classList.remove("visible");
+    await wait(700); // deja terminar el fade de salida antes de retomar fondos
+    livecamFrame.src = ""; // corta la carga/reproduccion del iframe fuera de pantalla
+  } finally {
+    liveCamBlockRunning = false;
+    resumeBackgroundRotation();
+  }
 }
 
 setInterval(loadLiveCams, CONFIG.liveCamsRefreshMs);
@@ -1481,6 +1501,15 @@ setTimeout(() => {
 // en curso (noticias/clima/cotizacion/mercados/camara en vivo), espera
 // a que termine en vez de cortarlo a la mitad.
 function scheduleAutoReload() {
+  // Tope de reintentos: los bloques ya se protegen solos con
+  // try/finally (ver runNewsBlock etc.) para no quedar "trabados" en
+  // true para siempre, pero esto es una segunda red de seguridad -
+  // si por cualquier motivo no contemplado alguno quedara colgado,
+  // preferimos forzar la recarga igual (cortando lo que sea que este
+  // en pantalla) antes que dejar la recarga automatica esperando para
+  // siempre y perder la razon de ser de esta funcionalidad.
+  const MAX_RELOAD_RETRIES = 24; // 24 * 5s = 2 min de espera como mucho
+  let retries = 0;
   setTimeout(function tryReload() {
     const anyBlockRunning =
       newsBlockRunning ||
@@ -1488,7 +1517,8 @@ function scheduleAutoReload() {
       currencyBlockRunning ||
       marketsBlockRunning ||
       liveCamBlockRunning;
-    if (anyBlockRunning) {
+    if (anyBlockRunning && retries < MAX_RELOAD_RETRIES) {
+      retries++;
       setTimeout(tryReload, 5000); // reintenta en 5s si justo hay algo en pantalla
     } else {
       location.reload();

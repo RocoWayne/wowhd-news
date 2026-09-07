@@ -5,6 +5,11 @@
     "artist": "Amazing Grace"
   },
   {
+    "file": "Aomori Wings - The Mini Vandals.mp3",
+    "title": "The Mini Vandals",
+    "artist": "Aomori Wings"
+  },
+  {
     "file": "CAVERNS - Density & Time.mp3",
     "title": "Density & Time",
     "artist": "CAVERNS"
@@ -35,6 +40,11 @@
     "artist": "Paulseante"
   },
   {
+    "file": "Paulseante - Schwartzy.mp3",
+    "title": "Schwartzy",
+    "artist": "Paulseante"
+  },
+  {
     "file": "Pienso Viento - Casa Rosa.mp3",
     "title": "Casa Rosa",
     "artist": "Pienso Viento"
@@ -53,5 +63,15 @@
     "file": "Shining (feat. Leon Albertson & Adryon de León) - Leon Albertson feat. Adryon de León.mp3",
     "title": "Shining (feat. Leon Albertson & Adryon de León)",
     "artist": "Leon Albertson feat. Adryon de León"
+  },
+  {
+    "file": "Sizzr - Schwartzy.mp3",
+    "title": "Schwartzy",
+    "artist": "Sizzr"
+  },
+  {
+    "file": "Tiburtina - Schwartzy.mp3",
+    "title": "Schwartzy",
+    "artist": "Tiburtina"
   }
 ]

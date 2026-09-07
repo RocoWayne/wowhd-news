@@ -1496,14 +1496,34 @@ function handleYtError() {
 
 function handleYtStateChange(e) {
   const playingOrBuffering = e.data === YT.PlayerState.PLAYING || e.data === YT.PlayerState.BUFFERING;
-  if (playingOrBuffering && liveCamSettleCurrent) liveCamSettleCurrent(true);
+  if (playingOrBuffering && liveCamSettleCurrent) liveCamSettleCurrent(livecamIsLive() !== false);
+}
+
+// Devuelve true/false si YouTube ya informó si el video es una
+// transmisión EN VIVO en este momento, o null si todavía no se sabe
+// (recién está arrancando). Una transmisión que ya terminó queda
+// disponible en YouTube como un video grabado normal (isLive: false)
+// - sigue reproduciendose sin ningun error, pero ya no es "en vivo",
+// así que hay que tratarla igual que una cámara caída y pasar a la
+// siguiente de la lista, para nunca mostrar una grabación vieja bajo
+// el cartel "EN VIVO".
+function livecamIsLive() {
+  if (!ytPlayer || !ytPlayer.getVideoData) return null;
+  try {
+    const data = ytPlayer.getVideoData();
+    return typeof data.isLive === "boolean" ? data.isLive : null;
+  } catch {
+    return null;
+  }
 }
 
 // Intenta reproducir `videoId`; devuelve una Promise<boolean> (true si
-// arrancó bien, false si YouTube reportó un error - video privado,
-// eliminado, con embeds deshabilitados, etc). Si no pasa nada en
-// `CONFIG.liveCamLoadTimeoutMs` (ni error ni estado de reproducción),
-// se le da el beneficio de la duda y se toma como éxito.
+// arrancó bien y de verdad está en vivo; false si YouTube reportó un
+// error - video privado, eliminado, con embeds deshabilitados, etc -
+// o si el video cargó bien pero ya no es una transmisión en vivo). Si
+// no pasa nada en `CONFIG.liveCamLoadTimeoutMs` (ni error ni estado de
+// reproducción), se le da el beneficio de la duda según lo que se sepa
+// hasta ese momento.
 function tryLoadLiveCam(videoId) {
   return ensureYoutubeApi().then(
     () =>
@@ -1517,7 +1537,7 @@ function tryLoadLiveCam(videoId) {
           resolve(ok);
         };
         liveCamSettleCurrent = settle;
-        const timeoutId = setTimeout(() => settle(true), CONFIG.liveCamLoadTimeoutMs);
+        const timeoutId = setTimeout(() => settle(livecamIsLive() !== false), CONFIG.liveCamLoadTimeoutMs);
 
         if (!ytPlayer) {
           ytPlayer = new YT.Player("livecamFrame", {
@@ -1526,7 +1546,7 @@ function tryLoadLiveCam(videoId) {
             events: {
               onReady: () => {
                 ytPlayer.getIframe().classList.add("livecam-frame");
-                settle(true);
+                settle(livecamIsLive() !== false);
               },
               onError: handleYtError,
               onStateChange: handleYtStateChange,

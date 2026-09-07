@@ -126,11 +126,18 @@ secciones comentadas dentro del archivo:
   eliminada, y eso solo se sabe intentando reproducirla de verdad.
   `tryLoadLiveCam(videoId)` intenta reproducir un video y devuelve una
   Promise<boolean> (según `onError`, `onStateChange` — PLAYING/
-  BUFFERING cuenta como éxito — o, si no pasó nada, el timeout de
-  `CONFIG.liveCamLoadTimeoutMs` como beneficio de la duda). `runLiveCamBlock`
-  prueba las cámaras de la lista en orden hasta encontrar una que
-  funcione (o se queda sin pantalla esa vuelta si fallan todas), nunca
-  muestra una pantalla rota, y `mute=1` (obligatorio: autoplay con
+  BUFFERING cuenta como éxito, pero solo si además `livecamIsLive()`
+  no dice explícitamente que no — o, si no pasó nada, el timeout de
+  `CONFIG.liveCamLoadTimeoutMs` con el mismo chequeo). `livecamIsLive()`
+  lee `ytPlayer.getVideoData().isLive`: una transmisión que ya terminó
+  queda en YouTube como una grabación normal que se reproduce sin
+  ningún error (`isLive: false`), así que sin este chequeo se
+  mostraría igual bajo el cartel "EN VIVO" — se trata exactamente
+  igual que una cámara caída, y se pasa a la siguiente de la lista.
+  `runLiveCamBlock` prueba las cámaras de la lista en orden hasta
+  encontrar una que funcione y esté realmente en vivo (o se queda sin
+  pantalla esa vuelta si fallan todas), nunca muestra una pantalla
+  rota ni una grabación vieja, y `mute=1` (obligatorio: autoplay con
   audio está bloqueado por los navegadores, y además no queremos
   competir con la música) se pide una sola vez al crear el player y
   queda aplicado a todas las cargas siguientes vía `loadVideoById`. El

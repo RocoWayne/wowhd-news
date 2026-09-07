@@ -366,12 +366,15 @@ punto rojo pulsante) y el nombre del lugar en letra grande.
   10 minutos), así una edición se ve sin recargar OBS.
 - El video se reproduce siempre muteado (para no competir con la
   música) y sin controles.
-- Si una URL de la lista no tiene un ID de video reconocible, o el
-  video sí tiene un ID válido pero está caído/privado/eliminado, esa
+- Si una URL de la lista no tiene un ID de video reconocible, el video
+  sí tiene un ID válido pero está caído/privado/eliminado, **o la
+  transmisión ya terminó** (quedó guardada como una grabación normal,
+  algo que YouTube permite seguir reproduciendo sin ningún error), esa
   entrada se saltea sola y prueba con la siguiente de la lista — nunca
-  se llega a mostrar una pantalla rota. Si todas las cámaras de la
-  lista fallan en el mismo turno, esa vuelta no se muestra nada y se
-  reintenta en el próximo turno.
+  se llega a mostrar una pantalla rota, ni una grabación vieja bajo el
+  cartel "EN VIVO". Si todas las cámaras de la lista fallan en el
+  mismo turno, esa vuelta no se muestra nada y se reintenta en el
+  próximo turno.
 - Se pisa mutuamente con las pantallas de noticias, clima, cotización
   y mercados: si coinciden, una se saltea esa vez y aparece en el
   próximo turno.

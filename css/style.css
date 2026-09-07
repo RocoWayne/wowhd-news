@@ -390,6 +390,42 @@ body.ticker-visible .player{
   text-align:left;
 }
 
+/* ---------- Variantes de layout de noticias ----------
+   Cada noticia elige uno de estos 3 diseños al azar (ver
+   pickNewsLayout/showNewsItem en js/app.js), para que la tanda no se
+   sienta repetitiva aunque el contenido vaya cambiando. La variante
+   "imagen" es el diseño de base (sin overrides). */
+
+/* "texto": sin imagen (aunque la nota traiga una), con el texto como
+   protagonista, mas grande. */
+.news-content.news-layout-text .news-image{
+  display:none;
+}
+.news-content.news-layout-text .news-text{
+  font-size:clamp(32px, 4.4vw, 60px);
+  max-width:1400px;
+  -webkit-line-clamp:5;
+}
+
+/* "cita": tambien sin imagen, el texto se muestra como una cita
+   destacada (comillas grandes + itálica), mas angosta para que se lea
+   como una frase, no como un párrafo de noticia. */
+.news-content.news-layout-quote .news-image{
+  display:none;
+}
+.news-content.news-layout-quote .news-text{
+  font-style:italic;
+  max-width:980px;
+  padding:0 10px;
+}
+.news-content.news-layout-quote .news-text::before,
+.news-content.news-layout-quote .news-text::after{
+  content:'"';
+  color:var(--accent);
+  font-style:normal;
+  font-weight:900;
+}
+
 /* Mensaje de cierre al terminar una tanda de noticias (ver
    js/app.js -> runNewsBlock). Mismo mecanismo de fade que
    .news-screen, fondo de color plano a pantalla completa. */

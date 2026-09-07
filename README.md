@@ -655,10 +655,18 @@ propio como se explica en `HOSTING.md`.
    `python3 -m http.server 8080` corriendo.
 3. Ancho/alto: `1920x1080` (o el tamaño de tu escena).
 4. Marcá **"Controlar audio a través de OBS"** para poder mezclar el
-   volumen de la música con el mixer de OBS.
-5. Si el audio no arranca solo (política de autoplay), tildá también
-   la opción de OBS que permite reproducción de medios sin interacción,
-   o simplemente refrescá la fuente una vez al agregarla.
+   volumen de la música con el mixer de OBS. Esa misma opción también
+   hace que OBS desactive la política de autoplay del navegador para
+   esta fuente, así que con ella tildada el audio debería arrancar
+   solo sin ningún click.
+5. La página además intenta arrancar el audio sola por su cuenta,
+   aunque esa opción de OBS no esté tildada o el bloqueo de autoplay
+   persista: arranca el audio muteado (eso el navegador siempre lo
+   permite) y lo desmutea apenas empieza a sonar — un truco que evita
+   el click manual en la enorme mayoría de los casos. El botón
+   "Iniciar" que se ve en pantalla queda solo como red de seguridad
+   para el caso rarísimo de un navegador que bloquee incluso el
+   autoplay muteado.
 6. **No hace falta refrescar la fuente a mano después de eso**: la
    página se recarga sola cada 24 horas (ajustable en `js/app.js` →
    `CONFIG.autoReloadMs`) para tomar cualquier cambio de código que se
@@ -732,19 +740,21 @@ colores de marca sueltos por otras partes del CSS):
 
 ## Resiliencia para transmisiones largas (24/7)
 
-Pensado para no necesitar reinicios manuales de OBS. Salvo la caída
-del audio (única que no tiene forma de resolverse sin un click en un
-navegador normal, ver más abajo), la página se auto-recupera sola de:
+Pensado para no necesitar reinicios manuales de OBS. La página se
+auto-recupera sola de:
 
 - **Música que no arranca** porque `playlist.json` estaba vacío/lento
   al abrir la página: en cuanto el siguiente refresco (cada 2 min)
   encuentra temas, arranca la reproducción sola.
-- **Audio pausado** por cualquier motivo (bloqueo de autoplay
-  transitorio, error puntual): se reintenta solo cada 15 segundos.
-  Si el navegador bloquea el autoplay de forma persistente (fuera de
-  OBS, o sin la opción "Controlar audio a través de OBS" tildada),
-  esto no lo puede resolver solo — ahí sí hace falta el click único en
-  "Iniciar", como está documentado en la sección de OBS.
+- **Bloqueo de autoplay** (la política de los navegadores que exige
+  una interacción del usuario antes de reproducir audio con sonido):
+  se esquiva sola arrancando el audio muteado — eso el navegador
+  siempre lo permite — y desmuteándolo apenas empieza a sonar
+  (`playWithAutoplayFallback`). Es el mismo truco que usa la red de
+  seguridad de reintento cada 15 segundos si el audio queda pausado
+  por cualquier otro motivo. Solo en el caso rarísimo de un navegador
+  que bloquee incluso el autoplay muteado queda visible el botón
+  "Iniciar" como último recurso manual.
 - **Fondos o canciones rotas**: si un archivo puntual falla, se
   saltea a la siguiente en vez de trabarse. Si un archivo de fondo
   falla repetidamente (roto, o un corte de red), se lo deja de

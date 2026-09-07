@@ -309,6 +309,32 @@ function applyNowPlaying(track) {
   updateNowPlayingUI(track);
 }
 
+// Los navegadores (y OBS, que por debajo corre el mismo Chromium)
+// siempre permiten el autoplay CON el audio muteado; lo que bloquean
+// es que arranque sonando sin una interaccion previa del usuario -
+// algo que en una fuente de navegador de OBS nunca va a pasar, y que
+// dejaba la pagina "trabada" esperando un click que nadie hace en una
+// transmision 24/7 desatendida. Truco estandar: arrancar muteado (eso
+// si se permite siempre) y desmutear apenas arranca la reproduccion -
+// el navegador no vuelve a bloquear el audio de un elemento que ya
+// esta sonando. `autoplayGate` (el cartel + boton "Iniciar") queda
+// solo como red de seguridad para el caso rarisimo de un navegador
+// que bloquee incluso el autoplay muteado.
+function playWithAutoplayFallback(audioEl) {
+  audioEl.muted = true;
+  const playPromise = audioEl.play();
+  if (!playPromise || !playPromise.then) return;
+  playPromise
+    .then(() => {
+      audioEl.muted = false;
+      autoplayGate.classList.add("hidden");
+    })
+    .catch((err) => {
+      console.warn("Autoplay bloqueado incluso muteado, esperando interacción:", err);
+      autoplayGate.classList.remove("hidden");
+    });
+}
+
 // Arranca la primera cancion de la transmision (o la retoma si el
 // audio se habia quedado sin nada por cualquier motivo). Sin fade: no
 // hay una cancion anterior de la que despedirse.
@@ -319,12 +345,7 @@ function startPlayback() {
   frontAudio.src = "music/" + encodeURIComponent(track.file);
   frontAudio.currentTime = 0;
   displayAudio = frontAudio;
-  frontAudio.play().then(() => {
-    autoplayGate.classList.add("hidden");
-  }).catch((err) => {
-    console.warn("Autoplay bloqueado, esperando interacción:", err);
-    autoplayGate.classList.remove("hidden");
-  });
+  playWithAutoplayFallback(frontAudio);
   applyNowPlaying(track);
 }
 
@@ -461,6 +482,7 @@ for (const el of [audioA, audioB]) {
 
 autoplayBtn.addEventListener("click", () => {
   autoplayGate.classList.add("hidden");
+  displayAudio.muted = false;
   displayAudio.play();
 });
 
@@ -479,10 +501,12 @@ setInterval(async () => {
 // Red de seguridad: si el audio quedo pausado por cualquier motivo
 // (autoplay bloqueado, error transitorio del navegador) reintentamos
 // solos cada rato, en vez de quedar mudos el resto de la transmision
-// esperando un click que en OBS nunca va a llegar.
+// esperando un click que en OBS nunca va a llegar. Usa el mismo truco
+// de muteado-y-desmuteado que `startPlayback` para volver a esquivar
+// el bloqueo de autoplay si fue eso lo que dejo el audio pausado.
 setInterval(() => {
   if (currentTrack && displayAudio.paused) {
-    displayAudio.play().then(() => autoplayGate.classList.add("hidden")).catch(() => {});
+    playWithAutoplayFallback(displayAudio);
   }
 }, 15000);
 

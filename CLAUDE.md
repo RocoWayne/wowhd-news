@@ -56,6 +56,14 @@ secciones comentadas dentro del archivo:
   cruce en curso falla a mitad de camino (crítico: sin esto, el
   interval del fundido queda huérfano y termina pisando también al
   tema que sí sonaba bien, dejando la música muda sin recuperación).
+  El arranque inicial (`startPlayback`) y la red de seguridad de
+  reintento cada 15s (si `displayAudio` queda pausado) pasan por
+  `playWithAutoplayFallback`: arrancan el audio muteado (eso el
+  navegador siempre lo permite, sin gesto del usuario) y lo desmutean
+  apenas empieza a sonar, para esquivar el bloqueo de autoplay-con-
+  sonido sin depender de un click manual en `#autoplayGate` — ese
+  botón queda solo como último recurso si hasta el autoplay muteado
+  está bloqueado.
 - **Noticias**: mezcla `news/news.json` (manual) + `news/rss.json`
   (auto-generado) y las muestra en bloques a pantalla completa
   (rotación temporizada, ver `CONFIG.newsIntervalMs` etc.), generando

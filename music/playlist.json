@@ -30,6 +30,11 @@
     "artist": "Drifting Memories"
   },
   {
+    "file": "Event Horizon - The Grey Room _ Density & Time.mp3",
+    "title": "The Grey Room _ Density & Time",
+    "artist": "Event Horizon"
+  },
+  {
     "file": "Everything (feat. Rodina & Alfie Tito) - Rodina feat. Alfie Tito.mp3",
     "title": "Everything (feat. Rodina & Alfie Tito)",
     "artist": "Rodina feat. Alfie Tito"
@@ -48,6 +53,11 @@
     "file": "Jomon Grove - The Mini Vandals.mp3",
     "title": "The Mini Vandals",
     "artist": "Jomon Grove"
+  },
+  {
+    "file": "Laniakea - The Grey Room _ Density & Time.mp3",
+    "title": "The Grey Room _ Density & Time",
+    "artist": "Laniakea"
   },
   {
     "file": "Long Goodbyes to Longer Friends - Schwartzy.mp3",
@@ -90,9 +100,19 @@
     "artist": "Rain Over Kyoto Station"
   },
   {
+    "file": "Red Shift - The Grey Room _ Density & Time.mp3",
+    "title": "The Grey Room _ Density & Time",
+    "artist": "Red Shift"
+  },
+  {
     "file": "Shining (feat. Leon Albertson & Adryon de León) - Leon Albertson feat. Adryon de León.mp3",
     "title": "Shining (feat. Leon Albertson & Adryon de León)",
     "artist": "Leon Albertson feat. Adryon de León"
+  },
+  {
+    "file": "Singularity - The Grey Room _ Density & Time (2).mp3",
+    "title": "The Grey Room _ Density & Time (2)",
+    "artist": "Singularity"
   },
   {
     "file": "Sizzr - Schwartzy.mp3",

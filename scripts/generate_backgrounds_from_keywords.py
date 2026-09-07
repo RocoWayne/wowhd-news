@@ -49,6 +49,16 @@ KEYWORDS = [
     "live music stage",
     "crowd cheering",
     "recording studio",
+    "mountain landscape",
+    "sunset beach",
+    "tropical waterfall",
+    "desert dunes",
+    "forest aerial view",
+    "lake reflection sunrise",
+    "northern lights",
+    "ocean cliffs",
+    "autumn valley",
+    "snowy mountain peak",
 ]
 
 IMAGES_PER_KEYWORD = 5

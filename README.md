@@ -523,12 +523,15 @@ libres en **Wikimedia Commons** una vez por día y las agrega solo a
 `backgrounds/external.json`, para tener variedad de fondos sin subir
 imágenes a mano. Las keywords están en
 `scripts/generate_backgrounds_from_keywords.py` → `KEYWORDS` (por
-defecto, 15 genéricas de noticias/música/entretenimiento: "news
+defecto, 25: 15 genéricas de noticias/música/entretenimiento ("news
 studio", "television broadcast", "entertainment lights", "red carpet
 event", "concert crowd", "dj console", "night club", "music festival",
 "radio station", "stadium concert", "urban skyline night", "neon
 lights city", "live music stage", "crowd cheering", "recording
-studio" — se pueden agregar/sacar libremente).
+studio") + 10 de paisajes ("mountain landscape", "sunset beach",
+"tropical waterfall", "desert dunes", "forest aerial view", "lake
+reflection sunrise", "northern lights", "ocean cliffs", "autumn
+valley", "snowy mountain peak") — se pueden agregar/sacar libremente).
 
 - **Sin configuración**: la API de Wikimedia Commons es pública y no
   requiere API key ni registro — el workflow funciona de una sin

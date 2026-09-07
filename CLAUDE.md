@@ -111,10 +111,13 @@ secciones comentadas dentro del archivo:
   `{ title, url }`, `loadLiveCams`), extrae el ID del video con
   `extractYoutubeVideoId` (acepta las URLs típicas de YouTube) y arma
   el iframe con `autoplay=1&mute=1` (mute obligatorio para no competir
-  con la música) (`runLiveCamBlock`). El nombre del lugar se muestra en
-  `#livecamCaption`, ubicado a propósito en la esquina inferior
-  **derecha** (la izquierda la tapa el reproductor de música, que tiene
-  mayor z-index). Se pisa mutuamente con noticias, clima, cotización y
+  con la música) (`runLiveCamBlock`). El cartel `#livecamCaption`,
+  ubicado a propósito en la esquina inferior **derecha** (la izquierda
+  la tapa el reproductor de música, que tiene mayor z-index), muestra
+  un badge grande "EN VIVO" con punto rojo pulsante (`.livecam-live-dot`,
+  único uso de rojo del proyecto, por ser un código universal de
+  transmisión en vivo) y el nombre del lugar en `#livecamPlace` con
+  tipografía grande para que se lea claro en TV. Se pisa mutuamente con noticias, clima, cotización y
   mercados.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
   simples que muestran/ocultan elementos del DOM. El ticker es siempre

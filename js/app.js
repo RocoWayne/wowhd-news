@@ -1401,6 +1401,7 @@ setTimeout(() => {
 const livecamScreen = document.getElementById("livecamScreen");
 const livecamFrame = document.getElementById("livecamFrame");
 const livecamCaption = document.getElementById("livecamCaption");
+const livecamPlace = document.getElementById("livecamPlace");
 
 let liveCams = [];
 let liveCamIndex = 0;
@@ -1442,7 +1443,7 @@ async function runLiveCamBlock() {
   pauseBackgroundRotation();
 
   try {
-    livecamCaption.textContent = cam.title || "";
+    livecamPlace.textContent = cam.title || "";
     // mute=1 obligatorio (autoplay con audio esta bloqueado por los
     // navegadores) y ademas no queremos que compita con la musica.
     livecamFrame.src =

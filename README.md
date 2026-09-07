@@ -375,7 +375,16 @@ punto rojo pulsante) y el nombre del lugar en letra grande.
   de detectar si una cámara puntual se cayó o dejó de transmitir (a
   diferencia de un fetch que falla prolijo) — conviene revisar
   `livecams/livecams.json` de tanto en tanto para sacar cámaras que ya
-  no funcionen.
+  no funcionen. Esto es a propósito no bloqueante: si el video de una
+  entrada no está disponible, el iframe simplemente no reproduce nada
+  esa vuelta y la siguiente cámara de la lista sale normal en su
+  turno — no hace falta sacarla enseguida, solo cuando moleste.
+- Algunas cámaras de naturaleza son **estacionales** (por ejemplo, la
+  de los osos pardos en las cataratas Brooks, Alaska, solo transmite
+  activamente durante la temporada de pesca del salmón, aprox.
+  junio-septiembre): fuera de temporada puede no mostrar nada. Se
+  dejó cargada igual porque el bloque la saltea sola sin romper nada;
+  sacarla del JSON es opcional.
 
 ### Cómo conviven entre sí las 5 pantallas a pantalla completa
 

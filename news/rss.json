@@ -1,6 +1,55 @@
 [
   {
     "date": "2026-09-07",
+    "image": "https://s.france24.com/media/display/9b965136-aacb-11f1-b9cf-005056a97e36/w:1024/p:16x9/2026-09-06T025138Z-1487994625-RC2EDNA6INV7-RTRMADP-3-IRAN-CRISIS-CENTCOM.jpg",
+    "category": "Medio Oriente",
+    "text": "En directo: Omán afirma que evacuó a 16 tripulantes de un buque saudita atacado por Irán",
+    "link": "https://www.france24.com/es/medio-oriente/20260907-en-directo-om%C3%A1n-afirma-que-evacu%C3%B3-a-16-tripulantes-de-un-buque-saudita-atacado-por-ir%C3%A1n"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://s.france24.com/media/display/be2077cc-aabc-11f1-a324-005056bf30b7/w:1024/p:16x9/2026-09-05T073044Z-418193367-RC2RCNA4KO6N-RTRMADP-3-IRAN-CRISIS-HORMUZ.jpg",
+    "category": "Economía",
+    "text": "Petróleo por encima de USD 90 y en máximos desde julio por ataques recíprocos entre EE. UU. e Irán",
+    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260907-petr%C3%B3leo-por-encima-de-usd-90-y-en-m%C3%A1ximos-desde-julio-por-ataques-rec%C3%ADprocos-entre-ee-uu-e-ir%C3%A1n"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://s.france24.com/media/display/4ade3cfc-aac3-11f1-bbfb-005056bfb2b6/w:1024/p:16x9/ES-20260907-081202-082002-CS.jpg",
+    "category": "Revista de prensa",
+    "text": "\"¿Cómo se convirtió el este de Alemania en bastión de la extrema derecha?\": 'SwissInfo'",
+    "link": "https://www.france24.com/es/programas/revista-de-prensa/20260907-c%C3%B3mo-se-convirti%C3%B3-el-este-de-alemania-en-basti%C3%B3n-de-la-extrema-derecha-swissinfo"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://s.france24.com/media/display/bd99eb82-a862-11f1-962c-005056bf30b7/w:1024/p:16x9/IVS-DESINFO-04SEP-PORTADA-WEB-00623.png",
+    "category": "Des-informando",
+    "text": "¿El bombardeo contra una represa causó la riada mortal en Nepal?",
+    "link": "https://www.france24.com/es/programas/des-informando/20260907-el-bombardeo-contra-una-represa-caus%C3%B3-la-riada-mortal-en-nepal"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://s.france24.com/media/display/4a64752e-a876-11f1-85ba-005056bf30b7/w:1024/p:16x9/IMG-0200.png",
+    "category": "Una Semana en el Mundo",
+    "text": "Rusia y Alemania: ¿la “guerra híbrida” arrastrará a la OTAN?",
+    "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260907-rusia-y-alemania-la-guerra-h%C3%ADbrida-arrastrar%C3%A1-a-la-otan"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://s.france24.com/media/display/1963243c-aabc-11f1-b58a-005056bfb2b6/w:1024/p:16x9/AP26243802382454.jpg",
+    "category": "Economía",
+    "text": "John Ternus, el ingeniero que toma las riendas de Apple en plena carrera por la IA",
+    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260907-john-ternus-el-ingeniero-que-toma-las-riendas-de-apple-en-plena-carrera-por-la-ia"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://s.france24.com/media/display/f0f0d3e2-aab5-11f1-b6be-005056a90284/w:1024/p:16x9/2026-09-07T115622Z-532688659-RC2BENACED0B-RTRMADP-3-GERMANY-ELECTION-SAXONY-ANHALT-CDU-REACTION.jpg",
+    "category": "Europa",
+    "text": "En directo I Merz : victoria de la ultraderecha en región alemana demuestra necesidad de reformas",
+    "link": "https://www.france24.com/es/europa/20260907-en-directo-i-merz-victoria-de-la-ultraderecha-en-regi%C3%B3n-alemana-demuestra-necesidad-de-reformas"
+  },
+  {
+    "date": "2026-09-07",
     "image": "https://s.france24.com/media/display/dee89c9e-aa5a-11f1-af43-005056bf30b7/w:1024/p:16x9/ES-20260906-191320-191510-CS.jpg",
     "category": null,
     "text": "Irán impone nueva zona marítima restringida más allá del estrecho de Ormuz",
@@ -38,6 +87,20 @@
     "date": "2026-09-07",
     "image": null,
     "category": null,
+    "text": "\"Lo que ocurrió en Venezuela no lo he visto ni en Haití ni en Pakistán\": la experta en desastres que alerta sobre los desafíos de la reconstrucción tras los terremotos",
+    "link": "https://www.bbc.com/mundo/articles/cvgywxgyrmpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-07",
+    "image": null,
+    "category": null,
+    "text": "\"Vivimos en una política de la crueldad que busca normalizar cosas que antes no podíamos tragar\"",
+    "link": "https://www.bbc.com/mundo/articles/cd6985dl78xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-07",
+    "image": null,
+    "category": null,
     "text": "La red de propaganda prorrusa que explota la violencia sexual y utiliza a mujeres del ejército ucraniano como cebo",
     "link": "https://www.bbc.com/mundo/articles/c0klgne2jd6o?at_medium=RSS&at_campaign=rss"
   },
@@ -45,92 +108,155 @@
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Al menos 5 muertos luego de que un avión se salió de pista, atropelló varios vehículos y se incendió en el aeropuerto de Miami",
+    "text": "Qué es Sea Lion, el proyecto petrolero señalado por Milei que reaviva la tensión entre Argentina y Reino Unido sobre las Malvinas/Falklands",
+    "link": "https://www.bbc.com/mundo/articles/cvgy51v7281o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-07",
+    "image": null,
+    "category": null,
+    "text": "Cómo el cerebro de las moscas puede ofrecer pistas sobre el comportamiento de los seres humanos",
+    "link": "https://www.bbc.com/mundo/articles/c158v3e8dx4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-07",
+    "image": null,
+    "category": null,
+    "text": "5 gráficos que muestran el drástico aumento de las detenciones de migrantes en EE.UU. y su país de origen",
+    "link": "https://www.bbc.com/mundo/articles/cqjkd1yx84go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-07",
+    "image": null,
+    "category": null,
+    "text": "Por qué más de 70 países guardan sus reservas de oro en el Banco de Inglaterra (y qué lo diferencia de otros bancos)",
+    "link": "https://www.bbc.com/mundo/articles/cvgyper4gdeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-07",
+    "image": null,
+    "category": null,
+    "text": "\"Tengo un cáncer crónico, pero no me voy a morir\": la presentadora de la BBC que decidió hacer público que sufre una rara enfermedad",
+    "link": "https://www.bbc.com/mundo/articles/cy5zwwxy9gro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-07",
+    "image": null,
+    "category": null,
+    "text": "Las autoridades investigan las causas del accidente de avión que dejó al menos 5 muertos tras chocar con varios vehículos en el aeropuerto de Miami",
     "link": "https://www.bbc.com/mundo/articles/cj641kkdekno?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-07",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/WWIZ3HLSYNASNGCGVTECGLIY4E.jpg?auth=c40f15104fa349c812ee691c229ff82bd2b9151a65254673d2e1bdb9b44e9436&smart=true&width=6192&height=4128",
     "category": null,
-    "text": "Tres heridos en una explosión en el laboratorio de la facultad de Química de Tarragona",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/07/tres-heridos-en-una-explosion-en-el-laboratorio-de-la-facultad-de-quimica-de-tarragona/"
+    "text": "Comisión de Constitución cita al ministro Luis Galarreta para explicar pedido de facultades legislativas",
+    "link": "https://www.infobae.com/peru/2026/09/07/comision-de-constitucion-cita-al-ministro-luis-galarreta-para-explicar-pedido-de-facultades-legislativas/"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://www.infobae.com/resizer/v2/IINPLFIPFZAZLMSNPXJ5HK5NOA.jpeg?auth=380519be9fb74e71b48b6be0a8cdbc9e7a131ae8c2a0d967e9594bed736c8369&smart=true&width=1280&height=854",
+    "category": null,
+    "text": "La Mañanera de la presidenta Claudia Sheinbaum hoy lunes 7 de septiembre",
+    "link": "https://www.infobae.com/mexico/2026/09/07/la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-lunes-7-de-septiembre/"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://www.infobae.com/resizer/v2/FYD3C2QUJZEFVJ72GVB3XTC6XA.png?auth=4d331e38d3be21819e5089348768f5a93f9d2a48ebe38577598d6d8f57e53a59&smart=true&width=1408&height=768",
+    "category": null,
+    "text": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 7 de septiembre",
+    "link": "https://www.infobae.com/mexico/2026/09/07/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-7-de-septiembre/"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Los residentes en España redujeron sus viajes turísticos un 0,6 % en julio, según el INE",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/07/los-residentes-en-espana-redujeron-sus-viajes-turisticos-un-06-en-julio-segun-el-ine/"
+    "text": "La serie documental de Bayona 'Más allá de la sociedad' se estrena el 18 de diciembre",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/07/la-serie-documental-de-bayona-mas-alla-de-la-sociedad-se-estrena-el-18-de-diciembre/"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Cuerpo asegura que hará \"todo el esfuerzo necesario\" para mantener la marca Seat",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/07/cuerpo-asegura-que-hara-todo-el-esfuerzo-necesario-para-mantener-la-marca-seat/"
+    "text": "Redondo insta al Gobierno de Ceuta a buscar espacios temporales seguros para los migrantes",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/07/redondo-insta-al-gobierno-de-ceuta-a-buscar-espacios-temporales-seguros-para-los-migrantes/"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Ineco creará en América Latina una red de intercambio electrónico de antecedentes penales",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/07/ineco-creara-en-america-latina-una-red-de-intercambio-electronico-de-antecedentes-penales/"
+    "text": "Suben a 7 los muertos por derrumbe de un hostal universitario en India y arrestan al dueño",
+    "link": "https://www.infobae.com/america/agencias/2026/09/07/suben-a-7-los-muertos-por-derrumbe-de-un-hostal-universitario-en-india-y-arrestan-al-dueno/"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Las carpas en el puerto de Ceuta \"pueden afectar algo\" a la vida portuaria, según Puente",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/07/las-carpas-en-el-puerto-de-ceuta-pueden-afectar-algo-a-la-vida-portuaria-segun-puente/"
+    "text": "Presidente de estatal PDVSA dice que acuerdo petrolero entre Venezuela y EEUU es renovable",
+    "link": "https://www.infobae.com/america/agencias/2026/09/07/presidente-de-estatal-pdvsa-dice-que-acuerdo-petrolero-entre-venezuela-y-eeuu-es-renovable/"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://www.infobae.com/resizer/v2/BHDGD5FTBJGF5DTD6PLPXPNAQA.jpg?auth=a4b412c73216443365663e38ad4a354aee423b9323978160c8ee2c59bb297936&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Sembrando Vida 2026: confirman fecha del pago en septiembre para todos los beneficiarios",
+    "link": "https://www.infobae.com/mexico/2026/09/07/sembrando-vida-2026-confirman-fecha-del-pago-en-septiembre-para-todos-los-beneficiarios/"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Cuerpo sitúa el crecimiento del tercer trimestre del año en el 0,6 %",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/07/cuerpo-situa-el-crecimiento-del-tercer-trimestre-del-ano-en-el-06/"
+    "text": "Brasil, a mantener su hegemonía en los Suramericanos de Santa Fe con 500 deportistas",
+    "link": "https://www.infobae.com/america/agencias/2026/09/07/brasil-a-mantener-su-hegemonia-en-los-suramericanos-de-santa-fe-con-500-deportistas/"
+  },
+  {
+    "date": "2026-09-07",
+    "image": "https://www.infobae.com/resizer/v2/B6TZOHQB7RGGHKH67E4764QQFE.jpg?auth=1f0e3b429c10f220ccf452767fa9663b5ef73accb2b104d99f7b9357375da4a3&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Rulo cambiario: la Justicia investiga a quienes habilitaban importaciones durante el cepo al dólar",
+    "link": "https://www.infobae.com/judiciales/2026/09/07/la-justicia-investiga-a-quienes-habilitaban-importaciones-con-el-sistema-sira-durante-el-cepo-al-dolar/"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Irán dice que una delegación investiga en Catar el caso de pilotos supuestamente retenidos",
-    "link": "https://www.infobae.com/america/agencias/2026/09/07/iran-dice-que-una-delegacion-investiga-en-catar-el-caso-de-pilotos-supuestamente-retenidos/"
+    "text": "Kallas advierte que la ultraderecha en Alemania es \"ciega\" a amenaza rusa, tras su triunfo",
+    "link": "https://www.infobae.com/america/agencias/2026/09/07/kallas-advierte-que-la-ultraderecha-en-alemania-es-ciega-a-amenaza-rusa-tras-su-triunfo/"
   },
   {
     "date": "2026-09-07",
-    "image": "https://www.infobae.com/resizer/v2/XN462TBKGJAAVHXPAQFXCGUOU4.jpg?auth=bef447a61c7d9c751de33005125b851c83471bc2a2c8e6adc9bfc3edda1d9e0f&smart=true&width=1920&height=1281",
+    "image": "https://www.infobae.com/resizer/v2/SUU3SEFWPJDENH44W67LGP34MY.jpg?auth=7bdf4aecf8dee5995b33c1963a27934961aa3a972f1ae70634b4b5b6af3121ea&smart=true&width=1200&height=800",
     "category": null,
-    "text": "‘Independientes’: el nuevo partido que quiere bajar un 20% el sueldo a los 57 concejales de Madrid y recuerda que Almeida se lo ha subido 7.203 euros en tres años",
-    "link": "https://www.infobae.com/espana/2026/09/07/independientes-el-nuevo-partido-que-quiere-bajar-un-20-el-sueldo-a-los-57-concejales-de-madrid-y-recuerda-que-almeida-se-lo-ha-subido-7203-euros-en-tres-anos/"
+    "text": "El Niño ya deja sus primeras huellas en la Costa de Ecuador",
+    "link": "https://www.infobae.com/america/america-latina/2026/09/07/el-nino-ya-deja-sus-primeras-huellas-en-la-costa-de-ecuador/"
   },
   {
     "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "Rusia y Corea del Norte inauguran un puente que les une por primera vez por carretera",
-    "link": "https://www.infobae.com/america/agencias/2026/09/07/rusia-y-corea-del-norte-inauguran-un-puente-que-les-une-por-primera-vez-por-carretera/"
+    "image": "https://imagenes.elpais.com/resizer/v2/536ZKKTLJBKTJDSSLONZKBATMI.jpg?auth=7672449e1aac515940a140ea6fe2ba6921cb5bed67ab8f34ed5bb99df6a0937d",
+    "category": "Alemania",
+    "text": "BSW, el partido alemán que se dice de izquierdas pero está dispuesto a pactar con AfD para sobrevivir",
+    "link": "https://elpais.com/internacional/2026-09-07/bsw-el-partido-aleman-que-se-dice-de-izquierdas-pero-esta-dispuesto-a-pactar-con-afd-para-sobrevivir.html"
   },
   {
     "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "Rebeldes de Tigré critican al mediador de la UA en la actual crisis con el Gobierno etíope",
-    "link": "https://www.infobae.com/america/agencias/2026/09/07/rebeldes-de-tigre-critican-al-mediador-de-la-ua-en-la-actual-crisis-con-el-gobierno-etiope/"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260907/1211784_141939_video_1800.mp4",
+    "category": "Elecciones Alemania",
+    "text": "La victoria de la extrema derecha en Sajonia-Anhalt sacude al Gobierno alemán: “Tendrá consecuencias”",
+    "link": "https://elpais.com/internacional/2026-09-07/la-victoria-de-la-extrema-derecha-en-sajonia-anhalt-sacude-a-la-coalicion-de-gobierno-en-alemania.html"
   },
   {
     "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "Bélgica no apoya la reelección de Infantino al frente de la FIFA",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/07/belgica-no-apoya-la-reeleccion-de-infantino-al-frente-de-la-fifa/"
+    "image": "https://imagenes.elpais.com/resizer/v2/73CHROWML5DYNJ33JR5XP46VHA.JPG?auth=135c28ea01f06f8ad0bc660d3aec758cb404d7317a644bccf93d7b1b4659cb49",
+    "category": "Alemania",
+    "text": "Bruselas teme que la polarización en Alemania condicione los grandes consensos en la UE",
+    "link": "https://elpais.com/internacional/2026-09-07/bruselas-teme-que-la-polarizacion-en-alemania-condicione-los-grandes-consensos-en-la-ue.html"
   },
   {
     "date": "2026-09-07",
-    "image": "https://www.infobae.com/resizer/v2/I265REAQYVAOFBQTNEELRJMV4A.jpg?auth=62b5949c58d29ec1e76e9d761be9e54505e0c08f52b89e53a9f69a03a81eec8f&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Mueren once alpinistas por una avalancha en un monte en una región de Rusia situada en el Cáucaso",
-    "link": "https://www.infobae.com/america/agencias/2026/09/07/mueren-once-alpinistas-por-una-avalancha-en-un-monte-en-una-region-de-rusia-situada-en-el-caucaso/"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260907/1211781_141612_video_1800.mp4",
+    "category": "Alemania",
+    "text": "La marea ultraderechista en Alemania: otro ladrillo en el muro",
+    "link": "https://elpais.com/internacional/2026-09-07/la-marea-ultraderechista-en-alemania-otro-ladrillo-en-el-muro.html"
   },
   {
     "date": "2026-09-07",
@@ -155,268 +281,142 @@
   },
   {
     "date": "2026-09-07",
-    "image": "https://imagenes.elpais.com/resizer/v2/2GOX5E7ZO5JS5IZWLGRBP7BVUA.jpg?auth=c97b180f30dc958207f063a5ff0f9348a57e25ff1cf0a4b8d9d8c31e154e77b2",
-    "category": "Líbano",
-    "text": "Mueren al menos 11 personas en ataques israelíes contra un edificio y un vehículo en el sur de Líbano",
-    "link": "https://elpais.com/internacional/2026-09-07/mueren-varias-personas-en-ataques-israelies-contra-un-edificio-y-un-vehiculo-en-el-sur-de-libano.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/OEJEC6ZTZFOPDOONNMLRCKVACM.jpg?auth=419814b183fb783f2ff46ef3cc06379c83c6b323fa5c3393fdfa6db06a6012b0",
+    "category": "Groenlandia",
+    "text": "Bruselas responde a las amenazas de Trump con más inversiones en Groenlandia",
+    "link": "https://elpais.com/internacional/2026-09-07/bruselas-responde-a-las-amenazas-de-trump-con-mas-inversiones-en-groenlandia.html"
   },
   {
     "date": "2026-09-07",
-    "image": "https://imagenes.elpais.com/resizer/v2/SRHYI5YNW5BIVHMQWLZWKVE7TU.jpg?auth=8a1ac1144b0bc9a88f42e14ec2f5ae4cb535d704697ab8fcb2ab71d0851a908e",
-    "category": "Colombia",
-    "text": "De la Espriella, un mes de presidente en campaña permanente",
-    "link": "https://elpais.com/america-colombia/2026-09-07/de-la-espriella-un-mes-de-presidente-en-campana-permanente.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/SH5UIXKAN5EZLEGFZFDFJPMFZE.jpg?auth=240f33c02fc1cab3dc7447d99a0d44c724f082adb41180b8c516c090f6c1c9ae",
+    "category": "Italia",
+    "text": "Monti rompe la timidez de la derecha italiana con el ultraderechista Vannacci: “Veo en usted la retórica y el espíritu del fascismo”",
+    "link": "https://elpais.com/internacional/2026-09-07/monti-rompe-la-timidez-de-la-derecha-italiana-con-el-ultraderechista-vannacci-veo-en-usted-la-retorica-y-el-espiritu-del-fascismo.html"
   },
   {
     "date": "2026-09-07",
-    "image": "https://imagenes.elpais.com/resizer/v2/QKZKIEP7IZAFPA7JPGRNSV4C4U.jpeg?auth=0635a2a6018bace41a20194a46519788b2c919fe9093709a660bce1c0bb1a1bd",
-    "category": "Liberia",
-    "text": "Deportados desde EE UU a Liberia, un país del que no habían oído hablar: “Nos tuvieron encadenados durante todo el viaje”",
-    "link": "https://elpais.com/planeta-futuro/2026-09-07/deportados-desde-ee-uu-a-liberia-un-pais-del-que-no-habian-oido-hablar-nos-tuvieron-encadenados-durante-todo-el-viaje.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/BAFAJJENPJNDPAW7R6DHJ7U24U.jpg?auth=b2666e50b92d3042db761cdcdb5a9bee5869e3ac14fc510549de8ee719aac9ad",
+    "category": "Historia",
+    "text": "Cómo el tapiz de Bayeux, una joya del arte medieval, suturó las heridas post-Brexit",
+    "link": "https://elpais.com/internacional/2026-09-07/como-el-tapiz-de-bayeux-una-joya-del-arte-medieval-suturo-las-heridas-post-brexit.html"
   },
   {
     "date": "2026-09-07",
-    "image": "https://imagenes.elpais.com/resizer/v2/DZUPMRNI4NAEJIQHI53CKONHRU.jpg?auth=2b12f9e49beee01ddfc4c041dcf2604544a9f6a80d0ed9d5fbd5cdadee8b1ccc",
-    "category": "Dinamarca",
-    "text": "Hospitalizada la reina Margarita de Dinamarca por una indisposición",
-    "link": "https://elpais.com/internacional/2026-09-07/hospitalizada-la-reina-margarita-de-dinamarca-por-una-indisposicion.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/DFYOXETUD5EKXIUZV5H25YZALY.jpg?auth=0b7af14a5470dfc34231bf5c3eb337ceaa9f51962fa13f9a22436d0298712d3c",
+    "category": "Erupciones volcanes",
+    "text": "Indonesia cierra siete aeropuertos por la ceniza del volcán Anak Krakatau",
+    "link": "https://elpais.com/internacional/2026-09-07/indonesia-mantiene-cerrados-siete-aeropuertos-por-la-ceniza-del-volcan-anak-krakatau.html"
   },
   {
     "date": "2026-09-07",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9e7daee9ff7161c26085a8.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ed80f59bf5b0615417cc2.jpg",
     "category": null,
-    "text": "Irán advierte a un aliado de EE.UU. de \"graves consecuencias\" en caso de despliegue militar en Ormuz",
-    "link": "https://actualidad.rt.com/actualidad/626306-iran-pronunciar-eventual-despliegue-militar?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9e741759bf5b6c42775705.jpg",
-    "category": null,
-    "text": "VIDEO: Rusia golpea un puesto subterráneo de control de drones",
-    "link": "https://actualidad.rt.com/actualidad/626304-video-rusia-golpea-puesto-subterraneo?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9e6eb0e9ff7156cb567be3.jpg",
-    "category": null,
-    "text": "IMÁGENES satelitales muestran el rastro de destrucción de ataque iraní contra base de EE.UU. en Kuwait",
-    "link": "https://actualidad.rt.com/actualidad/626305-imagenes-mostrar-rastro-destruccion-ataque?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9e6a0de9ff713c0d4221fd.jpg",
-    "category": null,
-    "text": "VIDEO: Un hombre golpea autos con una barra de hierro y peatones reaccionan",
-    "link": "https://actualidad.rt.com/viral/626302-video-hombre-arremeter-autos-barra?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump comparte su propia visión del mapa de América del Norte (FOTO)",
+    "link": "https://actualidad.rt.com/actualidad/626379-trump-compartir-propia-vision-mapa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Un muerto y varios heridos en un ataque ucraniano contra edificios residenciales en Rusia",
-    "link": "https://actualidad.rt.com/actualidad/626301-rusia-abre-causa-penal-ataque?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La astronómica suma que los hogares de EE.UU. pagan por la guerra contra Irán",
+    "link": "https://actualidad.rt.com/actualidad/626376-astronomica-suma-hogares-eeuu-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9e5f67e9ff713c6e5eb06d.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ec1af59bf5b37e86e8676.jpg",
     "category": null,
-    "text": "VIDEO FUERTE: Motociclista sale despedido en medio de un choque múltiple",
-    "link": "https://actualidad.rt.com/actualidad/626296-video-fuerte-brutal-choque-multiple?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La apuesta de 200 millones de euros de la UE por Groenlandia: tres claves",
+    "link": "https://actualidad.rt.com/actualidad/626364-ue-apuesta-millones-groenlandia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9e5484e9ff7156c80f1a63.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ec9c9e9ff71739f560de0.jpg",
     "category": null,
-    "text": "Revelan detalles del ataque mortal de EE.UU. contra una boda al sur de Irán",
-    "link": "https://actualidad.rt.com/actualidad/626295-detalles-ataque-mortal-eeuu-boda-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Hubble de la NASA descubre algo gigantesco en el polo sur de Saturno (FOTOS)",
+    "link": "https://actualidad.rt.com/actualidad/626368-hubble-nasa-descubrir-gigantesco-polo?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9e6148e9ff71135e23afc2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ecc0859bf5b5b7258198c.jpg",
     "category": null,
-    "text": "\"Para dar ejemplo\": brutal paliza de un policía a un detenido por asesinato (VIDEO)",
-    "link": "https://actualidad.rt.com/viral/626300-policia-propinar-brutal-paliza-acusado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "'Influencer' culinario es arrestado tras condena por ocultar droga en productos alimenticios",
+    "link": "https://actualidad.rt.com/viral/626372-influencer-culinario-arrestado-condena-ocultar-droga-alimentos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ecfd859bf5b2f81595fd2.jpg",
     "category": null,
-    "text": "\"Vínculos mutuamente beneficiosos\": Putin felicita a Lula por el Día de la Independencia de Brasil",
-    "link": "https://actualidad.rt.com/actualidad/626299-vinculos-putin-lula-dia-independencia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: El presidente de Vietnam llega a Rusia en visita de Estado",
+    "link": "https://actualidad.rt.com/actualidad/626373-video-presidente-vietnam-llega-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9e4774e9ff7161b759b841.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ece3559bf5b0615417cb4.jpg",
     "category": null,
-    "text": "Kim Jong-un presenta un nuevo destructor para el sistema de respuesta nuclear de la RPDC (FOTOS)",
-    "link": "https://actualidad.rt.com/actualidad/626286-kim-jong-presentar-nuevo-destructor?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Una muralla de 500 años protege a una ciudad china de una inundación",
+    "link": "https://actualidad.rt.com/actualidad/626370-video-muralla-ciudad-china-inundacion?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ed09c59bf5b2efc2323b4.jpg",
     "category": null,
-    "text": "Denso humo y llamas tras la salida de pista de un avión de carga de Amazon en Miami",
-    "link": "http://es.euronews.com/video/2026/09/07/denso-humo-y-llamas-tras-la-salida-de-pista-de-un-avion-de-carga-de-amazon-en-miami"
+    "text": "Politólogo: El partido de Merz \"sufrió un Waterloo político\"",
+    "link": "https://actualidad.rt.com/actualidad/626352-calificar-waterloo-politico-partido-merz-comicios?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ec995e9ff7170e93b535e.jpg",
     "category": null,
-    "text": "La erupción del Anak Krakatoa paraliza aeropuertos y 2.300 vuelos en Indonesia",
-    "link": "http://es.euronews.com/2026/09/07/cierre-aeropuertos-indonesia-erupcion-volcan-afecta-270000-pasajereros"
+    "text": "VIDEO: Los hutíes golpean con misiles balísticos a un convoy militar procedente de Arabia Saudita",
+    "link": "https://actualidad.rt.com/actualidad/626369-video-huties-golpean-convoy-militar?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ebdece9ff7170e93b5347.jpg",
     "category": null,
-    "text": "400.000 dalias y carrozas gigantes: el espectacular desfile de Países Bajos",
-    "link": "http://es.euronews.com/video/2026/09/07/400000-dalias-y-carrozas-gigantes-paises-bajos-acoge-desfile-floral-espectacular"
-  },
-  {
-    "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "Venezuela niega haber cedido a EE.UU. el control de su petróleo",
-    "link": "http://es.euronews.com/2026/09/07/caracas-insiste-mantiene-propiedad-petroleo-tras-historico-acuerdo-con-estados-unidos"
+    "text": "Carlos III 'deja plantada' a la delegación de un país caribeño que le exige reparaciones por esclavitud",
+    "link": "https://actualidad.rt.com/actualidad/626356-jamaica-presentara-rey-britanico-peticion?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "VÍDEO: Al menos 5 muertos al salirse de pista un avión de Amazon en Miami",
-    "link": "http://es.euronews.com/2026/09/07/5-muertos-salirse-pista-incendiarse-avion-carga-amazon-en-miami-estados-unidos"
+    "text": "Caos en los aeropuertos de Indonesia tras erupción del Anak Krakatau",
+    "link": "http://es.euronews.com/video/2026/09/07/los-pasajeros-sufren-caos-de-vuelos-en-indonesia-tras-erupcion-del-anak-krakatau"
   },
   {
     "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Últimas noticias | 07 septiembre 2026 - Mañana",
-    "link": "http://es.euronews.com/video/2026/09/07/ultimas-noticias-07-septiembre-2026-manana"
+    "text": "Nepal celebra una jornada de luto colectiva mientras prosigue la búsqueda de miles de desaparecidos",
+    "link": "http://es.euronews.com/2026/09/07/nepal-celebra-una-jornada-de-luto-colectiva-mientras-se-busca-a-miles-de-desaparecidos"
   },
   {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Al menos cinco muertos deja el accidente de un avión de Amazon en Miami",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260906-un-avi%C3%B3n-de-amazon-se-accidenta-en-el-aeropuerto-de-miami"
+    "text": "La presentadora Sarah Khalifa recurrirá su condena de muerte en Egipto por tráfico de drogas",
+    "link": "http://es.euronews.com/2026/09/07/la-presentadora-egipcia-de-television-sarah-khalifa-afronta-un-recurso-tras-la-condena-a-m"
   },
   {
-    "date": "2026-09-06",
-    "image": "https://s.france24.com/media/display/e0bef942-aa31-11f1-987c-005056a90284/w:1024/p:16x9/ES-20260906-141327-141453-CS.jpg",
-    "category": null,
-    "text": "Gianni Infantino buscará su reelección como presidente de la FIFA",
-    "link": "https://www.france24.com/es/video/20260906-gianni-infantino-buscar%C3%A1-su-reelecci%C3%B3n-como-presidente-de-la-fifa"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://s.france24.com/media/display/06109b1a-aa32-11f1-9003-005056bf30b7/w:1024/p:16x9/2026-09-06T070304Z-1945576238-RC2IDNA9H9FS-RTRMADP-3-INDONESIA-VOLCANO.jpg",
-    "category": null,
-    "text": "Indonesia: potente erupción del Anak Krakatoa provoca cancelación de vuelos y capa intensa de ceniza",
-    "link": "https://www.france24.com/es/video/20260906-indonesia-potente-erupci%C3%B3n-del-anak-krakatoa-provoca-cancelaci%C3%B3n-de-vuelos-y-capa-intensa-de-ceniza"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://s.france24.com/media/display/4078dea0-aa2f-11f1-89ec-005056bf30b7/w:1024/p:16x9/ES-20260906-140457-140640-CS.jpg",
-    "category": null,
-    "text": "Bombardeos de Israel golpean al sur del Líbano: Tel Aviv asegura que responde a ataques de Hezbolá",
-    "link": "https://www.france24.com/es/video/20260906-bombardeos-de-israel-golpean-al-sur-del-l%C3%ADbano-tel-aviv-asegura-que-responde-a-ataques-de-hezbol%C3%A1"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://s.france24.com/media/display/e5f9f972-aa25-11f1-8509-005056bf30b7/w:1024/p:16x9/ES-20260906-123136-123522-CS.jpg",
-    "category": null,
-    "text": "Informe desde Berlín: partido AfD estaría cerca de formar su primer gobierno regional",
-    "link": "https://www.france24.com/es/video/20260906-informe-desde-berl%C3%ADn-partido-afd-estar%C3%ADa-cerca-de-formar-su-primer-gobierno-regional"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://s.france24.com/media/display/c2f28146-aa21-11f1-a1f4-005056bf30b7/w:1024/p:16x9/FOTO-ESPANA-CEUTA-PROTESTA.jpg",
-    "category": "Europa",
-    "text": "Nuevas protestas piden por los niños de Ceuta; España deporta a 21 migrantes por atacar a militares",
-    "link": "https://www.france24.com/es/europa/20260906-nuevas-protestas-piden-por-los-ni%C3%B1os-de-ceuta-espa%C3%B1a-deporta-a-21-migrantes-por-atacar-a-militares"
-  },
-  {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "¿Por qué los países europeos están trasladando su oro fuera de América del Norte?",
-    "link": "https://www.bbc.com/mundo/articles/c89jpdn4pn3o?at_medium=RSS&at_campaign=rss"
+    "text": "Egipto condena a muerte a la famosa presentadora Sarah Khalifa por tráfico de drogas",
+    "link": "http://es.euronews.com/2026/09/07/condenan-muerte-egipto-presentadora-television-sarah-khalifa-narcotrafico"
   },
   {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "Pattaya, \"la ciudad del pecado\" de Tailandia que los soldados de EE.UU. llevan visitando desde la guerra de Vietnam",
-    "link": "https://www.bbc.com/mundo/articles/cx2zy390ewvo?at_medium=RSS&at_campaign=rss"
+    "text": "Los payasos toman las calles de la histórica Mariana en Brasil",
+    "link": "http://es.euronews.com/video/2026/09/07/los-payasos-toman-las-calles-de-la-historica-mariana-en-brasil"
   },
   {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "image": null,
     "category": null,
-    "text": "El matemático que llevaba 7 años trabajando en descifrar un enigma que fue resuelto por un aficionado",
-    "link": "https://www.bbc.com/mundo/articles/cpw9lgvenkgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "El partido de ultraderecha AfD logra una importante victoria en el este de Alemania, pero no alcanza la mayoría absoluta para gobernar",
-    "link": "https://www.bbc.com/mundo/articles/c62e92x7yn4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "\"Los ilegales\": cuáles son los vínculos con América Latina del programa de espionaje más secreto de Rusia",
-    "link": "https://www.bbc.com/mundo/articles/ce8kl8yd76yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "Por qué Keiko Fujimori ha declarado el estado de emergencia en 5 cárceles peruanas y qué busca con esta medida",
-    "link": "https://www.bbc.com/mundo/articles/cvgy90jpg97o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "\"Las influencers que fingen sumisión a sus maridos manejan imperios multimillonarios\"",
-    "link": "https://www.bbc.com/mundo/articles/cz9zkpxqvq7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-06",
-    "image": null,
-    "category": null,
-    "text": "Los aciertos y errores de 3 mapas que usamos hoy (y por qué el aprobado ahora por la ONU tampoco representa correctamente al mundo)",
-    "link": "https://www.bbc.com/mundo/articles/c07l1l0knpjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260906/1211560_212612_video_1800.mp4",
-    "category": "Alemania",
-    "text": "La extrema derecha arrasa en Sajonia-Anhalt y opta a gobernar por primera vez en un Estado alemán",
-    "link": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/EHYINLM7WZC2XHTKGPLSXAVEOQ.JPG?auth=c89ab974f40c88eabad1e4b33c2564e52c39cbf1bcddffd0dc603f5c3420a756",
-    "category": "Elecciones Alemania",
-    "text": "Las calles en Alemania  tras la victoria de AfD: “Todos tenemos que levantarnos”",
-    "link": "https://elpais.com/internacional/2026-09-06/todos-tenemos-que-levantarnos-no-tiene-ningun-sentido-resignarse.html"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260906/1211560_212612_video_1800.mp4",
-    "category": "Opinión",
-    "text": "Cómo (no) frenar a la extrema derecha",
-    "link": "https://elpais.com/opinion/2026-09-06/como-no-frenar-a-la-extrema-derecha.html"
-  },
-  {
-    "date": "2026-09-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/LMEOEWXNL5GAHBTLUCBTK7MACY.jpg?auth=2b9fbdb82f61b8e931d44be6936310203ad6d330339e802d3be59c5b8343afd4",
-    "category": "Opinión",
-    "text": "¿Confusión europea? ¡Volver a Ventotene!",
-    "link": "https://elpais.com/opinion/2026-09-06/confusion-europea-volver-a-ventotene.html"
+    "text": "La derrota de la CDU dispara la presión sobre Friedrich Merz en Alemania",
+    "link": "http://es.euronews.com/my-europe/2026/09/07/estrepitosa-caida-cdu-en-sajonia-anhalt-alemania-abre-una-crisis-coalicion-friedrich-merz"
   }
 ]

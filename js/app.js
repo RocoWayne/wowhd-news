@@ -83,17 +83,21 @@ const CONFIG = {
   liveCamsUrl: "livecams/livecams.json", // lista curada a mano de camaras publicas (titulo + URL de YouTube)
   liveCamsRefreshMs: 10 * 60 * 1000,    // re-leer livecams.json cada 10 min (para que una edicion se vea sin recargar OBS)
   liveCamLoadTimeoutMs: 5 * 1000,       // cuanto esperar a que una camara avise que fallo antes de darla por buena y mostrarla igual
-  liveCamFirstDelayMs: 17 * 60 * 1000,  // primera camara a los 17 min (deja las 3 apariciones/hora en :17, :37, :57 - la mejor combinacion posible)
-  liveCamIntervalMs: 20 * 60 * 1000,    // despues, cada 20 min (3 veces por hora)
+  liveCamFirstDelayMs: 4 * 60 * 1000,   // primera camara a los 4 min (deja las 4 apariciones/hora en :04, :19, :34, :49 - la mejor combinacion posible)
+  liveCamIntervalMs: 15 * 60 * 1000,    // despues, cada 15 min (4 veces por hora, el minimo pedido)
   liveCamDisplayMs: 7 * 60 * 1000,      // cuanto queda visible cada camara (7 min)
-  // Nota sobre colisiones: con 3 apariciones/hora de 7 min cada una (21 de
-  // los 60 min de la hora ocupados), ya no hay una combinacion que evite
-  // TODOS los cruces con noticias/clima/cotizacion/mercados (la cuenta no
-  // cierra: ver detalle en README). Con :17/:37/:57 el unico cruce que
-  // queda es la camara de :57 tapando la tanda de noticias de :00 en punto
-  // (se resume normal en :15) y un roce menor con mercados a las :41. El
-  // resto de las pantallas queda intacto. Si se necesita volver a "cero
-  // colisiones total", hay que bajar la duracion o subir el intervalo.
+  // Nota sobre colisiones: con 4 apariciones/hora de 7 min cada una (28 de
+  // los 60 min de la hora ocupados), no hay una combinacion que evite TODOS
+  // los cruces con clima/cotizacion/mercados (la cuenta no cierra: ver
+  // detalle en README) - pero SI hay una que evita por completo el cruce
+  // con noticias (la pantalla mas importante). Con :04/:19/:34/:49 los
+  // unicos cruces que quedan son minimos: la camara de :04 roza 1 min del
+  // final de la ventana de clima de las :08, y la de :34 roza el arranque
+  // de la cotizacion de las :35 - ambos se saltean esa vuelta y se
+  // resumen normal en su proximo turno. Noticias y mercados quedan
+  // intactos. Si se necesita mas apariciones/hora todavia, conviene bajar
+  // la duracion en vez de acortar el intervalo (ver validate_schedule en
+  // el historial de commits para volver a correr la simulacion).
   tickerEnabled: false,                 // apagado momentaneamente a pedido - poner en true para reactivar el ticker de redes
   autoReloadMs: 24 * 60 * 60 * 1000,    // recarga la pagina sola cada 24 horas, para que la fuente de OBS tome cambios de codigo sin refrescar a mano
 };

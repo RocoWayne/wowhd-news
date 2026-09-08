@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/5b0b7c0c-aacd-11f1-b7f8-005056bf30b7/w:1024/p:16x9/000-C7EW4UQ.jpg",
+    "category": "Medio Oriente",
+    "text": "Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen",
+    "link": "https://www.france24.com/es/medio-oriente/20260908-hut%C3%ADes-vs-arabia-saudita-c%C3%B3mo-la-guerra-entre-ir%C3%A1n-y-estados-unidos-reaviva-el-conflicto-de-yemen"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/4037e99c-abc2-11f1-9f38-005056bf30b7/w:1024/p:16x9/2026-09-05T144241Z-365504561-RC22DNAGXQNS-RTRMADP-3-ISRAEL-PALESTINIANS-HEBRON-SETTLERS.jpg",
+    "category": "Medio Oriente",
+    "text": "Cisjordania: tres preguntas sobre las sanciones occidentales contra los asentamientos israelíes",
+    "link": "https://www.france24.com/es/medio-oriente/20260908-cisjordania-tres-preguntas-sobre-las-sanciones-occidentales-contra-los-asentamientos-israel%C3%ADes"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/a1e6960c-a875-11f1-a9ab-005056a97e36/w:1024/p:16x9/IMG-0199.png",
+    "category": "En 5 minutos",
+    "text": "Comprar una casa en España: ¿un lujo para pocos?",
+    "link": "https://www.france24.com/es/programas/en-5-minutos/20260908-comprar-una-casa-en-espa%C3%B1a-un-lujo-para-pocos"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/f82667ea-abc7-11f1-bcc8-005056bf30b7/w:1024/p:16x9/capture-3010354586aa076d47995a4-95747147.jpg",
+    "category": null,
+    "text": "Reino Unido y 11 países más sancionan a Israel por asentamientos en Cisjordania ocupada",
+    "link": "https://www.france24.com/es/video/20260908-reino-unido-y-11-pa%C3%ADses-m%C3%A1s-sancionan-a-israel-por-asentamientos-en-cisjordania-ocupada"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/3b0e7af6-abc4-11f1-90b9-005056bf30b7/w:1024/p:16x9/ES-20260908-131506-131652-CS.jpg",
+    "category": null,
+    "text": "¿Cuáles son los argumentos de Argentina y Reino Unido para reclamar Malvinas?",
+    "link": "https://www.france24.com/es/video/20260908-cu%C3%A1les-son-los-argumentos-de-argentina-y-reino-unido-para-reclamar-malvinas"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/83b709fe-abc3-11f1-a3cb-005056a97e36/w:1024/p:16x9/ES-20260908-124534-125017-CS.jpg",
+    "category": null,
+    "text": "Directo a... Washington y la \"constructiva\" llamada entre Trump y Putin",
+    "link": "https://www.france24.com/es/video/20260908-directo-a-washington-y-la-constructiva-llamada-entre-trump-y-putin"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/2ee90082-abc6-11f1-a0dc-005056a97e36/w:1024/p:16x9/ES-20260908-131655-132901-CS.jpg",
+    "category": null,
+    "text": "Sanciones contra asentamientos israelíes en Cisjordania ocupada: ¿Qué implicaciones reales tienen?",
+    "link": "https://www.france24.com/es/video/20260908-sanciones-contra-asentamientos-israel%C3%ADes-en-cisjordania-ocupada-qu%C3%A9-implicaciones-reales-tienen"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/0db32e46-abc2-11f1-8953-005056a90284/w:1024/p:16x9/Su-regreso-a-los-escenarios-impulsa-la-economi%CC%81a-de-Francia.png",
+    "category": null,
+    "text": "Regreso a los escenarios de Céline Dion impulsa la economía de Francia",
+    "link": "https://www.france24.com/es/video/20260908-regreso-a-los-escenarios-de-c%C3%A9line-dion-impulsa-la-economi%CC%81a-de-francia"
+  },
+  {
+    "date": "2026-09-08",
     "image": "https://s.france24.com/media/display/c68da8a2-a86a-11f1-81f9-005056bfb2b6/w:1024/p:16x9/5b4e5addb760f80f36402599259d924e1588c4c6.jpg",
     "category": "América Latina",
     "text": "Marco Rubio anuncia la adhesión de Perú al Escudo de las Américas: ¿qué hay detrás del interés en el país?",
@@ -10,7 +66,7 @@
     "date": "2026-09-08",
     "image": "https://s.france24.com/media/display/834b4840-abb4-11f1-a7a2-005056bfb2b6/w:1024/p:16x9/ES-20260908-120243-120747-CS.jpg",
     "category": null,
-    "text": "Reino Unido y 11 países más anuncian medidas contra asentamientos israelíes en Cisjordania ocupada",
+    "text": "Israel castiga a Reino Unido por liderar denuncia de colonización y \"limpieza étnica\" en Cisjordania",
     "link": "https://www.france24.com/es/video/20260908-reino-unido-y-11-pa%C3%ADses-m%C3%A1s-anuncian-medidas-contra-asentamientos-israel%C3%ADes-en-cisjordania-ocupada"
   },
   {
@@ -26,62 +82,6 @@
     "category": "EE. UU. y Canadá",
     "text": "“Dólar por dólar”: entran en vigor aranceles de represalia de Canadá mientras se estancan negociaciones con EE. UU.",
     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260908-d%C3%B3lar-por-d%C3%B3lar-entran-en-vigor-aranceles-de-represalia-de-canad%C3%A1-mientras-se-estancan-negociaciones-con-ee-uu"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://s.france24.com/media/display/8dc76cf8-abab-11f1-8e55-005056bf30b7/w:1024/p:16x9/ES-20260908-110855-111108-CS.jpg",
-    "category": null,
-    "text": "Resultados académicos de pruebas PISA generan alarma a nivel internacional",
-    "link": "https://www.france24.com/es/video/20260908-resultados-acad%C3%A9micos-de-pruebas-pisa-generan-alarma-a-nivel-internacional"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://s.france24.com/media/display/67e941d6-abac-11f1-8169-005056a90284/w:1024/p:16x9/ES-20260908-111129-111254-CS.jpg",
-    "category": null,
-    "text": "Ladrones huyen con varias pinturas del Museo Renoir: así fue el robo",
-    "link": "https://www.france24.com/es/video/20260908-ladrones-huyen-con-varias-pinturas-del-museo-renoir-as%C3%AD-fue-el-robo"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://s.france24.com/media/display/fb9faca2-aba8-11f1-81e8-005056a97e36/w:1024/p:16x9/2026-09-08T160627Z-528130721-RC21FNAS0LN3-RTRMADP-3-ISRAEL-PALESTINIANS-SETTLERS-BRITAIN.jpg",
-    "category": "Medio Oriente",
-    "text": "Hay “una limpieza étnica”: ¿qué implican las sanciones de Reino Unido para asentamientos israelíes en Cisjordania?",
-    "link": "https://www.france24.com/es/medio-oriente/20260908-hay-una-limpieza-%C3%A9tnica-qu%C3%A9-implican-las-sanciones-de-reino-unido-para-asentamientos-israel%C3%ADes-en-cisjordania"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://s.france24.com/media/display/cfedf448-aba7-11f1-9e06-005056bf30b7/w:1024/p:16x9/ES-20260908-081329-081508-CS.jpg",
-    "category": null,
-    "text": "Continúa la búsqueda de víctimas por explosión de depósito militar en Bolivia",
-    "link": "https://www.france24.com/es/video/20260908-contin%C3%BAa-la-b%C3%BAsqueda-de-v%C3%ADctimas-por-explosi%C3%B3n-de-dep%C3%B3sito-militar-en-bolivia"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://s.france24.com/media/display/0e10434e-aba7-11f1-8f19-005056bfb2b6/w:1024/p:16x9/ES-20260908-074133-074555-CS.jpg",
-    "category": null,
-    "text": "Directo Latam y la renuncia de médicos en huelga en Paraguay",
-    "link": "https://www.france24.com/es/video/20260908-directo-latam-y-la-renuncia-de-m%C3%A9dicos-en-huelga-en-paraguay"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://s.france24.com/media/display/ef699f04-aba5-11f1-9aba-005056a97e36/w:1024/p:16x9/ES-20260908-072509-072922-CS.jpg",
-    "category": null,
-    "text": "Directo París y lo que revelan los resultados bajos de las pruebas PISA en Francia",
-    "link": "https://www.france24.com/es/video/20260908-directo-par%C3%ADs-y-lo-que-revelan-los-resultados-bajos-de-las-pruebas-pisa-en-francia"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://s.france24.com/media/display/b866ab68-aba1-11f1-828c-005056a90284/w:1024/p:16x9/ES-20260908-070915-071119-CS.jpg",
-    "category": null,
-    "text": "Céline Dion regresa a los escenarios: la 'dionmanía' impulsa la economía de Francia",
-    "link": "https://www.france24.com/es/video/20260908-c%C3%A9line-dion-regresa-a-los-escenarios-la-dionman%C3%ADa-impulsa-la-econom%C3%ADa-de-francia"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://s.france24.com/media/display/f47c4de4-ab8b-11f1-91f0-005056bf30b7/w:1024/p:16x9/ES-20260908-081514-082143-CS.jpg",
-    "category": "Revista de prensa",
-    "text": "\"Netanyahu recibió advertencia antes del 7 de octubre. No informó a jefes de seguridad\": Haaretz",
-    "link": "https://www.france24.com/es/programas/revista-de-prensa/20260908-netanyahu-recibi%C3%B3-advertencia-antes-del-7-de-octubre-no-inform%C3%B3-a-jefes-de-seguridad-haaretz"
   },
   {
     "date": "2026-09-08",
@@ -122,6 +122,13 @@
     "date": "2026-09-08",
     "image": null,
     "category": null,
+    "text": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
+    "link": "https://www.bbc.com/mundo/articles/c3v43l909n3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
     "text": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y los acusa de \"limpieza étnica\"",
     "link": "https://www.bbc.com/mundo/articles/c39mdkm7mrlo?at_medium=RSS&at_campaign=rss"
   },
@@ -143,13 +150,6 @@
     "date": "2026-09-08",
     "image": null,
     "category": null,
-    "text": "\"Crecí en Texas escuchando sus canciones\": cómo Selena inspiró a Beyoncé y por qué grabó una nueva canción con fragmentos de \"Como la flor\"",
-    "link": "https://www.bbc.com/mundo/articles/c980l1ll6veo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-08",
-    "image": null,
-    "category": null,
     "text": "El hombre en el centro de la demanda de US$1 billón presentada por familiares de víctimas de los ataques del 11-S contra Arabia Saudita",
     "link": "https://www.bbc.com/mundo/articles/clyk8dve3zko?at_medium=RSS&at_campaign=rss"
   },
@@ -162,87 +162,87 @@
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/MLZVZ4XEH5BFNF4ZCD6QFOFVPU.png?auth=4caea689168cdf1623822be5833d12bc20aa045922cac81f18b5fedf97a4aa1b&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/TMOHICVZCNDQZJXFGNBUDALQR4.jpg?auth=7da9158f809dac54892ae039df3691a45817cbe17a0e507f948ed5d41375e4e6&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "El ‘tinder’ de la industria: la apuesta bonaerense para que las pymes no queden afuera del boom minero y energético",
-    "link": "https://www.infobae.com/economia/2026/09/08/el-tinder-de-la-industria-la-apuesta-bonaerense-para-que-las-pymes-no-queden-afuera-del-boom-minero-y-energetico/"
+    "text": "Beatriz Diuk: “Todos los chicos tienen que leer y escribir palabras sencillas al final de primer grado”",
+    "link": "https://www.infobae.com/educacion/2026/09/08/beatriz-diuk-en-el-dia-internacional-de-la-alfabetizacion-todos-los-chicos-tienen-que-leer-y-escribir-palabras-sencillas-al-final-de-primer-grado/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/LR3OJBTT2VD5HPYLQ6UNHVZW5A.jpg?auth=cfad6c593e7ef4d31bc6406a55ad4e56653b4242c1e8cad005368b8e75d29549&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/TS4E2ZAQGFCU5HSLR4ZI3Y46NE.jpg?auth=08d0ac65cc05c01d843b9e004a515d026afb1152ac0669d1d960dfe7c69162fe&smart=true&width=3264&height=1812",
     "category": null,
-    "text": "El Poder Judicial proyectó 614 cargos para habilitar nuevos tribunales y dependencias en todo el país",
-    "link": "https://www.infobae.com/judiciales/2026/09/08/el-poder-judicial-proyecto-614-cargos-para-habilitar-nuevos-tribunales-y-dependencias-en-todo-el-pais/"
+    "text": "Santa Fe vs. Vasco da Gama - en vivo Copa Sudamericana: siga aquí el minuto a minuto del partido en El Campín",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/08/santa-fe-vs-vasco-da-gama-en-vivo-copa-sudamericana-siga-aqui-el-minuto-a-minuto-del-partido-en-el-campin/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/JZHC4XBVCJCSNA6CE7XUSRH3FM.jpeg?auth=1b5ae6870781c830b535183250b6103f4dac16a5780e7a67a2279dc0cff36802&smart=true&width=1600&height=1200",
+    "image": "https://www.infobae.com/resizer/v2/6QXVVRAKHJH6JCEGO7UMQGKSOA.png?auth=6704cb2c21404eb66fb454dc465157b09b2a7fc2c3b6944f75bef7441e0378c6&smart=true&width=1600&height=900",
     "category": null,
-    "text": "Extorsión mafiosa en Quilmes: la trama que terminó con el secuestro de una familia entera",
-    "link": "https://www.infobae.com/sociedad/policiales/2026/09/08/extorsion-mafiosa-en-quilmes-la-trama-que-termino-con-el-secuestro-de-una-familia-entera/"
+    "text": "Revelan precios de los boletos para el Clásico Nacional entre América y Chivas: fecha de venta y cómo comprar",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/08/revelan-precios-de-los-boletos-para-el-clasico-nacional-entre-america-y-chivas-fecha-de-venta-y-como-comprar/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/GFKEKFHLIZFPPAK2LARPGGAPNI.jpg?auth=03aed69e16d51d8bd19919a17a6462fe187a974de9fe11ffd7281d2b541f81a8&smart=true&width=2240&height=1520",
+    "image": "https://www.infobae.com/resizer/v2/7ZH42RMLWFEC5LICHB6JDA5ACI.png?auth=be58bb813f21b6247ede1e2d1abfa95f7426e4b34f0779a9a4580ef37ce27886&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "La reflexión de Chris Rock a 4 años de la infame bofetada en los Oscar: “Desearía que no hubiese pasado nada”",
-    "link": "https://www.infobae.com/entretenimiento/2026/09/08/la-reflexion-de-chris-rock-a-4-anos-de-la-infame-bofetada-en-los-oscar-desearia-que-no-hubiese-pasado-nada/"
+    "text": "Perú vs Argentina 1-3: resumen de la peleada derrota ‘bicolor’ por el Campeonato Sudamericano de Vóley 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/08/peru-vs-argentina-en-vivo-hoy-punto-a-punto-partido-fecha-1-campeonato-sudamericano-voley-2026-resumen-resultado/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/P2P2RO72OFEGXBZKW6IVAIBROE.JPG?auth=cb27f5c43afef6ae1128de15871e71efa28547b7e944b449d4eaa90c252666ff&smart=true&width=5526&height=3871",
+    "image": "https://www.infobae.com/resizer/v2/OA33OI7FGBC5NK7FPKDZKX34MA.JPG?auth=702d03100b02922ac7adc6eaa82d1940e1bd7809a98f8b1d10a5ff34c3831b47&smart=true&width=3352&height=2202",
     "category": null,
-    "text": "Real Madrid - Inter de Milán, en directo: ya rueda el balón en el Bernabéu",
-    "link": "https://www.infobae.com/espana/2026/09/08/real-madrid-inter-de-milan-en-directo-ya-rueda-el-balon-en-el-bernabeu/"
+    "text": "Las petroleras que operan en Vaca Muerta adelantarán fondos para pavimentar y mejorar las rutas en Neuquén",
+    "link": "https://www.infobae.com/economia/2026/09/08/las-petroleras-que-operan-en-vaca-muerta-adelantaran-fondos-para-pavimentar-y-mejorar-las-rutas-en-neuquen/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/P2CCOS7HQ5AO5DL3J656DOWP44.jpeg?auth=2340f83afef73009c900a5bc40cb7662a8b3803b36aa54d5ce993cbb35c21edf&smart=true&width=1600&height=900",
+    "image": "https://www.infobae.com/resizer/v2/VOFCW7JXORG7BGEQSSNDPO76WA.jpg?auth=6922ec0037ba5bf0af491a882844282721abd7b224ea777b8f056970c9f0fb24&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Una terraza gratuita de 500 metros cuadrados en Tijuana: el espacio que puede usarse para reuniones y eventos",
-    "link": "https://www.infobae.com/mexico/2026/09/08/una-terraza-gratuita-de-500-metros-cuadrados-en-tijuana-el-espacio-que-puede-usarse-para-reuniones-y-eventos/"
+    "text": "Porte de armas en Colombia: expertos explican qué cambia con el decreto firmado por Abelardo de la Espriella que levantó la suspensión",
+    "link": "https://www.infobae.com/colombia/2026/09/08/experto-explico-que-cambia-con-el-decreto-que-levanto-la-suspension-del-porte-de-armas-en-colombia/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/DO6ASQOKGNHL5DB7MFZTMVBLRA.jpg?auth=212f5b5e5dd0d73348c89b4b4fd519c277b1c8360c1023a04f66b5a9599119d2&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/PIU6MCVGIFDUPNFNQ6Y4ZK4PJM.JPG?auth=f7b8204568aedd0242cf11226a3edc100486db4737b642a619dca1533943f8a2&smart=true&width=3590&height=2016",
     "category": null,
-    "text": "Lucerito Mijares aún estaría hospitalizada tras cirugía de emergencia",
-    "link": "https://www.infobae.com/mexico/2026/09/08/lucerito-mijares-aun-estaria-hospitalizada-tras-cirugia-de-emergencia/"
+    "text": "Estados Unidos bombardeó cinco petroleros iraníes vinculados a la Guardia Revolucionaria Islámica",
+    "link": "https://www.infobae.com/america/mundo/2026/09/08/estados-unidos-bombardeo-cinco-petroleros-iranies-vinculados-a-la-guardia-revolucionaria-islamica/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/RW4BHMFYQNEADKFVPNX42GZEHA.JPG?auth=eafb35763a7254e6ffab31e338b6251561ec50deea67a83d7ad9aff10b4c8c59&smart=true&width=4428&height=2490",
+    "image": "https://www.infobae.com/resizer/v2/H6NJVTKE5RGQHI6OD3X5A57E4Q.png?auth=9f7c39d54deb6ff045cd7d31029292b6c1408491f22335d7d4ffff1fce3a4f76&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Con gol de Mbappé, Real Madrid vence al Inter de Lautaro Martínez en el inicio de la Fase Liga de la Champions League",
-    "link": "https://www.infobae.com/deportes/2026/09/08/arranca-la-fase-liga-de-la-champions-league-fixture-candidatos-revelaciones-formato-y-todo-lo-que-hay-que-saber/"
+    "text": "Erik Lira está de vuelta y se deja consentir por la afición cementera mientras reparte autógrafos",
+    "link": "https://www.infobae.com/mexico/2026/09/08/erik-lira-esta-de-vuelta-y-se-deja-consentir-por-la-aficion-cementera-mientras-reparte-autografos/"
   },
   {
     "date": "2026-09-08",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/TVD4GZK4PJHR3IM7BIQFHUJSZA.jpg?auth=f7275f5a8885680c22a49f355cd0878f05e4399d53db95ea582b0ee35fcc3a20&smart=true&width=2362&height=1329",
     "category": null,
-    "text": "Temas del día de EFE España del miércoles 8 de septiembre de 2026",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/08/temas-del-dia-de-efe-espana-del-miercoles-8-de-septiembre-de-2026/"
+    "text": "Coto refuerza su estrategia de relaciones institucionales con foco en accesibilidad y trabajo comunitario",
+    "link": "https://www.infobae.com/economia/networking/2026/09/08/coto-refuerza-su-estrategia-de-relaciones-institucionales-con-foco-en-accesibilidad-y-trabajo-comunitario/"
   },
   {
     "date": "2026-09-08",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/2RTIGZPJQJEY3HKD3YZ7377P4Y.jpg?auth=b022f4f1203723ba312fafff839749553a1d3d15985ccf8b5575924792468fa3&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Una nueva alerta a 3 comarcas de Barcelona amplia la previsión de lluvias a esta madrugada",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/08/una-nueva-alerta-a-3-comarcas-de-barcelona-amplia-la-prevision-de-lluvias-a-esta-madrugada/"
+    "text": "Raúl Alpízar sale de Fuerzas Básicas de Pumas, técnico acusado de exigir cuotas a jugadores de cantera",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/08/raul-alpizar-sale-de-fuerzas-basicas-de-pumas-tecnico-acusado-de-exigir-cuotas-a-jugadores-de-cantera/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/S3P342OFNNAKPLOD7WKZWQXH2A.png?auth=4cc27aad51a4f0cab9902941b0d1306a1c88ff7b513756ed0778e396fc978e3a&smart=true&width=3360&height=1890",
+    "image": "https://www.infobae.com/resizer/v2/O5RU4HEV2BB5FA67R5HDWMW7MY.png?auth=6c4e4cd6eb873614863018214792be9f960434562ed1a06ffb55cba54ede1579&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Sheinbaum atribuye al INE la definición de reglas ante posible ataque de bots como en Colombia",
-    "link": "https://www.infobae.com/mexico/2026/09/07/sheinbaum-atribuye-al-ine-la-definicion-de-reglas-ante-posible-ataque-de-bots-como-en-colombia/"
+    "text": "Platense pierde contra Fluminense por la ida de los cuartos de final de la Copa Libertadores",
+    "link": "https://www.infobae.com/deportes/2026/09/08/platense-visitara-al-fluminense-por-la-ida-de-los-cuartos-de-final-de-la-copa-libertadores-hora-tv-y-formaciones/"
   },
   {
     "date": "2026-09-08",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/KRCYNELVQREIHAE2S2E4MTHOWQ.jpg?auth=347207e114ca9b8c16cd9f110500bd94ce310e4580f96c16fde176ef9f967618&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "A Román se le escapa un lote de puerta grande en la primera de Albacete",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/08/a-roman-se-le-escapa-un-lote-de-puerta-grande-en-la-primera-de-albacete/"
+    "text": "Temblor hoy en México 8 de septiembre de 2026: se registra sismo de magnitud 4.1 en Matías Romero, Oaxaca",
+    "link": "https://www.infobae.com/mexico/2026/09/08/temblor-hoy-en-mexico-noticias-actividad-sismica-8-de-septiembre-de-2026/"
   },
   {
     "date": "2026-09-08",
@@ -309,73 +309,87 @@
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa058c9e9ff716fa42f8cd5.jpeg",
-    "category": null,
-    "text": "\"¡Siuuu!\": Niño celebra a lo Cristiano Ronaldo la caminata de su hermano con parálisis (VIDEO)",
-    "link": "https://actualidad.rt.com/viral/626605-celebra-cristiano-ronaldo-caminata-hermano-paralisis?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa0395859bf5b0a050d34fd.jpg",
-    "category": null,
-    "text": "Israel anuncia medidas de represalia contra el Reino Unido",
-    "link": "https://actualidad.rt.com/actualidad/626569-israel-medidas-represalia-reino-unido?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-08",
     "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
     "category": null,
-    "text": "CGRI: Ninguna tecnología avanzada puede eludir nuestras capas de vigilancia en Ormuz",
-    "link": "https://actualidad.rt.com/actualidad/626609-cgri-tecnologia-avanzada-puede-eludir?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
-    "category": null,
-    "text": "Reportan explosiones en la 'joya petrolera' iraní",
-    "link": "https://actualidad.rt.com/actualidad/626611-explosiones-joya-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa05fb4e9ff71120f6e3d96.jpg",
-    "category": null,
-    "text": "Comandante iraní: \"Cualquier ataque contra petroleros iraníes provocará ataques a bases de EE.UU.\"",
-    "link": "https://actualidad.rt.com/actualidad/626607-comandante-irani-ataque-petroleros-iranies-bases-euu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9fd64ae9ff712fb2020dd8.jpg",
-    "category": null,
-    "text": "Reino Unido planea movilizar a veteranos ante la 'amenaza' rusa",
-    "link": "https://actualidad.rt.com/actualidad/626508-reino-unido-planea-movilizar-veteranos-llamada-amenaza-rusa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "CENTCOM se atribuye la destrucción de cinco tanqueros de Irán (VIDEO)",
+    "link": "https://actualidad.rt.com/actualidad/626641-centcom-atribuir-destruccion-cinco-tanqueros-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
     "image": null,
     "category": null,
-    "text": "Jueza califica a Ceuta como la \"víctima directa\" del asalto de migrantes",
-    "link": "https://actualidad.rt.com/actualidad/626603-jueza-investigar-entrada-masiva-inmigrantes-ceuta-acusador?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Más firme que nunca\": De la Espriella sobre la relación con EE.UU. ante visita de Rubio",
+    "link": "https://actualidad.rt.com/actualidad/626636-firme-espriella-relacion-eeuu-visita?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa0506fe9ff716fb457f299.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa0822be9ff7178f34761e7.jpg",
     "category": null,
-    "text": "Fiscal vacía cuentas judiciales para pagar sus deudas por apuestas",
-    "link": "https://actualidad.rt.com/actualidad/626599-fiscal-vacia-cuentas-judiciales-pagar-cuentas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Futbolista agrede brutalmente a un juez de línea y lo deja tendido en el campo",
+    "link": "https://actualidad.rt.com/viral/626626-video-futbolista-agreder-brutalmente-juez?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa02eae59bf5b55e919762a.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa0843ae9ff713c6e5c36f2.jpg",
     "category": null,
-    "text": "Descubren tumba \"curiosa y preciosa\" de la época faraónica en Egipto",
-    "link": "https://actualidad.rt.com/actualidad/626570-descubren-tumba-curiosa-preciosa-faraonica-egipto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "'Tren de misiles' iraníes a toda marcha hacia objetivos de EE.UU. en Jordania (VIDEOS)",
+    "link": "https://actualidad.rt.com/actualidad/626632-misiles-iranies-iluminan-cielo-jordania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa0596159bf5b2f4a175423.jpg",
+    "image": null,
     "category": null,
-    "text": "Dos países latinoamericanos sorprenden en el ranking educativo de la OCDE",
-    "link": "https://actualidad.rt.com/actualidad/626597-paises-latinoamericanos-sorprenden-ranking-educativo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El premio que recibió el obrero que salvó a una niña de ser atropellada en México",
+    "link": "https://actualidad.rt.com/actualidad/626627-premio-recibir-obrero-salvar-nina-atropellada?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Argentina da un paso militar en medio de las tensiones por las Malvinas",
+    "link": "https://actualidad.rt.com/actualidad/626629-argentina-da-paso-militar-tensiones-malvinas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa07a3259bf5b248e35c9d1.jpg",
+    "category": null,
+    "text": "Lavrov: Europa es \"la encarnación del mal\" en la historia mundial",
+    "link": "https://actualidad.rt.com/actualidad/626621-lavrov-europa-encarnacion-mal-historia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Reportan represalias iraníes contra blancos de EE.UU. en Oriente Medio (VIDEOS)",
+    "link": "https://actualidad.rt.com/actualidad/626634-reportan-explosiones-jordania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa07e4be9ff71120f6e3db0.jpg",
+    "category": null,
+    "text": "Rubio sobre nuevo gobierno de Colombia: Están arreglando los errores de cuatro años",
+    "link": "https://actualidad.rt.com/actualidad/626631-rubio-colombia-estan-arreglando-errores?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Messi a un paso de adquirir un equipo de fútbol (no en Argentina)",
+    "link": "https://actualidad.rt.com/actualidad/626623-messi-paso-adquirir-equipo-futbol-espana?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Marco Rubio comienza en Colombia su gira sudamericana por países ideológicamente afines",
+    "link": "http://es.euronews.com/2026/09/08/marco-rubio-comienza-en-colombia-su-gira-sudamericana-por-paises-ideologicamente-afines"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Canadá y 11 países europeos anuncian nuevas sanciones contra \"terroristas colonos\" en Cisjordania",
+    "link": "http://es.euronews.com/2026/09/08/canada-y-11-paises-europeos-anuncian-nuevas-sanciones-contra-terroristas-colonos-en-cisjor"
   },
   {
     "date": "2026-09-08",
@@ -404,19 +418,5 @@
     "category": null,
     "text": "Cachorros de tigre de Sumatra pasan su primera revisión médica en un zoo griego",
     "link": "http://es.euronews.com/video/2026/09/08/cachorros-de-tigre-de-sumatra-pasan-su-primera-revision-medica-en-un-zoo-griego"
-  },
-  {
-    "date": "2026-09-08",
-    "image": null,
-    "category": null,
-    "text": "Arabia Saudí responde tras el mayor ataque de los hutíes a instalaciones petroleras en años",
-    "link": "http://es.euronews.com/2026/09/08/arabia-saudi-responde-tras-el-mayor-ataque-de-los-huties-a-instalaciones-petroleras-en-ano"
-  },
-  {
-    "date": "2026-09-08",
-    "image": null,
-    "category": null,
-    "text": "Qatar y Emiratos Árabes Unidos dicen que el Golfo no puede depender solo de EE.UU. para su seguridad",
-    "link": "http://es.euronews.com/2026/09/08/qatar-y-emiratos-arabes-unidos-dicen-que-el-golfo-no-puede-depender-solo-de-eeuu"
   }
 ]

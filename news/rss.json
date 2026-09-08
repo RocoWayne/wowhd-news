@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/64ad2478-ab85-11f1-9600-005056a97e36/w:1024/p:16x9/ES-20260908-070605-070738-CS.jpg",
+    "category": null,
+    "text": "Informe desde Bruselas: presidente de Ceuta pide apoyo a la Unión Europea por la crisis migratoria",
+    "link": "https://www.france24.com/es/video/20260908-informe-desde-bruselas-presidente-de-ceuta-pide-apoyo-a-la-uni%C3%B3n-europea-por-la-crisis-migratoria"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/14729f8e-ab84-11f1-a50d-005056a90284/w:1024/p:16x9/ES-20260908-071122-072445-CS.jpg",
+    "category": null,
+    "text": "Marco Rubio en Colombia, Ecuador y Perú: ¿cuál es la agenda de EE. UU. con América Latina?",
+    "link": "https://www.france24.com/es/video/20260908-marco-rubio-en-colombia-ecuador-y-per%C3%BA-cu%C3%A1l-es-la-agenda-de-ee-uu-con-am%C3%A9rica-latina"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://s.france24.com/media/display/a5c76ace-ab83-11f1-9def-005056bf30b7/w:1024/p:16x9/2026-09-08T101807Z-81913781-RC2YENA66RP5-RTRMADP-3-ISRAEL-PALESTINIANS-SETTLERS-BRITAIN.jpg",
+    "category": "Medio Oriente",
+    "text": "En directo I Asentamientos israelíes en Cisjordania “son ilegales”: ministro de Exteriores de Reino Unido detalla sanciones",
+    "link": "https://www.france24.com/es/medio-oriente/20260908-en-directo-reino-unido-anunciar%C3%A1-sanciones-para-asentamientos-jud%C3%ADos-en-cisjordania-el-plan-levanta-cr%C3%ADticas-en-ee-uu"
+  },
+  {
+    "date": "2026-09-08",
     "image": "https://s.france24.com/media/display/9e5e7a68-ab2c-11f1-927d-005056bfb2b6/w:1024/p:16x9/2026-09-04T222704Z-1412716936-RC2CCNA9BFQM-RTRMADP-3-PANAMA-CANAL.jpg",
     "category": "Medio Ambiente",
     "text": "El terror por El Niño: tránsito marítimo afectado, inseguridad alimentaria y desastres naturales",
@@ -52,6 +73,41 @@
     "date": "2026-09-08",
     "image": null,
     "category": null,
+    "text": "\"Es un oasis en medio del desierto\": cómo Uruguay se volvió el destino favorito de miles de migrantes cubanos",
+    "link": "https://www.bbc.com/mundo/articles/c1j4xx7ld29o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufre retrocesos",
+    "link": "https://www.bbc.com/mundo/articles/c1kx8d94422o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y los acusa de \"limpieza étnica\"",
+    "link": "https://www.bbc.com/mundo/articles/c39mdkm7mrlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "\"Los fronterizos somos de EE.UU. y de México y, al mismo tiempo hemos tenido el poder y la pasión para crear nuestra propia identidad\"",
+    "link": "https://www.bbc.com/mundo/articles/c86nxy3258yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Qué debes comer para proteger las bacterias beneficiosas de tu boca",
+    "link": "https://www.bbc.com/mundo/articles/c2e0w2z9px3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
     "text": "Los vínculos con Arabia Saudita del hombre en el centro de una multimillonaria demanda por los ataques del 11-S",
     "link": "https://www.bbc.com/mundo/articles/clyk8dve3zko?at_medium=RSS&at_campaign=rss"
   },
@@ -59,92 +115,120 @@
     "date": "2026-09-08",
     "image": null,
     "category": null,
-    "text": "Ladrones se roban 3 obras valoradas en más US$10 millones del Museo Renoir en Francia",
+    "text": "Los ladrones que robaron varias obras valoradas en más de US$10 millones del Museo Renoir en Francia y abandonaron dos mientras escapaban",
     "link": "https://www.bbc.com/mundo/articles/c2l8e5jx7z9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/K5TNMHERTRBPDENRPKE3GOHZW4.jpg?auth=1ff6b1fd36c3a42ef345ba510f71944c0746a55cff7bdd97e5d46ca163a91948&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "El PSOE cuestiona a la jueza que investiga la crisis de Ceuta por su \"pasado\" y \"pasar\" el informe policial a un medio",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/08/el-psoe-cuestiona-a-la-jueza-que-investiga-la-crisis-de-ceuta-por-su-pasado-y-pasar-el-informe-policial-a-un-medio/"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/L2E2Q44S4VA43JVY7EPKYCGK5Y.jpg?auth=a60ea076671c5d7f100945cc6565135b9b5b37c53f8a03901a9e4213520ce110&smart=true&width=1920&height=2092",
-    "category": null,
-    "text": "Antony Peart (Haier): \"La 'Champions' es el encaje perfecto para potenciar la marca a nivel mundial\"",
-    "link": "https://www.infobae.com/america/agencias/2026/09/08/antony-peart-haier-la-champions-es-el-encaje-perfecto-para-potenciar-la-marca-a-nivel-mundial/"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/PZAGDD6DCBEWBH6OOMGKH2CZD4.jpg?auth=af55bea26904e32c0be4de105b446a74473c806420e158127fe52d0e7f254f8b&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "EEUU cifra en cerca de cien los buques intervenidos en el marco de su bloqueo a Irán en el estrecho de Ormuz",
-    "link": "https://www.infobae.com/america/agencias/2026/09/08/eeuu-cifra-en-cerca-de-cien-los-buques-intervenidos-en-el-marco-de-su-bloqueo-a-iran-en-el-estrecho-de-ormuz/"
-  },
-  {
-    "date": "2026-09-08",
     "image": null,
     "category": null,
-    "text": "Albares avisa que las reclamaciones marroquíes de Ceuta y Melilla \"degradan\" la relación",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/08/albares-avisa-que-las-reclamaciones-marroquies-de-ceuta-y-melilla-degradan-la-relacion/"
+    "text": "Perdí mis ahorros tras caer en una estafa de entrevistas de trabajo",
+    "link": "https://www.bbc.com/mundo/articles/cgmr8ldenxvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/QEBH5YA2GREETMUVBSGN3KUU4Q.jpg?auth=3fac7f3c460fb2acb8fb684e844160f72dc74da01bff0218c1d01f5f790448fc&smart=true&width=1920&height=1283",
+    "image": "https://www.infobae.com/resizer/v2/ISXDUSNXPRFTHIIFZ6QNM3NTFE.jpg?auth=8c8efb07f077adfbd31f7c77c8ec3323d055220229c87ed7fd9ef3e3595ec796&smart=true&width=1472&height=832",
     "category": null,
-    "text": "Carmen Castillo afirma que la renuncia a su acta como diputada autonómica en un \"ejercicio de responsabilidad\"",
-    "link": "https://www.infobae.com/america/agencias/2026/09/08/carmen-castillo-afirma-que-la-renuncia-a-su-acta-como-diputada-autonomica-en-un-ejercicio-de-responsabilidad/"
+    "text": "¿Menos copys, más estrategia? Las agencias de marketing ya no le están dejando todo a la IA: los clientes se dan cuenta",
+    "link": "https://www.infobae.com/peru/2026/09/08/menos-copys-mas-estrategia-las-agencias-de-marketing-ya-no-le-estan-dejando-todo-a-la-ia-los-clientes-se-dan-cuenta/"
   },
   {
     "date": "2026-09-08",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/M64VPZ2Q7BH4BNNTMYRO7NFTLU?auth=5787ae3690b7873b7886735bc96a3525dafe3d7e94774f2f6cf7e4ab16011dca&smart=true&width=3100&height=1744",
     "category": null,
-    "text": "Interceptan más de 1.200 kilos de cocaína ocultos en un cargamento de cocos en Sevilla",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/08/interceptan-mas-de-1200-kilos-de-cocaina-ocultos-en-un-cargamento-de-cocos-en-sevilla/"
+    "text": "Inicia en México el juicio a los acusados por el triple homicidio de un estadounidense y dos hermanos australianos",
+    "link": "https://www.infobae.com/estados-unidos/2026/09/08/inicia-en-mexico-el-juicio-a-los-acusados-por-el-triple-homicidio-de-un-estadounidense-y-dos-hermanos-australianos/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/Z2ESBKMNRNGE3JODQQPZ6AKAWM.jpg?auth=f8572cf7a66690c6e28e16b994a2532c5f8afda3a72217d7df01df6c393d6488&smart=true&width=1920&height=1150",
+    "image": "https://www.infobae.com/resizer/v2/JMPSVOMHOFAZNBMN3SDM2R5V7I.png?auth=10a7c76126f8949fa20eeeb9ec7af71f6f415aab8e912566ad4682dfde37ac17&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "TK Elevator apuesta por renovación del parque de ascensores de España, donde la mitad tienen más de 20 años",
-    "link": "https://www.infobae.com/america/agencias/2026/09/08/tk-elevator-apuesta-por-renovacion-del-parque-de-ascensores-de-espana-donde-la-mitad-tienen-mas-de-20-anos/"
+    "text": "Juicio por Loan Peña, en vivo: “Pido disculpas por las mentiras”, entre lágrimas declara Laudelina Peña, la tía del nene desaparecido",
+    "link": "https://www.infobae.com/sociedad/policiales/2026/09/08/juicio-por-loan-pena-en-vivo-declara-laudelina-pena-la-tia-del-nene-desaparecido/"
   },
   {
     "date": "2026-09-08",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/7QMUOSLFWFFDPJVCXPWUZJCCWY.png?auth=e62d3b7eb4a8221a3bbce70cc94c4b365db7844d8b28cccdf2182e80c19894b4&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Vanesa Martín, 20 años de carrera y \"sin techo ni límites\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/08/vanesa-martin-20-anos-de-carrera-y-sin-techo-ni-limites/"
+    "text": "Se dan a conocer los candidatos a ganar el Balón de Oro 2026: la lista de los nominados a todos los premios",
+    "link": "https://www.infobae.com/deportes/2026/09/08/se-dan-a-conocer-los-candidatos-a-ganar-el-balon-de-oro-2026-la-lista-de-los-nominados-a-todos-los-premios/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/LAZ25UYOJZEQRGHE5QUXGC72FE.jpg?auth=cfbc9be9f8f4a0d812bee13a192ca0c424894b5343ff74e6cbb367994832610c&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/KQKSVE7ZYFAQ5ERXKDCCOY7JAU.jpg?auth=57c5f14972532e7c19e92679e38451cac2d85ee560726c8fc5106a17d4f881b8&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "El caso de Julián Álvarez, jugador del Atlético de Madrid, reabre el debate sobre la falta al trabajo por depresión: ¿qué dice la ley?",
-    "link": "https://www.infobae.com/espana/2026/09/05/el-caso-de-julian-alvarez-jugador-del-atletico-de-madrid-reabre-el-debate-sobre-la-falta-al-trabajo-por-depresion-que-dice-la-ley/"
+    "text": "Liga Mx: partidos de la jornada 8 que se transmitirán por televisión abierta",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/08/liga-mx-partidos-de-la-jornada-8-que-se-transmitiran-por-television-abierta/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/ZJHUZNMS2NEI3FZPSLNIEGSWIQ.jpg?auth=c1975df17bf9ebc6c1156adcf4ab4c16e79b58aa1132bf05f1188da607d15003&smart=true&width=4841&height=3227",
+    "image": "https://www.infobae.com/resizer/v2/KMCTQOU6OVBT7J5GPK6TQM74N4.png?auth=41a0f6725b8d9d19a9753e81d9307bf7c048336e9d43724d8d0bba9f0a6aa1a7&smart=true&width=1536&height=1024",
     "category": null,
-    "text": "Guamalito, N. de Santander, vuelve a quedar bajo ataque: estación de Policía fue hostigada con drones y fusiles",
-    "link": "https://www.infobae.com/colombia/2026/09/08/guamalito-n-de-santander-vuelve-a-quedar-bajo-ataque-estacion-de-policia-fue-hostigada-con-drones-y-fusiles/"
+    "text": "Malvinas: el juez federal Julián Ercolini quedó a cargo de la denuncia del Gobierno contra petroleras",
+    "link": "https://www.infobae.com/judiciales/2026/09/08/malvinas-el-juez-federal-julian-ercolini-quedo-a-cargo-de-la-denuncia-del-gobierno-contra-petroleras/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/BBT45EWFS5BF5MTOQIG2USWL3Y.jpg?auth=f3bcc1f0ec9b777d43bb2b8372f4842ecb457c31ecafb5daff38dcc6d6d6db4f&smart=true&width=1920&height=1451",
+    "image": "https://www.infobae.com/resizer/v2/H7AIU5PPH5DRXEROQCMSQ2ZGRE.jpg?auth=71b5fa8f38d13bf2081ff151c2fc251b0fffeeb917602d220f3e7befbd2df312&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Von der Leyen y Costa censuran la presencia \"lamentable\" de altos cargos serbios en el funeral de Mladic",
-    "link": "https://www.infobae.com/america/agencias/2026/09/08/von-der-leyen-y-costa-censuran-la-presencia-lamentable-de-altos-cargos-serbios-en-el-funeral-de-mladic/"
+    "text": "Lucas Murillo, niño con cardiopatía que pidió la ayuda de Abelardo de la Espriella, fue sorprendido por la estrella del Bayern Munich Luis Díaz: “Espero que sigas mejorando y de muy buena manera”",
+    "link": "https://www.infobae.com/colombia/2026/09/08/lucas-murillo-nino-con-cardiopatia-que-pidio-la-ayuda-de-abelardo-de-la-espriella-fue-sorprendido-por-la-estrella-del-bayern-munich-luis-diaz-espero-que-sigas-mejorando-y-de-muy-buena-manera/"
   },
   {
     "date": "2026-09-08",
-    "image": "https://www.infobae.com/resizer/v2/M4IGPZPSXRGJDHCD6HBQ6NGUL4.jpg?auth=b3b89ae6d4fa300f3bea8a5e1d0e68038a5ee2172547da08bd47332f48408e1e&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/XWCAFWN4JVEHZGPEDPD4LFNZNI.jpeg?auth=cd122d243dfafa96cf71b3e3dcf4b61a5f1556dc92edc03ed9d7d213e48ddf79&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Triplex de la Once: jugada ganadora y resultado del sorteo 1",
-    "link": "https://www.infobae.com/espana/2026/09/08/triplex-de-la-once-jugada-ganadora-y-resultado-del-sorteo-1/"
+    "text": "Juicio de los Cuadernos: Clarens dijo que “recaudaba para la causa” y había que pagar un 10 por ciento, declaró un empresario",
+    "link": "https://www.infobae.com/judiciales/2026/09/08/juicio-de-los-cuadernos-nueva-audiencia-con-testimonios-de-empresarios/"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://www.infobae.com/resizer/v2/3DEZIYDMFRAPHIKDZXC7MJS7CA.jpg?auth=7124a3398b90fbaf77e0e951a074a66419548feafe6f83e7470e8964e722abcc&smart=true&width=960&height=540",
+    "category": null,
+    "text": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 8 de septiembre",
+    "link": "https://www.infobae.com/mexico/2026/09/08/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-8-de-septiembre/"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://www.infobae.com/resizer/v2/P27OLFTWZNBNRODUMCBKJVRAGM.png?auth=13423c28c695fbf8570a21584a11c0d8262e48075cac055c787fd968ddc366cf&smart=true&width=1200&height=675",
+    "category": null,
+    "text": "Ministerio de Ciencia durante el Gobierno Petro contrató por 388 millones a un asesor que no se había graduado de su carrera: esto dijo la universidad",
+    "link": "https://www.infobae.com/colombia/2026/09/08/ministerio-de-ciencia-durante-el-gobierno-petro-contrato-por-388-millones-a-un-asesor-que-no-se-habia-graduado-de-su-carrera-esto-dijo-la-universidad/"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://www.infobae.com/resizer/v2/TC3TAXWSAJEONBBSAZDZQEIPMY.png?auth=47b5adf38c573df4d49eea2fd2a85be43dd69bcd9999d8a86a86e0c533cb8a07&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "EN VIVO | Clima en CDMX y resto de México hoy 8 de septiembre",
+    "link": "https://www.infobae.com/mexico/2026/09/08/en-vivo-clima-en-cdmx-y-resto-de-mexico-hoy-8-de-septiembre/"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://www.infobae.com/resizer/v2/J2VQJD7YKFCTPGQC5QCPGNJFYU.jpg?auth=59fd1cf22ee559c1835ea612950e62023cbce9bb7e587a6d1e3dd88974f977c8&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Senador del Centro Democrático aclaró cómo fue el incidente con otra pasajera en un vuelo de Barranquilla a Bogotá: “Se me cayó”",
+    "link": "https://www.infobae.com/colombia/2026/09/08/senador-del-centro-democratico-aclaro-como-fue-el-incidente-con-otra-pasajera-en-un-vuelo-de-barranquilla-a-bogota-se-me-cayo/"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://imagenes.elpais.com/resizer/v2/AJLW7VHIQZAKRAHIUIRAAGIUFM.jpg?auth=5cd6f1cc9021151130b37e376b938eab00f15b6edfd99cbe4184c6d76d8151f8",
+    "category": "Israel",
+    "text": "Once países europeos y Canadá anuncian restricciones contra productos de los asentamientos israelíes",
+    "link": "https://elpais.com/internacional/2026-09-08/once-paises-europeos-y-canada-anuncian-sanciones-contra-productos-de-los-asentamientos-israelies.html"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://imagenes.elpais.com/resizer/v2/3OUT3P335VNIZGVN26Q5RE3EIE.jpg?auth=2129d6e8df35e81d240cffa29a9905cb894f356fea1d4f860f79e2eb001770b1",
+    "category": "Alemania",
+    "text": "La posible llegada de AfD al poder en Sajonia-Anhalt pone en alerta a los servicios de inteligencia en Alemania",
+    "link": "https://elpais.com/internacional/2026-09-08/la-posible-llegada-de-afd-al-poder-en-sajonia-anhalt-pone-en-alerta-a-los-servicios-de-inteligencia-en-alemania.html"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://imagenes.elpais.com/resizer/v2/USJCJPND3RCR7OYR73HLXKJRTI.jpg?auth=8311d23a4bc5d28665594bcfcec114249001b8170fe1ae6052bd84bf77747e25",
+    "category": "Israel",
+    "text": "Netanyahu recibió una advertencia de Emiratos sobre un posible ataque de Hamás una semana antes del 7 de octubre",
+    "link": "https://elpais.com/internacional/2026-09-08/netanyahu-recibio-una-advertencia-de-emiratos-sobre-un-posible-ataque-de-hamas-antes-del-7-de-octubre.html"
   },
   {
     "date": "2026-09-08",
@@ -155,13 +239,6 @@
   },
   {
     "date": "2026-09-08",
-    "image": "https://imagenes.elpais.com/resizer/v2/W63DUZD2ARB4FHAWHXYHJ7F3EQ.jpg?auth=732f8244831c955f5e1113b763315fa8fe3f6e9a39ee66f2ef96e7647c78f5ca",
-    "category": "Donald Trump",
-    "text": "Por qué el triunfo de AfD en Alemania es una victoria para el plan de Trump de desestabilizar Europa",
-    "link": "https://elpais.com/internacional/2026-09-08/por-que-el-triunfo-de-afd-en-alemania-es-una-victoria-para-el-plan-de-trump-de-desestabilizar-europa.html"
-  },
-  {
-    "date": "2026-09-08",
     "image": "https://imagenes.elpais.com/resizer/v2/QOTDAAKCMFDXXFJ3V67RAOTX4Y.JPG?auth=3208ac82608b2ed954dbe5ea8c46e7d7b7a1dbcab9c0a81c8f01e4087b4f6f96",
     "category": "Opinión",
     "text": "Los fracasos que nutren a la ultraderecha",
@@ -169,87 +246,101 @@
   },
   {
     "date": "2026-09-08",
-    "image": "https://vdmedia.elpais.com/elpaistop/multimedia/20249/11/989607.mp4",
-    "category": null,
-    "text": "Estados Unidos llega dividido al 25º aniversario del trauma del 11-S",
-    "link": "https://elpais.com/internacional/2026-09-08/estados-unidos-llega-dividido-al-25-aniversario-del-trauma-del-11-s.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/GBE4ATRPURC2VPBJKRUG6JIVQ4.jpg?auth=2f486a752d289602ce4f54be58b15748d2390b2f7fc4ca03f7912c5d4f56db9e",
+    "category": "Sabotaje",
+    "text": "Detenido un supuesto activista climático como autor de los sabotajes contra la red eléctrica alemana",
+    "link": "https://elpais.com/internacional/2026-09-08/detenido-un-supuesto-activista-climatico-como-autor-de-los-sabotajes-contra-la-red-electrica-alemana.html"
   },
   {
     "date": "2026-09-08",
-    "image": "https://imagenes.elpais.com/resizer/v2/FETIRXSZLBEDNHD3J3TULF7WLI.jpg?auth=56db77db08074f2c7d41989feaf8171da5682b300f472c6b1d6f2a0b7ced5c9d",
-    "category": "Franja Gaza",
-    "text": "Vivir en Gaza a la espera de una llamada",
-    "link": "https://elpais.com/internacional/2026-09-08/vivir-en-gaza-a-la-espera-de-una-llamada.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa00c1ae9ff7120df1dc2d5.jpg",
+    "category": null,
+    "text": "\"Debería utilizar la historia como un espejo\": China cuestiona reclamo de Japón a Rusia",
+    "link": "https://actualidad.rt.com/actualidad/626548-deber-utilizar-historia-espejo-china?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ee177e9ff7125ae473aca.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa01245e9ff71793e20f3b1.jpg",
     "category": null,
-    "text": "El as bajo la manga de Rusia: ¿cómo cambia el megaproyecto Vostok Oil el mapa energético mundial?",
-    "link": "https://actualidad.rt.com/actualidad/626350-as-petrolero-manga-rusia-cambiara?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Groenlandia no se plantea entrar en la UE pese a inversión millonaria",
+    "link": "https://actualidad.rt.com/actualidad/626547-groenlandia-rechaza-integrarse-ue-pesar?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9fc87ae9ff712fb7186f09.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa0060459bf5b2a5a68d1cc.jpg",
     "category": null,
-    "text": "Putin visitará Nueva Delhi en los próximos días",
-    "link": "https://actualidad.rt.com/actualidad/626502-putin-visitara-nueva-delhi-proximos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9fa952e9ff71425e10a724.jpg",
-    "category": null,
-    "text": "Irán acusa a Canadá de \"sumisión\" ante EE.UU. por una declaración sobre Ormuz",
-    "link": "https://actualidad.rt.com/actualidad/626485-iran-acusar-canada-sumision-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9fb8e959bf5b7fbf6a33c2.jpg",
-    "category": null,
-    "text": "VIDEO: Escapa de la muerte saltando de su camión en el último segundo",
-    "link": "https://actualidad.rt.com/actualidad/626493-video-escapa-muerte-saltar-camion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un truco para redes sociales casi le cuesta la vida a este joven (VIDEO)",
+    "link": "https://actualidad.rt.com/viral/626545-truco-redes-sociales-casi-cuesta-vida-video?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
     "image": null,
     "category": null,
-    "text": "Canciller ruso revela con qué equipo iba en el Mundial de fútbol 2026",
-    "link": "https://actualidad.rt.com/actualidad/626494-canciller-ruso-revelar-mundial?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán derriba un dron estadounidense MQ-1 sobre el estrecho de Ormuz",
+    "link": "https://actualidad.rt.com/actualidad/626551-iran-derribar-dron-estadounidense-mq?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9fb53459bf5b75137fcbfe.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ff003e9ff712b4d6f4bd4.jpg",
     "category": null,
-    "text": "Fábricas militares y almacenes en llamas: Rusia detalla su ataque nocturno contra Ucrania",
-    "link": "https://actualidad.rt.com/actualidad/626496-fabricas-militares-almacenes-llamas-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Gigante de videojuegos Sega aclara la razón para no seguir adelante con su 'Super Game'",
+    "link": "https://actualidad.rt.com/actualidad/626518-gigante-japones-juegos-sega-aclara-razon-seguir-adelante-super-game?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9fb15059bf5b7fb27695ff.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa003afe9ff7178f3476167.jpg",
     "category": null,
-    "text": "Lavrov: Los BRICS y Occidente libran \"una lucha soterrada sobre cómo será el mundo\"",
-    "link": "https://actualidad.rt.com/actualidad/626487-lavrov-brics-occidente-lucha-soterrada-mundo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Defensa de la mujer acusada de matar a sus 3 hijos en EE.UU. solicita a Trump que la indulte",
+    "link": "https://actualidad.rt.com/actualidad/626540-defensa-mujer-acusada-matar-hiijos-pedir-indulto-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9ffeb159bf5b50e772fc68.jpg",
+    "category": null,
+    "text": "Irán insta a EE.UU. a abandonar Oriente Medio \"antes de tirar por la borda el honor que ya no tienen\"",
+    "link": "https://actualidad.rt.com/actualidad/626529-parlamento-irani-advertir-autoridades-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa0012059bf5b517f684af4.jpeg",
+    "category": null,
+    "text": "¿Mensaje a Trump? China apoya a México frente a \"la interferencia externa\"",
+    "link": "https://actualidad.rt.com/actualidad/626537-trump-china-apoyar-mexico-interferencia-externa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
     "image": null,
     "category": null,
-    "text": "Ataque con drones deja diez heridos, incluidos tres niños, en una ciudad rusa",
-    "link": "https://actualidad.rt.com/actualidad/626491-ataque-drones-deja-diez-heridos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Filtraciones revelan posibles novedades en los iPhone 18 Pro (VIDEO)",
+    "link": "https://actualidad.rt.com/actualidad/626538-nuevas-filtraciones-revelan-posibles-novedades-iphone?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-08",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa00372e9ff710a4172b0e7.jpeg",
+    "category": null,
+    "text": "¿Qué se sabe de la mayor tragedia de la historia de Rusia con alpinistas?",
+    "link": "https://actualidad.rt.com/actualidad/626536-tragedia-historia-rusia-alpinistas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-08",
     "image": null,
     "category": null,
-    "text": "Dos muertos al estrellarse e incendiarse una avioneta en EE.UU. (FOTOS)",
-    "link": "https://actualidad.rt.com/actualidad/626489-avioneta-incendiar-estrellarse-dejar-muertos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Corea del Norte y Rusia inauguran el primer puente entre ambos países",
+    "link": "http://es.euronews.com/2026/09/08/corea-norte-inaugura-primer-puente-rusia-estrecha-lazos"
   },
   {
     "date": "2026-09-08",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6a9f0768e9ff7123481419f3.jpg",
+    "image": null,
     "category": null,
-    "text": "\"Todo sucede en el frente real\": Lavrov revela por qué la diplomacia fracasó en el conflicto ucraniano",
-    "link": "https://actualidad.rt.com/actualidad/626417-sucede-frente-real-lavrov-revela?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump propone cambiar el nombre de Nuevo México a 'Nueva América'",
+    "link": "http://es.euronews.com/2026/09/08/trump-propone-cambiar-nombre-nuevo-mexico-nueva-america"
+  },
+  {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Rusia y Corea del Norte inauguran su primer puente por carretera en la frontera",
+    "link": "http://es.euronews.com/video/2026/09/08/rusia-y-corea-del-norte-abren-su-1er-puente-por-carretera-en-la-frontera"
   },
   {
     "date": "2026-09-08",
@@ -280,6 +371,13 @@
     "link": "http://es.euronews.com/video/2026/09/08/ultimas-noticias-08-septiembre-2026-manana"
   },
   {
+    "date": "2026-09-08",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 08 septiembre 2026 - Mediodía",
+    "link": "http://es.euronews.com/video/2026/09/08/ultimas-noticias-08-septiembre-2026-mediodia"
+  },
+  {
     "date": "2026-09-07",
     "image": "https://s.france24.com/media/display/2f57d844-a5c3-11f1-aeb0-005056a90284/w:1024/p:16x9/AP24236497026995.jpg",
     "category": "América Latina",
@@ -295,45 +393,10 @@
   },
   {
     "date": "2026-09-07",
-    "image": "https://s.france24.com/media/display/4405dbee-ab0c-11f1-bc02-005056bfb2b6/w:1024/p:16x9/LI%CC%81BANO.png",
-    "category": null,
-    "text": "Líbano: Cresta de Ali Al-Taher, trasfondo de los mortíferos ataques de Israel en el sur de Líbano",
-    "link": "https://www.france24.com/es/video/20260907-l%C3%ADbano-cresta-de-ali-al-taher-trasfondo-de-los-mort%C3%ADferos-ataques-de-israel-en-el-sur-de-l%C3%ADbano"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://s.france24.com/media/display/f5c572f4-1110-11ec-83ae-005056a90284/w:1024/p:16x9/AP010911012226.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Cronología del 11-S: el día que cambió a Estados Unidos hace 25 años",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260907-el-11-s-minuto-a-minuto-el-d%C3%ADa-que-cambi%C3%B3-a-estados-unidos-hace-25-a%C3%B1os"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://s.france24.com/media/display/1b1b6c4e-aaf8-11f1-baf0-005056a97e36/w:1024/p:16x9/ES-20260907-131245-131434-CS.jpg",
-    "category": null,
-    "text": "La UE anuncia millonaria inversión en Groenlandia: ¿se contrarresta la influencia de EE. UU.?",
-    "link": "https://www.france24.com/es/video/20260907-la-ue-anuncia-millonaria-inversi%C3%B3n-en-groenlandia-se-contrarresta-la-influencia-de-ee-uu"
-  },
-  {
-    "date": "2026-09-07",
     "image": null,
     "category": null,
     "text": "5 gráficos que muestran el drástico aumento de las detenciones de migrantes en EE.UU. y su país de origen",
     "link": "https://www.bbc.com/mundo/articles/cqjkd1yx84go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "El dilema que enfrenta Europa tras la primera victoria de la extrema derecha en Alemania desde la Segunda Guerra Mundial",
-    "link": "https://www.bbc.com/mundo/articles/c07ldmj0dryo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "El rey Carlos III deja claro que Harry y Meghan siguen sin ejercer funciones para la monarquía británica pese a su regreso a Reino Unido",
-    "link": "https://www.bbc.com/mundo/articles/cde0z4g7718o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-07",
@@ -346,77 +409,14 @@
     "date": "2026-09-07",
     "image": null,
     "category": null,
+    "text": "El dilema que enfrenta Europa tras la primera victoria de la extrema derecha en Alemania desde la Segunda Guerra Mundial",
+    "link": "https://www.bbc.com/mundo/articles/c07ldmj0dryo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-07",
+    "image": null,
+    "category": null,
     "text": "La red de propaganda prorrusa que explota la violencia sexual y utiliza a mujeres del ejército ucraniano como cebo",
     "link": "https://www.bbc.com/mundo/articles/c0klgne2jd6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "Qué es Sea Lion, el proyecto petrolero señalado por Milei que reaviva la tensión entre Argentina y Reino Unido sobre las Malvinas/Falklands",
-    "link": "https://www.bbc.com/mundo/articles/cvgy51v7281o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "\"Vivimos en una política de la crueldad que busca normalizar cosas que antes no podíamos tragar\"",
-    "link": "https://www.bbc.com/mundo/articles/cd6985dl78xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "\"No reconocí a mi novio cuando me lo crucé en el supermercado\": cómo descubrí que tenía ceguera facial",
-    "link": "https://www.bbc.com/mundo/articles/cy5zwgq579wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "Por qué más de 70 países guardan sus reservas de oro en el Banco de Inglaterra (y qué lo diferencia de otros bancos)",
-    "link": "https://www.bbc.com/mundo/articles/cvgyper4gdeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-07",
-    "image": null,
-    "category": null,
-    "text": "Cómo el declive de población alimenta el éxito de la extrema derecha de AfD en Sajonia-Anhalt y en el este de Alemania",
-    "link": "https://www.bbc.com/mundo/articles/cvgy1jyg6dwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://imagenes.elpais.com/resizer/v2/BB5IHHK3JVPKLHAWJMOUKZ7QN4.jpg?auth=28c6e4c714a6efda3e77f093b2bef5cfea996427e809259caa7cb6e5441a743d",
-    "category": "Alemania",
-    "text": "Miles de personas salen a la calle en Alemania para plantar cara a la extrema derecha",
-    "link": "https://elpais.com/internacional/2026-09-07/miles-de-personas-salen-a-la-calle-en-alemania-para-plantar-cara-a-la-extrema-derecha.html"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260907/1211781_141612_video_1800.mp4",
-    "category": "Elecciones Alemania",
-    "text": "La marea ultraderechista en Alemania: otro ladrillo en el muro",
-    "link": "https://elpais.com/internacional/2026-09-07/la-marea-ultraderechista-en-alemania-otro-ladrillo-en-el-muro.html"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://imagenes.elpais.com/resizer/v2/KHF7O4R5MNEBVOMOVSHEIXJA4I.jpg?auth=d77a0c34bce946dbaf9b6859406bc8ac7366d5d0a7aefde51de646d3cd1c88f7",
-    "category": "Opinión",
-    "text": "El excremento del diablo",
-    "link": "https://elpais.com/opinion/2026-09-07/el-excremento-del-diablo.html"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://imagenes.elpais.com/resizer/v2/753UB747XFG5LLAJVQTKKQEPQA.jpg?auth=8ae29c02d439bf3bf586663afd295e67b138b7749364cecf45e9b8668e52ac56",
-    "category": "Opinión",
-    "text": "La Policía que vigila a las mujeres",
-    "link": "https://elpais.com/opinion/2026-09-07/la-policia-que-vigila-a-las-mujeres.html"
-  },
-  {
-    "date": "2026-09-07",
-    "image": "https://imagenes.elpais.com/resizer/v2/UZBYCK7X6FLGNFIJRSYPXERNMA.jpg?auth=1e103656d65b59ba2e64c00a754514036b45324753739cb10021640422078101",
-    "category": "Serbia",
-    "text": "Serbia, a un paso de las elecciones anticipadas tras casi dos años de protestas estudiantiles",
-    "link": "https://elpais.com/internacional/2026-09-07/serbia-a-un-paso-de-las-elecciones-anticipadas-tras-casi-dos-anos-de-protestas-estudiantiles.html"
   }
 ]

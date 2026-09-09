@@ -397,6 +397,14 @@ del lugar en letra grande.
   junio-septiembre): fuera de temporada puede no mostrar nada. Se
   dejó cargada igual porque el bloque la saltea sola sin romper nada;
   sacarla del JSON es opcional.
+- La cámara de la Tierra desde la Estación Espacial Internacional
+  (NASA) pierde señal cada tanto (cuando la ISS queda fuera de
+  cobertura de los satélites TDRS) y durante esos cortes muestra una
+  pantalla azul con el texto "Signal Loss" en vez de la vista de la
+  Tierra — pero el stream sigue técnicamente en vivo (`isLive` no
+  cambia), así que el bloque no lo detecta como caído y puede tocarle
+  salir justo en un corte. Es un comportamiento normal y esperado de
+  esta cámara puntual, no un bug.
 
 ### Cómo conviven entre sí las 5 pantallas a pantalla completa
 

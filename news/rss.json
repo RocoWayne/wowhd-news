@@ -1,6 +1,34 @@
 [
   {
     "date": "2026-09-10",
+    "image": "https://s.france24.com/media/display/5272bea4-ad19-11f1-9975-005056bf30b7/w:1024/p:16x9/ES-20260910-071258-072326-CS.jpg",
+    "category": null,
+    "text": "'Trump-a-palooza', la convención republicana que busca levantar su imagen antes de las 'midterms'",
+    "link": "https://www.france24.com/es/video/20260910-trump-a-palooza-la-convenci%C3%B3n-republicana-que-busca-levantar-su-imagen-antes-de-las-midterms"
+  },
+  {
+    "date": "2026-09-10",
+    "image": "https://s.france24.com/media/display/78c9afa6-2234-11f1-b0dc-005056bfb2b6/w:1024/p:16x9/2026-03-06T222928Z-1741524461-RC2AZJAXJJOX-RTRMADP-3-USA-TRUMP.jpg",
+    "category": "El Debate",
+    "text": "Rubio busca blindar el Pacífico Sur: ¿nuevo pulso entre EE. UU. y China?",
+    "link": "https://www.france24.com/es/programas/el-debate/20260910-rubio-busca-blindar-el-pac%C3%ADfico-sur-nuevo-pulso-entre-ee-uu-y-china"
+  },
+  {
+    "date": "2026-09-10",
+    "image": "https://s.france24.com/media/display/37e514f6-ad1e-11f1-a27d-005056a90284/w:1024/p:16x9/2026-09-10T034743Z-461890568-RC21GNAEKC3O-RTRMADP-3-USA-ELECTION-REPUBLICANS.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "Trump promete USD 5.000 a cada estadounidense si su partido gana elecciones de medio término: ¿cómo lo haría? ¿es legal?",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260910-trump-promete-usd-5-000-a-cada-estadounidense-si-su-partido-gana-elecciones-de-medio-t%C3%A9rmino-c%C3%B3mo-lo-har%C3%A1-es-legal"
+  },
+  {
+    "date": "2026-09-10",
+    "image": "https://s.france24.com/media/display/7dcc9d12-acf7-11f1-b28d-005056bf30b7/w:1024/p:16x9/AP26253314516098.jpg",
+    "category": "Medio Oriente",
+    "text": "En directo: los hutíes toman el puerto yemení clave de Mocha en su ofensiva por controlar la costa del mar Rojo",
+    "link": "https://www.france24.com/es/medio-oriente/20260910-en-directo-los-hut%C3%ADes-toman-el-puerto-yemen%C3%AD-clave-de-mocha-en-su-ofensiva-por-controlar-la-costa-del-mar-rojo"
+  },
+  {
+    "date": "2026-09-10",
     "image": "https://s.france24.com/media/display/6f66944e-acca-11f1-8a03-005056a97e36/w:1024/p:16x9/AP26230653822761.jpg",
     "category": "América Latina",
     "text": "“Me preocupa que se nos caiga el techito encima”: tras un mes del terremoto, Colombia sigue con miedo",
@@ -57,38 +85,17 @@
   },
   {
     "date": "2026-09-10",
-    "image": "https://s.france24.com/media/display/7031b85e-acc0-11f1-a0e7-005056bf30b7/w:1024/p:16x9/ES-20260909-164326-164510-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Crisis de vivienda: UE podría armonizar reglas para regular plataformas de alquiler turístico",
-    "link": "https://www.france24.com/es/video/20260910-crisis-de-vivienda-ue-podr%C3%ADa-armonizar-reglas-para-regular-plataformas-de-alquiler-tur%C3%ADstico"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://s.france24.com/media/display/a69f9690-acac-11f1-ab20-005056bf30b7/w:1024/p:16x9/ES-20260909-131549-132906-CS.jpg",
-    "category": null,
-    "text": "¿Qué implicaciones tiene la gira de Marco Rubio por Colombia, Ecuador y Perú?",
-    "link": "https://www.france24.com/es/video/20260910-qu%C3%A9-implicaciones-tiene-la-gira-de-marco-rubio-por-colombia-ecuador-y-per%C3%BA"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://s.france24.com/media/display/b1d3cc44-acbf-11f1-863b-005056a97e36/w:1024/p:16x9/ES-20260909-164121-164301-CS.jpg",
-    "category": null,
-    "text": "Serbia disuelve Parlamento y convoca elecciones anticipadas para el 25 de octubre",
-    "link": "https://www.france24.com/es/video/20260910-serbia-disuelve-parlamento-y-convoca-elecciones-anticipadas-para-el-25-de-octubre"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://s.france24.com/media/display/f4eb5cb4-acbe-11f1-8ceb-005056bf30b7/w:1024/p:16x9/ES-20260909-163453-163644-CS.jpg",
-    "category": null,
-    "text": "Convención republicana en Dallas pone a prueba la popularidad de Trump",
-    "link": "https://www.france24.com/es/video/20260910-convenci%C3%B3n-republicana-en-dallas-pone-a-prueba-la-popularidad-de-trump"
+    "text": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina",
+    "link": "https://www.bbc.com/mundo/articles/c980ndj537eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Drones, ciberataques y desinformación: la \"guerra híbrida\" de la que se acusa a Rusia en Europa",
-    "link": "https://www.bbc.com/mundo/articles/c5yw3wqw35no?at_medium=RSS&at_campaign=rss"
+    "text": "Qué busca De la Espriella con sus polémicas imágenes caminando entre cadáveres de presuntos guerrilleros en Colombia",
+    "link": "https://www.bbc.com/mundo/articles/c87ve8gr0llo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-10",
@@ -101,85 +108,113 @@
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Psicólogos piden escuchar sin juzgar y reforzar apoyo ante el riesgo suicida entre jóvenes",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/10/psicologos-piden-escuchar-sin-juzgar-y-reforzar-apoyo-ante-el-riesgo-suicida-entre-jovenes/"
+    "text": "La IA es cada vez más difícil de dominar: ¿podrán los seres humanos mantener el control?",
+    "link": "https://www.bbc.com/mundo/articles/cd94yn9834zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Junts dice que es evidente el \"descontrol\" del Gobierno tras los informes de Ceuta",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/10/junts-dice-que-es-evidente-el-descontrol-del-gobierno-tras-los-informes-de-ceuta/"
+    "text": "\"Creé de la nada un imperio de la moda que me hizo multimillonaria, pero creció tanto que acabé en la bancarrota\"",
+    "link": "https://www.bbc.com/mundo/articles/cx2z7krr2pgo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Rescatan 152 inmigrantes tras 15 días de travesía desde Gambia y recuperan un cadáver",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/10/rescatan-152-inmigrantes-tras-15-dias-de-travesia-desde-gambia-y-recuperan-un-cadaver/"
+    "text": "\"Ley de nietos\": por qué el Tribunal Supremo suspendió el voto de miles de nuevos españoles",
+    "link": "https://www.bbc.com/mundo/articles/ckg0z1gnv9ko?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Thomas Schlesser (novelista): “Quería mostrar que la poesía es capaz de servir a la vida\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/10/thomas-schlesser-novelista-queria-mostrar-que-la-poesia-es-capaz-de-servir-a-la-vida/"
+    "text": "Drones, ciberataques y desinformación: la \"guerra híbrida\" de la que se acusa a Rusia en Europa",
+    "link": "https://www.bbc.com/mundo/articles/c5yw3wqw35no?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-10",
-    "image": "https://www.infobae.com/resizer/v2/XVYDG2NL3VCCXLQG5F4TYIMFWI.jpg?auth=9e0bd05b77ed337a9e254636970bd610fb22497f5b42dac40730ab6bb9e14dc3&smart=true&width=1920&height=1279",
+    "image": "https://www.infobae.com/resizer/v2/KLKARMDFKZCMHLXTJIMZECNI64.jpg?auth=7db36a4bf957cb21140268b5eef45169f5396b17c52a2fc107f9ca31cfc92ef6&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Puente acusa a algunos jueces de hacer política y \"querer gobernar el país por detrás\": la \"tensión es innegable\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/10/puente-acusa-a-algunos-jueces-de-hacer-politica-y-querer-gobernar-el-pais-por-detras-la-tension-es-innegable/"
+    "text": "Juicio por Loan Peña, en vivo: Maciel dijo que el nene fue atropellado y que Pérez, Caillava y Laudelina Peña “son los únicos responsables”",
+    "link": "https://www.infobae.com/sociedad/policiales/2026/09/10/juicio-por-loan-pena-en-vivo-todas-las-declaraciones-y-ultimas-noticias-de-hoy-10-de-septiembre/"
   },
   {
     "date": "2026-09-10",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/IXHPXDQLIZFFPMFVZ6U3ZQVI5Y.jpg?auth=1b03596b7fa7d6390d278999f38188e6eeb64c0ec0e280537492a66dfdfa171a&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Diplomática israelí advierte sobre Ceuta: no trabajar en defensa de Israel tiene un precio",
-    "link": "https://www.infobae.com/america/agencias/2026/09/10/diplomatica-israeli-advierte-sobre-ceuta-no-trabajar-en-defensa-de-israel-tiene-un-precio/"
+    "text": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy 10 de septiembre: IMSS informa sobre los ocho trámites que serán simplificados para beneficiar a las microempresas",
+    "link": "https://www.infobae.com/mexico/2026/09/10/la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-10-de-septiembre/"
   },
   {
     "date": "2026-09-10",
-    "image": "https://www.infobae.com/resizer/v2/YXASI7YJOFGHREHJXCI2I6H3KY.jpg?auth=0f7f0cd380eec2c92eb4528b940a9caa1e9ba070005ec3cca2cf88ce74d06bbc&smart=true&width=1920&height=1279",
+    "image": "https://www.infobae.com/resizer/v2/NMOITX5O2NC47LS7A7CWAYX4RE.jpg?auth=8c9d93789080560afc8ee5879aca1bcc7e01c7a2185987597cd7d5cfa92c5f5e&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "El PP censura que Sánchez quiera invitar a Zapatero a hacer campaña y le acusa de \"normalizar la corrupción\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/10/el-pp-censura-que-sanchez-quiera-invitar-a-zapatero-a-hacer-campana-y-le-acusa-de-normalizar-la-corrupcion/"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "'NBA 2K27' redefine el baloncesto y da el salto a su primer multijugador paritario y mixto",
-    "link": "https://www.infobae.com/america/agencias/2026/09/10/nba-2k27-redefine-el-baloncesto-y-da-el-salto-a-su-primer-multijugador-paritario-y-mixto/"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://www.infobae.com/resizer/v2/BEUA4ZIMFJB5ZCCHZ55GNTIOSM.jpg?auth=3c3301ba5ba850ded540e16b59fbd579ca792bf4da6d726ef514ec1d7e4e9649&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Apple aumenta el precio sus dispositivos iPhone de generaciones anteriores: desde 100 a 350 euros más",
-    "link": "https://www.infobae.com/america/agencias/2026/09/10/apple-aumenta-el-precio-sus-dispositivos-iphone-de-generaciones-anteriores-desde-100-a-350-euros-mas/"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://www.infobae.com/resizer/v2/UQP72UGEZNGAXFIAVPIT6APC4Y.jpg?auth=9b754bae32b55490a70f2a3a6f2cc8ba82ac0d75bbfcc673e64b49991c243d59&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Super Once: estos son los números ganadores del Sorteo 1 de este 10 septiembre",
-    "link": "https://www.infobae.com/espana/2026/09/10/super-once-estos-son-los-numeros-ganadores-del-sorteo-1-de-este-10-septiembre/"
+    "text": "Juicio de los Cuadernos: “Esta causa fue una clara y evidente operación de inteligencia”, dijo Baratta",
+    "link": "https://www.infobae.com/judiciales/2026/09/10/juicio-de-los-cuadernos-roberto-baratta-volvera-a-hablar-ante-los-jueces-para-responder-acusaciones-de-testigos-de-techint/"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "La jornada 5 en cinco nombres: Lamine Yamal, Vinicius, Simeone, Corberán, Mariano Díaz",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/10/la-jornada-5-en-cinco-nombres-lamine-yamal-vinicius-simeone-corberan-mariano-diaz/"
+    "text": "Torretta pisa el acelerador en la moda masculina urbana en la pasarela de Madrid",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/10/torretta-pisa-el-acelerador-en-la-moda-masculina-urbana-en-la-pasarela-de-madrid/"
   },
   {
     "date": "2026-09-10",
-    "image": "https://www.infobae.com/resizer/v2/PSSR4P65PZCVDMMCUVXPTHNLGE.jpg?auth=910aafaa32dc31c28be81d4d57c4422d6d3d707170c5eecaca45e0f52ede8091&smart=true&width=1920&height=1440",
+    "image": "https://www.infobae.com/resizer/v2/UWZCF22TOZGT5K7QOBEU2PJ2YY.png?auth=0c04537f5167a1ec4e86ccbb892693fa536b82a7923b0b69a4cd6ec5b3953d9c&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Lucas, de 'Andy y Lucas', centrado en su recuperación a su regreso a España tras su operación de nariz",
-    "link": "https://www.infobae.com/america/agencias/2026/09/10/lucas-de-andy-y-lucas-centrado-en-su-recuperacion-a-su-regreso-a-espana-tras-su-operacion-de-nariz/"
+    "text": "Apple aumenta el precio del iPhone 17, iPhone 17e y iPhone Air: estos son sus nuevos costos",
+    "link": "https://www.infobae.com/tecno/2026/09/10/apple-aumenta-el-precio-del-iphone-17-iphone-17e-y-iphone-air-estos-son-sus-nuevos-costos/"
+  },
+  {
+    "date": "2026-09-10",
+    "image": null,
+    "category": null,
+    "text": "La Comic-Con Málaga calienta motores con más talento y nueva estructura para evitar colas",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/10/la-comic-con-malaga-calienta-motores-con-mas-talento-y-nueva-estructura-para-evitar-colas/"
+  },
+  {
+    "date": "2026-09-10",
+    "image": "https://www.infobae.com/resizer/v2/ZYIEHGNSM5CC3AQ2MCEYSHCCPQ.png?auth=4a8fe1cd6a29a9db0e5feec61645ffe1ef77935d2fca709af1c1536292c22908&smart=true&width=1237&height=713",
+    "category": null,
+    "text": "Pánico en El Palomar: delincuentes balearon al padre de una alumna frente a una escuela",
+    "link": "https://www.infobae.com/sociedad/policiales/2026/09/10/panico-en-el-palomar-delincuentes-balearon-al-padre-de-una-alumna-frente-a-una-escuela/"
+  },
+  {
+    "date": "2026-09-10",
+    "image": null,
+    "category": null,
+    "text": "Antonio Garamendi (CEOE): Lo sucedido en Ceuta es un problema de todos",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/10/antonio-garamendi-ceoe-lo-sucedido-en-ceuta-es-un-problema-de-todos/"
+  },
+  {
+    "date": "2026-09-10",
+    "image": "https://www.infobae.com/resizer/v2/5R6E2R5CJNGF3LCCYHW7Y3WSVI.jpg?auth=ca673442a44eb86a9664f213c2b10def20d1947f445be74cffda59f1340dbc08&smart=true&width=1280&height=720",
+    "category": null,
+    "text": "Dólar hoy en Colombia: la divisa abrió al alza, se cotiza en $3.120 y frena caída de los últimos días",
+    "link": "https://www.infobae.com/colombia/2026/09/10/dolar-hoy-en-colombia-cotizacion-de-apertura-del-10-de-septiembre/"
+  },
+  {
+    "date": "2026-09-10",
+    "image": "https://www.infobae.com/resizer/v2/QJ3DFNXIQNBJ3D2KO3IJWUBINY.png?auth=fdefa568c7248caa701fdc3810adb8a51b2750f9904ed33c90a03ecc1cc70406&smart=true&width=1536&height=1024",
+    "category": null,
+    "text": "Cancillería aclaró finalmente qué pasará con los pasaportes en Colombia, tras la suspensión ordenada por el Tribunal de Cundinamarca: este es el documento",
+    "link": "https://www.infobae.com/colombia/2026/09/10/cancilleria-aclaro-finalmente-que-pasara-con-los-pasaportes-en-colombia-tras-la-suspension-ordenada-por-el-tribunal-de-cundinamarca-este-es-el-documento/"
+  },
+  {
+    "date": "2026-09-10",
+    "image": null,
+    "category": null,
+    "text": "Los salarios en convenio suben un 3,04 % hasta agosto con la inflación disparada al 4,3 %",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/10/los-salarios-en-convenio-suben-un-304-hasta-agosto-con-la-inflacion-disparada-al-43/"
+  },
+  {
+    "date": "2026-09-10",
+    "image": null,
+    "category": null,
+    "text": "Filipinas busca a 86 desaparecidos tras el incendio de un ferri con cinco fallecidos",
+    "link": "https://www.infobae.com/america/agencias/2026/09/10/filipinas-busca-a-86-desaparecidos-tras-el-incendio-de-un-ferri-con-cinco-fallecidos/"
   },
   {
     "date": "2026-09-10",
@@ -225,198 +260,163 @@
   },
   {
     "date": "2026-09-10",
+    "image": "https://imagenes.elpais.com/resizer/v2/LIPVRNGH2VH37B3OX6BEM5ATQE.jpg?auth=f64b7018bffde41ab89dfa85c86950eb86361c689a0d91248c52644e16f4f421",
+    "category": "Emmanuel Macron",
+    "text": "Una grabación recoge los comentarios racistas de un cargo policial francés en Carcasona: “Ya no puedo más con los moros, negros...”",
+    "link": "https://elpais.com/internacional/2026-09-10/una-grabacion-recoge-los-comentarios-racistas-de-un-cargo-policial-frances-en-carcasona-ya-no-puedo-mas-con-los-moros-negros.html"
+  },
+  {
+    "date": "2026-09-10",
     "image": "https://imagenes.elpais.com/resizer/v2/JIQONS6O2RPV5NHCP3GYIECD4E.jpg?auth=d3cc8eac2fa00cccfedb71b7cb2ee6cf5e1185f8c7ce778054a3e3006279b3cc",
     "category": "Guerra de Rusia en Ucrania",
-    "text": "Noruega afirma que un dron casi impacta en el avión que trasladaba a Zelenski a Oslo",
+    "text": "Un dron amenazó el vuelo que trasladaba a Zelenski de Moldavia a Noruega",
     "link": "https://elpais.com/internacional/2026-09-10/noruega-afirma-que-un-dron-casi-impacta-en-el-avion-que-trasladaba-a-zelenski-a-oslo.html"
   },
   {
     "date": "2026-09-10",
-    "image": "https://imagenes.elpais.com/resizer/v2/VRXH373QPNH4RA75NNJYWT66TA.jpg?auth=a5f6ad855d7512329ec4fd984ce68b6f1d3d7f6a9a540ec3c627363bf41be9fb",
-    "category": "Estados Unidos",
-    "text": "La esposa de Maduro, Cilia Flores, pide pasar a arresto domiciliario por razones de salud",
-    "link": "https://elpais.com/us/2026-09-10/la-esposa-de-maduro-pide-pasar-a-arresto-domiciliario-por-razones-de-salud.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/UEAP2ZCI7VJQVKCDXMYP7FKZLA.jpg?auth=45649e7560eb87f3b3693d023fa23c19cbb3b57f4e3a0189ceaaf6937b4f4821",
+    "category": "Ucrania",
+    "text": "Amnistía acusa de trata de personas a Rusia por reclutar a la fuerza extranjeros para luchar en Ucrania",
+    "link": "https://elpais.com/internacional/2026-09-10/amnistia-acusa-de-trata-de-personas-a-rusia-por-reclutar-a-la-fuerza-extranjeros-para-luchar-en-ucrania.html"
   },
   {
     "date": "2026-09-10",
-    "image": "https://imagenes.elpais.com/resizer/v2/7FQAMKVHLZKU5MFHZ2MBH7JZL4.jpg?auth=bf3f706ceacece1880bc13f50faaae7868ff968e561fbdfbbcf159c8abee7dd9",
-    "category": "Guerra",
-    "text": "La UE arrastra los pies para levantar un frente común contra los productos procedentes de los asentamientos israelíes",
-    "link": "https://elpais.com/internacional/2026-09-10/la-ue-arrastra-los-pies-para-levantar-un-frente-comun-contra-los-productos-procedentes-de-los-asentamientos-israelies.html"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa257f1e9ff7139e564ad9c.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa2b55959bf5b331173a5b9.jpg",
     "category": null,
-    "text": "Hallan nuevas pistas clave sobre el cáncer más común entre los hombres",
-    "link": "https://actualidad.rt.com/actualidad/626878-hallan-nuevas-pistas-clave-cancer?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Asesor de Putin: \"Los BRICS forman un equipo de fútbol que juega con eficacia en el campo internacional\"",
+    "link": "https://actualidad.rt.com/actualidad/626944-asesor-putin-paises-brics-formar?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa259d559bf5b6c651d6e09.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa2966b59bf5b6df16f6148.jpg",
     "category": null,
-    "text": "Este país sopesa la castración química contra los violadores de niños",
-    "link": "https://actualidad.rt.com/actualidad/626889-pais-castracion-quimica-violadores-ninos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Kaja Kallas, en la cuerda floja: la UE discutirá el futuro de su jefa de diplomacia antes de fin de año",
+    "link": "https://actualidad.rt.com/actualidad/626911-euractiv-ue-debatir-futuro-servicio?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa26c4559bf5b6d8a0fc9f9.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa2a497e9ff7144822c5d5a.jpg",
     "category": null,
-    "text": "Europa aplaude la movilización de mujeres en Ucrania",
-    "link": "https://actualidad.rt.com/actualidad/626893-europa-aplaude-movilizacion-mujeres-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa2670d59bf5b6c651d6e17.jpg",
-    "category": null,
-    "text": "Diputado ucraniano: Los socios de Kiev comprenden que una parte nada pequeña del dinero enviado será robada",
-    "link": "https://actualidad.rt.com/actualidad/626887-donde-desaparece-dinero-enviado-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "25 muertos tras incendio en un buque de carga en China (VIDEOS)",
+    "link": "https://actualidad.rt.com/actualidad/626928-muertos-incendio-buque-carga-china-videos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Terremoto de magnitud 5,3 se registra en el norte de Perú",
-    "link": "https://actualidad.rt.com/actualidad/626892-terremoto-magnitud-53-registrar-norte?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Francia retira su apoyo a Infantino para presidir la FIFA",
+    "link": "https://actualidad.rt.com/actualidad/626936-francia-retira-apoyo-infantino-presidir?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa24b69e9ff714f173f0b25.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa2a3e659bf5b489f23dc28.jpg",
     "category": null,
-    "text": "\"Fuera yanquis\": Protestan en Perú contra la visita de Marco Rubio (VIDEO, FOTOS)",
-    "link": "https://actualidad.rt.com/actualidad/626886-fuera-yanquis-protestar-peru-visita?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Francesca Albanese: \"Israel no está por encima de la ley internacional\"",
+    "link": "https://actualidad.rt.com/actualidad/626925-francesca-albanese-israel-fuera-ley-internacional?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa258e259bf5b6df16f6116.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa2b23559bf5b33d41ec09b.jpg",
     "category": null,
-    "text": "Enviado de Putin acusa a FT de querer frustrar el diálogo entre Rusia y EE.UU. con \"noticias falsas\"",
-    "link": "https://actualidad.rt.com/actualidad/626884-enviado-putin-acusa-ft-querer?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Kremlin: Rusia continúa con su operación militar ante la imposibilidad de resolver la crisis por la vía pacífica",
+    "link": "https://actualidad.rt.com/actualidad/626941-kremlin-rusia-continua-operacion-militar?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa22ecf59bf5b26a360a535.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa2a59c59bf5b3e283abac5.jpg",
     "category": null,
-    "text": "Buque surcoreano prueba un atajo por el Ártico ruso en medio de los problemas logísticos por la crisis en Oriente Medio",
-    "link": "https://actualidad.rt.com/actualidad/626873-portacontenedores-cruzar-oceano-artico-ruta?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Paranoia antirrusa: Pistorius evalúa retirar plan de defensa secreto del estado en que ganó AfD",
+    "link": "https://actualidad.rt.com/actualidad/626915-pistorius-retirar-plan-defensa-estado-ganar-afd?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa2a810e9ff71092824ace3.jpg",
     "category": null,
-    "text": "Filipinas acusa a China de lanzar bengalas hacia un avión de su Guardia Costera",
-    "link": "https://actualidad.rt.com/actualidad/626885-filipinas-acusar-china-lanzar-bengalas?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa25985e9ff712f426c4cb8.jpg",
-    "category": null,
-    "text": "\"La historia es terca\": La Habana denuncia los intentos de EE.UU. de reescribir su \"trayectoria destructiva\"",
-    "link": "https://actualidad.rt.com/actualidad/626881-terca-habana-intentos-eeuu-reescribir-historia-hemisferio?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Relatora de la ONU: \"Gaza ha expuesto los límites de las democracias occidentales\"",
+    "link": "https://actualidad.rt.com/actualidad/626933-relatora-onu-gaza-exponer-limites?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Trump defiende la guerra en Irán, ataca a los demócratas y promete dinero al electorado",
-    "link": "http://es.euronews.com/2026/09/10/trump-defiende-guerra-iran-ataca-democratas-promete-dinero-electorado"
+    "text": "Documentos desclasificados: Sánchez no actuó ante \"aviso de invasión\" en Ceuta",
+    "link": "https://actualidad.rt.com/actualidad/626935-documentos-desclasificados-sanchez-invasion-ceuta?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Noruega se despide del rey Harald V mientras la multitud se reúne en Oslo",
-    "link": "http://es.euronews.com/video/2026/09/10/noruega-se-despide-del-rey-harald-v-mientras-la-multitud-se-reune-en-oslo"
+    "text": "El Banco Central Europeo eleva sus tres tipos de interés clave",
+    "link": "https://actualidad.rt.com/actualidad/626937-banco-central-europeo-tres-tipos-interes-clave?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Últimas noticias | 10 septiembre 2026 - Mañana",
-    "link": "http://es.euronews.com/video/2026/09/10/ultimas-noticias-10-septiembre-2026-manana"
+    "text": "Los hutíes atacan la costa del mar Rojo de Yemen para tomar Bab el Mandeb",
+    "link": "https://es.euronews.com/2026/09/10/los-huties-atacan-la-costa-del-mar-rojo-de-yemen-para-tomar-bab-el-mandeb"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "La cruenta batalla interna que se libra en el Pentágono por el futuro del ejército más poderoso del mundo",
-    "link": "https://www.bbc.com/mundo/articles/cg5904rpmp4o?at_medium=RSS&at_campaign=rss"
+    "text": "3.000 drones iluminan el cielo de Nueva York en homenaje al 11-S",
+    "link": "https://es.euronews.com/video/2026/09/10/3000-drones-iluminan-el-cielo-de-nueva-york-en-homenaje-al-11-s"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "25 años del 11-S: la agonía de los familiares de las víctimas de los peores atentados de la historia de EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/c1mvpng28epo?at_medium=RSS&at_campaign=rss"
+    "text": "¿Qué significa para los pasajeros la nueva sanción de Estados Unidos a las aerolíneas iraníes?",
+    "link": "https://es.euronews.com/viajes/2026/09/10/que-significa-para-los-pasajeros-la-nueva-sancion-de-estados-unidos-a-las-aerolineas-irani"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "4 ejercicios que ayudan a fortalecer las muñecas, una de las articulaciones más afectadas por la vida moderna",
-    "link": "https://www.bbc.com/mundo/articles/cn8m1erdd5do?at_medium=RSS&at_campaign=rss"
+    "text": "¿Por qué presentadora Sarah Khalifa afronta la pena capital en Egipto y qué le espera?",
+    "link": "https://es.euronews.com/2026/09/10/por-que-presentadora-sarah-khalifa-afronta-la-pena-capital-en-egipto-y-que-le-espera"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "OpenAI asegura haber resuelto en 88 horas un problema matemático sin respuesta durante 90 años (y las acusaciones de plagio en su contra)",
-    "link": "https://www.bbc.com/mundo/articles/c39md3dd34lo?at_medium=RSS&at_campaign=rss"
+    "text": "La exposición \"Night\" de Maurizio Cattelan se inaugura en Berlín",
+    "link": "https://es.euronews.com/video/2026/09/10/la-exposicion-night-de-maurizio-cattelan-se-inaugura-en-berlin"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "\"Una montaña rusa de emociones\": miembros del jurado del caso Lindsay Clancy hablan sobre el desacuerdo que llevó a la anulación del juicio",
-    "link": "https://www.bbc.com/mundo/articles/cx2zx7lwrk3o?at_medium=RSS&at_campaign=rss"
+    "text": "Tailandia investiga la muerte de un influencer británico tras una inyección de aumento de pene",
+    "link": "https://es.euronews.com/2026/09/10/tailandia-investiga-muerte-influencer-britanico-tras-inyeccion-aumento-pene"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Cómo Scarlett y Fabiana lograron celebrar el primer matrimonio homosexual en Bolivia, un país donde no está legalizado",
-    "link": "https://www.bbc.com/mundo/articles/ckgwdekl698o?at_medium=RSS&at_campaign=rss"
+    "text": "La diplomacia húngara del ministro Szijjártó, marcada por designaciones y conexiones políticas",
+    "link": "https://es.euronews.com/2026/09/10/la-diplomacia-hungara-del-ministro-szijjarto-marcada-por-designaciones-y-conexiones-politi"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "iPhone Duo: el costoso primer teléfono plegable de Apple, la apuesta del nuevo jefe del gigante tecnológico",
-    "link": "https://www.bbc.com/mundo/articles/cgmr2k18723o?at_medium=RSS&at_campaign=rss"
+    "text": "Al menos 20 muertos tras incendiarse un carguero internacional atracado en China",
+    "link": "https://es.euronews.com/2026/09/10/al-menos-20-muertos-tras-incendiarse-un-carguero-internacional-atracado-en-china"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "\"Fue diseñada para un personaje de la élite\": el extraordinario hallazgo de una tumba repleta de reliquias de la antigua cultura chimú en Perú",
-    "link": "https://www.bbc.com/mundo/articles/clykvmlvv3ko?at_medium=RSS&at_campaign=rss"
+    "text": "\"Se acabaron los días seguros\": los aeropuertos rusos afrontan cierres récord",
+    "link": "https://es.euronews.com/2026/09/10/se-acabaron-los-dias-seguros-los-aeropuertos-rusos-afrontan-cierres-record"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "image": null,
     "category": null,
-    "text": "Los misteriosos bosques de manglar capturados en 13 impactantes imágenes",
-    "link": "https://www.bbc.com/mundo/articles/c4g7987x2reo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-09",
-    "image": null,
-    "category": null,
-    "text": "\"¿Qué haces cuando los colonos empiezan a disparar contra tus hijos?\": la preocupación de padres palestinos por el aumento de los ataques a escuelas en Cisjordania",
-    "link": "https://www.bbc.com/mundo/articles/c07ld7zd092o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-09",
-    "image": null,
-    "category": null,
-    "text": "Rubio refuerza en Ecuador la alianza de EE.UU. con Noboa contra el narcotráfico",
-    "link": "http://es.euronews.com/2026/09/09/rubio-refuerza-en-ecuador-la-alianza-de-eeuu-con-noboa-contra-el-narcotrafico"
-  },
-  {
-    "date": "2026-09-09",
-    "image": null,
-    "category": null,
-    "text": "El antiguo avión oficial de la canciller Angela Merkel pasa a ser un jet de lujo en venta",
-    "link": "http://es.euronews.com/my-europe/2026/09/09/avion-oficial-canciller-angela-merkel-jet-lujo-venta"
+    "text": "Últimas noticias | 10 septiembre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/09/10/ultimas-noticias-10-septiembre-2026-mediodia"
   }
 ]

@@ -1,86 +1,93 @@
 [
   {
     "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/b009cb20-ade1-11f1-9e43-005056bf30b7/w:1024/p:16x9/ES-20260911-073138-073559-CS.jpg",
-    "category": null,
-    "text": "Cronología: así fueron los atentados terroristas del 11 de septiembre",
-    "link": "https://www.france24.com/es/video/20260911-cronolog%C3%ADa-as%C3%AD-fueron-los-atentados-terroristas-del-11-de-septiembre"
+    "image": "https://s.france24.com/media/display/c1b2bf4a-ae12-11f1-afdf-005056a97e36/w:1024/p:16x9/2026-09-11T171619Z-133128444-RC24HNA5JZM9-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+    "category": "Europa",
+    "text": "\"Cada vez más terroristas\": dos muertos en una gasolinera de Kiev, el nuevo blanco del Ejército ruso",
+    "link": "https://www.france24.com/es/europa/20260911-cada-vez-m%C3%A1s-terroristas-dos-muertos-en-una-gasolinera-de-kiev-el-nuevo-blanco-del-ej%C3%A9rcito-ruso"
   },
   {
     "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/6e74c9c8-addf-11f1-aa7b-005056bf30b7/w:1024/p:16x9/ES-20260911-073620-074201-CS.jpg",
+    "image": "https://s.france24.com/media/display/40916688-ae11-11f1-8829-005056bf30b7/w:1024/p:16x9/acfb1345200db4f8e7c5847848562a4b0fb87d7fw.jpg",
+    "category": "Economía",
+    "text": "A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?",
+    "link": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20260911-a-la-sombra-de-las-guerras-y-con-la-presencia-de-rusia-china-e-ir%C3%A1n-qu%C3%A9-esperar-de-la-cumbre-de-los-brics"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/dcab594c-ae08-11f1-9679-005056a97e36/w:1024/p:16x9/ES-20260911-122231-123128-CS.jpg",
+    "category": "Revista de prensa",
+    "text": "\"Estados Unidos fue atacado\": así cubrieron los medios el 11-S hace 25 años",
+    "link": "https://www.france24.com/es/programas/revista-de-prensa/20260911-estados-unidos-fue-atacado-as%C3%AD-cubrieron-los-medios-el-11-s-hace-25-a%C3%B1os"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/77930022-ae04-11f1-99d0-005056bf30b7/w:1024/p:16x9/ES-20260911-093424-093648-CS.jpg",
     "category": null,
-    "text": "Informe desde Nueva York: así serán los homenajes a las víctimas de los atentados del 11-S",
-    "link": "https://www.france24.com/es/video/20260911-informe-desde-nueva-york-as%C3%AD-ser%C3%A1n-los-homenajes-a-las-v%C3%ADctimas-de-los-atentados-del-11-s"
+    "text": "Informe desde Washington: Trump recuerda a las víctimas del 11-S en discurso desde el Pentágono",
+    "link": "https://www.france24.com/es/video/20260911-informe-desde-washington-trump-recuerda-a-las-v%C3%ADctimas-del-11-s-en-discurso-desde-el-pent%C3%A1gono"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/4cf8a7de-adf7-11f1-89b3-005056a90284/w:1024/p:16x9/000-C7KV9NQ.jpg",
+    "category": "Francia",
+    "text": "Al margen del juicio en París por el asesinato del argentino Federico Aramburú, se multiplican los homenajes",
+    "link": "https://www.france24.com/es/francia/20260911-al-margen-del-juicio-en-par%C3%ADs-por-el-asesinato-del-argentino-federico-arambur%C3%BA-se-multiplican-los-homenajes"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/283ddd68-77b2-11f1-8124-005056a97e36/w:1024/p:16x9/2026-07-04T032036Z-144070211-RC2H6MASCW7B-RTRMADP-3-VENEZUELA-QUAKE.jpg",
+    "category": "Escala en París",
+    "text": "\"Tragados por la tierra”: ¿por qué se desplomaron las viviendas en La Guaira?",
+    "link": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20260911-tragados-por-la-tierra-por-qu%C3%A9-se-desplomaron-las-viviendas-en-la-guaira"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/b4948c26-ae08-11f1-a41f-005056bfb2b6/w:1024/p:16x9/AP01091704560.jpg",
+    "category": "Economía",
+    "text": "¿Cómo se vivieron en Wall Street los ataques del 11 de septiembre?",
+    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260911-c%C3%B3mo-se-vivieron-en-wall-street-los-ataques-del-11-de-septiembre"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/ad119b5e-7e13-11f0-8487-005056a97e36/w:1024/p:16x9/AP730912018.jpg",
+    "category": "América Latina",
+    "text": "Chile conmemora golpe de Estado de Pinochet sin actos oficiales, por primera vez desde el retorno de la democracia",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260911-chile-conmemora-golpe-de-estado-de-pinochet-sin-actos-oficiales-por-primera-vez-desde-el-retorno-de-la-democracia"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/bf6e21c2-a6c7-11f1-888f-005056a90284/w:1024/p:16x9/capture-8849656686a9812fa0edf02-89967507.jpg",
+    "category": "En Foco",
+    "text": "Sur del Líbano: ¿misión de la ONU atrapada entre Israel y Hezbolá?",
+    "link": "https://www.france24.com/es/programas/en-foco/20260911-sur-del-l%C3%ADbano-misi%C3%B3n-de-la-onu-atrapada-entre-israel-y-hezbol%C3%A1"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/978ec4be-ae00-11f1-aa05-005056a90284/w:1024/p:16x9/ES-20260911-072221-072658-CS.jpg",
+    "category": null,
+    "text": "Directo París y el regreso de Celine Dion a los escenarios de París",
+    "link": "https://www.france24.com/es/video/20260911-directo-par%C3%ADs-y-el-regreso-de-celine-dion-a-los-escenarios-de-par%C3%ADs"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/c47ec938-9910-11f1-be4b-005056a97e36/w:1024/p:16x9/6ff59215da0a7e58875e3b4ff48a41fd2512e561.jpg",
+    "category": "América Latina",
+    "text": "Bolsonaro, bajo sospecha de corrupción: ¿por qué es investigado y qué impacto tendría en las presidenciales de Brasil?",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260911-bolsonaro-bajo-sospecha-de-corrupci%C3%B3n-por-qu%C3%A9-es-investigado-y-qu%C3%A9-impacto-tendr%C3%ADa-en-las-presidenciales-de-brasil"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/0393aae4-a190-11f1-828d-005056a90284/w:1024/p:16x9/AP26238512449296.jpg",
+    "category": "Corresponsales",
+    "text": "Nepal, tras la riada: miles de personas sin hogar ni certezas",
+    "link": "https://www.france24.com/es/programas/corresponsales/20260911-nepal-tras-la-riada-miles-de-personas-sin-hogar-ni-certezas"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "🔴 Estados Unidos conmemora los 25 años del 11 de septiembre",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260911-en-directo-i-11-s-25-a%C3%B1os-despu%C3%A9s-de-los-atentados-que-cambiaron-la-historia"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/4ccbe91e-ad8f-11f1-84d9-005056a90284/w:1024/p:16x9/AP26245621293293.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Incertidumbre y esperanza: ¿qué hay detrás del silencio sobre la situación de los salvadoreños con TPS en EE. UU.?",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260911-incertidumbre-y-esperanza-qu%C3%A9-hay-detr%C3%A1s-del-silencio-sobre-la-situaci%C3%B3n-de-los-salvadore%C3%B1os-con-tps-en-ee-uu"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/3f5ca5a0-ad8c-11f1-8af5-005056bf30b7/w:1024/p:16x9/ES-20260910-203900-204353-CS.jpg",
-    "category": null,
-    "text": "Día Mundial de la Prevención del Suicidio: ¿por qué hay un aumento sostenido en América?",
-    "link": "https://www.france24.com/es/video/20260911-d%C3%ADa-mundial-de-la-prevenci%C3%B3n-del-suicidio-por-qu%C3%A9-hay-un-aumento-sostenido-en-am%C3%A9rica"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/25616cea-ad8b-11f1-8327-005056bfb2b6/w:1024/p:16x9/ES-20260910-203636-203759-CS.jpg",
-    "category": null,
-    "text": "Policía frena una protesta de la izquierda independentista contra un acto de Aliança Catalana",
-    "link": "https://www.france24.com/es/video/20260911-polic%C3%ADa-frena-una-protesta-de-la-izquierda-independentista-contra-un-acto-de-alian%C3%A7a-catalana"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/364d8afe-ad89-11f1-be53-005056a97e36/w:1024/p:16x9/ES-20260910-183139-183335-CS.jpg",
-    "category": null,
-    "text": "Fujimori confirma la participación de Perú en el 'Escudo de las Américas' tras visita de Rubio",
-    "link": "https://www.france24.com/es/video/20260911-fujimori-confirma-la-participaci%C3%B3n-de-per%C3%BA-en-el-escudo-de-las-am%C3%A9ricas-tras-visita-de-rubio"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/b3820d34-ad88-11f1-b020-005056bf30b7/w:1024/p:16x9/ES-20260910-164301-164451-CS.jpg",
-    "category": null,
-    "text": "Familias buscan a sus desaparecidos tras la riada en Nepal y el Tíbet",
-    "link": "https://www.france24.com/es/video/20260911-familias-buscan-a-sus-desaparecidos-tras-la-riada-en-nepal-y-el-t%C3%ADbet"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/c5de98ae-ad87-11f1-960e-005056a97e36/w:1024/p:16x9/ES-20260910-164016-164140-CS.jpg",
-    "category": null,
-    "text": "Israel mata a cuatro integrantes de una familia en un bombardeo contra Beit Lahia, en Gaza",
-    "link": "https://www.france24.com/es/video/20260911-israel-mata-a-cuatro-integrantes-de-una-familia-en-un-bombardeo-contra-beit-lahia-en-gaza"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/0ce9dd90-ad87-11f1-a3b5-005056a97e36/w:1024/p:16x9/ES-20260910-163517-163718-CS.jpg",
-    "category": null,
-    "text": "Bomberos de Nueva York rinden homenaje a compañeros víctimas del 11-S",
-    "link": "https://www.france24.com/es/video/20260911-bomberos-de-nueva-york-rinden-homenaje-a-compa%C3%B1eros-v%C3%ADctimas-del-11-s"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/5f125972-8c89-11f1-91dd-005056a97e36/w:1024/p:16x9/2026-07-30T232533Z-1680869369-RC2UNLA4ZYRG-RTRMADP-3-ANTHROPIC-CYBERSECURITY.jpg",
-    "category": "Ciencia y tecnologías",
-    "text": "Entre intentos de regulación y temores por seguridad y salud, la IA sigue bajo sospecha",
-    "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20260911-entre-intentos-de-regulaci%C3%B3n-y-temores-por-seguridad-y-salud-la-ia-sigue-bajo-sospecha"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Especial interactivo | 11-S: los 149 minutos de caos y terror que cambiaron el mundo",
+    "text": "Especial BBC Mundo | 11-S: los 149 minutos de caos y terror que cambiaron el mundo",
     "link": "https://www.bbc.com/mundo/resources/idt-ed9fe44b-4603-411e-8c37-e8a4a232ab89?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -94,29 +101,29 @@
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "5 datos cruciales sobre el estado de la educación en América Latina que revela la última prueba PISA",
+    "text": "Las 2 causas científicas por las que se derrumbaron las Torres Gemelas tras el impacto de los aviones el 11 de septiembre de 2001",
+    "link": "https://www.bbc.com/mundo/articles/cx2z51gprlxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Los preocupantes datos sobre el estado de la educación en América Latina que revela la última prueba PISA",
     "link": "https://www.bbc.com/mundo/articles/cly41n2vzd6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Quién es la ingeniera Ilya Espino de Marotta, la primera mujer en dirigir el Canal de Panamá (y por qué suele usar un casco rosa)",
+    "text": "\"¡Jefa, jefa, jefa!\": quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
     "link": "https://www.bbc.com/mundo/articles/clyrjpwr485o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "EN VIDEO: cómo se desarrollaron los ataques del 11-S",
-    "link": "https://www.bbc.com/mundo/articles/c1j4zp43x39o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Las 2 causas científicas por las que se cayeron las Torres Gemelas tras el impacto de los aviones el 11 de septiembre de 2001",
-    "link": "https://www.bbc.com/mundo/articles/cx2z51gprlxo?at_medium=RSS&at_campaign=rss"
+    "text": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
+    "link": "https://www.bbc.com/mundo/articles/c1e5d2yvgzzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
@@ -129,8 +136,22 @@
     "date": "2026-09-11",
     "image": null,
     "category": null,
+    "text": "EN VIDEO: minuto a minuto de cómo fueron los ataques del 11-S",
+    "link": "https://www.bbc.com/mundo/articles/c1j4zp43x39o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
     "text": "La historia del vestido de la \"venganza\" que usó Diana de Gales tras la confesión de adulterio de Carlos III y que ahora sale a subasta",
     "link": "https://www.bbc.com/mundo/articles/c624l137qypo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Cero huracanes en el Atlántico en 2026: qué tiene que ver El Niño con el nuevo récord",
+    "link": "https://www.bbc.com/mundo/articles/cpwl1l5e0jzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
@@ -143,92 +164,99 @@
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "¿Es la promesa de Trump de pagar US$5.000 a los votantes de EE.UU. una señal de pánico?",
-    "link": "https://www.bbc.com/mundo/articles/cn45w3zyg9po?at_medium=RSS&at_campaign=rss"
+    "text": "Guatemala declara alerta anaranjada nacional por la sequía, nivel previo a la emergencia",
+    "link": "https://www.infobae.com/america/agencias/2026/09/11/guatemala-declara-alerta-anaranjada-nacional-por-la-sequia-nivel-previo-a-la-emergencia/"
   },
   {
     "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/2KAPBGSCABEOVIDGAE32JN6FVU.jpg?auth=f2b5532f0b6bc564e6eec10ed6fe496da7c4d537b45b0e7b69c417a21e26e9ff&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/BWLZXEH2GVEMJP3AGUN7CPDI7Q.png?auth=16cb67cf572317644b6661fd1ea31f00fd02491d85c052e00d49890858e391c2&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy 11 de septiembre: reducción del 64% en homicidios diarios en Chiapas",
-    "link": "https://www.infobae.com/mexico/2026/09/11/en-vivo-la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-11-de-septiembre/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/66D4GXPGZBHSLDC7LE7U5JXEZA.jpg?auth=a91c153d94c90825a3b173cb3de125c5ed435028452584ae826d99a636fd0f19&smart=true&width=1716&height=965",
-    "category": null,
-    "text": "El argentino Nicolás Varrone se estrelló contra el muro y detuvo la sesión: hubo cuatro banderas rojas en media hora la qualy en la Fórmula 2",
-    "link": "https://www.infobae.com/deportes/2026/09/11/el-argentino-nicolas-varrone-choco-contra-el-muro-en-la-qualy-de-la-formula-2-y-desato-una-bandera-roja/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/WHUFCOV4VRCURCCVUCKDHUV35Q.jpg?auth=d2da4b458761fa271897bffa2fe51b631983fa6fdd4dea58b9c1e27b9121665d&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Araña casera: estos son los síntomas de alarma tras una mordedura, según especialistas del INS",
-    "link": "https://www.infobae.com/peru/2026/09/11/arana-casera-estos-son-los-sintomas-de-alarma-tras-una-mordedura-segun-especialistas-del-ins/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/2XW3WTJXOZFU7LONBNYU5G3VAY.jpg?auth=29ae10930e2f06e24bfa8fc077780bf5c105c5bcf410e80b80e4691a5b15100e&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Precio del dólar baja en Perú: Así abrió el tipo de cambio hoy 11 de septiembre",
-    "link": "https://www.infobae.com/peru/2026/09/11/dolar-hoy-en-peru-cotizacion-de-apertura-del-11-de-septiembre/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/TORGZM7XJZH4XLG5IOUAZ3TZZA.JPG?auth=32138b340cac9bafd4ef17bc41bad8f6ab7d59e42ab3b0ebf03e08b496c92e6a&smart=true&width=3692&height=2434",
-    "category": null,
-    "text": "Iñaki Williams dice adiós a Ghana: “Me ha dado mucho más que fútbol, me ha permitido sentirme cerca de mis raíces”",
-    "link": "https://www.infobae.com/espana/deportes/2026/09/11/inaki-williams-dice-adios-a-ghana-me-ha-dado-mucho-mas-que-futbol-me-ha-permitido-setirme-cerca-de-mis-raices/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/XWASZF4NRVHKRDGLHXTHVYEIGM.jpg?auth=9675b9addf9ad814d28c0ef0c10894c2c20ee75178721df31948dd18ed3a9b48&smart=true&width=1992&height=1442",
-    "category": null,
-    "text": "Una encuesta revela que, 25 años después del 11-S, la mayoría de los estadounidenses ve un país diferente",
-    "link": "https://www.infobae.com/estados-unidos/2026/09/11/una-encuesta-revela-que-25-anos-despues-del-11-s-la-mayoria-de-los-estadounidenses-ve-un-pais-diferente/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/NMSMBSN3CRH4FB26T4Q62LJMIA.png?auth=7ede37bbe86c75b22ff029ed0087cf21181032717e76ca87221d1c4581913cf0&smart=true&width=589&height=324",
-    "category": null,
-    "text": "Sueños Compartidos: el Tribunal Oral Federal 5 postergó el veredicto para el lunes 14 de septiembre",
-    "link": "https://www.infobae.com/judiciales/2026/09/11/suenos-compartidos-el-tribunal-oral-federal-5-postergo-el-veredicto-para-el-lunes-14-de-septiembre/"
+    "text": "Marta Fort presentó a su novio y recibió una romántica propuesta: \"Estás esperando un anillo\"",
+    "link": "https://www.infobae.com/teleshow/2026/09/11/marta-fort-presento-a-su-novio-y-recibio-una-romantica-propuesta-estas-esperando-un-anillo/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Ayuso reta a la oposición y dice que dimitirá si demuestran que mintió sobre el ático",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/11/ayuso-reta-a-la-oposicion-y-dice-que-dimitira-si-demuestran-que-mintio-sobre-el-atico/"
+    "text": "Gobierno en Libia condena \"enérgicamente\" la aplicación de penas de muerte en el este",
+    "link": "https://www.infobae.com/america/agencias/2026/09/11/gobierno-en-libia-condena-energicamente-la-aplicacion-de-penas-de-muerte-en-el-este/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/KHGV7YOZ7VGJ7BYXWLNVLI3U74.png?auth=88643786d39ba7514ee524ddf384acd3ac0dad36845467d1087ea9fa6fae8b62&smart=true&width=1890&height=1063",
+    "category": null,
+    "text": "Defensora del Pueblo Iris Marín criticó orden de Abelardo de la Espriella de deportar inmigrantes irregulares: “No es delito”",
+    "link": "https://www.infobae.com/colombia/2026/09/11/defensora-del-pueblo-iris-marin-critico-orden-de-abelardo-de-la-espriella-de-deportar-inmigrantes-irregulares-no-es-delito/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/QRI5WQTZ25HO5O32STVKIKHHFI.JPG?auth=cd2d383f771f78ac688d00b61b37e88e1c5860dae767ad1f880886cb3da44a38&smart=true&width=3488&height=2378",
+    "category": null,
+    "text": "El fútbol mexicano ahora usa inteligencia gracias para evitar lesiones y mejorar estrategias durante los juegos",
+    "link": "https://www.infobae.com/tecno/2026/09/11/el-futbol-mexicano-ahora-usa-inteligencia-gracias-para-evitar-lesiones-y-mejorar-estrategias-durante-los-juegos/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Fiscalía e Infancia coinciden en acelerar el traslado de niños desde Ceuta a la Península",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/11/fiscalia-e-infancia-coinciden-en-acelerar-el-traslado-de-ninos-desde-ceuta-a-la-peninsula/"
+    "text": "James llega a Atlético Nacional \"seducido\" por su grandeza y dispuesto a \"ganar siempre\"",
+    "link": "https://www.infobae.com/america/agencias/2026/09/11/james-llega-a-atletico-nacional-seducido-por-su-grandeza-y-dispuesto-a-ganar-siempre/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/ERBLW5LTXJEQBFCUIROX6DDH5U.jpg?auth=27a1d44b1e00593056d3abfddba35ca0f361aee91d4efb1c8c71cb42d3e7a83d&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Euro hoy en Bolivia: cotización de cierre del 11 de septiembre",
+    "link": "https://www.infobae.com/noticias/2026/09/11/euro-hoy-en-bolivia-cotizacion-de-cierre-del-11-de-septiembre/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Los bomberos trabajan en la extinción de un incendio en un pinar de Carcastillo (Navarra)",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/11/los-bomberos-trabajan-en-la-extincion-de-un-incendio-en-un-pinar-de-carcastillo-navarra/"
+    "text": "Kast cumple seis meses con una megarreforma que pone a prueba la desigualdad en Santiago",
+    "link": "https://www.infobae.com/america/agencias/2026/09/11/kast-cumple-seis-meses-con-una-megarreforma-que-pone-a-prueba-la-desigualdad-en-santiago/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Infografías del viernes 11 de septiembre",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/11/infografias-del-viernes-11-de-septiembre/"
+    "text": "95-84. Joventut cierra la Liga Catalana con triunfo ante el Girona en el debut de Ndiaye",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/11/95-84-joventut-cierra-la-liga-catalana-con-triunfo-ante-el-girona-en-el-debut-de-ndiaye/"
   },
   {
     "date": "2026-09-11",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/MWXSP5GTPNBQRMLO7YECQ6LBLI.jpg?auth=6d0779779baf02c63faca780c114c19aeb228656cdace037847bb34784bf7774&smart=true&width=1920&height=1277",
     "category": null,
-    "text": "Bulgaria se desmarca de la estrategia antidrones de la OTAN",
-    "link": "https://www.infobae.com/america/agencias/2026/09/11/bulgaria-se-desmarca-de-la-estrategia-antidrones-de-la-otan/"
+    "text": "El IPC de Brasil modera su avance en agosto al 4,22% interanual y retrocede un -0,32% mensual",
+    "link": "https://www.infobae.com/america/agencias/2026/09/11/el-ipc-de-brasil-modera-su-avance-en-agosto-al-422-interanual-y-retrocede-un-032-mensual/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/4CUDEFNQNNBOVHXNSMHSFXGULI.JPG?auth=ff3b8d0902082ad8e17530269257ac5bc28edb01b903971cddab4fbfe35fbe82&smart=true&width=4896&height=3264",
+    "category": null,
+    "text": "Checo Pérez recibe fuertes sanciones económicas tras el arranque del Gran Premio de España 2026",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/11/checo-perez-recibe-fuerte-sancion-economica-tras-el-arranque-del-gran-premio-de-espana-2026/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/253XP3LPKFAUTE7MIAH34US4VY.jpg?auth=601442f3919b9cf941d057944b51e20875556ab149e46eba98211a87be213273&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Claudia Sheinbaum pide que director de Birmex aclare herencia millonaria y se haga investigación si es necesaria: “Lo conozco desde hace tiempo”",
+    "link": "https://www.infobae.com/mexico/2026/09/11/claudia-sheinbaum-pide-que-director-de-birmex-aclare-herencia-millonaria-y-se-haga-investigacion-si-es-necesaria-lo-conozco-desde-hace-tiempo/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213447_181842_video_1800.mp4",
+    "category": "Donald Trump",
+    "text": "La sombra de la guerra de Irán planea sobre la conmemoración de Trump del 11-S en el Pentágono",
+    "link": "https://elpais.com/internacional/2026-09-11/la-sombra-de-la-guerra-de-iran-planeo-sobre-la-conmemoracion-de-trump-del-11-s-en-el-pentagono.html"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.youtube.com/watch?v=LSYVZyDk9PQ",
+    "category": "Estados Unidos",
+    "text": "La ausencia de Trump en Nueva York marca el 25º aniversario del 11-S, presidido por el recuerdo a las víctimas",
+    "link": "https://elpais.com/us/2026-09-11/la-ausencia-de-trump-marca-el-25-aniversario-del-11-s-en-nueva-york-presidido-por-el-recuerdo-a-las-victimas.html"
   },
   {
     "date": "2026-09-11",
@@ -236,6 +264,20 @@
     "category": "Ataque contra Irán",
     "text": "El polvorín del mar Rojo se suma al cierre de Ormuz y agrava la crisis petrolera",
     "link": "https://elpais.com/internacional/2026-09-11/el-polvorin-del-mar-rojo-se-suma-al-cierre-de-ormuz-y-agrava-la-crisis-petrolera.html"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://imagenes.elpais.com/resizer/v2/UKQNKSMZEBGNRJHITCL5EZJUSI.jpg?auth=04b3ffce05b65e87be0aa3afe06b71fe6033e05e8c87c8e1ba99e4a6787ef79a",
+    "category": "Opinión",
+    "text": "¿Han ganado los terroristas tras el 11-S?",
+    "link": "https://elpais.com/opinion/2026-09-11/han-ganado-los-terroristas-tras-el-11-s.html"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://imagenes.elpais.com/resizer/v2/6C67XZW3CVL55A4JZRPFGYDOUE.jpg?auth=218a35156e970cb69205c6991e7e4acc664256769e34463132a3128200cd5433",
+    "category": "Alemania",
+    "text": "AfD denuncia a Merz por acusarlos de querer aplicar una “limpieza étnica” en Alemania",
+    "link": "https://elpais.com/internacional/2026-09-11/afd-denuncia-a-merz-por-acusarlos-de-querer-aplicar-una-limpieza-etnica-en-alemania.html"
   },
   {
     "date": "2026-09-11",
@@ -253,101 +295,94 @@
   },
   {
     "date": "2026-09-11",
-    "image": "https://imagenes.elpais.com/resizer/v2/UKQNKSMZEBGNRJHITCL5EZJUSI.jpg?auth=04b3ffce05b65e87be0aa3afe06b71fe6033e05e8c87c8e1ba99e4a6787ef79a",
-    "category": "Opinión",
-    "text": "¿Han ganado los terroristas tras el 11-S?",
-    "link": "https://elpais.com/opinion/2026-09-11/han-ganado-los-terroristas-tras-el-11-s.html"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1213048_181538_video_1800.mp4",
-    "category": "Estados Unidos",
-    "text": "Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán",
-    "link": "https://elpais.com/us/2026-09-11/nueva-york-de-los-recelos-contra-el-islam-tras-el-11-s-a-elegir-a-su-primer-alcalde-musulman.html"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://imagenes.elpais.com/resizer/v2/3XXZLDQ2OBPFJGZORLUOD44KA4.jpg?auth=e7cbdef9e0b9a84c2d17adf37f2f973ff73a5844ba8e2d3ca942f614270cced5",
-    "category": "Holanda",
-    "text": "El primer ministro de Países Bajos, Rob Jetten, reconoce el uso de la inteligencia artificial en sus mensajes",
-    "link": "https://elpais.com/internacional/2026-09-11/el-primer-ministro-de-paises-bajos-rob-jetten-reconoce-el-uso-de-la-inteligencia-artificial-en-sus-mensajes.html"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://imagenes.elpais.com/resizer/v2/QHSWPLFTJRHK7KYIONBUL7B6IQ.jpg?auth=58971d72d9078f6d25a04536a795397e2de2e46ecb1c88d8146056db53599c8d",
-    "category": "Arte TV",
-    "text": "Vídeo | Frente a los ataques rusos: ¿debe la UE cambiar de estrategia?",
-    "link": "https://elpais.com/internacional/2026-09-11/video-frente-a-los-ataques-rusos-debe-la-ue-cambiar-de-estrategia.html"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4082459bf5b01570f1a2c.jpg",
-    "category": null,
-    "text": "China envía una firme advertencia a Italia y la UE",
-    "link": "https://actualidad.rt.com/actualidad/627134-pekin-envia-firme-advertencia-italia?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa40191e9ff716c854bc8c7.jpg",
-    "category": null,
-    "text": "El uso frecuente de la IA puede perjudicar a este tipo de personas",
-    "link": "https://actualidad.rt.com/actualidad/627118-uso-frecuente-ia-puede-perjudicar?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3da32e9ff7127147d0a64.jpg",
-    "category": null,
-    "text": "El enigma que podría ocultarse en las proporciones de la pirámide más famosa de Egipto",
-    "link": "https://actualidad.rt.com/actualidad/627084-enigma-podria-ocultarse-proporciones-piramide-egipto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "image": "https://imagenes.elpais.com/resizer/v2/J4KBILM2MFLKJAFNHKCH7JD3P4.jpg?auth=b90cecefd13bd5fb214889e764d6ea6b19645e25d8ea1821b58570e8a4deb40f",
+    "category": "Migración",
+    "text": "Caen las llegadas irregulares de migrantes a la UE pero aumentan las entradas por la ruta del Mediterráneo hacia Baleares",
+    "link": "https://elpais.com/internacional/2026-09-11/caen-las-llegadas-irregulares-de-migrantes-a-la-ue-pero-aumentan-las-entradas-por-la-ruta-del-mediterraneo-hacia-baleares.html"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Muere la princesa Astrid de Noruega dos semanas después de su hermano, el rey Harald V",
-    "link": "https://actualidad.rt.com/actualidad/627133-muere-princesa-astrid-noruega-94-anos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Tarifas de petroleros alcanzan máximos históricos tras escalada bélica en Oriente Medio",
+    "link": "https://actualidad.rt.com/actualidad/627191-tarifas-petroleros-alcanzar-maximos-historicos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa40170e9ff71164f05ad58.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa43d2459bf5b246409803b.jpg",
     "category": null,
-    "text": "Putin: \"Nuevas locomotoras de desarrollo\" desplazan a los antiguos líderes de la economía mundial",
-    "link": "https://actualidad.rt.com/actualidad/627130-putin-antiguos-lideres-economia-mundial-estan-desplazados-locomotoras-desarrollo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El 'dólar débil' hace despuntar a tres monedas latinoamericanas",
+    "link": "https://actualidad.rt.com/actualidad/627181-dolar-debil-despuntar-tres-monedas-latinoamericanas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3e4ace9ff713c8f31e9cc.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa44b6ee9ff716c854bc91c.jpg",
     "category": null,
-    "text": "Personas condenadas en Berlín permanecieron en libertad por esta insólita razón",
-    "link": "https://actualidad.rt.com/actualidad/627097-condenados-berlin-permanecieron-libertad-insolita-razon?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Putin se reúne con Dilma Rousseff",
+    "link": "https://actualidad.rt.com/actualidad/627189-putin-reune-dilma-rousseff?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3fef7e9ff71112b34ce25.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa43d4259bf5b23b07c64ac.jpg",
     "category": null,
-    "text": "Solo un 18 %: Putin explica cómo los BRICS superaron a los países del G7 en este indicador clave",
-    "link": "https://actualidad.rt.com/actualidad/627124-putin-explica-brics-superaron?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Chevron revela su estrategia de negocios en Venezuela",
+    "link": "https://actualidad.rt.com/actualidad/627182-chevron-revelar-estrategia-negocios-venezuela?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa40056e9ff7127147d0a99.jpg",
+    "image": null,
     "category": null,
-    "text": "VIDEO: Putin llega entre aplausos al Foro Empresarial de los BRICS",
-    "link": "https://actualidad.rt.com/actualidad/627131-video-putin-llegar-aplausos-foro?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Presidente de Guatemala abandona el Palacio Nacional por \"razones de fuerza mayor\"",
+    "link": "https://actualidad.rt.com/actualidad/627186-presidente-guatemala-abandona-palacio-fuerza-mayor?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3f2d359bf5b174d28d8e4.jpeg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa448b6e9ff71112b34ce7f.jpg",
     "category": null,
-    "text": "EE.UU. publica fotos de los abordajes a barcos ecuatorianos antes de bombardearlos",
-    "link": "https://actualidad.rt.com/actualidad/627112-eeuu-publicar-fotos-abordar-barcos-bombardear?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un explosivo mensaje pone plomo en el ala a la campaña de Flávio Bolsonaro",
+    "link": "https://actualidad.rt.com/actualidad/627180-explosivo-mensaje-pone-plomo-ala?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa40517e9ff716c854bc8cd.jpg",
+    "image": null,
     "category": null,
-    "text": "\"Operación a gran escala\": Hutíes revelan sus logros y objetivos contra las fuerzas respaldadas por Arabia Saudita",
-    "link": "https://actualidad.rt.com/actualidad/627132-operacion-gran-escala-huties-revelan-objetivos-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Hijo de Vargas Llosa será el embajador de Perú en EE.UU.",
+    "link": "https://actualidad.rt.com/actualidad/627185-hijo-vargas-llosa-embajador-peru-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa42b9559bf5b0f024b3e55.jpg",
+    "category": null,
+    "text": "Imputan por corrupción a una figura clave del fútbol argentino",
+    "link": "https://actualidad.rt.com/actualidad/627173-imputan-corrupcion-figura-clave-futbol-argentino?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa41c53e9ff7137416dbd96.jpg",
+    "category": null,
+    "text": "Pezeshkian enaltece el papel de Irán en el BRICS y pide reforzar la integración económica",
+    "link": "https://actualidad.rt.com/actualidad/627157-pezeshkian-enaltecer-papel-iran-brics?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa42aca59bf5b0ce77ef889.jpg",
+    "category": null,
+    "text": "Enviado de Putin confirma la participación de la AfD en un foro empresarial entre EE.UU., Rusia y Alemania",
+    "link": "https://actualidad.rt.com/actualidad/627168-enviado-putin-confirma-participacion-afd?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "EURONEWS HOY | Las noticias del viernes 11 de septiembre de 2026: 25 aniversario de los atentados del 11S",
+    "link": "https://es.euronews.com/2026/09/11/euronews-hoy-las-noticias-del-viernes-11-de-septiembre-de-2026-25-aniversario-de-los-atent"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 11 septiembre 2026 - Tarde",
+    "link": "https://es.euronews.com/video/2026/09/11/ultimas-noticias-11-septiembre-2026-tarde"
   },
   {
     "date": "2026-09-11",
@@ -383,40 +418,5 @@
     "category": null,
     "text": "A 25 años del 11S, las historias de los portugueses que murieron en las Torres Gemelas",
     "link": "https://es.euronews.com/2026/09/11/a-25-anos-del-11s-las-historias-de-los-portugueses-que-murieron-en-las-torres-gemelas"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Homenaje a las víctimas del 11S en la convención republicana de mitad de mandato en Dallas",
-    "link": "https://es.euronews.com/2026/09/11/homenaje-a-las-victimas-del-11s-en-la-convencion-republicana-de-mitad-de-mandato-en-dallas"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Los hutíes toman una isla yemení en Bab el-Mandeb y pasan a controalr el estrecho",
-    "link": "https://es.euronews.com/2026/09/11/los-huties-toman-una-isla-yemeni-en-bab-el-mandeb-y-controlan-el-estrecho"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 11 septiembre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/09/11/ultimas-noticias-11-septiembre-2026-mediodia"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Putin llega a Nueva Delhi para una cumbre de los BRICS marcada por los conflictos globales",
-    "link": "https://es.euronews.com/2026/09/11/putin-llega-nueva-delhi-para-una-cumbre-brics-marcada-por-los-conflictos-globales"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Artistas de tiza homenajean a víctimas del vuelo 93 con retratos en el 11-S",
-    "link": "https://es.euronews.com/video/2026/09/11/artistas-de-tiza-homenajean-a-victimas-del-vuelo-93-con-retratos-en-el-11-s"
   }
 ]

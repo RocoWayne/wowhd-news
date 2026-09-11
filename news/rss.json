@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/b009cb20-ade1-11f1-9e43-005056bf30b7/w:1024/p:16x9/ES-20260911-073138-073559-CS.jpg",
+    "category": null,
+    "text": "Cronología: así fueron los atentados terroristas del 11 de septiembre",
+    "link": "https://www.france24.com/es/video/20260911-cronolog%C3%ADa-as%C3%AD-fueron-los-atentados-terroristas-del-11-de-septiembre"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://s.france24.com/media/display/6e74c9c8-addf-11f1-aa7b-005056bf30b7/w:1024/p:16x9/ES-20260911-073620-074201-CS.jpg",
+    "category": null,
+    "text": "Informe desde Nueva York: así serán los homenajes a las víctimas de los atentados del 11-S",
+    "link": "https://www.france24.com/es/video/20260911-informe-desde-nueva-york-as%C3%AD-ser%C3%A1n-los-homenajes-a-las-v%C3%ADctimas-de-los-atentados-del-11-s"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "🔴 Estados Unidos conmemora los 25 años del 11 de septiembre",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260911-en-directo-i-11-s-25-a%C3%B1os-despu%C3%A9s-de-los-atentados-que-cambiaron-la-historia"
+  },
+  {
+    "date": "2026-09-11",
     "image": "https://s.france24.com/media/display/4ccbe91e-ad8f-11f1-84d9-005056a90284/w:1024/p:16x9/AP26245621293293.jpg",
     "category": "EE. UU. y Canadá",
     "text": "Incertidumbre y esperanza: ¿qué hay detrás del silencio sobre la situación de los salvadoreños con TPS en EE. UU.?",
@@ -57,31 +78,59 @@
   },
   {
     "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/9604ce8c-ad78-11f1-8345-005056a90284/w:1024/p:16x9/AP26253489244882.jpg",
-    "category": "Economía",
-    "text": "Banco Central Europeo subió sus tasas de interés al 2,5% por el repunte de la inflación",
-    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260911-banco-central-europeo-subi%C3%B3-sus-tasas-de-inter%C3%A9s-al-2-5-por-el-repunte-de-la-inflaci%C3%B3n"
+    "image": null,
+    "category": null,
+    "text": "Especial interactivo | 11-S: los 149 minutos de caos y terror que cambiaron el mundo",
+    "link": "https://www.bbc.com/mundo/resources/idt-ed9fe44b-4603-411e-8c37-e8a4a232ab89?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/0b4b746e-ad76-11f1-b639-005056a90284/w:1024/p:16x9/ES-20260910-144111-144251-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "La pugna por la sucesión del rey de la monarquía de Tooro, considerado el más joven del mundo",
-    "link": "https://www.france24.com/es/video/20260911-la-pugna-por-la-sucesi%C3%B3n-del-rey-de-la-monarqu%C3%ADa-de-tooro-considerado-el-m%C3%A1s-joven-del-mundo"
+    "text": "25 años del 11-S: quién fue el arquitecto de los ataques que sigue detenido en Guantánamo y otras 5 preguntas básicas",
+    "link": "https://www.bbc.com/mundo/articles/cr50rzejdj3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/af8fee4c-ad76-11f1-8037-005056bf30b7/w:1024/p:16x9/ES-20260910-144317-144456-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Francia retira su apoyo a Infantino para la reelección en la FIFA en marzo de 2027",
-    "link": "https://www.france24.com/es/video/20260911-francia-retira-su-apoyo-a-infantino-para-la-reelecci%C3%B3n-en-la-fifa-en-marzo-de-2027"
+    "text": "5 datos cruciales sobre el estado de la educación en América Latina que revela la última prueba PISA",
+    "link": "https://www.bbc.com/mundo/articles/cly41n2vzd6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
-    "image": "https://s.france24.com/media/display/0f5966f8-ad74-11f1-9f19-005056bf30b7/w:1024/p:16x9/ES-20260910-143216-143514-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Informe desde Lima: Perú se unirá al 'Escudo de las Américas' tras visita de Marco Rubio",
-    "link": "https://www.france24.com/es/video/20260911-informe-desde-lima-per%C3%BA-se-unir%C3%A1-al-escudo-de-las-am%C3%A9ricas-tras-visita-de-marco-rubio"
+    "text": "Quién es la ingeniera Ilya Espino de Marotta, la primera mujer en dirigir el Canal de Panamá (y por qué suele usar un casco rosa)",
+    "link": "https://www.bbc.com/mundo/articles/clyrjpwr485o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "EN VIDEO: cómo se desarrollaron los ataques del 11-S",
+    "link": "https://www.bbc.com/mundo/articles/c1j4zp43x39o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Las 2 causas científicas por las que se cayeron las Torres Gemelas tras el impacto de los aviones el 11 de septiembre de 2001",
+    "link": "https://www.bbc.com/mundo/articles/cx2z51gprlxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "\"De mi padre solo encontraron su casco de bombero\": por qué aún quedan por identificar tantas víctimas 25 años después del 11-S",
+    "link": "https://www.bbc.com/mundo/articles/ce8x4zgw72no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "La historia del vestido de la \"venganza\" que usó Diana de Gales tras la confesión de adulterio de Carlos III y que ahora sale a subasta",
+    "link": "https://www.bbc.com/mundo/articles/c624l137qypo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
@@ -92,94 +141,108 @@
   },
   {
     "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/PHVTV4CD5VEWJC2VCG4XLLI75I.png?auth=665a98c05bfa8c0cae5a53eefb4fbc3cfdf9618084d62836db040ce9f94b1252&smart=true&width=2752&height=1536",
+    "image": null,
     "category": null,
-    "text": "Kábala EN VIVO hoy jueves 10 de setiembre: resultados y números ganadores del sorteo",
-    "link": "https://www.infobae.com/peru/2026/09/11/resultados-de-la-kabala-todos-los-numeros-ganadores-del-jueves-10-de-septiembre-de-2026/"
+    "text": "¿Es la promesa de Trump de pagar US$5.000 a los votantes de EE.UU. una señal de pánico?",
+    "link": "https://www.bbc.com/mundo/articles/cn45w3zyg9po?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/AAGNRANNFBBI5KTVH4B6445NSE.jpg?auth=a8130453b671dce997debddbe3a7a5b3062fb449fe6d280ca521200fae105eb0&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/2KAPBGSCABEOVIDGAE32JN6FVU.jpg?auth=f2b5532f0b6bc564e6eec10ed6fe496da7c4d537b45b0e7b69c417a21e26e9ff&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Madrid ya tiene su “sueño” de la Fórmula 1: un circuito con “rasgos únicos, exigente, técnico y que va a retar a los pilotos”",
-    "link": "https://www.infobae.com/espana/deportes/2026/09/11/madrid-ya-tiene-su-sueno-de-la-formula-1-un-circuito-con-rasgos-unicos-exigente-tecnico-y-que-va-a-retar-a-los-pilotos/"
+    "text": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy 11 de septiembre: reducción del 64% en homicidios diarios en Chiapas",
+    "link": "https://www.infobae.com/mexico/2026/09/11/en-vivo-la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-11-de-septiembre/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/66D4GXPGZBHSLDC7LE7U5JXEZA.jpg?auth=a91c153d94c90825a3b173cb3de125c5ed435028452584ae826d99a636fd0f19&smart=true&width=1716&height=965",
+    "category": null,
+    "text": "El argentino Nicolás Varrone se estrelló contra el muro y detuvo la sesión: hubo cuatro banderas rojas en media hora la qualy en la Fórmula 2",
+    "link": "https://www.infobae.com/deportes/2026/09/11/el-argentino-nicolas-varrone-choco-contra-el-muro-en-la-qualy-de-la-formula-2-y-desato-una-bandera-roja/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/WHUFCOV4VRCURCCVUCKDHUV35Q.jpg?auth=d2da4b458761fa271897bffa2fe51b631983fa6fdd4dea58b9c1e27b9121665d&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Araña casera: estos son los síntomas de alarma tras una mordedura, según especialistas del INS",
+    "link": "https://www.infobae.com/peru/2026/09/11/arana-casera-estos-son-los-sintomas-de-alarma-tras-una-mordedura-segun-especialistas-del-ins/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/2XW3WTJXOZFU7LONBNYU5G3VAY.jpg?auth=29ae10930e2f06e24bfa8fc077780bf5c105c5bcf410e80b80e4691a5b15100e&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Precio del dólar baja en Perú: Así abrió el tipo de cambio hoy 11 de septiembre",
+    "link": "https://www.infobae.com/peru/2026/09/11/dolar-hoy-en-peru-cotizacion-de-apertura-del-11-de-septiembre/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/TORGZM7XJZH4XLG5IOUAZ3TZZA.JPG?auth=32138b340cac9bafd4ef17bc41bad8f6ab7d59e42ab3b0ebf03e08b496c92e6a&smart=true&width=3692&height=2434",
+    "category": null,
+    "text": "Iñaki Williams dice adiós a Ghana: “Me ha dado mucho más que fútbol, me ha permitido sentirme cerca de mis raíces”",
+    "link": "https://www.infobae.com/espana/deportes/2026/09/11/inaki-williams-dice-adios-a-ghana-me-ha-dado-mucho-mas-que-futbol-me-ha-permitido-setirme-cerca-de-mis-raices/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/XWASZF4NRVHKRDGLHXTHVYEIGM.jpg?auth=9675b9addf9ad814d28c0ef0c10894c2c20ee75178721df31948dd18ed3a9b48&smart=true&width=1992&height=1442",
+    "category": null,
+    "text": "Una encuesta revela que, 25 años después del 11-S, la mayoría de los estadounidenses ve un país diferente",
+    "link": "https://www.infobae.com/estados-unidos/2026/09/11/una-encuesta-revela-que-25-anos-despues-del-11-s-la-mayoria-de-los-estadounidenses-ve-un-pais-diferente/"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://www.infobae.com/resizer/v2/NMSMBSN3CRH4FB26T4Q62LJMIA.png?auth=7ede37bbe86c75b22ff029ed0087cf21181032717e76ca87221d1c4581913cf0&smart=true&width=589&height=324",
+    "category": null,
+    "text": "Sueños Compartidos: el Tribunal Oral Federal 5 postergó el veredicto para el lunes 14 de septiembre",
+    "link": "https://www.infobae.com/judiciales/2026/09/11/suenos-compartidos-el-tribunal-oral-federal-5-postergo-el-veredicto-para-el-lunes-14-de-septiembre/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Dimite el jefe de Gabinete del delegado del Gobierno en Ceuta tras los informes del CNI",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/11/dimite-el-jefe-de-gabinete-del-delegado-del-gobierno-en-ceuta-tras-los-informes-del-cni/"
+    "text": "Ayuso reta a la oposición y dice que dimitirá si demuestran que mintió sobre el ático",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/11/ayuso-reta-a-la-oposicion-y-dice-que-dimitira-si-demuestran-que-mintio-sobre-el-atico/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Otra noche de incendios en Ceuta: 42 chabolas de migrantes, coches y contenedores quemados",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/11/otra-noche-de-incendios-en-ceuta-42-chabolas-de-migrantes-coches-y-contenedores-quemados/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/LBCDILW2Z5CNBEMME5FK7KSBWI.jpg?auth=c898f0e33c5b254fee40c791ffb2feab07acacafbfba547bf1f09fa343d25f01&smart=true&width=1920&height=1141",
-    "category": null,
-    "text": "Más de 600 TB de datos y 300 expertos TI: así es el despliegue tecnológico detrás del Gran Premio de F1 de Madrid",
-    "link": "https://www.infobae.com/america/agencias/2026/09/11/mas-de-600-tb-de-datos-y-300-expertos-ti-asi-es-el-despliegue-tecnologico-detras-del-gran-premio-de-f1-de-madrid/"
+    "text": "Fiscalía e Infancia coinciden en acelerar el traslado de niños desde Ceuta a la Península",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/11/fiscalia-e-infancia-coinciden-en-acelerar-el-traslado-de-ninos-desde-ceuta-a-la-peninsula/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Emma Bonino, una vida en defensa de la libertad, las mujeres y el europeísmo",
-    "link": "https://www.infobae.com/america/agencias/2026/09/11/emma-bonino-una-vida-en-defensa-de-la-libertad-las-mujeres-y-el-europeismo/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/LSY2MAPHOJHDXIIKYYJC3XRVPA.jpg?auth=506f7c0196f886308f4bd411c67a3447d01127953a6e73f0676fdda056be949a&smart=true&width=1920&height=1281",
-    "category": null,
-    "text": "Joan Laporta reafirma su defensa \"de la catalanidad\", de la lengua y de la cultura",
-    "link": "https://www.infobae.com/america/agencias/2026/09/11/joan-laporta-reafirma-su-defensa-de-la-catalanidad-de-la-lengua-y-de-la-cultura/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/M4IGPZPSXRGJDHCD6HBQ6NGUL4.jpg?auth=b3b89ae6d4fa300f3bea8a5e1d0e68038a5ee2172547da08bd47332f48408e1e&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Resultados de la Triplex de la Once: sorteo 1 de las 10:00",
-    "link": "https://www.infobae.com/espana/2026/09/11/resultados-de-la-triplex-de-la-once-sorteo-1-de-las-1000/"
+    "text": "Los bomberos trabajan en la extinción de un incendio en un pinar de Carcastillo (Navarra)",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/11/los-bomberos-trabajan-en-la-extincion-de-un-incendio-en-un-pinar-de-carcastillo-navarra/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Kelso se aprovecha de las adversas condiciones del asfalto del trazado del Adriático",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/11/kelso-se-aprovecha-de-las-adversas-condiciones-del-asfalto-del-trazado-del-adriatico/"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/3ILGKLHQGRFRNPPI7GZTTEWNJY.jpg?auth=766a8439634a13cc592858810af518c4803c09ec14e931b557613652c5c4b5fa&smart=true&width=1920&height=2205",
-    "category": null,
-    "text": "Quintana, de 'Canarias, 1500 Km de Costa', lleva la prevención de ahogamientos a una cárcel de Uruguay",
-    "link": "https://www.infobae.com/america/agencias/2026/09/11/quintana-de-canarias-1500-km-de-costa-lleva-la-prevencion-de-ahogamientos-a-una-carcel-de-uruguay/"
+    "text": "Infografías del viernes 11 de septiembre",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/11/infografias-del-viernes-11-de-septiembre/"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "China confirma una reunión entre Xi y Modi en los márgenes de la cumbre de los BRICS",
-    "link": "https://www.infobae.com/america/agencias/2026/09/11/china-confirma-una-reunion-entre-xi-y-modi-en-los-margenes-de-la-cumbre-de-los-brics/"
+    "text": "Bulgaria se desmarca de la estrategia antidrones de la OTAN",
+    "link": "https://www.infobae.com/america/agencias/2026/09/11/bulgaria-se-desmarca-de-la-estrategia-antidrones-de-la-otan/"
   },
   {
     "date": "2026-09-11",
-    "image": "https://www.infobae.com/resizer/v2/OMQZCFXMTNF57NUFGR4TYQC6IE.jpg?auth=fe45ccc35674aae6065105f5f613f1f72369d57f6f57e87e6085e216ed414275&smart=true&width=2000&height=1640",
-    "category": null,
-    "text": "Las 17 imágenes más impactantes del atentado del 11 de septiembre en EEUU que dieron la vuelta al mundo",
-    "link": "https://www.infobae.com/fotos/2026/09/11/las-17-imagenes-mas-impactantes-del-atentado-del-11-de-septiembre-en-eeuu-que-dieron-la-vuelta-al-mundo/"
+    "image": "https://imagenes.elpais.com/resizer/v2/45GU4EHEKJM3HMHN5HGCYTK6IU.jpg?auth=e995d345ae462478dff952003abd9837317e298f076a0745e5829838b0e859ca",
+    "category": "Ataque contra Irán",
+    "text": "El polvorín del mar Rojo se suma al cierre de Ormuz y agrava la crisis petrolera",
+    "link": "https://elpais.com/internacional/2026-09-11/el-polvorin-del-mar-rojo-se-suma-al-cierre-de-ormuz-y-agrava-la-crisis-petrolera.html"
   },
   {
     "date": "2026-09-11",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1213048_181538_video_1800.mp4",
-    "category": "Estados Unidos",
-    "text": "Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán",
-    "link": "https://elpais.com/us/2026-09-11/nueva-york-de-los-recelos-contra-el-islam-tras-el-11-s-a-elegir-a-su-primer-alcalde-musulman.html"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213168_061748_video_1800.mp4",
+    "category": "Elecciones EE UU",
+    "text": "Vance presenta sus credenciales de candidato presidencial para 2028 en el cierre del ‘Trump-a-palooza’",
+    "link": "https://elpais.com/us/2026-09-11/vance-presenta-sus-credenciales-de-candidato-presidencial-para-2028-en-el-cierre-del-trump-a-palooza.html"
   },
   {
     "date": "2026-09-11",
@@ -197,87 +260,150 @@
   },
   {
     "date": "2026-09-11",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213168_061748_video_1800.mp4",
-    "category": "Elecciones EE UU",
-    "text": "Vance presenta sus credenciales de candidato presidencial para 2028 en el cierre del ‘Trump-a-palooza’",
-    "link": "https://elpais.com/us/2026-09-11/vance-presenta-sus-credenciales-de-candidato-presidencial-para-2028-en-el-cierre-del-trump-a-palooza.html"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1213048_181538_video_1800.mp4",
+    "category": "Estados Unidos",
+    "text": "Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán",
+    "link": "https://elpais.com/us/2026-09-11/nueva-york-de-los-recelos-contra-el-islam-tras-el-11-s-a-elegir-a-su-primer-alcalde-musulman.html"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3be3959bf5b5d4b234de6.jpg",
-    "category": null,
-    "text": "China: Los BRICS son \"la primera línea del Sur Global\"",
-    "link": "https://actualidad.rt.com/actualidad/627070-china-brics-primera-linea?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "image": "https://imagenes.elpais.com/resizer/v2/3XXZLDQ2OBPFJGZORLUOD44KA4.jpg?auth=e7cbdef9e0b9a84c2d17adf37f2f973ff73a5844ba8e2d3ca942f614270cced5",
+    "category": "Holanda",
+    "text": "El primer ministro de Países Bajos, Rob Jetten, reconoce el uso de la inteligencia artificial en sus mensajes",
+    "link": "https://elpais.com/internacional/2026-09-11/el-primer-ministro-de-paises-bajos-rob-jetten-reconoce-el-uso-de-la-inteligencia-artificial-en-sus-mensajes.html"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3acb959bf5b5b6816931e.jpg",
-    "category": null,
-    "text": "Canciller ruso se pronuncia sobre las teorías conspirativas del 11-S",
-    "link": "https://actualidad.rt.com/actualidad/627065-canciller-ruso-abordar-teorias-conspirativas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "image": "https://imagenes.elpais.com/resizer/v2/QHSWPLFTJRHK7KYIONBUL7B6IQ.jpg?auth=58971d72d9078f6d25a04536a795397e2de2e46ecb1c88d8146056db53599c8d",
+    "category": "Arte TV",
+    "text": "Vídeo | Frente a los ataques rusos: ¿debe la UE cambiar de estrategia?",
+    "link": "https://elpais.com/internacional/2026-09-11/video-frente-a-los-ataques-rusos-debe-la-ue-cambiar-de-estrategia.html"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3a7ad59bf5b5c89524420.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4082459bf5b01570f1a2c.jpg",
     "category": null,
-    "text": "Israel detona en el Líbano 1.100 toneladas de explosivos y provoca un sismo de magnitud 4,1 (VIDEOS)",
-    "link": "https://actualidad.rt.com/actualidad/627060-israel-detonar-supuestos-tuneles-estrategicos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "China envía una firme advertencia a Italia y la UE",
+    "link": "https://actualidad.rt.com/actualidad/627134-pekin-envia-firme-advertencia-italia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3af5459bf5b31720711a0.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa40191e9ff716c854bc8c7.jpg",
     "category": null,
-    "text": "Canciller iraní reacciona al reconocimiento por el jefe de Marina de EE.UU. de los daños en una base clave",
-    "link": "https://actualidad.rt.com/actualidad/627058-canciller-irani-reacciona-reconocimiento-jefe-marina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El uso frecuente de la IA puede perjudicar a este tipo de personas",
+    "link": "https://actualidad.rt.com/actualidad/627118-uso-frecuente-ia-puede-perjudicar?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3a019e9ff7155f43645e7.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3da32e9ff7127147d0a64.jpg",
     "category": null,
-    "text": "VIDEO en Convención Republicana: \"Dios creó a Trump\"",
-    "link": "https://actualidad.rt.com/actualidad/627061-video-convencion-republicana-proclamar-dios?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3a67c59bf5b2fe15a30a5.jpg",
-    "category": null,
-    "text": "El Kremlin avisa de las consecuencias si un país fronterizo decide levantar el veto nuclear",
-    "link": "https://actualidad.rt.com/actualidad/627063-kremlin-avisa-consecuencias-pais-fronterizo-nuclear?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3a013e9ff713c963c4b74.jpg",
-    "category": null,
-    "text": "¿Bananera del siglo XXI?: Cepeda evoca 'Cien años de soledad' para avisar del riesgo de firmar un acuerdo con EE.UU.",
-    "link": "https://actualidad.rt.com/actualidad/627057-bananera-siglo-xxi-cepeda-decir?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El enigma que podría ocultarse en las proporciones de la pirámide más famosa de Egipto",
+    "link": "https://actualidad.rt.com/actualidad/627084-enigma-podria-ocultarse-proporciones-piramide-egipto?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Rusia destruye un centro de datos en Kiev que almacenaba información de inteligencia ucraniana",
-    "link": "https://actualidad.rt.com/actualidad/627062-rusia-destruye-centro-datos-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Muere la princesa Astrid de Noruega dos semanas después de su hermano, el rey Harald V",
+    "link": "https://actualidad.rt.com/actualidad/627133-muere-princesa-astrid-noruega-94-anos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa38cb3e9ff7114a869805e.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa40170e9ff71164f05ad58.jpg",
     "category": null,
-    "text": "Trump admite que la guerra contra Irán se prolongó \"un poco más\" de lo previsto",
-    "link": "https://actualidad.rt.com/actualidad/627055-trump-reconocer-guerra-iran-prolongar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Putin: \"Nuevas locomotoras de desarrollo\" desplazan a los antiguos líderes de la economía mundial",
+    "link": "https://actualidad.rt.com/actualidad/627130-putin-antiguos-lideres-economia-mundial-estan-desplazados-locomotoras-desarrollo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3e4ace9ff713c8f31e9cc.jpg",
+    "category": null,
+    "text": "Personas condenadas en Berlín permanecieron en libertad por esta insólita razón",
+    "link": "https://actualidad.rt.com/actualidad/627097-condenados-berlin-permanecieron-libertad-insolita-razon?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3fef7e9ff71112b34ce25.png",
+    "category": null,
+    "text": "Solo un 18 %: Putin explica cómo los BRICS superaron a los países del G7 en este indicador clave",
+    "link": "https://actualidad.rt.com/actualidad/627124-putin-explica-brics-superaron?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa40056e9ff7127147d0a99.jpg",
+    "category": null,
+    "text": "VIDEO: Putin llega entre aplausos al Foro Empresarial de los BRICS",
+    "link": "https://actualidad.rt.com/actualidad/627131-video-putin-llegar-aplausos-foro?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa3f2d359bf5b174d28d8e4.jpeg",
+    "category": null,
+    "text": "EE.UU. publica fotos de los abordajes a barcos ecuatorianos antes de bombardearlos",
+    "link": "https://actualidad.rt.com/actualidad/627112-eeuu-publicar-fotos-abordar-barcos-bombardear?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-11",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa40517e9ff716c854bc8cd.jpg",
+    "category": null,
+    "text": "\"Operación a gran escala\": Hutíes revelan sus logros y objetivos contra las fuerzas respaldadas por Arabia Saudita",
+    "link": "https://actualidad.rt.com/actualidad/627132-operacion-gran-escala-huties-revelan-objetivos-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "China revela en qué área planea llegar a ser una potencia mundial para 2030",
-    "link": "https://actualidad.rt.com/actualidad/627059-china-revelar-sector-buscar-potencia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Cali, en Colombia, recuerda a las víctimas del terremoto un mes después",
+    "link": "https://es.euronews.com/video/2026/09/11/cali-en-colombia-recuerda-a-las-victimas-del-terremoto-un-mes-despues"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Miles de banderas honran a las víctimas del 11-S en una universidad de Malibú",
+    "text": "Estados Unidos conmemora el 25 aniversario del 11S entre el recuerdo de las víctimas y las secuelas",
+    "link": "https://es.euronews.com/2026/09/11/estados-unidos-conmemora-25-aniversario-del-11-s-entre-recuerdo-victimas-secuelas"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Miles de banderas honran a las víctimas del 11S en una universidad de Malibú",
     "link": "https://es.euronews.com/video/2026/09/11/miles-de-banderas-honran-a-las-victimas-del-11-s-en-una-universidad-de-malibu"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Un gran incendio arrasa mercado de Marsella cerca de la estación de Saint-Charles",
+    "link": "https://es.euronews.com/video/2026/09/11/gran-incendio-arrasa-mercado-de-marsella-cerca-de-la-estacion-de-saint-charles"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "A 25 años del 11S, las historias de los portugueses que murieron en las Torres Gemelas",
+    "link": "https://es.euronews.com/2026/09/11/a-25-anos-del-11s-las-historias-de-los-portugueses-que-murieron-en-las-torres-gemelas"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Homenaje a las víctimas del 11S en la convención republicana de mitad de mandato en Dallas",
+    "link": "https://es.euronews.com/2026/09/11/homenaje-a-las-victimas-del-11s-en-la-convencion-republicana-de-mitad-de-mandato-en-dallas"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Los hutíes toman una isla yemení en Bab el-Mandeb y pasan a controalr el estrecho",
+    "link": "https://es.euronews.com/2026/09/11/los-huties-toman-una-isla-yemeni-en-bab-el-mandeb-y-controlan-el-estrecho"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 11 septiembre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/09/11/ultimas-noticias-11-septiembre-2026-mediodia"
   },
   {
     "date": "2026-09-11",
@@ -290,133 +416,7 @@
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Estados Unidos conmemora el 25 aniversario del 11-S entre el recuerdo de las víctimas y las secuelas",
-    "link": "https://es.euronews.com/2026/09/11/estados-unidos-conmemora-25-aniversario-del-11-s-entre-recuerdo-victimas-secuelas"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
     "text": "Artistas de tiza homenajean a víctimas del vuelo 93 con retratos en el 11-S",
     "link": "https://es.euronews.com/video/2026/09/11/artistas-de-tiza-homenajean-a-victimas-del-vuelo-93-con-retratos-en-el-11-s"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Hong Kong condena a los activistas de la vigilia de Tiananmén a entre 5 y 7 años de cárcel",
-    "link": "https://es.euronews.com/2026/09/11/hong-kong-condena-a-activistas-de-la-vigilia-de-tiananmen-a-entre-5-y-7-anos-de-carcel"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Qatar Airways por dentro: cifras de pasajeros, nuevos aviones y vuelos de invierno",
-    "link": "https://es.euronews.com/2026/09/11/qatar-airways-por-dentro-cifras-de-pasajeros-nuevos-aviones-y-vuelos-de-invierno"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos y le cierra su espacio aéreo",
-    "link": "https://es.euronews.com/2026/09/11/argelia-rompe-relaciones-diplomaticas-emiratos-arabes-unidos-cierra-su-espacio-aereo"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Un ataque israelí en Gaza mata a una familia de cuatro personas, incluidos dos niños",
-    "link": "https://es.euronews.com/2026/09/11/un-ataque-israeli-en-gaza-mata-a-una-familia-de-cuatro-personas-incluidos-dos-ninos"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 11 septiembre 2026 - Mañana",
-    "link": "https://es.euronews.com/video/2026/09/11/ultimas-noticias-11-septiembre-2026-manana"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "25 años del 11-S: quién fue el arquitecto de los ataques que sigue detenido en Guantánamo y otras 5 preguntas básicas",
-    "link": "https://www.bbc.com/mundo/articles/cr50rzejdj3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "¿Es legal que Trump prometa entregar US$5.000 a cada estadounidense si los republicanos ganan las elecciones de noviembre?",
-    "link": "https://www.bbc.com/mundo/articles/c62jlnne88ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "La IA es cada vez más difícil de dominar: ¿podrán los seres humanos mantener el control?",
-    "link": "https://www.bbc.com/mundo/articles/cd94yn9834zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina",
-    "link": "https://www.bbc.com/mundo/articles/c980ndj537eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "La lucha por la sucesión en el seno de la familia real de Uganda tras la muerte del monarca más joven del mundo",
-    "link": "https://www.bbc.com/mundo/articles/c0lrk15j391o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
-    "link": "https://www.bbc.com/mundo/articles/c0lrk4zn809o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "\"Sobreviví al 11-S porque llegué más tarde a trabajar a las Torres Gemelas. Y a veces me siento culpable\"",
-    "link": "https://www.bbc.com/mundo/articles/cwyzqyzn7l3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "Qué busca De la Espriella con sus polémicas imágenes caminando entre cadáveres en Colombia que un juez le ordenó retirar",
-    "link": "https://www.bbc.com/mundo/articles/c87ve8gr0llo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "\"Creé de la nada un imperio de la moda que me hizo multimillonaria, pero creció tanto que acabé en la bancarrota\"",
-    "link": "https://www.bbc.com/mundo/articles/cx2z7krr2pgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": null,
-    "category": null,
-    "text": "Trump promete US$5.000 a cada adulto estadounidense y otras 3 claves de la convención republicana previa a las elecciones de medio término",
-    "link": "https://www.bbc.com/mundo/articles/cj06y0qm11lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1212770_042639_video_1800.mp4",
-    "category": "Elecciones EE UU",
-    "text": "Trump promete 5.000 dólares a “todos los estadounidenses adultos” si los republicanos ganan las elecciones legislativas",
-    "link": "https://elpais.com/us/2026-09-10/trump-promete-en-el-trump-a-palooza-un-bono-de-5000-dolares-si-los-republicanos-ganan-las-midterms.html"
-  },
-  {
-    "date": "2026-09-10",
-    "image": "https://imagenes.elpais.com/resizer/v2/IFOFEWJVLZHW3DL3QEDXZFE6VE.jpg?auth=dba2a2fe91dea07f7c4dc0aa377375290426b01f88260b0211290aa18e8d92cc",
-    "category": "Opinión",
-    "text": "La guerra de la ultraderecha contra la Bauhaus",
-    "link": "https://elpais.com/opinion/2026-09-10/la-guerra-de-la-ultraderecha-contra-la-bauhaus.html"
   }
 ]

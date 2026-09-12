@@ -1,6 +1,13 @@
 [
   {
     "date": "2026-09-12",
+    "image": "https://s.france24.com/media/display/fcfd196a-ae67-11f1-8755-005056bfb2b6/w:1024/p:16x9/000-C82R6NQ.jpg",
+    "category": "Medio Oriente",
+    "text": "En directo: Irak confirma origen del ataque que obligó a cerrar un oleoducto clave en Arabia Saudita",
+    "link": "https://www.france24.com/es/medio-oriente/20260912-en-directo-irak-confirma-origen-del-ataque-que-oblig%C3%B3-a-cerrar-un-oleoducto-clave-en-arabia-saudita"
+  },
+  {
+    "date": "2026-09-12",
     "image": "https://s.france24.com/media/display/fffd5d28-ae58-11f1-906a-005056a97e36/w:1024/p:16x9/capture-4416754806aa4c525989161-05169657.jpg",
     "category": null,
     "text": "25 años del 11-S: cómo el atentado disparó la islamofobia contra los musulmanes en EE. UU.",
@@ -78,10 +85,17 @@
   },
   {
     "date": "2026-09-12",
-    "image": "https://s.france24.com/media/display/f209af6e-ae3a-11f1-b481-005056bfb2b6/w:1024/p:16x9/ES-20260911-144218-144410-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Inicia en Nueva Delhi la cumbre de los BRICS, marcada por divisiones internas y crisis globales",
-    "link": "https://www.france24.com/es/video/20260912-inicia-en-nueva-delhi-la-cumbre-de-los-brics-marcada-por-divisiones-internas-y-crisis-globales"
+    "text": "\"Me iban a ejecutar y él me salvó la vida\": Jorge Silva, el capitán de la Fuerza Aérea de Chile que desafió las órdenes de los golpistas y terminó torturado",
+    "link": "https://www.bbc.com/mundo/articles/ced792eyg7po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "Las protestas y conmemoraciones en Chile tras la decisión de Kast de no celebrar ceremonias oficiales por el golpe de Estado contra Salvador Allende",
+    "link": "https://www.bbc.com/mundo/articles/cz9z15k5kxpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-12",
@@ -92,94 +106,122 @@
   },
   {
     "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/A5E6RRPID5EC3EAVC2PFTR4WTY.jpg?auth=9a23682e633aa48c67fa8b83d45a036226cc816b886a924151d37f5f0a94480a&smart=true&width=1920&height=1440",
+    "image": null,
     "category": null,
-    "text": "LAP57 Madrid Race Week llega a Madrid con un cartel internacional de música electrónica",
-    "link": "https://www.infobae.com/america/agencias/2026/09/12/lap57-madrid-race-week-llega-a-madrid-con-un-cartel-internacional-de-musica-electronica/"
+    "text": "Cómo el rápido avance de los hutíes en Yemen puede sumar una nueva y peligrosa dimensión a la guerra de Irán",
+    "link": "https://www.bbc.com/mundo/articles/crr4elkypzyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/3JZINDNU6BDW3HO5CAWGJ4OURM.png?auth=a27a5a77dc0986754b8e955b3763092e869e724ec690e7fc7471aef8ae87f32b&smart=true&width=1536&height=1024",
+    "category": null,
+    "text": "Temblor hoy en Perú EN VIVO: último sismo en Ica, epicentro y reporte del IGP del 12 de septiembre de 2026",
+    "link": "https://www.infobae.com/peru/2026/09/12/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-12-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/G5C5TXMMUBF6FMS5O25WJJ6XWM.jpg?auth=4c61da22739482b3db742acd9155dfb730d569aab4fecadfc28d6dfdba3154d0&smart=true&width=1024&height=576",
+    "category": null,
+    "text": "FBI tras la pista de abogada colombiana y un expolicía que alertaron a poderosos capos sobre millonaria incautación de bienes",
+    "link": "https://www.infobae.com/colombia/2026/09/12/fbi-tras-la-pista-de-abogada-colombiana-y-un-expolicia-que-alertaron-a-poderosos-capos-sobre-millonaria-incautacion-de-bienes/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/7Y77ETA2PRGSHHZHLQVCEC2R24.jpg?auth=873c8724f379f4832c79baee6c801d8b0bf84fb5cce19cadb475a09793ac7f90&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Sporting Cristal vs CD Moquegua se reprogramó: nuevo horario del duelo por la fecha 9 del Torneo Clausura de la Liga 1 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/12/sporting-cristal-vs-cd-moquegua-se-reprogramo-nuevo-horario-del-duelo-por-la-fecha-9-del-torneo-clausura-de-la-liga-1-2026/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/RNJGT3U4ABEOHO4HC7PGTX2DQI.png?auth=4d4594c279143888d2e4e3b6e2de58b0160c8aa4a3283acddc1222b6e9e1266c&smart=true&width=1536&height=1024",
+    "category": null,
+    "text": "Precio del GNV, GLP, diésel y gasolina en Perú para hoy, sábado 12 de septiembre de 2026",
+    "link": "https://www.infobae.com/peru/2026/09/12/precio-del-gnv-glp-diesel-y-gasolina-en-peru-para-hoy-sabado-12-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/O7U46CIMQJEGJKX64FZEG2I7CQ.jpg?auth=687046243c602c6bc5916a646921fc929db54e35ebe01c21842a41185e90a99a&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Efemérides del 12 de septiembre: Hoy se recuerda la caída y captura del terrorista y líder de Sendero Luminoso Abimael Guzmán",
+    "link": "https://www.infobae.com/peru/2026/09/12/efemerides-del-12-de-septiembre-hoy-se-recuerda-la-caida-y-captura-del-terrorista-y-lider-de-sendero-luminoso-abimael-guzman/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/EDO45U5CEJGERBFJLNZNZRQNUY.JPG?auth=cc1e8789a19ff2b08c5d224bd5ca4ec453a5d95f8671fe8d0813f69ac1b6526c&smart=true&width=1280&height=720",
+    "category": null,
+    "text": "Combustibles en Lima: El alza del petróleo eleva los combustibles en Lima y amenaza con llevar el galón a 30 soles",
+    "link": "https://www.infobae.com/peru/2026/09/12/combustibles-en-lima-el-alza-del-petroleo-eleva-los-combustibles-en-lima-y-amenaza-con-llevar-el-galon-a-30-soles/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/E33XNCIBMRGKRPQ4OBJ3HWBHIE.png?auth=f9436129b81b3154a6eac48ce02852413a6a315de9c13b9cd032a601a02249da&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Apple da un año gratis de servicios satelitales para emergencias y asistencia en carreteras",
+    "link": "https://www.infobae.com/tecno/2026/09/12/si-tienes-un-iphone-14-o-superior-apple-te-ofrece-un-ano-gratis-de-servicios-satelitales/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/I7Y55GAGBFD4TFDVBSJW2DOH3M.JPG?auth=f5bc6104e4933d8d4fd194f129402e57bc53a82eabec136ba68409136815496c&smart=true&width=1280&height=720",
+    "category": null,
+    "text": "Por qué recomiendan no beber gaseosa directamente de una lata",
+    "link": "https://www.infobae.com/peru/2026/09/12/por-que-recomiendan-no-beber-gaseosa-directamente-de-una-lata/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/AXPYMW3WRVAKVHEZRUFTVOXTIU.jpg?auth=d5941d29968504b1002d6a01ad0171be1d494a06f761943853c96c05bfb4bb56&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Irene Montero promete someterse a unas primarias abiertas a toda la izquierda para ser candidata a las generales",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/12/irene-montero-promete-someterse-a-unas-primarias-abiertas-a-toda-la-izquierda-para-ser-candidata-a-las-generales/"
   },
   {
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "Trump aterriza en Irlanda para reunirse con las autoridades y asistir a un torneo de golf",
-    "link": "https://www.infobae.com/america/agencias/2026/09/12/trump-aterriza-en-irlanda-para-reunirse-con-las-autoridades-y-asistir-a-un-torneo-de-golf/"
+    "text": "Filman a soldado israelí disparando en la pierna a palestino durante un ataque de colonos",
+    "link": "https://www.infobae.com/america/agencias/2026/09/12/filman-a-soldado-israeli-disparando-en-la-pierna-a-palestino-durante-un-ataque-de-colonos/"
   },
   {
     "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/QMAYBDGUENGNNFUNVDMBRU6AMI.jpg?auth=ae87242cd62cb1254dc484fb8e4c7efb3d8a26feff74a7dfe547a031aec89021&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/ZYZSWSX7AJBLTJIK4A7IVDST44.png?auth=81da7cf1bdec50b5cd95e5d77cf0a5d6a5fa381b816015633ed086d83b5bc14a&smart=true&width=1890&height=1063",
     "category": null,
-    "text": "Un tren regional descarriló en Francia y dejó un saldo de 44 heridos: la Policía investiga si fue un sabotaje",
-    "link": "https://www.infobae.com/america/mundo/2026/09/12/un-tren-regional-descarrilo-en-francia-y-dejo-un-saldo-de-44-heridos-la-policia-investiga-si-fue-un-sabotaje/"
+    "text": "De $5 a $27 millones tendría que gastar una persona en promedio para poder tener un arma de fuego en Colombia: la lista completa",
+    "link": "https://www.infobae.com/colombia/2026/09/12/de-5-a-27-millones-tendria-que-gastar-una-persona-en-promedio-para-poder-tener-un-arma-de-fuego-en-colombia-la-lista-completa/"
   },
   {
     "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/3B6BRORUQJB5JAJLO4VFKUN5NA.jpg?auth=49385a17534d1829d30d5a6332b45de17f3fbfbbc58185e8e383efc08e97f556&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/TLIFN26CFRC4VD5VGZRMCAI2AI.JPG?auth=65a956f49086c59582e4fcce6bc99f6fff26bca8adb8ec5bee27e3a374e0bba5&smart=true&width=1280&height=720",
     "category": null,
-    "text": "Amílcar Olán, amigo de Andy y Bobby López Beltrán, financió a Marina del Pilar en BC, revela Loret de Mola",
-    "link": "https://www.infobae.com/mexico/2026/09/12/amilcar-olan-amigo-de-andy-y-bobby-lopez-beltran-financio-a-marina-del-pilar-en-bc-revela-loret-de-mola/"
+    "text": "Escasez de pescado en el Callao: El bonito y el jurel suben hasta ocho soles por kilo en el Callao",
+    "link": "https://www.infobae.com/peru/2026/09/12/escasez-de-pescado-en-el-callao-el-bonito-y-el-jurel-suben-hasta-ocho-soles-por-kilo-en-el-callao/"
   },
   {
     "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/6JB5JMWNFVFZ5PZJJWBYDFNMFM.png?auth=0374c0296ca857dfd77f82af6e669fe70ea85c069ad0f5365ac3df7941ca18b6&smart=true&width=1536&height=1024",
-    "category": null,
-    "text": "La Justicia Federal avanzará con la causa contra las petroleras extranjeras acusadas de explotar petróleo en Malvinas",
-    "link": "https://www.infobae.com/politica/2026/09/12/la-justicia-federal-avanzara-con-la-causa-contra-las-petroleras-extranjeras-acusadas-de-explotar-petroleo-en-malvinas/"
+    "image": "https://imagenes.elpais.com/resizer/v2/6SYIKYRV4BPMXKIPJH24BSSSQQ.jpg?auth=be5136e3cc5ca8882eb9d34f2b0bca031fbb9ab2d7b006347b6a562b0325b311",
+    "category": "Arabia Saudí",
+    "text": "Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave",
+    "link": "https://elpais.com/internacional/2026-09-12/trump-rechaza-auxiliar-a-arabia-saudi-en-el-mar-rojo-pese-al-cierre-de-un-oleoducto-clave.html"
   },
   {
     "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/DGPTK7QUKFH2NFQKCBAZQXMLII.jpg?auth=ab221ecbc47fdce08263370f32925cf520d3731d0c38a61419fef89a0bd5032c&smart=true&width=1920&height=1465",
-    "category": null,
-    "text": "Aitana ya sabe que es una estrella: Madrid afianza su estatus de reina del pop con un espectáculo sin espacio a la improvisación",
-    "link": "https://www.infobae.com/espana/cultura/2026/09/12/aitana-ya-sabe-que-es-una-estrella-madrid-afianza-su-estatus-de-reina-del-pop-con-un-espectaculo-sin-espacio-a-la-improvisacion/"
+    "image": "https://imagenes.elpais.com/resizer/v2/K5STT54HTJGGNNRFEWLJTQZVUU.JPG?auth=6a01e73ee9b62d73a751165ea911cd86e1a301b4e7191b0ae909a40c824f9ed0",
+    "category": "Suecia",
+    "text": "Suecia vota este domingo en unas elecciones bajo la sombra de las bandas criminales",
+    "link": "https://elpais.com/internacional/2026-09-12/suecia-vota-bajo-la-sombra-de-las-bandas-criminales.html"
   },
   {
     "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "'Ya no llama nadie', un cómic que visibiliza la soledad del anciano \"de domingo a domingo\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/12/ya-no-llama-nadie-un-comic-que-visibiliza-la-soledad-del-anciano-de-domingo-a-domingo/"
+    "image": "https://imagenes.elpais.com/resizer/v2/2RVXSVY3FRNYHACMK6CZTSSAMM.jpg?auth=6cfff728e8991727492fb1d43167c60f9c81cda432dea61bb4f42ec8ce233d34",
+    "category": "China",
+    "text": "Los BRICS ponen a prueba su unidad tras dos décadas de expansión",
+    "link": "https://elpais.com/internacional/2026-09-12/los-brics-ponen-a-prueba-su-unidad-tras-dos-decadas-de-expansion.html"
   },
   {
     "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "La expansión de los centros de datos pone a prueba los recursos hídricos de España",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/12/la-expansion-de-los-centros-de-datos-pone-a-prueba-los-recursos-hidricos-de-espana/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "La agencia Sandra Bruna cumple 25 años e impulsa un servicio de acompañamiento literario",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/12/la-agencia-sandra-bruna-cumple-25-anos-e-impulsa-un-servicio-de-acompanamiento-literario/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/VVPKEMKEXJD43H7UYY2WR3N4NM.jpg?auth=6f668700ed6f23fc7f77574082315a864ccbfe1cb714415955e144ad44ae3571&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Ceuta, el expediente de un “ataque híbrido” sin autor confirmado: qué haría falta para confirmar si Marruecos estuvo detrás o no",
-    "link": "https://www.infobae.com/espana/2026/09/12/ceuta-el-expediente-de-un-ataque-hibrido-sin-autor-confirmado-que-haria-falta-para-confirmar-si-marruecos-estuvo-detras-o-no/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "'El Patrón Perfecto': El tesón de un niño con autismo para romper su silencio con dibujos",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/12/el-patron-perfecto-el-teson-de-un-nino-con-autismo-para-romper-su-silencio-con-dibujos/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "Ni todo avance implica progreso ni hay que dar a IA autonomía que ninguna tecnología tuvo",
-    "link": "https://www.infobae.com/america/agencias/2026/09/12/ni-todo-avance-implica-progreso-ni-hay-que-dar-a-ia-autonomia-que-ninguna-tecnologia-tuvo/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://imagenes.elpais.com/resizer/v2/2LBMOV5KDRFPBNPDMRX7UXOOIM.jpg?auth=c3c28cf3140270959eddaac285267ac0a9101a1ef7070dfce270480cf1895f65",
-    "category": "Guerra",
-    "text": "Raúl Incertis, médico español en Gaza: “Perdí la cuenta de los niños heridos que se quedaban sin familia en Gaza”",
-    "link": "https://elpais.com/internacional/2026-09-12/raul-incertis-medico-espanol-en-gaza-perdi-la-cuenta-de-los-ninos-heridos-que-se-quedaban-sin-familia-en-gaza.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/VOCTSMOS4ZHCPPI42CTERJGJOI.jpg?auth=88578467611ca48baef8b3c8ae59ca2264c4eb0fce9d265efb207e495d4869f2",
+    "category": "Reino Unido",
+    "text": "El ultra Farage recibe 42 millones de un empresario cripto, la mayor donación individual de la historia del Reino Unido",
+    "link": "https://elpais.com/internacional/2026-09-12/el-ultra-farage-recibe-42-millones-de-un-empresario-cripto-la-mayor-donacion-individual-de-la-historia-del-reino-unido.html"
   },
   {
     "date": "2026-09-12",
@@ -190,94 +232,80 @@
   },
   {
     "date": "2026-09-12",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260826/1207944_135220_video_1800.mp4",
-    "category": "Moldavia",
-    "text": "Entre tropas del Kremlin y aroma soviético en Transnistria, la entelequia pro rusa de Moldavia",
-    "link": "https://elpais.com/internacional/2026-09-12/entre-tropas-del-kremlin-y-aroma-sovietico-en-transnistria-la-entelequia-pro-rusa-de-moldavia.html"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://imagenes.elpais.com/resizer/v2/HKEAKDNPNRP5VAFR5XPJFG7TQY.jpg?auth=050a3318e7a41d8860534e79f39f502a594cdf138a92fc98148a71e7fdb49360",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Putin envía a sus tropas las reliquias del príncipe Donskói, mito de su guerra milenaria contra Occidente",
-    "link": "https://elpais.com/internacional/2026-09-12/putin-envia-a-sus-tropas-las-reliquias-del-principe-donskoi-mito-de-su-guerra-milenaria-contra-occidente.html"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://imagenes.elpais.com/resizer/v2/D4LKZFIORVLMRNNJKDENRJ3DMU.jpg?auth=c609ad691058fa3008954c8e874fc1105e81e751e1f96cff49975e2fb4f0671b",
-    "category": "Corresponsales",
-    "text": "La película casera que ha conquistado la taquilla china",
-    "link": "https://elpais.com/internacional/historias-de-corresponsal/2026-09-12/la-pelicula-casera-que-ha-conquistado-la-taquilla-china.html"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4fabae9ff710dc109abc6.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa537a559bf5b2ff96d7d81.jpg",
     "category": null,
-    "text": "Incendio arrasa residencia de adultos mayores y deja 16 muertos en Chile (VIDEOS)",
-    "link": "https://actualidad.rt.com/actualidad/627269-video-incendio-arrasar-residencia-adultos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán revela que EE.UU. copia sus drones: \"Tuvieron que construir uno similar al Shahed-136\"",
+    "link": "https://actualidad.rt.com/actualidad/627311-eeuu-dron-similar-shahed-influencia-tecnologica-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa50272e9ff7119fd1de137.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa541aee9ff71545c7e9a35.jpg",
     "category": null,
-    "text": "Tucker Carlson: Vacío de información sobre Ucrania nos ha llevado a \"un punto en el que todos podríamos morir pronto\"",
-    "link": "https://actualidad.rt.com/actualidad/627267-tucker-carlson-vacio-informacion-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Modi agradece a Xi su asistencia a la cumbre BRICS con un épico apretón de manos de 30 segundos",
+    "link": "https://actualidad.rt.com/actualidad/627316-video-modi-xi-intercambian-largo?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4f82ae9ff712e731ea7e5.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53ffb59bf5b31c473e06d.jpg",
     "category": null,
-    "text": "Arranca la cumbre de los BRICS en la India, MINUTO A MINUTO",
-    "link": "https://actualidad.rt.com/actualidad/627270-arrancar-cumbre-brics-india?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Líderes de los BRICS plantan árboles en una ceremonia simbólica",
+    "link": "https://actualidad.rt.com/actualidad/627318-video-lideres-brics-plantar-arboles?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa513d759bf5b30fc2a687e.jpg",
+    "category": null,
+    "text": "WSJ: Washington cree que imágenes satelitales chinas pudieron ayudar a Irán a atacar una base",
+    "link": "https://actualidad.rt.com/actualidad/627277-wsj-imagenes-satelitales-china-ayudar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53ea359bf5b73ab6efd32.jpg",
+    "category": null,
+    "text": "\"Eso está muy lejos\": Trump pone en duda la defensa británica de las Malvinas",
+    "link": "https://actualidad.rt.com/actualidad/627308-estar-lejos-trump-poner-duda?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa52e5fe9ff7141d84b7a25.jpg",
+    "category": null,
+    "text": "ABC: Washignton no prevé lanzar ataques directos contra los hutíes",
+    "link": "https://actualidad.rt.com/actualidad/627290-washignton-preve-ataques-directos-huties?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53b9de9ff713c3f1cfc78.jpg",
+    "category": null,
+    "text": "VIDEO: Líderes de los BRICS aprueban declaración conjunta en primera jornada de cumbre en la India",
+    "link": "https://actualidad.rt.com/actualidad/627315-lideres-brics-aprobar-declaracion-conjunta-cumbre-india?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa52cd259bf5b3129520a14.jpg",
+    "category": null,
+    "text": "El Kremlin revela el \"error\" de Washington que llevó a Rusia a abandonar el dólar",
+    "link": "https://actualidad.rt.com/actualidad/627301-kremlin-revela-error-washington-llevo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53dc459bf5b726b0de8c3.jpg",
+    "category": null,
+    "text": "Kremlin: Rusia está con la \"mayoría global\" pese al intento de Occidente de aislarla",
+    "link": "https://actualidad.rt.com/actualidad/627305-rusia-disfrutar-variedad-relaciones-intento-aislar-occidente?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53b4559bf5b45682e5964.jpg",
+    "category": null,
+    "text": "VIDEO: Hutíes exhiben equipo militar estadounidense capturado",
+    "link": "https://actualidad.rt.com/actualidad/627310-huties-exhibir-equipo-militar-toma-costa-occidental-yemen?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "La RPDC lanza varios misiles balísticos hacia el mar de Japón",
-    "link": "https://actualidad.rt.com/actualidad/627266-rpdc-lanza-misiles-balisticos-mar-japon?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4f8c159bf5b30fc2a6872.jpg",
-    "category": null,
-    "text": "Xi llega a la India por primera vez en siete años para la cumbre de los BRICS",
-    "link": "https://actualidad.rt.com/actualidad/627268-xi-llega-india-cumbre-brics?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4e1fe59bf5b3a254f52f1.jpg",
-    "category": null,
-    "text": "Detienen a británico que incitaba en un foro a agredir a mujeres inconscientes",
-    "link": "https://actualidad.rt.com/actualidad/627261-culpable-alentar-abusos-compartir-imagenes?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4f92a59bf5b30fc2a6875.jpg",
-    "category": null,
-    "text": "Lula y Trump, frente a frente: ¿qué le dirá el brasileño en la ONU?",
-    "link": "https://actualidad.rt.com/actualidad/627262-lula-trump-frente-frente-decir?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4fa1959bf5b30fc2a6878.jpg",
-    "category": null,
-    "text": "Rusia lanza ataque a gran escala contra industria metalúrgica e infraestructura portuaria de Ucrania",
-    "link": "https://actualidad.rt.com/actualidad/627264-rusia-lanza-ataque-gran-escala-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "Incendio y explosiones sacuden almacenes de municiones en un país europeo",
-    "link": "https://actualidad.rt.com/actualidad/627263-incendio-explosiones-sacudir-almacenes-municiones?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa4460159bf5b02b35fede8.jpg",
-    "category": null,
-    "text": "Tres días sin agua ni comida: menor sobrevive a la deriva tras ver morir a su familia",
-    "link": "https://actualidad.rt.com/actualidad/627179-tres-dias-agua-comida-menor?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El momento en que rescatan a un adolescente tras 3 días a la deriva en aguas heladas",
+    "link": "https://es.euronews.com/video/2026/09/12/el-momento-en-que-rescatan-a-un-adolescente-tras-3-dias-a-la-deriva-en-aguas-heladas"
   },
   {
     "date": "2026-09-12",
@@ -285,6 +313,13 @@
     "category": null,
     "text": "EURONEWS HOY | Las noticias del viernes 11 de septiembre de 2026: 25 aniversario de los atentados del 11S",
     "link": "https://es.euronews.com/2026/09/12/euronews-hoy-las-noticias-del-viernes-11-de-septiembre-de-2026-25-aniversario-de-los-atent"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 12 septiembre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/09/12/ultimas-noticias-12-septiembre-2026-mediodia"
   },
   {
     "date": "2026-09-12",
@@ -332,6 +367,13 @@
     "date": "2026-09-11",
     "image": null,
     "category": null,
+    "text": "Los preocupantes datos sobre el estado de la educación en América Latina que revela la última prueba PISA",
+    "link": "https://www.bbc.com/mundo/articles/cly41n2vzd6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-11",
+    "image": null,
+    "category": null,
     "text": "La historia detrás de la icónica imagen del hombre cayendo de una de las Torres Gemelas el 11-S",
     "link": "https://www.bbc.com/mundo/articles/clyr0l5qgwpo?at_medium=RSS&at_campaign=rss"
   },
@@ -339,22 +381,8 @@
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "La madre subrogada que se negó a abortar y ahora pelea por la custodia del bebé en EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/c5yjky5zl7no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
     "text": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
     "link": "https://www.bbc.com/mundo/articles/c1e5d2yvgzzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Los preocupantes datos sobre el estado de la educación en América Latina que revela la última prueba PISA",
-    "link": "https://www.bbc.com/mundo/articles/cly41n2vzd6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
@@ -374,15 +402,8 @@
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "EN VIDEO: minuto a minuto de cómo fueron los ataques del 11-S",
-    "link": "https://www.bbc.com/mundo/articles/c1j4zp43x39o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "\"¡Jefa, jefa, jefa!\": quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
-    "link": "https://www.bbc.com/mundo/articles/clyrjpwr485o?at_medium=RSS&at_campaign=rss"
+    "text": "La madre subrogada que se negó a abortar y ahora pelea por la custodia del bebé en EE.UU.",
+    "link": "https://www.bbc.com/mundo/articles/c5yjky5zl7no?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
@@ -397,26 +418,5 @@
     "category": "Opinión",
     "text": "¿Han ganado los terroristas tras el 11-S?",
     "link": "https://elpais.com/opinion/2026-09-11/han-ganado-los-terroristas-tras-el-11-s.html"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://imagenes.elpais.com/resizer/v2/I6VNV6VL3BIADD5LRSDSOBEBI4.jpg?auth=0fb5a939ab7c87bff8f31af194c6c4aac531f8bbc8c3221522bd875aca318dfd",
-    "category": "América",
-    "text": "El Supremo de Brasil investiga al candidato presidencial Bolsonaro por corrupción",
-    "link": "https://elpais.com/america/2026-09-11/el-supremo-de-brasil-revela-que-investiga-al-candidato-presidencial-bolsonaro-por-corrupcion.html"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Rubio concluye en Perú una gira latinoamericana centrada en la seguridad y la lucha contra el narcotráfico",
-    "link": "https://es.euronews.com/2026/09/11/rubio-concluye-peru-gira-latinoamericana-seguridad-narcotrafico"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "Estados Unidos conmemora el 25 aniversario del 11S entre el recuerdo de las víctimas y las secuelas",
-    "link": "https://es.euronews.com/2026/09/11/estados-unidos-conmemora-25-aniversario-del-11-s-entre-recuerdo-victimas-secuelas"
   }
 ]

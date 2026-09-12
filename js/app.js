@@ -1484,12 +1484,45 @@ async function loadLiveCams() {
 }
 
 // Acepta las formas mas comunes de URL de YouTube
-// (watch?v=, youtu.be/, /live/, /embed/) y devuelve solo el ID del
-// video, o null si no matchea ninguna.
+// (watch?v=, youtu.be/, /live/VIDEO_ID, /embed/) y devuelve solo el ID
+// del video, o null si no matchea ninguna (incluida una URL de canal
+// "/@handle/live" sin ID propio - ver extractYoutubeChannelLiveUrl).
 function extractYoutubeVideoId(url) {
   if (!url) return null;
   const match = url.match(/(?:youtu\.be\/|[?&]v=|\/embed\/|\/live\/)([\w-]{11})/);
   return match ? match[1] : null;
+}
+
+// Detecta una URL de "transmision en vivo del canal" (no de un video
+// puntual): "https://www.youtube.com/@handle/live" o
+// ".../channel/UC.../live". Canales como el del Parque Nacional
+// Iguazu arrancan una transmision NUEVA (con un ID de video distinto)
+// casi todos los dias, asi que cargar un ID fijo en livecams.json se
+// volveria viejo enseguida - esta URL le dice al bloque "resolvé cual
+// es la transmision en vivo de este canal en este momento" en cada
+// turno, en vez de guardar un ID que va a quedar desactualizado.
+function extractYoutubeChannelLiveUrl(url) {
+  if (!url) return null;
+  const match = url.match(/^https?:\/\/(?:www\.)?youtube\.com\/(@[\w.-]+|channel\/[\w-]+)\/live\/?(?:[?#].*)?$/);
+  return match ? url : null;
+}
+
+// Pregunta al endpoint publico de oEmbed de YouTube (sin API key) si
+// el canal tiene una transmision en vivo ahora mismo. Si la tiene,
+// oEmbed devuelve los metadatos de ESA transmision puntual (incluido
+// un <iframe> embebido con su ID real en el campo "html", del que se
+// extrae con extractYoutubeVideoId); si el canal no esta en vivo en
+// este momento, oEmbed responde con error - se toma como "no hay nada
+// para mostrar ahora" y se prueba la siguiente camara de la lista.
+async function resolveChannelLiveVideoId(channelLiveUrl) {
+  try {
+    const res = await fetch("https://www.youtube.com/oembed?url=" + encodeURIComponent(channelLiveUrl) + "&format=json");
+    if (!res.ok) return null;
+    const data = await res.json();
+    return extractYoutubeVideoId(data.html || "");
+  } catch {
+    return null;
+  }
 }
 
 // Player de YouTube reusado entre camaras/turnos (creado una sola vez,
@@ -1615,8 +1648,17 @@ async function runLiveCamBlock() {
     for (let attempt = 0; attempt < liveCams.length; attempt++) {
       const cam = liveCams[liveCamIndex % liveCams.length];
       liveCamIndex++;
-      const videoId = extractYoutubeVideoId(cam.url);
-      if (!videoId) continue;
+      let videoId = extractYoutubeVideoId(cam.url);
+      if (!videoId) {
+        // No es un video puntual - ¿es la URL de "en vivo" de un
+        // canal? Esos canales (ej. Parque Nacional Iguazú) arrancan
+        // una transmision nueva casi todos los dias con un ID
+        // distinto, asi que se resuelve cual es la actual en cada
+        // turno en vez de depender de un ID fijo que se desactualiza.
+        const channelLiveUrl = extractYoutubeChannelLiveUrl(cam.url);
+        if (channelLiveUrl) videoId = await resolveChannelLiveVideoId(channelLiveUrl);
+      }
+      if (!videoId) continue; // ni video fijo ni canal en vivo ahora: se prueba la siguiente
 
       const ok = await tryLoadLiveCam(videoId);
       if (!ok) continue;

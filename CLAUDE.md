@@ -130,8 +130,20 @@ secciones comentadas dentro del archivo:
   las anteriores, pero sin ninguna API JSON: embebe una cámara de
   YouTube de la lista curada a mano en `livecams/livecams.json` (array
   de `{ title, url }`, `loadLiveCams`), extrae el ID del video con
-  `extractYoutubeVideoId` (acepta las URLs típicas de YouTube). A
-  diferencia de un `<iframe src="...">` fijo, usa la API oficial de
+  `extractYoutubeVideoId` (acepta las URLs típicas de YouTube: un
+  video puntual fijo). Para canales que arrancan una transmisión
+  NUEVA casi todos los días con un ID distinto (ej. el Parque Nacional
+  Iguazú) — donde un ID fijo en el JSON se volvería viejo enseguida —
+  `url` acepta en cambio la URL de "en vivo" del canal
+  (`https://www.youtube.com/@handle/live` o `.../channel/UC.../live`):
+  `extractYoutubeChannelLiveUrl` la detecta, y `resolveChannelLiveVideoId`
+  le pregunta al endpoint público de oEmbed de YouTube (sin API key)
+  si el canal está en vivo ahora mismo — si lo está, oEmbed devuelve
+  los metadatos de esa transmisión puntual (con su ID real embebido en
+  el `<iframe>` del campo `html`, del que se extrae el ID con
+  `extractYoutubeVideoId`); si no, responde con error y se prueba la
+  siguiente cámara de la lista, igual que con cualquier otra caída.
+  A diferencia de un `<iframe src="...">` fijo, usa la API oficial de
   YouTube (`YT.Player`, cargada bajo demanda con `ensureYoutubeApi`,
   reemplazando en el DOM al `<div id="livecamFrame">` la primera vez
   que hace falta) para poder escuchar el evento `onError`: una URL con

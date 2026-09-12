@@ -357,14 +357,26 @@ embebida de YouTube durante 7 minutos, con un cartel abajo a la
 derecha que dice "EN VIVO" (con un punto rojo pulsante) y el nombre
 del lugar en letra grande.
 
-- A diferencia de clima/cotización/mercados, **no usa ninguna API**:
-  la lista de cámaras se carga a mano en **`livecams/livecams.json`**,
-  como un array de objetos `{ "title": "...", "url": "..." }` (la URL
-  puede ser cualquier formato típico de YouTube: `watch?v=`,
-  `youtu.be/`, `/live/`). Para agregar o sacar cámaras, editar
-  directamente ese archivo — no hace falta tocar `js/app.js`. La
-  página relee el archivo sola cada `liveCamsRefreshMs` (por defecto,
-  10 minutos), así una edición se ve sin recargar OBS.
+- A diferencia de clima/cotización/mercados, **no usa ninguna API de
+  datos**: la lista de cámaras se carga a mano en
+  **`livecams/livecams.json`**, como un array de objetos
+  `{ "title": "...", "url": "..." }`. Para agregar o sacar cámaras,
+  editar directamente ese archivo — no hace falta tocar `js/app.js`.
+  La página relee el archivo sola cada `liveCamsRefreshMs` (por
+  defecto, 10 minutos), así una edición se ve sin recargar OBS.
+  `url` acepta dos formas:
+  - Un **video puntual fijo** (`watch?v=`, `youtu.be/`, `/live/VIDEO_ID`)
+    para cámaras que transmiten siempre desde el mismo video de
+    YouTube (la gran mayoría de la lista).
+  - La **URL de "en vivo" de un canal**
+    (`https://www.youtube.com/@handle/live` o
+    `.../channel/UC.../live`) para canales que arrancan una
+    transmisión nueva casi todos los días con un ID distinto (por
+    ejemplo el Parque Nacional Iguazú) — con esta forma, antes de
+    cada aparición se consulta si el canal está en vivo en ese momento
+    y se muestra esa transmisión puntual; si no está en vivo, se
+    saltea sola como cualquier otra cámara caída, sin necesidad de
+    andar actualizando el link a mano cada vez que cambia.
 - El video se reproduce siempre muteado (para no competir con la
   música) y sin controles.
 - Si una URL de la lista no tiene un ID de video reconocible, el video

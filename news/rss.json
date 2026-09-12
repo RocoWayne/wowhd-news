@@ -1,9 +1,37 @@
 [
   {
     "date": "2026-09-12",
+    "image": "https://s.france24.com/media/display/3bb387a0-ae9c-11f1-865d-005056a90284/w:1024/p:16x9/2026-09-12T100200Z-934450018-RC2LHNAPLLND-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
+    "category": "Europa",
+    "text": "Entre la diplomacia y el golf, Trump afirma en Irlanda que una isla unificada \"sería fantástica\"",
+    "link": "https://www.france24.com/es/europa/20260912-entre-la-diplomacia-y-el-golf-trump-afirma-en-irlanda-que-una-isla-unificada-ser%C3%ADa-fant%C3%A1stica"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://s.france24.com/media/display/f2d2d940-adf2-11f1-af9f-005056a97e36/w:1024/p:16x9/IMG-0201.png",
+    "category": "Una Semana en el Mundo",
+    "text": "¿Puede la IA acabar con la humanidad? Es lo que dice un exempleado de Anthropic",
+    "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260912-puede-la-ia-acabar-con-la-humanidad-es-lo-que-dice-un-exempleado-de-anthropic"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://s.france24.com/media/display/b087fdb2-aeb6-11f1-8573-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-INDIA-BRICS-SABADO.jpg",
+    "category": "Asia-Pacífico",
+    "text": "\"Máxima contención\": los BRICS hacen equilibrio en su declaración sobre la guerra en Medio Oriente",
+    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260912-m%C3%A1xima-contenci%C3%B3n-los-brics-hacen-equilibrio-en-su-declaraci%C3%B3n-sobre-la-guerra-en-medio-oriente"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://s.france24.com/media/display/c99e0c1a-aeb6-11f1-bbd1-005056a90284/w:1024/p:16x9/capture-2791316936aa5627f063ff6-30777968.jpg",
+    "category": null,
+    "text": "Trump revela petición de los hutíes para que EE. UU. no intervenga en su ofensiva",
+    "link": "https://www.france24.com/es/video/20260912-trump-revela-petici%C3%B3n-de-los-hut%C3%ADes-para-que-ee-uu-no-intervenga-en-su-ofensiva"
+  },
+  {
+    "date": "2026-09-12",
     "image": "https://s.france24.com/media/display/fcfd196a-ae67-11f1-8755-005056bfb2b6/w:1024/p:16x9/000-C82R6NQ.jpg",
     "category": "Medio Oriente",
-    "text": "En directo: Irak confirma origen del ataque que obligó a cerrar un oleoducto clave en Arabia Saudita",
+    "text": "En directo: Irak halla lanzaderas de drones cerca de frontera con Irán, tras ataque al oleoducto saudita",
     "link": "https://www.france24.com/es/medio-oriente/20260912-en-directo-irak-confirma-origen-del-ataque-que-oblig%C3%B3-a-cerrar-un-oleoducto-clave-en-arabia-saudita"
   },
   {
@@ -57,34 +85,6 @@
   },
   {
     "date": "2026-09-12",
-    "image": "https://s.france24.com/media/display/a7b21b74-ae42-11f1-9a20-005056a97e36/w:1024/p:16x9/ES-20260911-170702-170856-CS.jpg",
-    "category": null,
-    "text": "Israel destruye la red de túneles de Hezbolá en Líbano y provoca un sismo de magnitud 4,1",
-    "link": "https://www.france24.com/es/video/20260912-israel-destruye-la-red-de-t%C3%BAneles-de-hezbol%C3%A1-en-l%C3%ADbano-y-provoca-un-sismo-de-magnitud-4-1"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://s.france24.com/media/display/15b4f1e4-ac65-11f1-9416-005056bf30b7/w:1024/p:16x9/ruusia-elex-m.jpg",
-    "category": "Europa",
-    "text": "Elecciones en Rusia: las mil y una acciones que apuntan a eliminar a los candidatos incómodos",
-    "link": "https://www.france24.com/es/europa/20260912-elecciones-en-rusia-las-mil-y-una-acciones-que-apuntan-a-eliminar-a-los-candidatos-inc%C3%B3modos"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://s.france24.com/media/display/937a25e0-ae40-11f1-b7a7-005056bfb2b6/w:1024/p:16x9/CE%CC%81LINE-MANIA.png",
-    "category": null,
-    "text": "La Céline mania se apodera de París al regreso de Céline Dion a los escenarios",
-    "link": "https://www.france24.com/es/video/20260912-la-c%C3%A9line-mania-se-apodera-de-par%C3%ADs-al-regreso-de-c%C3%A9line-dion-a-los-escenarios"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://s.france24.com/media/display/a890f8c2-ae1e-11f1-b5bb-005056bfb2b6/w:1024/p:16x9/Captura-de-pantalla-2026-09-11-a-la-s-3-05-51-p-m.png",
-    "category": null,
-    "text": "Tras 25 años del 9/11: ¿Qué piensan los jóvenes estadounidenses de lo sucedido?",
-    "link": "https://www.france24.com/es/video/20260912-tras-25-a%C3%B1os-del-9-11-qu%C3%A9-piensan-los-j%C3%B3venes-estadounidenses-de-lo-sucedido"
-  },
-  {
-    "date": "2026-09-12",
     "image": null,
     "category": null,
     "text": "\"Me iban a ejecutar y él me salvó la vida\": Jorge Silva, el capitán de la Fuerza Aérea de Chile que desafió las órdenes de los golpistas y terminó torturado",
@@ -96,6 +96,20 @@
     "category": null,
     "text": "Las protestas y conmemoraciones en Chile tras la decisión de Kast de no celebrar ceremonias oficiales por el golpe de Estado contra Salvador Allende",
     "link": "https://www.bbc.com/mundo/articles/cz9z15k5kxpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "Trump asegura que la reunificación de Irlanda sería \"algo fantástico\" durante una visita a Dublín",
+    "link": "https://www.bbc.com/mundo/articles/cd94kjxqjqwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "El oleoducto que transporta cerca del 5% del petróleo mundial y que Arabia Saudita cerró tras un ataque con drones desde Iraq",
+    "link": "https://www.bbc.com/mundo/articles/c4gvpl2vxx0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-12",
@@ -113,87 +127,94 @@
   },
   {
     "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/3JZINDNU6BDW3HO5CAWGJ4OURM.png?auth=a27a5a77dc0986754b8e955b3763092e869e724ec690e7fc7471aef8ae87f32b&smart=true&width=1536&height=1024",
+    "image": "https://www.infobae.com/resizer/v2/Q5VPU7746JBK3LMIVN76U6FTX4.jpg?auth=9431f4ebc04202425965763dc8a3ae94a2dec13d158924be689f166dd83d9ca6&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Temblor hoy en Perú EN VIVO: último sismo en Ica, epicentro y reporte del IGP del 12 de septiembre de 2026",
-    "link": "https://www.infobae.com/peru/2026/09/12/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-12-de-septiembre-de-2026/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/G5C5TXMMUBF6FMS5O25WJJ6XWM.jpg?auth=4c61da22739482b3db742acd9155dfb730d569aab4fecadfc28d6dfdba3154d0&smart=true&width=1024&height=576",
-    "category": null,
-    "text": "FBI tras la pista de abogada colombiana y un expolicía que alertaron a poderosos capos sobre millonaria incautación de bienes",
-    "link": "https://www.infobae.com/colombia/2026/09/12/fbi-tras-la-pista-de-abogada-colombiana-y-un-expolicia-que-alertaron-a-poderosos-capos-sobre-millonaria-incautacion-de-bienes/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/7Y77ETA2PRGSHHZHLQVCEC2R24.jpg?auth=873c8724f379f4832c79baee6c801d8b0bf84fb5cce19cadb475a09793ac7f90&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Sporting Cristal vs CD Moquegua se reprogramó: nuevo horario del duelo por la fecha 9 del Torneo Clausura de la Liga 1 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/09/12/sporting-cristal-vs-cd-moquegua-se-reprogramo-nuevo-horario-del-duelo-por-la-fecha-9-del-torneo-clausura-de-la-liga-1-2026/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/RNJGT3U4ABEOHO4HC7PGTX2DQI.png?auth=4d4594c279143888d2e4e3b6e2de58b0160c8aa4a3283acddc1222b6e9e1266c&smart=true&width=1536&height=1024",
-    "category": null,
-    "text": "Precio del GNV, GLP, diésel y gasolina en Perú para hoy, sábado 12 de septiembre de 2026",
-    "link": "https://www.infobae.com/peru/2026/09/12/precio-del-gnv-glp-diesel-y-gasolina-en-peru-para-hoy-sabado-12-de-septiembre-de-2026/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/O7U46CIMQJEGJKX64FZEG2I7CQ.jpg?auth=687046243c602c6bc5916a646921fc929db54e35ebe01c21842a41185e90a99a&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Efemérides del 12 de septiembre: Hoy se recuerda la caída y captura del terrorista y líder de Sendero Luminoso Abimael Guzmán",
-    "link": "https://www.infobae.com/peru/2026/09/12/efemerides-del-12-de-septiembre-hoy-se-recuerda-la-caida-y-captura-del-terrorista-y-lider-de-sendero-luminoso-abimael-guzman/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/EDO45U5CEJGERBFJLNZNZRQNUY.JPG?auth=cc1e8789a19ff2b08c5d224bd5ca4ec453a5d95f8671fe8d0813f69ac1b6526c&smart=true&width=1280&height=720",
-    "category": null,
-    "text": "Combustibles en Lima: El alza del petróleo eleva los combustibles en Lima y amenaza con llevar el galón a 30 soles",
-    "link": "https://www.infobae.com/peru/2026/09/12/combustibles-en-lima-el-alza-del-petroleo-eleva-los-combustibles-en-lima-y-amenaza-con-llevar-el-galon-a-30-soles/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/E33XNCIBMRGKRPQ4OBJ3HWBHIE.png?auth=f9436129b81b3154a6eac48ce02852413a6a315de9c13b9cd032a601a02249da&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Apple da un año gratis de servicios satelitales para emergencias y asistencia en carreteras",
-    "link": "https://www.infobae.com/tecno/2026/09/12/si-tienes-un-iphone-14-o-superior-apple-te-ofrece-un-ano-gratis-de-servicios-satelitales/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/I7Y55GAGBFD4TFDVBSJW2DOH3M.JPG?auth=f5bc6104e4933d8d4fd194f129402e57bc53a82eabec136ba68409136815496c&smart=true&width=1280&height=720",
-    "category": null,
-    "text": "Por qué recomiendan no beber gaseosa directamente de una lata",
-    "link": "https://www.infobae.com/peru/2026/09/12/por-que-recomiendan-no-beber-gaseosa-directamente-de-una-lata/"
-  },
-  {
-    "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/AXPYMW3WRVAKVHEZRUFTVOXTIU.jpg?auth=d5941d29968504b1002d6a01ad0171be1d494a06f761943853c96c05bfb4bb56&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Irene Montero promete someterse a unas primarias abiertas a toda la izquierda para ser candidata a las generales",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/12/irene-montero-promete-someterse-a-unas-primarias-abiertas-a-toda-la-izquierda-para-ser-candidata-a-las-generales/"
+    "text": "¡Cruce de gigantes! Atlante y San Francisco 49ers estrechan lazos en la Ciudad de México",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/12/cruce-de-gigantes-atlante-y-san-francisco-49ers-estrechan-lazos-en-la-ciudad-de-mexico/"
   },
   {
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "Filman a soldado israelí disparando en la pierna a palestino durante un ataque de colonos",
-    "link": "https://www.infobae.com/america/agencias/2026/09/12/filman-a-soldado-israeli-disparando-en-la-pierna-a-palestino-durante-un-ataque-de-colonos/"
+    "text": "Denuncian plantilla de limpieza de Ceuta está \"al límite\" por miles residuos de migrantes",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/12/denuncian-plantilla-de-limpieza-de-ceuta-esta-al-limite-por-miles-residuos-de-migrantes/"
   },
   {
     "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/ZYZSWSX7AJBLTJIK4A7IVDST44.png?auth=81da7cf1bdec50b5cd95e5d77cf0a5d6a5fa381b816015633ed086d83b5bc14a&smart=true&width=1890&height=1063",
+    "image": "https://www.infobae.com/resizer/v2/GRNM2JFK25DRTCWYGOGLEQEK74.png?auth=ff5e062d6b43b802d0963d6d6690d63a38c21469f4448018f8c702abdf9fa64b&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "De $5 a $27 millones tendría que gastar una persona en promedio para poder tener un arma de fuego en Colombia: la lista completa",
-    "link": "https://www.infobae.com/colombia/2026/09/12/de-5-a-27-millones-tendria-que-gastar-una-persona-en-promedio-para-poder-tener-un-arma-de-fuego-en-colombia-la-lista-completa/"
+    "text": "El método japonés para doblar ropa que libera espacio en el clóset",
+    "link": "https://www.infobae.com/mexico/2026/09/12/el-metodo-japones-para-doblar-ropa-que-libera-espacio-en-el-closet/"
   },
   {
     "date": "2026-09-12",
-    "image": "https://www.infobae.com/resizer/v2/TLIFN26CFRC4VD5VGZRMCAI2AI.JPG?auth=65a956f49086c59582e4fcce6bc99f6fff26bca8adb8ec5bee27e3a374e0bba5&smart=true&width=1280&height=720",
+    "image": "https://www.infobae.com/resizer/v2/6XWJTXTICZBX7JSVTFNX36GZSA.png?auth=f699e8a2cb9fa32fe6db2b37e2686426bc39a6ae4d809ce2adb083ace6615103&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Escasez de pescado en el Callao: El bonito y el jurel suben hasta ocho soles por kilo en el Callao",
-    "link": "https://www.infobae.com/peru/2026/09/12/escasez-de-pescado-en-el-callao-el-bonito-y-el-jurel-suben-hasta-ocho-soles-por-kilo-en-el-callao/"
+    "text": "El narcotraficante Eugenio Montoya, hermano de alias Don Diego, llegó a Bogotá tras ser deportado de Estados Unidos",
+    "link": "https://www.infobae.com/colombia/2026/09/12/el-narcotraficante-eugenio-montoya-hermano-de-alias-don-diego-llego-a-bogota-tras-ser-deportado-de-estados-unidos/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "Pompa, polémicas y protestas en la visita de Donald Trump a Irlanda",
+    "link": "https://www.infobae.com/america/agencias/2026/09/12/pompa-polemicas-y-protestas-en-la-visita-de-donald-trump-a-irlanda/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "Familiares y autoridades participan en misa por fallecidos en explosiones en Bolivia",
+    "link": "https://www.infobae.com/america/agencias/2026/09/12/familiares-y-autoridades-participan-en-misa-por-fallecidos-en-explosiones-en-bolivia/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "Ayuso, Almeida y mayoría de vips del fútbol, en el Madring a la espera del día grande",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/12/ayuso-almeida-y-mayoria-de-vips-del-futbol-en-el-madring-a-la-espera-del-dia-grande/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/3DTDSGZCO5HEVJI44IJIO3WMEI.jpg?auth=65f719723bc94b291e3661e13d4e94c00d4447a4f2b3fb6f1d1f3706f54eb037&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Previa del Levante UD - FC Barcelona",
+    "link": "https://www.infobae.com/america/agencias/2026/09/12/previa-del-levante-ud-fc-barcelona/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "0-1. Las Palmas se mete en la zona alta y el Cádiz se asienta en la baja",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/12/0-1-las-palmas-se-mete-en-la-zona-alta-y-el-cadiz-se-asienta-en-la-baja/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/HXS5NJEQLZBXLJ73CCNYWOSW4M.jpg?auth=16397826277655fde0c7db01e34d5d638a9786af02fe7f8bf134d1098d4c5e27&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Lando Norris: \"Ha sido una de las mejores vueltas de mi vida\"",
+    "link": "https://www.infobae.com/america/agencias/2026/09/12/lando-norris-ha-sido-una-de-las-mejores-vueltas-de-mi-vida/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": null,
+    "category": null,
+    "text": "Landa resucita el 'landismo' en la etapa reina; Mas, virtual ganador de la Vuelta",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/12/landa-resucita-el-landismo-en-la-etapa-reina-mas-virtual-ganador-de-la-vuelta/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://www.infobae.com/resizer/v2/4YYS3X2AYNCVZJLAUPSAFMACQE.jpg?auth=5a5d59299cbd681edd97ae61f15ab235f90d548a6509b5f8baf6299e11b2ad57&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "El Papa alerta de que el progreso tecnológico puede levantar \"una Torre de Babel\" si no está al servicio de las personas",
+    "link": "https://www.infobae.com/america/agencias/2026/09/12/el-papa-alerta-de-que-el-progreso-tecnologico-puede-levantar-una-torre-de-babel-si-no-esta-al-servicio-de-las-personas/"
+  },
+  {
+    "date": "2026-09-12",
+    "image": "https://imagenes.elpais.com/resizer/v2/4XTGFPR6GVINZAYBYMNDT5GH3Y.jpg?auth=9369e105623f99eef4e458eb5a35331acde23b503f650fc1279d97a7ddf9007e",
+    "category": "Extrema derecha",
+    "text": "La extrema derecha se dispara: Alemania deja de ser la excepción europea 80 años después del nazismo",
+    "link": "https://elpais.com/internacional/2026-09-12/la-extrema-derecha-se-dispara-alemania-deja-de-ser-la-excepcion-europea-80-anos-despues-del-nazismo.html"
   },
   {
     "date": "2026-09-12",
@@ -225,80 +246,80 @@
   },
   {
     "date": "2026-09-12",
-    "image": "https://imagenes.elpais.com/resizer/v2/4RS46ISLT5KOXL4VXSROVGHAUU.jpg?auth=b0976cec3da5f8a07479a97157fe5f44002950eb1bea0f2791590ad0df32106a",
-    "category": "11-S",
-    "text": "¿Quién manda en Al Qaeda? Por qué no hay otro Osama Bin Laden",
-    "link": "https://elpais.com/internacional/2026-09-12/quien-manda-en-al-qaeda-por-que-no-hay-otro-osama-bin-laden.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa5798d59bf5b391a4b771a.jpg",
+    "category": null,
+    "text": "Detectan una enorme mancha de petróleo en el estrecho de Ormuz",
+    "link": "https://actualidad.rt.com/actualidad/627348-detectan-mancha-petroleo-enorme-estrecho?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa537a559bf5b2ff96d7d81.jpg",
+    "image": null,
     "category": null,
-    "text": "Irán revela que EE.UU. copia sus drones: \"Tuvieron que construir uno similar al Shahed-136\"",
-    "link": "https://actualidad.rt.com/actualidad/627311-eeuu-dron-similar-shahed-influencia-tecnologica-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "EE.UU. asegura haber desviado 100 barcos durante su bloqueo a Irán",
+    "link": "https://actualidad.rt.com/actualidad/627349-eeuu-asegurar-haber-desviar-100?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa541aee9ff71545c7e9a35.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa572ad59bf5b39166a4354.jpg",
     "category": null,
-    "text": "VIDEO: Modi agradece a Xi su asistencia a la cumbre BRICS con un épico apretón de manos de 30 segundos",
-    "link": "https://actualidad.rt.com/actualidad/627316-video-modi-xi-intercambian-largo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Buena voluntad nos sobra\": Lavrov dice que si Zelenski busca una reunión puede ir a Moscú",
+    "link": "https://actualidad.rt.com/actualidad/627335-gesto-buena-voluntad-lavrov-negociaciones-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53ffb59bf5b31c473e06d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa57341e9ff7114270fc5a4.jpg",
     "category": null,
-    "text": "VIDEO: Líderes de los BRICS plantan árboles en una ceremonia simbólica",
-    "link": "https://actualidad.rt.com/actualidad/627318-video-lideres-brics-plantar-arboles?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Impacto directo destruye un depósito de municiones ucraniano camuflado",
+    "link": "https://actualidad.rt.com/actualidad/627343-video-impacto-directo-destruye-deposito?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa513d759bf5b30fc2a687e.jpg",
+    "image": null,
     "category": null,
-    "text": "WSJ: Washington cree que imágenes satelitales chinas pudieron ayudar a Irán a atacar una base",
-    "link": "https://actualidad.rt.com/actualidad/627277-wsj-imagenes-satelitales-china-ayudar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "FT: EE.UU. limita los horarios de tránsito por el estrecho de Ormuz",
+    "link": "https://actualidad.rt.com/actualidad/627344-ft-eeuu-limitar-horarios-transito?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53ea359bf5b73ab6efd32.jpg",
+    "image": null,
     "category": null,
-    "text": "\"Eso está muy lejos\": Trump pone en duda la defensa británica de las Malvinas",
-    "link": "https://actualidad.rt.com/actualidad/627308-estar-lejos-trump-poner-duda?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ataque ruso alcanza un buque con carga militar en un puerto ucraniano",
+    "link": "https://actualidad.rt.com/actualidad/627346-ataque-ruso-alcanzar-buque-carga?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa52e5fe9ff7141d84b7a25.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa566f959bf5b53a1464b29.jpg",
     "category": null,
-    "text": "ABC: Washignton no prevé lanzar ataques directos contra los hutíes",
-    "link": "https://actualidad.rt.com/actualidad/627290-washignton-preve-ataques-directos-huties?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Hutíes se hacen con armas sofisticadas de Europa, EE.UU. e Israel",
+    "link": "https://actualidad.rt.com/actualidad/627296-huties-hacen-armas-sofisticadas-europa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53b9de9ff713c3f1cfc78.jpg",
+    "image": null,
     "category": null,
-    "text": "VIDEO: Líderes de los BRICS aprueban declaración conjunta en primera jornada de cumbre en la India",
-    "link": "https://actualidad.rt.com/actualidad/627315-lideres-brics-aprobar-declaracion-conjunta-cumbre-india?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un centenar de osos se instala en los alrededores de un destino turístico europeo",
+    "link": "https://actualidad.rt.com/actualidad/627341-centenar-osos-instala-alrededores-popular?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa52cd259bf5b3129520a14.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa5616c59bf5b726b0de8d9.jpg",
     "category": null,
-    "text": "El Kremlin revela el \"error\" de Washington que llevó a Rusia a abandonar el dólar",
-    "link": "https://actualidad.rt.com/actualidad/627301-kremlin-revela-error-washington-llevo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Preguntan a Trump por el combustible, un 40 % más caro desde el inicio de la guerra con Irán, y dice esto",
+    "link": "https://actualidad.rt.com/actualidad/627334-preguntan-trump-combustible-40-caro?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53dc459bf5b726b0de8c3.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa56cbae9ff7102ee58e2a8.jpg",
     "category": null,
-    "text": "Kremlin: Rusia está con la \"mayoría global\" pese al intento de Occidente de aislarla",
-    "link": "https://actualidad.rt.com/actualidad/627305-rusia-disfrutar-variedad-relaciones-intento-aislar-occidente?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Modi 'acerca' a Putin para la foto del BRICS con un tirón que sorprende",
+    "link": "https://actualidad.rt.com/actualidad/627326-video-modi-acercar-putin-foto?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa53b4559bf5b45682e5964.jpg",
+    "image": null,
     "category": null,
-    "text": "VIDEO: Hutíes exhiben equipo militar estadounidense capturado",
-    "link": "https://actualidad.rt.com/actualidad/627310-huties-exhibir-equipo-militar-toma-costa-occidental-yemen?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 12 septiembre 2026 - Tarde",
+    "link": "https://es.euronews.com/video/2026/09/12/ultimas-noticias-12-septiembre-2026-tarde"
   },
   {
     "date": "2026-09-12",
@@ -367,15 +388,15 @@
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "Los preocupantes datos sobre el estado de la educación en América Latina que revela la última prueba PISA",
-    "link": "https://www.bbc.com/mundo/articles/cly41n2vzd6o?at_medium=RSS&at_campaign=rss"
+    "text": "La historia detrás de la icónica imagen del hombre cayendo de una de las Torres Gemelas el 11-S",
+    "link": "https://www.bbc.com/mundo/articles/clyr0l5qgwpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
     "image": null,
     "category": null,
-    "text": "La historia detrás de la icónica imagen del hombre cayendo de una de las Torres Gemelas el 11-S",
-    "link": "https://www.bbc.com/mundo/articles/clyr0l5qgwpo?at_medium=RSS&at_campaign=rss"
+    "text": "Los preocupantes datos sobre el estado de la educación en América Latina que revela la última prueba PISA",
+    "link": "https://www.bbc.com/mundo/articles/cly41n2vzd6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-11",
@@ -393,30 +414,9 @@
   },
   {
     "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "\"De mi padre solo encontraron su casco de bombero\": por qué aún quedan por identificar tantas víctimas 25 años después del 11-S",
-    "link": "https://www.bbc.com/mundo/articles/ce8x4zgw72no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-11",
-    "image": null,
-    "category": null,
-    "text": "La madre subrogada que se negó a abortar y ahora pelea por la custodia del bebé en EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/c5yjky5zl7no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-11",
     "image": "https://imagenes.elpais.com/resizer/v2/45GU4EHEKJM3HMHN5HGCYTK6IU.jpg?auth=e995d345ae462478dff952003abd9837317e298f076a0745e5829838b0e859ca",
     "category": "Ataque contra Irán",
     "text": "La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz",
     "link": "https://elpais.com/internacional/2026-09-11/el-polvorin-del-mar-rojo-se-suma-al-cierre-de-ormuz-y-agrava-la-crisis-petrolera.html"
-  },
-  {
-    "date": "2026-09-11",
-    "image": "https://imagenes.elpais.com/resizer/v2/UKQNKSMZEBGNRJHITCL5EZJUSI.jpg?auth=04b3ffce05b65e87be0aa3afe06b71fe6033e05e8c87c8e1ba99e4a6787ef79a",
-    "category": "Opinión",
-    "text": "¿Han ganado los terroristas tras el 11-S?",
-    "link": "https://elpais.com/opinion/2026-09-11/han-ganado-los-terroristas-tras-el-11-s.html"
   }
 ]

@@ -1,17 +1,59 @@
 [
   {
     "date": "2026-09-13",
+    "image": "https://s.france24.com/media/display/8b812582-af80-11f1-89c8-005056a97e36/w:1024/p:16x9/2026-09-13T130451Z-943753214-RC2DINAGWTJK-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
+    "category": "Ciencia y tecnologías",
+    "text": "Trump cuestiona a las \"fuerzas negativas\" que piden desacelerar el desarrollo de la IA",
+    "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20260913-trump-cuestiona-a-las-fuerzas-negativas-que-piden-desacelerar-el-desarrollo-de-la-ia"
+  },
+  {
+    "date": "2026-09-13",
+    "image": null,
+    "category": null,
+    "text": "Enric Mas se consagra campeón de La Vuelta y devuelve la gloria a España tras 12 años",
+    "link": "https://www.france24.com/es/minuto-a-minuto/20260913-enric-mas-se-consagra-campe%C3%B3n-de-la-vuelta-y-devuelve-la-gloria-a-espa%C3%B1a-tras-12-a%C3%B1os"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://s.france24.com/media/display/9fbcc83c-af8d-11f1-a8c1-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-SUECIA-ELECCIONES-2026.jpg",
+    "category": "Europa",
+    "text": "Suecia vota en elecciones inciertas, entre el regreso de la izquierda y el ascenso de la ultraderecha",
+    "link": "https://www.france24.com/es/europa/20260913-suecia-vota-en-elecciones-inciertas-entre-el-regreso-de-la-izquierda-y-el-ascenso-de-la-ultraderecha"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://s.france24.com/media/display/3a49de34-af8a-11f1-997c-005056bfb2b6/w:1024/p:16x9/ES-20260913-081200-081403-CS.jpg",
+    "category": null,
+    "text": "CEO de Anthropic pide desacelerar el desarrollo de la inteligencia artificial",
+    "link": "https://www.france24.com/es/video/20260913-ceo-de-anthropic-pide-desacelerar-el-desarrollo-de-la-inteligencia-artificial"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://s.france24.com/media/display/a70170ec-af84-11f1-ba6a-005056a90284/w:1024/p:16x9/ES-20260913-070624-070811-CS.jpg",
+    "category": null,
+    "text": "Consumidores canadienses apoyan productos locales por guerra arancelaria con EE. UU.",
+    "link": "https://www.france24.com/es/video/20260913-consumidores-canadienses-apoyan-productos-locales-por-guerra-arancelaria-con-ee-uu"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://s.france24.com/media/display/c1f8e372-af83-11f1-b8e0-005056bfb2b6/w:1024/p:16x9/ES-20260913-070137-070319-CS.jpg",
+    "category": null,
+    "text": "Hutíes de Yemen atacan Arabia Saudita con drones y misiles",
+    "link": "https://www.france24.com/es/video/20260913-hut%C3%ADes-de-yemen-atacan-arabia-saudita-con-drones-y-misiles"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://s.france24.com/media/display/507b0c66-af88-11f1-ad70-005056bfb2b6/w:1024/p:16x9/Historia-de-la-cerveza.png",
+    "category": null,
+    "text": "\"Fiebre del Tapiz\" en Inglaterra: la historia bordada de la cerveza",
+    "link": "https://www.france24.com/es/video/20260913-fiebre-del-tapiz-en-inglaterra-la-historia-bordada-de-la-cerveza"
+  },
+  {
+    "date": "2026-09-13",
     "image": "https://s.france24.com/media/display/553ac7a0-af83-11f1-be65-005056a97e36/w:1024/p:16x9/AP26256299279268.jpg",
     "category": "Asia-Pacífico",
     "text": "Indonesia extiende la búsqueda de 130 desaparecidos tras el naufragio de un barco en el mar de Java",
     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260913-indonesia-extiende-la-b%C3%BAsqueda-de-130-desaparecidos-tras-el-naufragio-de-un-barco-en-el-mar-de-java"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://s.france24.com/media/display/e65ea154-af7c-11f1-adf3-005056a97e36/w:1024/p:16x9/ES-20260913-070510-070555-CS.jpg",
-    "category": null,
-    "text": "Informe desde Estocolmo: la migración, en el centro de la jornada electoral en Suecia",
-    "link": "https://www.france24.com/es/video/20260913-informe-desde-estocolmo-la-migraci%C3%B3n-en-el-centro-de-la-jornada-electoral-en-suecia"
   },
   {
     "date": "2026-09-13",
@@ -43,52 +85,17 @@
   },
   {
     "date": "2026-09-13",
-    "image": "https://s.france24.com/media/display/422553e8-af23-11f1-987a-005056a90284/w:1024/p:16x9/8023685138001w.jpg",
-    "category": "Asia-Pacífico",
-    "text": "Buscan a más de 100 pasajeros de un buque de Indonesia que estaba reportado como desaparecido",
-    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260913-un-buque-de-indonesia-con-unos-240-pasajeros-a-bordo-es-reportado-como-desaparecido"
+    "image": null,
+    "category": null,
+    "text": "\"Los empleados estamos aterrados\": la advertencia de un exinvestigador de Anthropic a la BBC sobre los riesgos de la IA y por qué genera críticas",
+    "link": "https://www.bbc.com/mundo/articles/c4gq5lq8jzvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-13",
     "image": null,
     "category": null,
-    "text": "Un buque indonesio con más de 240  pasajeros a bordo es reportado como desaparecido",
-    "link": "https://www.france24.com/es/minuto-a-minuto/20260913-un-buque-indonesio-con-m%C3%A1s-de-240-pasajeros-a-bordo-es-reportado-como-desaparecido"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://s.france24.com/media/display/df09b3e0-af1c-11f1-a6c8-005056bfb2b6/w:1024/p:16x9/JUEGOS-SURAMERICANOS-ARGENTINA.jpg",
-    "category": "Deportes",
-    "text": "Santa Fe pone en acción los Juegos Suramericanos con una emotiva ceremonia inaugural",
-    "link": "https://www.france24.com/es/deportes/20260913-santa-fe-pone-acci%C3%B3n-juegos-suramericanos-emotiva-ceremonia-inaugural"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://s.france24.com/media/display/0cb175a2-af19-11f1-a006-005056a97e36/w:1024/p:16x9/2026-09-08T082017Z-368392633-RC2WENA07XV1-RTRMADP-3-GERMANY-EDUCATION-PISA.jpg",
-    "category": "Ciencia y tecnologías",
-    "text": "Europa, Asia y Latinoamérica: ¿qué pasa con la educación? El informe PISA enciende alarma",
-    "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20260913-europa-asia-y-latinoam%C3%A9rica-qu%C3%A9-pasa-con-la-educaci%C3%B3n-el-informe-pisa-enciende-alarma"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://s.france24.com/media/display/ae30d860-af13-11f1-ba42-005056bf30b7/w:1024/p:16x9/ES-20260912-183308-183512-CS.jpg",
-    "category": null,
-    "text": "CEO de Anthropic hace llamado para \"ralentizar\" el desarrollo de las IA",
-    "link": "https://www.france24.com/es/video/20260913-ceo-de-anthropic-hace-llamado-para-ralentizar-el-desarrollo-de-las-ia"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://s.france24.com/media/display/4bd8dfbe-af0e-11f1-8014-005056a90284/w:1024/p:16x9/2026-09-10T093112Z-18288760-RC28GNASBZNR-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
-    "category": "Medio Oriente",
-    "text": "¿Otro golpe al mercado del petróleo?: Arabia Saudita cierra oleoducto estratégico ante la ofensiva hutí",
-    "link": "https://www.france24.com/es/medio-oriente/20260913-otro-golpe-al-precio-del-petr%C3%B3leo-arabia-saudita-cierra-oleoducto-estrat%C3%A9gico-ante-la-ofensiva-hut%C3%AD"
-  },
-  {
-    "date": "2026-09-13",
-    "image": null,
-    "category": null,
-    "text": "Los gigantes de Silicon Valley que ignoran las advertencias sobre los peligros de la IA",
-    "link": "https://www.bbc.com/mundo/articles/cr7dmd1ydp0o?at_medium=RSS&at_campaign=rss"
+    "text": "Los excepcionales casos de las personas inmunes al VIH (y qué papel tienen en una posible cura)",
+    "link": "https://www.bbc.com/mundo/articles/cwyzenjndxno?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-13",
@@ -120,108 +127,108 @@
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/JM6XEBVMHBCUPFHUSOTUSP6OZA.png?auth=34811e0351278d78accf12d6b6ebcfafdb6f3c0c01a941d058d5c3b641169e3f&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/FMJALC5J5NEATN72QPGI7HXVDE.JPG?auth=f2effc2f25736213daa92dff12023de21af141b3dcceeb13fe8840b4b6cf8355&smart=true&width=3132&height=2089",
     "category": null,
-    "text": "Medallista olímpico y políticos proponen soluciones al recorte presupuestal del Gobierno de Abelardo de la Espriella al deporte: “Debería ser más público-privado”",
-    "link": "https://www.infobae.com/colombia/deportes/2026/09/13/medallista-olimpico-y-politicos-proponen-soluciones-al-recorte-presupuestal-del-gobierno-de-abelardo-de-la-espriella-al-deporte-deberia-ser-mas-publico-privado/"
+    "text": "El presidente de la Cámara de Representantes de EEUU alertó que frenar el desarrollo de la IA podría beneficiar a China",
+    "link": "https://www.infobae.com/estados-unidos/2026/09/13/el-presidente-de-la-camara-de-representantes-de-eeuu-alerto-que-frenar-el-desarrollo-de-la-ia-podria-beneficiar-a-china/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/MHHEBJL4G5H53AO65ZRAKKZ33I.jpg?auth=0b45b5a0738fc8ecd52c972caff90a7388cdfbeaf395ea2f776200935c96cfee&smart=true&width=2444&height=1511",
+    "image": "https://www.infobae.com/resizer/v2/EIMB476HFVH5BFAXO73KRDCDEY.JPG?auth=41e3ebe811fb467aee11058e2f835ef3a7ef8e15d7a2fcc61b2594faa50a7c1c&smart=true&width=2803&height=1869",
     "category": null,
-    "text": "Primo de la presidenta Keiko Fujimori, es hallado sin vida",
-    "link": "https://www.infobae.com/peru/2026/09/13/ysidro-kagami-fujimori-primo-de-la-presidenta-keiko-fujimori-es-hallado-sin-vida/"
+    "text": "José Manuel Restrepo detalló las 5 misiones que le encomendó Abelardo de la Espriella para los primeros meses de gobierno",
+    "link": "https://www.infobae.com/colombia/2026/09/13/jose-manuel-restrepo-detallo-las-5-misiones-que-le-encomendo-abelardo-de-la-espriella-para-los-primeros-meses-de-gobierno/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/SUDE3GMGJBB77NI5TDAXUHE6TU.png?auth=c65bef34444bf73127d94e7f1fe143b716684ae06c01bfdab090b4ed9db31b21&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/EKRU7HKECBE7ZEF7O3CZBPSCNM.png?auth=e15e0b22cc491e630b97865151734df3ddc31fa53eccb083b99fe3b157500db2&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "GTA 6 rompe récords en Netflix: Más de 100.000 suscripciones en solo seis horas",
-    "link": "https://www.infobae.com/tecno/2026/09/13/gta-6-rompe-records-en-netflix-mas-de-100000-suscripciones-en-solo-seis-horas/"
+    "text": "Pablo Erustes se falló insólito gol debajo del arco en Sport Boys vs Deportivo Garcilaso por Liga 1 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/13/pablo-erustes-se-fallo-insolito-gol-debajo-del-arco-en-sport-boys-vs-deportivo-garcilaso-por-liga-1-2026/"
   },
   {
     "date": "2026-09-13",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/YOSNSM3DEFGAZPWLMI426BHPDA.jpg?auth=a2c284c2469d69cd5bdefb1bc55daeb550d1c0497b34ea66250026748389f05a&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "El Foro Mundial de la Ayahuasca debate sobre el presente y el futuro del brebaje amazónico",
-    "link": "https://www.infobae.com/america/agencias/2026/09/13/el-foro-mundial-de-la-ayahuasca-debate-sobre-el-presente-y-el-futuro-del-brebaje-amazonico/"
+    "text": "Sport Boys 0-0 Deportivo Garcilaso EN VIVO: minuto a minuto del partido en el Callao por fecha 9 del Torneo Clausura 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/13/sport-boys-vs-deportivo-garcilaso-en-vivo-hoy-minuto-a-minuto-del-partido-en-el-callao-por-fecha-9-del-torneo-clausura-2026-goles-resumen-resultado/"
   },
   {
     "date": "2026-09-13",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/66DEDGMQNBCJFLMJQBQB7WJUEY.jpg?auth=9b7da371f4511fac471d28403dc4be6cfc30340fb66f511a67ff1908b5fe9f21&smart=true&width=4500&height=2970",
     "category": null,
-    "text": "Pedro Almodóvar regresa al TIFF con 'Amarga Navidad', una reflexión sobre vida y ficción",
-    "link": "https://www.infobae.com/america/agencias/2026/09/13/pedro-almodovar-regresa-al-tiff-con-amarga-navidad-una-reflexion-sobre-vida-y-ficcion/"
+    "text": "Polvo del Sahara alcanzará su mayor intensidad en Cuba este domingo, según el Centro Meteorológico de Camagüey",
+    "link": "https://www.infobae.com/cuba/2026/09/13/polvo-del-sahara-alcanzara-su-mayor-intensidad-en-cuba-este-domingo-segun-el-centro-meteorologico-de-camaguey/"
   },
   {
     "date": "2026-09-13",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/67VTYFNN6BH25PHFVCHGP4VFS4.jpg?auth=cc29a654537adbacb01f4da3e27ee4042885e4fcd0c5558484150c42de6464f6&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Baile incesante de fans de Dion, bajo las ventanas de su hotel: \"Céline te queremos\"",
-    "link": "https://www.infobae.com/america/agencias/2026/09/13/baile-incesante-de-fans-de-dion-bajo-las-ventanas-de-su-hotel-celine-te-queremos/"
+    "text": "Perú vs Chile EN VIVO HOY: punto a punto del partido por fecha 5 del Campeonato Sudamericano de Vóley 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/13/peru-vs-chile-en-vivo-hoy-punto-a-punto-del-partido-por-fecha-5-del-campeonato-sudamericano-de-voley-2026-resumen-resultado/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/4N6WLXIQ4VFHJPUK3FJL7G76OQ.jpg?auth=435de1859273128df7affe51620a70574b227144c2a2b3b1941dc58aa06dccad&smart=true&width=1920&height=1244",
+    "image": "https://www.infobae.com/resizer/v2/IS3N2MIJ65GT7B5D6KTF7SLEXM.jpg?auth=b594ddee42cfc13febcb499404221c655d04ce5a234c7b7f7740850001ae7c96&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Boris Johnson y Carl Bildt viajaban en el tren anterior al atacado por un dron ruso",
-    "link": "https://www.infobae.com/america/agencias/2026/09/13/boris-johnson-y-carl-bildt-viajaban-en-el-tren-anterior-al-atacado-por-un-dron-ruso/"
+    "text": "Pensiones del Bienestar 2026: todos los adultos mayores que cobran mañana lunes 14 de septiembre",
+    "link": "https://www.infobae.com/mexico/2026/09/13/pensiones-del-bienestar-2026-todos-los-adultos-mayores-que-cobran-manana-lunes-14-de-septiembre/"
   },
   {
     "date": "2026-09-13",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/ICEHO5Z4PZAVHIQI3BH53TOHP4.jpg?auth=c329b021764785f12eefddf87d794891bb4ebc33fc74a73dcc14ac3a8d115a8a&smart=true&width=1580&height=889",
     "category": null,
-    "text": "Cuba resalta la \"profunda preocupación\" de los BRICS por la situación en la isla",
-    "link": "https://www.infobae.com/america/agencias/2026/09/13/cuba-resalta-la-profunda-preocupacion-de-los-brics-por-la-situacion-en-la-isla/"
+    "text": "Descubrieron misteriosos agujeros en la superficie de Marte y los científicos de la NASA no lograron determinar su origen",
+    "link": "https://www.infobae.com/america/ciencia-america/2026/09/13/descubrieron-misteriosos-agujeros-en-la-superficie-de-marte-y-los-cientificos-de-la-nasa-no-lograron-determinar-su-origen/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/X2W5Y2ZS7NACZA5477VK4NNFAY.png?auth=5f4581821c7ec7eddae56a972ef40c4711e49b51822f7743d24f6728c2cd2aa7&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/337GFFZPFBG5HCOO5UZQSSM6XI.png?auth=ff962635caca2173eb523017a0391d4400e38a2c1cec32a409dd47053977b474&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Los días de Wanda Nara en Río de Janeiro: lencería hot, masajes frente al mar y un guiño a Mauro Icardi",
-    "link": "https://www.infobae.com/teleshow/2026/09/13/los-dias-de-wanda-nara-en-rio-de-janeiro-lenceria-hot-masajes-frente-al-mar-y-un-guino-a-mauro-icardi/"
+    "text": "Activaron un operativo de rescate por un avión desaparecido en la ruta entre Condoto y Guaymaral",
+    "link": "https://www.infobae.com/colombia/2026/09/13/activaron-un-operativo-de-rescate-por-un-avion-desaparecido-en-la-ruta-entre-condoto-y-guaymaral/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/2HABMKXOGFE5ZB3L7CQQ7FF24E.jpg?auth=7bc55cfaf8ed95806c7e964eed8f9cadadefc1444298641645691bc316638a9a&smart=true&width=1920&height=1714",
+    "image": "https://www.infobae.com/resizer/v2/D5VYOKL7CFDYZLKBHRLNILFYVM.jpg?auth=8985e3d716c073a8d7c11f9b7df8f93e0bf340913e44517d143d87701d68c325&smart=true&width=2048&height=1152",
     "category": null,
-    "text": "Fallece un conductor de La Codoñera (Teruel) al salirse de la A-1409 y chocar contra un árbol en Torrevelilla",
-    "link": "https://www.infobae.com/america/agencias/2026/09/13/fallece-un-conductor-de-la-codonera-teruel-al-salirse-de-la-a-1409-y-chocar-contra-un-arbol-en-torrevelilla/"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/PPFHQD7ONZCW5DHK2KQEM5XRCY.jpg?auth=7563789ed01319b51c40432578d3fab16da6f51f84c84520b021889f1d38cf5f&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Comprobar Super Once: los ganadores del Sorteo 4 de este 13 septiembre",
-    "link": "https://www.infobae.com/espana/2026/09/13/comprobar-super-once-los-ganadores-del-sorteo-4-de-este-13-septiembre/"
+    "text": "Presentación de James Rodríguez como nuevo jugador de Atlético Nacional en vivo HOY: siga aquí el evento en el estadio Atanasio Girardot de Medellín",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/13/presentacion-de-james-rodriguez-como-nuevo-jugador-de-atletico-nacional-en-vivo-hoy-siga-aqui-el-evento-en-el-estadio-atanasio-girardot-de-medellin/"
   },
   {
     "date": "2026-09-13",
     "image": null,
     "category": null,
-    "text": "Burcio: \"Estoy viviendo un sueño\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/13/burcio-estoy-viviendo-un-sueno/"
+    "text": "Nicaragua entrega a Costa Rica la antorcha de la libertad centroamericana",
+    "link": "https://www.infobae.com/america/agencias/2026/09/13/nicaragua-entrega-a-costa-rica-la-antorcha-de-la-libertad-centroamericana/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://imagenes.elpais.com/resizer/v2/6IEUWAZ6GFMB5OSVEZNJW7P3TY.jpg?auth=a56ef902cd846129138f2e1b87d70bf29999d7c6d061aa2cd71caba94881283d",
+    "image": null,
+    "category": null,
+    "text": "Eduardo Sacheri: \"Nadie piensa repetir una aventura militar para recuperar las Malvinas\"",
+    "link": "https://www.infobae.com/america/agencias/2026/09/13/eduardo-sacheri-nadie-piensa-repetir-una-aventura-militar-para-recuperar-las-malvinas/"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://imagenes.elpais.com/resizer/v2/I7FULVYRZFMNTBUK5L5NFCXW5Y.jpg?auth=72b632377db6bb7b562acf5424af14d3dff70f303696a25392551cf84b950d35",
+    "category": "Suecia",
+    "text": "Los socialdemócratas ganan las elecciones en Suecia, según los sondeos a pie de urna",
+    "link": "https://elpais.com/internacional/2026-09-13/los-socialdemocratas-ganan-las-elecciones-en-suecia-segun-los-sondeos-a-pie-de-urna.html"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://imagenes.elpais.com/resizer/v2/ULJPMD5ESFLNFPMPMH7V6KXPDM.jpg?auth=027d62a0da658357a8b670ff9d742ef904c3c1cca83c0e6f0815be47f8d8b16a",
     "category": "Guerra de Rusia en Ucrania",
-    "text": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a pocos kilómetros de territorio OTAN",
+    "text": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a dos kilómetros de territorio OTAN",
     "link": "https://elpais.com/internacional/2026-09-13/rusia-ataca-la-zona-fronteriza-entre-polonia-y-ucrania-a-pocos-kilometros-de-territorio-otan.html"
   },
   {
     "date": "2026-09-13",
-    "image": "https://imagenes.elpais.com/resizer/v2/T73CT2E64JFB7IYRAHJZURE634.jpg?auth=d12cb7dd93324082f27047ae40f834a2f5db38fc2b08f15c021a070e560fef65",
-    "category": "Reino Unido",
-    "text": "Una nueva donación multimillonaria al ultra Farage hace sonar las alarmas en el resto de partidos británicos",
-    "link": "https://elpais.com/internacional/2026-09-13/una-nueva-donacion-multimillonaria-al-ultra-farage-hace-sonar-las-alarmas-en-el-resto-de-partidos-britanicos.html"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://imagenes.elpais.com/resizer/v2/7ALELLD4NJNADOTN4KGWVCIF2A.jpg?auth=76ab993429f4e707bbc027edbc6a104f9bfce6cb244c2e595fcfd82c7aabc5f4",
-    "category": "Suecia",
-    "text": "La socialdemocracia aspira a recuperar el poder en Suecia en unas elecciones reñidas",
-    "link": "https://elpais.com/internacional/2026-09-13/la-socialdemocracia-aspira-a-recuperar-el-poder-en-suecia-en-unas-renidas-elecciones.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/VKXROGUNORPKXGDCA5HRXLPVFI.jpg?auth=fc6bcda499717fb0d96ad21cb7d3150b7f68c033959745f72da2c0ea398ff719",
+    "category": "Marine Le Pen",
+    "text": "Marine Le Pen exorciza fantasmas en el feudo que alumbró su proyecto político",
+    "link": "https://elpais.com/internacional/2026-09-13/marine-le-pen-exorciza-fantasmas-en-el-feudo-que-alumbro-su-proyecto-politico.html"
   },
   {
     "date": "2026-09-13",
@@ -229,6 +236,13 @@
     "category": "Estados Unidos",
     "text": "Democracia en venta",
     "link": "https://elpais.com/internacional/2026-09-13/democracia-en-venta.html"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://imagenes.elpais.com/resizer/v2/T73CT2E64JFB7IYRAHJZURE634.jpg?auth=d12cb7dd93324082f27047ae40f834a2f5db38fc2b08f15c021a070e560fef65",
+    "category": "Reino Unido",
+    "text": "Una nueva donación multimillonaria al ultra Farage hace sonar las alarmas en el resto de partidos británicos",
+    "link": "https://elpais.com/internacional/2026-09-13/una-nueva-donacion-multimillonaria-al-ultra-farage-hace-sonar-las-alarmas-en-el-resto-de-partidos-britanicos.html"
   },
   {
     "date": "2026-09-13",
@@ -253,80 +267,80 @@
   },
   {
     "date": "2026-09-13",
-    "image": "https://imagenes.elpais.com/resizer/v2/WDXVB7NYO5LO7AIW6QXETPMONU.jpg?auth=1dfc6996a00fc19fb5bd12255e2c5ae44fca7056f3071aec0426a30d1cfb9924",
-    "category": "Ataque contra Irán",
-    "text": "Claves | Quién es quién en la última escalada en Oriente Próximo",
-    "link": "https://elpais.com/internacional/2026-09-13/claves-quien-es-quien-en-la-ultima-escalada-en-oriente-proximo.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6e7c859bf5b43eb545cb2.jpg",
+    "category": null,
+    "text": "VIDEO: Multitud enloquece tras anuncio de Trump de suspender aranceles al whisky irlandés",
+    "link": "https://actualidad.rt.com/actualidad/627501-multitud-celebrar-anuncio-trump-levantar-aranceles-whiskhy-irlandes?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6b9e259bf5b345b35d356.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6e28759bf5b44b160df98.jpg",
     "category": null,
-    "text": "VIDEO: Dron israelí pasa a pocos metros de viviendas palestinas en Gaza",
-    "link": "https://actualidad.rt.com/actualidad/627484-video-dron-israeli-sobrevuela-metros?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "CEO de Anthropic: La industria \"mintió\" al público sobre los riesgos de la IA",
+    "link": "https://actualidad.rt.com/actualidad/627498-peligros-reales-director-anthropic-industria-mintio-publico-riesgo-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6bd6159bf5b485303ef0e.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6bf0559bf5b7b0f5a60bc.jpg",
     "category": null,
-    "text": "VIDEO: Un tanque ruso sale victorioso del ataque de un enjambre de drones",
-    "link": "https://actualidad.rt.com/actualidad/627485-video-tanque-ruso-sale-victorioso?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "De la pista a la política: brutal troleo a Pedro Sánchez durante el F1 de España (VIDEOS)",
+    "link": "https://actualidad.rt.com/viral/627486-pista-politica-brutal-trolleo-sanchez-f1?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6d803e9ff7110b015da4a.jpg",
+    "category": null,
+    "text": "VIDEO: Aviones rusos arrasan posiciones ucranianas con bombas de 250 kg",
+    "link": "https://actualidad.rt.com/actualidad/627497-aviones-rusia-arar-posiciones-ucrania-bomba?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6bceb59bf5b43465c0c60.png",
+    "category": null,
+    "text": "Trump redobla su presión sobre la Reserva Federal con una amenaza",
+    "link": "https://actualidad.rt.com/actualidad/627482-trump-flujo-economico-mundial-poder?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6d3b659bf5b4556215351.jpg",
+    "category": null,
+    "text": "\"El hastío está en su máximo\": La popularidad de Macron y Merz colapsa a niveles históricos",
+    "link": "https://actualidad.rt.com/actualidad/627494-popularidad-macron-merz-colapsa-niveles-historicos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6d72ae9ff7162890b13f9.jpg",
+    "category": null,
+    "text": "\"Decenas de miles de personas asesinadas\": Canciller polaco insta a cambiar de 'héroes' en Ucrania",
+    "link": "https://actualidad.rt.com/actualidad/627495-sikorski-instar-ucrania-cambio-heroes?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6c99d59bf5b446f55e091.jpg",
+    "category": null,
+    "text": "\"Este es su momento\": Putin se dirige a la juventud",
+    "link": "https://actualidad.rt.com/actualidad/627490-momento-putin-da-mensaje-jovenes?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6bfb7e9ff715fee57b6a2.jpg",
+    "category": null,
+    "text": "VIDEO: Un babuino irrumpe en una playa turística",
+    "link": "https://actualidad.rt.com/viral/627478-video-babuino-toma-asalto-playa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6ba4f59bf5b43763b3f03.jpg",
+    "category": null,
+    "text": "Lituania cierra el aeropuerto capitalino tras confundir aves con drones",
+    "link": "https://actualidad.rt.com/actualidad/627483-lituania-cerrar-aeropuerto-vilna-aves-drones?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-13",
     "image": null,
     "category": null,
-    "text": "Antonelli triunfa en la primera carrera de F1 en Madrid",
-    "link": "https://actualidad.rt.com/actualidad/627491-antonelli-triunfar-carrera-f1-madrid?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": null,
-    "category": null,
-    "text": "Misión francesa se disculpa con EE.UU. por escándalo en la ONU",
-    "link": "https://actualidad.rt.com/actualidad/627489-mision-francesa-disculpar-eeuu-escandalo?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6a54759bf5b0b946da832.jpg",
-    "category": null,
-    "text": "Atan a un técnico a una torre de telecomunicaciones por fallas en la red 5G en la India",
-    "link": "https://actualidad.rt.com/actualidad/627468-amarrar-tecnico-telecomunicaciones-torre-movil-problemas-5g-india?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6b32ce9ff715e43008ca4.png",
-    "category": null,
-    "text": "GTA en la vida real: pelea en México termina con una moto embestida y un auto abollado (VIDEO)",
-    "link": "https://actualidad.rt.com/viral/627479-gta-pelea-cdmx-moto-coche?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": null,
-    "category": null,
-    "text": "Senador estadounidense pide prohibir la superinteligencia \"antes de que sea demasiado tarde\"",
-    "link": "https://actualidad.rt.com/actualidad/627487-senador-estadounidense-pide-prohibir-superinteligencia-demasiado-tarde?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6b334e9ff711081641f5c.jpg",
-    "category": null,
-    "text": "El avance hutí expone a un Ejército \"fantasma\" en Yemen",
-    "link": "https://actualidad.rt.com/actualidad/627477-avance-huti-destapar-ejercito-fantasma?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": null,
-    "category": null,
-    "text": "Rusia ataca infraestructuras ferroviarias en el oeste de Ucrania",
-    "link": "https://actualidad.rt.com/actualidad/627488-rusia-atacar-infraestructuras-ferroviarias-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6a59c59bf5b3853444004.jpg",
-    "category": null,
-    "text": "Irán minimiza las amenazas del enemigo: \"No tienen ningún valor operativo\"",
-    "link": "https://actualidad.rt.com/actualidad/627470-iran-desestimar-amenazas-enemigo-tener?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 13 septiembre 2026 - Tarde",
+    "link": "https://es.euronews.com/video/2026/09/13/ultimas-noticias-13-septiembre-2026-tarde"
   },
   {
     "date": "2026-09-13",
@@ -381,13 +395,6 @@
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "\"Si pudieron golpear al Louvre, cualquier museo puede ser el siguiente\": por qué los robos de arte son cada vez más audaces en Europa",
-    "link": "https://www.bbc.com/mundo/articles/ckgwkz4jjnzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
     "text": "Por qué tenemos sangre caliente y qué ventajas tiene sobre la sangre fría",
     "link": "https://www.bbc.com/mundo/articles/cd08dp51pp4o?at_medium=RSS&at_campaign=rss"
   },
@@ -411,12 +418,5 @@
     "category": null,
     "text": "Últimas noticias | 12 septiembre 2026 - Tarde",
     "link": "https://es.euronews.com/video/2026/09/12/ultimas-noticias-12-septiembre-2026-tarde"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "El momento en que rescatan a un adolescente tras 3 días a la deriva en aguas heladas",
-    "link": "https://es.euronews.com/video/2026/09/12/el-momento-en-que-rescatan-a-un-adolescente-tras-3-dias-a-la-deriva-en-aguas-heladas"
   }
 ]

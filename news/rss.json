@@ -1,9 +1,16 @@
 [
   {
     "date": "2026-09-13",
+    "image": "https://s.france24.com/media/display/228ba3fc-af28-11f1-973c-005056bf30b7/w:1024/p:16x9/ES-20260912-183932-184135-CS.jpg",
+    "category": null,
+    "text": "La relación cercana de Céline Dion y Francia, su país elegido para volver a los escenarios",
+    "link": "https://www.france24.com/es/video/20260913-la-relaci%C3%B3n-cercana-de-c%C3%A9line-dion-y-francia-su-pa%C3%ADs-elegido-para-volver-a-los-escenarios"
+  },
+  {
+    "date": "2026-09-13",
     "image": "https://s.france24.com/media/display/422553e8-af23-11f1-987a-005056a90284/w:1024/p:16x9/8023685138001w.jpg",
     "category": "Asia-Pacífico",
-    "text": "Un buque de Indonesia con unos 240 pasajeros a bordo es reportado como desaparecido",
+    "text": "Buscan a más de 100 pasajeros de un buque de Indonesia que estaba reportado como desaparecido",
     "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260913-un-buque-de-indonesia-con-unos-240-pasajeros-a-bordo-es-reportado-como-desaparecido"
   },
   {
@@ -50,108 +57,122 @@
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/V235TTPBNJG3BGQWJQV53KM2SY.jpg?auth=03e4a004f832926b62435a580f557561003d0278415f7eb6e826e3137972aee6&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Indonesia activó un operativo de búsqueda y rescate tras perder contacto con un barco que transportaba 240 personas",
-    "link": "https://www.infobae.com/america/mundo/2026/09/13/indonesia-activo-un-operativo-de-busqueda-y-rescate-tras-perder-contacto-con-un-barco-que-transportaba-240-personas/"
+    "text": "Las razones de las grandes empresas de Silicon Valley para ignorar las advertencias sobre los peligros de la IA",
+    "link": "https://www.bbc.com/mundo/articles/cr7dmd1ydp0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/6WA4XEYUOFCZPCGTD52E73PWO4.jpg?auth=89068dcd34f76e56e8cda9d4af0890c0c46d62ab6f0f6e2097cc97170fc2cc28&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Tamara Paganini reveló el insólito pedido que le hizo una expareja en la intimidad: \"Me encantó\"",
-    "link": "https://www.infobae.com/teleshow/2026/09/13/tamara-paganini-revelo-el-insolito-pedido-que-le-hizo-una-expareja-en-la-intimidad-me-encanto/"
+    "text": "Una versión medieval de la manósfera: lo que el tapiz de Bayeux revela sobre la sangrienta y obscena realidad de la Edad Media",
+    "link": "https://www.bbc.com/mundo/articles/czez57d20p0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/BWMVECLBWRBHPP2KTWIYI6E5NU.png?auth=e984aa9e1c2a7d1346230372ec25a2b562755c9e24efa09c3ce663696b2835ea&smart=true&width=1536&height=1024",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Milei y dos eventos de la “batalla cultural” en Estados Unidos, con el reclamo por Malvinas de fondo",
-    "link": "https://www.infobae.com/politica/2026/09/13/milei-y-dos-eventos-de-la-batalla-cultural-en-estados-unidos-con-el-reclamo-por-malvinas-de-fondo/"
+    "text": "Calidad del aire en Rengo este 13 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/13/calidad-del-aire-en-rengo-este-13-de-septiembre-de-2026/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/LRHVE5BWVBHNZNTRUCITPTNJBE.jpg?auth=7c4ae3529ae5d7e4449429cba2cf0b3d1e4371fb0b169e56a061df5f92ccef2a&smart=true&width=790&height=450",
+    "image": "https://www.infobae.com/resizer/v2/LPLLK5XS3RELTE5AOCJRY5Z7JI.jpg?auth=657d86a290ecbe30e4fff193537e88344cd1f5e03f288c6dd822c3a0a0e0920a&smart=true&width=1920&height=1279",
     "category": null,
-    "text": "Panamá recibirá $500 millones para apoyar a 3.300 empresas, entre ellas 1.000 lideradas por mujeres",
-    "link": "https://www.infobae.com/panama/2026/09/13/panama-recibira-500-millones-para-apoyar-a-3300-empresas-entre-ellas-1000-lideradas-por-mujeres/"
+    "text": "El Papa reza por las víctimas del 11-S al cumplirse 25 años y pide renovar el compromiso por la paz \"en todo el mundo\"",
+    "link": "https://www.infobae.com/america/agencias/2026/09/13/el-papa-reza-por-las-victimas-del-11-s-al-cumplirse-25-anos-y-pide-renovar-el-compromiso-por-la-paz-en-todo-el-mundo/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/H3FQFL3VFJEOBFZR3GJZ7HDVCE.jpg?auth=f6f78f5b0762f07562e19edd8f3cda1afba7f44eba21ba6b5f33ca48e6cc417a&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Chihuahua sigue sumando casos de gusano barrenador y casi roza los 80",
-    "link": "https://www.infobae.com/mexico/2026/09/13/chihuahua-sigue-sumando-casos-de-gusano-barrenador-y-casi-roza-los-80/"
+    "text": "Las Encinas Temuco: calidad del aire este 13 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/13/las-encinas-temuco-calidad-del-aire-este-13-de-septiembre-de-2026/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/A3CQSBG4K5FFLKYUUXVQV3ODUQ.JPG?auth=f8a8102e39d645801b68e20a543357083d646f8d861957336e90691d87d295e2&smart=true&width=5500&height=3667",
+    "image": null,
     "category": null,
-    "text": "Milei viaja a las Naciones Unidas y no se descarta una reunión con Trump para tratar el reclamo sobre las Islas Malvinas",
-    "link": "https://www.infobae.com/politica/2026/09/13/milei-viaja-a-las-naciones-unidas-y-no-se-descarta-una-reunion-con-trump-para-tratar-el-reclamo-sobre-las-islas-malvinas/"
+    "text": "El Reform UK de Nigel Farage recibe 84 millones de euros tras dos donaciones y en dos días",
+    "link": "https://www.infobae.com/america/agencias/2026/09/13/el-reform-uk-de-nigel-farage-recibe-84-millones-de-euros-tras-dos-donaciones-y-en-dos-dias/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/PM7PF7GMLZFPVFOCAMDV3ODCTA.jpeg?auth=e0ea1606d30a5a12fc8922ff38554c4ad0f6d0f985cbe240992b7fb963f36127&smart=true&width=1225&height=610",
+    "image": "https://www.infobae.com/resizer/v2/6GN6VHZUIFGQ3JODHNF5HEJG6Q.jpg?auth=dccd1eff85e407f651d068d63d11e7322a91ddea1bc293a886648c57b07b45eb&smart=true&width=1920&height=1333",
     "category": null,
-    "text": "“No tengo dónde vivir”: recién nacida fue abandonada en una iglesia de Honduras junto a una desgarradora nota",
-    "link": "https://www.infobae.com/honduras/2026/09/13/no-tengo-donde-vivir-recien-nacida-fue-abandonada-en-una-iglesia-de-honduras-junto-a-una-desgarradora-nota/"
+    "text": "Trasladadas al hospital dos mujeres tras una agresión con gas pimienta en una parada de bus de Valladolid",
+    "link": "https://www.infobae.com/america/agencias/2026/09/13/trasladadas-al-hospital-dos-mujeres-tras-una-agresion-con-gas-pimienta-en-una-parada-de-bus-de-valladolid/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/4RCYVI2YPZCDTCUBEFLJIEIJNQ.jpeg?auth=09135ef99a6995959b43b89add47b50fb591eeb343e39927ef07ded49cdbb4ea&smart=true&width=3776&height=2354",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "La presión que pesa sobre Milei, la disputa que anticipan en 2028 y la próxima elección que mira el Gobierno",
-    "link": "https://www.infobae.com/politica/2026/09/13/la-presion-que-pesa-sobre-milei-la-disputa-que-anticipan-en-2028-y-la-proxima-eleccion-que-mira-el-gobierno/"
+    "text": "San Fernando: calidad del aire este 13 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/13/san-fernando-calidad-del-aire-este-13-de-septiembre-de-2026/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/METJOMX4CBHMXAXLEX25CQQQTA.JPG?auth=e776a23e02cd125b2ca034e3f4967569002383f7def782588e6c0f47b49d613f&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Yamila Bêgné, autora de “La música de las esferas”, y cómo se hace para reparar un corazón roto, diez años después",
-    "link": "https://www.infobae.com/cultura/2026/09/13/yamila-begne-autora-de-la-musica-de-las-esferas-y-como-se-hace-para-reparar-un-corazon-roto-diez-anos-despues/"
+    "text": "Manuel González aprovecha un percance inicial, suma su quinta victoria, y es más líder",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/13/manuel-gonzalez-aprovecha-un-percance-inicial-suma-su-quinta-victoria-y-es-mas-lider/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/H5TVOG4CANH33FU5NV7RIQKHRY.png?auth=2bb9e78aed49747ebec7c87cddeee33cbeaf154798715cef2060e2f7882a4d61&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/EGQYMBBCSVC3HA5XERAFW4SF5E.jpg?auth=7689a9849ca89b169a43c952b9148f484f99c67dc96d6d3867e859773b730ee9&smart=true&width=1920&height=1279",
     "category": null,
-    "text": "Jair Sánchez enfrentó a Ricardo Peralta durante una transmisión en vivo: “No eres Wendy Guevara”",
-    "link": "https://www.infobae.com/mexico/2026/09/13/jair-sanchez-enfrento-a-ricardo-peralta-durante-una-transmision-en-vivo-no-eres-wendy-guevara/"
+    "text": "El Papa reza por las víctimas del 11-S y pide renovar el compromiso por la paz \"en todo el mundo\"",
+    "link": "https://www.infobae.com/america/agencias/2026/09/13/el-papa-reza-por-las-victimas-del-11-s-y-pide-renovar-el-compromiso-por-la-paz-en-todo-el-mundo/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/QHYBJL3ACFBKVDBNJUPPCUL24M.png?auth=98085f27b66542af3780970096f8cf7d445b6b92c28f91136da9c62b6f347eb1&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Nicaragua enfrenta el riesgo de perder una generación de periodistas independientes, según organización",
-    "link": "https://www.infobae.com/nicaragua/2026/09/13/nicaragua-enfrenta-el-riesgo-de-perder-una-generacion-de-periodistas-independientes-segun-organizacion/"
+    "text": "Estatus de la calidad del aire en Loncura este 13 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/13/estatus-de-la-calidad-del-aire-en-loncura-este-13-de-septiembre-de-2026/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://www.infobae.com/resizer/v2/GBB4JKB5HFD2DOD4YWJYX4DIBQ.JPG?auth=c408bfbbe3fe0a90863852d2332d3e69ea26528363463c66f9aef9e030efed27&smart=true&width=4000&height=2665",
+    "image": null,
     "category": null,
-    "text": "Rayados y Tigres empatan en el Clásico Regio; Monterrey tuvo la última en el Estadio BBVA",
-    "link": "https://www.infobae.com/mexico/deportes/2026/09/11/monterrey-vs-tigres-cuando-y-donde-ver-en-vivo-el-clasico-regio/"
+    "text": "Belarra defiende que la Fórmula 1 forma parte de un modelo que hace la ciudad \"invivible\"",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/13/belarra-defiende-que-la-formula-1-forma-parte-de-un-modelo-que-hace-la-ciudad-invivible/"
   },
   {
     "date": "2026-09-13",
-    "image": "https://imagenes.elpais.com/resizer/v2/F5K3DFHUJFC33EH4UGR2KN2LWA.jpg?auth=07535d553a82169ef208e3dc022f85375ef99bb08fdf461f30c030bbf0acb1e0",
+    "image": "https://www.infobae.com/resizer/v2/CMVDXZ7HBNDMZAW7GUGISD32D4.jpg?auth=fd780efd04da6bc6657766960a77be0fdc35bc06a966a2e995d067f0537c0450&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "¿Se canceló tu vuelo? Revisa el estatus de las operaciones del AICM",
+    "link": "https://www.infobae.com/mexico/2026/09/13/se-cancelo-tu-vuelo-revisa-el-estatus-de-las-operaciones-del-aicm/"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://www.infobae.com/resizer/v2/OD2XJPSIWBBJ5FLPDJ4XJYMMFI.jpg?auth=fb48ed8670287b9e9fb8469b2ac68fca33e924c573907fb68e78bf6012e83bfa&smart=true&width=1920&height=1272",
+    "category": null,
+    "text": "Cerrado el aeropuerto de Vilna tras la detección de un dron procedente de Bielorrusia",
+    "link": "https://www.infobae.com/america/agencias/2026/09/13/cerrado-el-aeropuerto-de-vilna-tras-la-deteccion-de-un-dron-procedente-de-bielorrusia/"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://imagenes.elpais.com/resizer/v2/7ALELLD4NJNADOTN4KGWVCIF2A.jpg?auth=76ab993429f4e707bbc027edbc6a104f9bfce6cb244c2e595fcfd82c7aabc5f4",
+    "category": "Suecia",
+    "text": "La socialdemocracia aspira a recuperar el poder en Suecia en unas elecciones reñidas",
+    "link": "https://elpais.com/internacional/2026-09-13/la-socialdemocracia-aspira-a-recuperar-el-poder-en-suecia-en-unas-renidas-elecciones.html"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260906/1211560_212612_video_1800.mp4",
     "category": "Alemania",
     "text": "AfD, el socio díscolo de la Internacional Reaccionaria",
     "link": "https://elpais.com/internacional/2026-09-13/afd-el-socio-discolo-de-la-internacional-reaccionaria.html"
   },
   {
     "date": "2026-09-13",
-    "image": "https://imagenes.elpais.com/resizer/v2/CDWEG2K6IFKWDJ6ENUJYPSTIZM.jpg?auth=c2a7cf3036c4d59b10af6c03ff7d1f144cf02aff5bb03f82402278f582a6383e",
-    "category": "Unión Europea",
-    "text": "La ultraderecha captura el relato político en Europa",
-    "link": "https://elpais.com/internacional/2026-09-13/la-ultraderecha-captura-el-relato-politico-en-europa.html"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://imagenes.elpais.com/resizer/v2/7ALELLD4NJNADOTN4KGWVCIF2A.jpg?auth=76ab993429f4e707bbc027edbc6a104f9bfce6cb244c2e595fcfd82c7aabc5f4",
-    "category": "Suecia",
-    "text": "La socialdemocracia aspira a recuperar el poder en Suecia en unas reñidas elecciones",
-    "link": "https://elpais.com/internacional/2026-09-13/la-socialdemocracia-aspira-a-recuperar-el-poder-en-suecia-en-unas-renidas-elecciones.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/T73CT2E64JFB7IYRAHJZURE634.jpg?auth=d12cb7dd93324082f27047ae40f834a2f5db38fc2b08f15c021a070e560fef65",
+    "category": "Reino Unido",
+    "text": "Una nueva donación multimillonaria al ultra Farage hace sonar las alarmas en el resto de partidos británicos",
+    "link": "https://elpais.com/internacional/2026-09-13/una-nueva-donacion-multimillonaria-al-ultra-farage-hace-sonar-las-alarmas-en-el-resto-de-partidos-britanicos.html"
   },
   {
     "date": "2026-09-13",
@@ -162,6 +183,13 @@
   },
   {
     "date": "2026-09-13",
+    "image": "https://imagenes.elpais.com/resizer/v2/CDWEG2K6IFKWDJ6ENUJYPSTIZM.jpg?auth=c2a7cf3036c4d59b10af6c03ff7d1f144cf02aff5bb03f82402278f582a6383e",
+    "category": "Unión Europea",
+    "text": "La ultraderecha captura el relato político en Europa",
+    "link": "https://elpais.com/internacional/2026-09-13/la-ultraderecha-captura-el-relato-politico-en-europa.html"
+  },
+  {
+    "date": "2026-09-13",
     "image": "https://imagenes.elpais.com/resizer/v2/QWCNXK2V2JLGLIHNHPET2LDPYI.jpg?auth=6323af6edf23e4f0746100bd63a72703a507c08395748d38bc1ddc5964c15915",
     "category": "Donald Trump",
     "text": "Trump se queda sin tiempo para rebajar el precio de la gasolina antes de las legislativas",
@@ -169,7 +197,7 @@
   },
   {
     "date": "2026-09-13",
-    "image": "https://imagenes.elpais.com/resizer/v2/JCJQ4JFKLBPNTDLDQHG6GAHHMI.jpg?auth=9296502737b67f17312d853fdee3c34a1c44a75ca53a7c75e69b9f3c28ab9b95",
+    "image": "https://imagenes.elpais.com/resizer/v2/WDXVB7NYO5LO7AIW6QXETPMONU.jpg?auth=1dfc6996a00fc19fb5bd12255e2c5ae44fca7056f3071aec0426a30d1cfb9924",
     "category": "Ataque contra Irán",
     "text": "Claves | Quién es quién en la última escalada en Oriente Próximo",
     "link": "https://elpais.com/internacional/2026-09-13/claves-quien-es-quien-en-la-ultima-escalada-en-oriente-proximo.html"
@@ -177,79 +205,93 @@
   {
     "date": "2026-09-13",
     "image": null,
-    "category": "Mapas",
-    "text": "¿Cómo se hace un mapa? El problema de aplanar la Tierra y por qué la ONU abandona Mercator",
-    "link": "https://elpais.com/internacional/2026-09-13/como-se-hace-un-mapa-el-problema-de-aplanar-la-tierra-y-por-que-la-onu-abandona-mercator.html"
+    "category": null,
+    "text": "Hallan cientos de lingotes de oro en casa de un exfuncionario de la CIA",
+    "link": "https://actualidad.rt.com/actualidad/627443-hallan-cientos-lingotes-oro-casa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa66f0ae9ff71108b34c335.jpeg",
+    "category": null,
+    "text": "¿Qué hace EE.UU. en unos ejercicios militares con tres países de Latinoamérica?",
+    "link": "https://actualidad.rt.com/actualidad/627445-hacer-eeuu-ejercicios-paises-latinoamerica?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa67d9559bf5b2a15694946.jpg",
+    "category": null,
+    "text": "Modi señala el factor clave para el futuro de las relaciones de la India con China",
+    "link": "https://actualidad.rt.com/actualidad/627446-modi-senala-factor-clave-relaciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa67749e9ff711081641f31.jpg",
+    "category": null,
+    "text": "VIDEO: Impresionante caravana hutí armada avanza por el desierto",
+    "link": "https://actualidad.rt.com/actualidad/627447-video-impactante-movilizacion-tribal-huti-desierto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa64810e9ff7114713bc49b.jpg",
+    "category": null,
+    "text": "A Marte en 30 días: Rusia crea un motor de plasma único que mejora los existentes",
+    "link": "https://actualidad.rt.com/actualidad/627416-marte-30-dias-rusia-motor-plasma-unico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6699659bf5b485303eec6.jpg",
+    "category": null,
+    "text": "Musk recuerda que ya advirtió que la IA es \"más peligrosa que las armas nucleares\"",
+    "link": "https://actualidad.rt.com/actualidad/627440-anos-musk-ia-peligrosa-armas-nucleares?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6690359bf5b345b35d311.jpg",
+    "category": null,
+    "text": "Irán intentó usar Claude con fines militares contra EE.UU., según Anthropic",
+    "link": "https://actualidad.rt.com/actualidad/627441-anthropic-revelar-uso-claude-parte?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa66030e9ff7156f65b0161.jpg",
+    "category": null,
+    "text": "\"Asesinan a quien les da la gana\": Presidente iraní señala quiénes son los \"terroristas\" del mundo",
+    "link": "https://actualidad.rt.com/actualidad/627437-asesinan-iran-gana-presidente?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa67de759bf5b0b23799ab6.jpg",
+    "category": null,
+    "text": "China creará una plataforma de inteligencia artificial de código abierto para los BRICS",
+    "link": "https://actualidad.rt.com/actualidad/627439-xi-jinping-crear-plataforma-inteligencia-artificial-brics?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa65a6de9ff7114270fc617.jpg",
+    "category": null,
+    "text": "CGRI desafía a EE.UU.: \"Acerquen uno de sus buques a 100 kilómetros\" de Ormuz",
+    "link": "https://actualidad.rt.com/actualidad/627434-cgri-desafiar-eeuu-acercar-buques?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-13",
     "image": null,
     "category": null,
-    "text": "Empleados de una central nuclear en Europa reducen su producción antes de una huelga",
-    "link": "https://actualidad.rt.com/actualidad/627409-trabajadores-central-nuclear-francesa-reducen-produccion?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa60a3459bf5b14d97718d1.jpg",
-    "category": null,
-    "text": "Prensa 'mainstream' despierta y descubre la ayuda de Kiev a terroristas en África",
-    "link": "https://actualidad.rt.com/actualidad/627403-prensa-mainstream-despierta-descubre-ayuda?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 13 septiembre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/09/13/ultimas-noticias-13-septiembre-2026-mediodia"
   },
   {
     "date": "2026-09-13",
     "image": null,
     "category": null,
-    "text": "Venden la casa de la infancia de Trump por una millonaria suma (FOTOS)",
-    "link": "https://actualidad.rt.com/actualidad/627408-casa-infancia-trump-millonaria-suma?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa601ede9ff710944057718.jpg",
-    "category": null,
-    "text": "VIDEO: Impactante choque deja a dos niños heridos tras accidente con patinete eléctrico en Brasil",
-    "link": "https://actualidad.rt.com/actualidad/627402-video-impactante-choque-deja-ninos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Una persona muerta tras ser alcanzado un barco en el estrecho de Ormuz",
+    "link": "https://es.euronews.com/2026/09/13/una-persona-muerta-tras-ser-alcanzado-un-barco-en-el-estrecho-de-ormuz"
   },
   {
     "date": "2026-09-13",
     "image": null,
     "category": null,
-    "text": "Dejan a niña horas en una furgoneta bajo ola de calor y ahora enfrentan a la justicia",
-    "link": "https://actualidad.rt.com/actualidad/627404-nina-abandonada-furgoneta-ola-calor-eeuu-memphis?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa601c759bf5b314b4846fe.jpg",
-    "category": null,
-    "text": "Hallan en México una extraña granja oculta a mitad de la sierra, ¿qué tiene que ver con el narco?",
-    "link": "https://actualidad.rt.com/actualidad/627396-granja-cripto-sierra-puebla-mexico-clandestino?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa6018ce9ff71545c7e9aa6.png",
-    "category": null,
-    "text": "El quebradero de cabeza para EE.UU. que resurge en Oriente Medio",
-    "link": "https://actualidad.rt.com/actualidad/627395-quebradero-cabeza-eeuu-resurge-oriente?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": null,
-    "category": null,
-    "text": "WP: Al Qaeda vuelve a operar campos de entrenamiento en Afganistán",
-    "link": "https://actualidad.rt.com/actualidad/627405-al-qaeda-operar-campos-entrenamiento-afganistan?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": null,
-    "category": null,
-    "text": "Jefe militar pide directrices sobre vuelos militares de EE.UU. y acaba despedido en este país latinoamericano",
-    "link": "https://actualidad.rt.com/actualidad/627399-noboa-remueve-jefe-fuerza-aerea-directrices-vuelos-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-13",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa5eeb259bf5b46e268f20b.jpg",
-    "category": null,
-    "text": "Fuerte mensaje del enviado de Putin al CEO de Palantir",
-    "link": "https://actualidad.rt.com/actualidad/627393-mensaje-enviado-kremlin-palantir-adversarios-corte-pelo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 13 septiembre 2026 - Mañana",
+    "link": "https://es.euronews.com/video/2026/09/13/ultimas-noticias-13-septiembre-2026-manana"
   },
   {
     "date": "2026-09-12",
@@ -290,13 +332,6 @@
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "La kazaja Elena Rybakina conquista el Abierto de EE. UU. tras vencer a la bielorrusa Aryna Sabalenka",
-    "link": "https://www.france24.com/es/minuto-a-minuto/20260912-la-kazaja-elena-rybakina-conquista-el-abierto-de-ee-uu-tras-vencer-a-la-bielorrusa-aryna-sabalenka"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
     "text": "Tania Head, la impostora española que engañó al mundo al hacerse pasar por sobreviviente del 11-S",
     "link": "https://www.bbc.com/mundo/articles/cg49xwyxg6wo?at_medium=RSS&at_campaign=rss"
   },
@@ -304,15 +339,15 @@
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "\"Me iban a ejecutar y él me salvó la vida\": Jorge Silva, el capitán de la Fuerza Aérea de Chile que desafió las órdenes de los golpistas y terminó torturado",
-    "link": "https://www.bbc.com/mundo/articles/ced792eyg7po?at_medium=RSS&at_campaign=rss"
+    "text": "Por qué el director de Anthropic, una de las grandes firmas tecnológicas, pide ralentizar el desarrollo de la inteligencia artificial",
+    "link": "https://www.bbc.com/mundo/articles/c86x7vnegvvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "El ensayo en el que el director de Anthropic pide ralentizar el desarrollo de la inteligencia artificial",
-    "link": "https://www.bbc.com/mundo/articles/c86x7vnegvvo?at_medium=RSS&at_campaign=rss"
+    "text": "\"Me iban a ejecutar y él me salvó la vida\": Jorge Silva, el capitán de la Fuerza Aérea de Chile que desafió las órdenes de los golpistas y terminó torturado",
+    "link": "https://www.bbc.com/mundo/articles/ced792eyg7po?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-12",
@@ -339,13 +374,6 @@
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "El oleoducto que transporta cerca del 5% del petróleo mundial y que Arabia Saudita cerró tras un ataque con drones desde Iraq",
-    "link": "https://www.bbc.com/mundo/articles/c4gvpl2vxx0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
     "text": "Las protestas y conmemoraciones en Chile tras la decisión de Kast de no celebrar ceremonias oficiales por el golpe de Estado contra Salvador Allende",
     "link": "https://www.bbc.com/mundo/articles/cz9z15k5kxpo?at_medium=RSS&at_campaign=rss"
   },
@@ -353,15 +381,15 @@
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "Cómo el rápido avance de los hutíes en Yemen puede sumar una nueva y peligrosa dimensión a la guerra de Irán",
-    "link": "https://www.bbc.com/mundo/articles/crr4elkypzyo?at_medium=RSS&at_campaign=rss"
+    "text": "El oleoducto que transporta cerca del 5% del petróleo mundial y que Arabia Saudita cerró tras un ataque con drones desde Iraq",
+    "link": "https://www.bbc.com/mundo/articles/c4gvpl2vxx0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-12",
     "image": null,
     "category": null,
-    "text": "Por qué España registró sus peores resultados educativos en la historia del informe PISA (y las causas de que hayan caído en todo el mundo)",
-    "link": "https://www.bbc.com/mundo/articles/cz6z0407lnlo?at_medium=RSS&at_campaign=rss"
+    "text": "Cómo el rápido avance de los hutíes en Yemen puede sumar una nueva y peligrosa dimensión a la guerra de Irán",
+    "link": "https://www.bbc.com/mundo/articles/crr4elkypzyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-12",
@@ -390,33 +418,5 @@
     "category": null,
     "text": "EURONEWS HOY | Las noticias del viernes 11 de septiembre de 2026: 25 aniversario de los atentados del 11S",
     "link": "https://es.euronews.com/2026/09/12/euronews-hoy-las-noticias-del-viernes-11-de-septiembre-de-2026-25-aniversario-de-los-atent"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 12 septiembre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/09/12/ultimas-noticias-12-septiembre-2026-mediodia"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "¿Pena de muerte para la presentadora Sarah Khalifa en Egipto? Así será el proceso",
-    "link": "https://es.euronews.com/2026/09/12/por-que-presentadora-sarah-khalifa-afronta-la-pena-capital-en-egipto-y-que-le-espera"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "Drones procedentes de Irak atacan y provocan un incendio en un oleoducto de Arabia Saudí",
-    "link": "https://es.euronews.com/2026/09/12/drones-procedentes-de-irak-atacan-y-provocan-un-incendio-en-un-oleoducto-de-arabia-saudi"
-  },
-  {
-    "date": "2026-09-12",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 12 septiembre 2026 - Mañana",
-    "link": "https://es.euronews.com/video/2026/09/12/ultimas-noticias-12-septiembre-2026-manana"
   }
 ]

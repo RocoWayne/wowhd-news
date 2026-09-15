@@ -1,6 +1,13 @@
 [
   {
     "date": "2026-09-15",
+    "image": "https://s.france24.com/media/display/7c651036-b0b6-11f1-9f0b-005056a90284/w:1024/p:16x9/3eb504c70f9a25ce340bdd12ac12147e31f58225.jpg",
+    "category": "Cultura",
+    "text": "'Widow's Bay' se impone en unos Emmy marcados por la partida de grandes estrellas",
+    "link": "https://www.france24.com/es/cultura/20260915-widow-s-bay-se-impone-en-unos-emmy-marcados-por-la-partida-de-grandes-estrellas"
+  },
+  {
+    "date": "2026-09-15",
     "image": "https://s.france24.com/media/display/f8967b3e-b0ae-11f1-bae8-005056bfb2b6/w:1024/p:16x9/2026-09-14T220138Z-466468460-RC2WR0AYHSV2-RTRMADP-3-USA-STOCKS-AI.jpg",
     "category": "Economía",
     "text": "Inteligencia artificial: cómo impacta a los mercados la alerta por la IA",
@@ -73,92 +80,134 @@
     "date": "2026-09-15",
     "image": null,
     "category": null,
-    "text": "Premios Emmy 2026: estos son los ganadores de una gala en la que hizo historia la serie de comedia \"Widow's Bay\"",
-    "link": "https://www.bbc.com/mundo/articles/cmx2zex83g59o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/QXSHLJWE2ZAJNL7CVWGY3WN4NU.jpeg?auth=3a07791637c9b810b7d144bad8f93f2399adf57a852e860f3bfd0cb1742d60c9&smart=true&width=784&height=431",
-    "category": null,
-    "text": "Sustentan presupuesto del Canal de Panamá para la vigencia fiscal 2026-2027",
-    "link": "https://www.infobae.com/panama/2026/09/15/sustentan-presupuesto-del-canal-de-panama-para-la-vigencia-fiscal-2026-2027/"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/H6HUDTNOLVEQNL445JOGG75KYA.JPG?auth=ccc303a4dff441e071617e2a368517e41b0a1b7010af6c14406b06b5a310ba96&smart=true&width=5000&height=3370",
-    "category": null,
-    "text": "Matthew Rhys hace historia en los Emmy: ha ganado dos premios al mejor actor protagonista por ‘La maldición de Widow’s Bay’ y ‘La bestia en mí’",
-    "link": "https://www.infobae.com/espana/cultura/2026/09/15/matthew-rhys-hace-historia-en-los-emmy-ha-ganado-dos-premios-al-mejor-actor-protagonista-por-la-maldicion-de-widows-bay-y-la-bestia-en-mi/"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/W6IOREI5JZHU3MUH2KVBBHZINA.jpg?auth=27bedfd842680e2fb9084dd59eaf05c0972ddb0c4c39272f025eb4108e9d2a1a&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Pico y placa en Villavicencio hoy 15 de septiembre de 2026, así regirá la medida",
-    "link": "https://www.infobae.com/colombia/2026/09/15/pico-y-placa-en-villavicencio-hoy-15-de-septiembre-de-2026-asi-regira-la-medida/"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/ECCFJY6VGVBHDJ76ISDPX3NG74.jpg?auth=752b45453ed43071bda0941f9502cbb824cc5f746767b613c74263aaf58611ff&smart=true&width=5154&height=2899",
-    "category": null,
-    "text": "Un prestigioso medio europeo puso de portada a Messi como uno de los cinco candidatos al Balón de Oro: el gran ausente",
-    "link": "https://www.infobae.com/deportes/2026/09/15/un-prestigioso-medio-europeo-puso-de-portada-a-messi-como-uno-de-los-cinco-candidatos-al-balon-de-oro-el-gran-ausente/"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/IECJ2JDMNFEJRKEHMRANYLXFQE.jpg?auth=5ee4217eecdd459e9936a74b9549d4fede93c13f9581021e4a5ec567efbc88ce&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Tris: todos los números ganadores de hoy 14 de septiembre",
-    "link": "https://www.infobae.com/mexico/2026/09/15/tris-todos-los-numeros-ganadores-de-hoy-14-de-septiembre/"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/DK3HXIIMHVEGFACUQBXWKWQ2JE.png?auth=42bcfebb9294a772f7e4bc8e6d5377920c882a3430a1b5ba3df843523024a061&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Chispazo: todos los números ganadores del sorteo del 14 de septiembre",
-    "link": "https://www.infobae.com/mexico/2026/09/15/chispazo-todos-los-numeros-ganadores-del-sorteo-del-14-de-septiembre/"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/STJ6WXD2S5E2BHHYCWZB5RXWZE.jpg?auth=1ba991f3a49938f8b6cdf4621e4c95ba0c1d97f3b6862dbce5f7cd221730bcf7&smart=true&width=2560&height=1440",
-    "category": null,
-    "text": "República Dominicana: Monorriel de Santiago alcanza el 95% de avance de obra y tendrá sus primeras pruebas en octubre",
-    "link": "https://www.infobae.com/republica-dominicana/2026/09/15/republica-dominicana-monorriel-de-santiago-alcanza-el-95-de-avance-de-obra-y-tendra-sus-primeras-pruebas-en-octubre/"
+    "text": "Mymba Kuéra: cómo fue el monumental rescate de más de 30.000 animales cuando Paraguay y Brasil construyeron la represa de Itaipú",
+    "link": "https://www.bbc.com/mundo/articles/c4gmvmrl087o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-15",
     "image": null,
     "category": null,
-    "text": "'DTF St. Louis' gana al Emmy a mejor miniserie",
-    "link": "https://www.infobae.com/america/agencias/2026/09/15/dtf-st-louis-gana-al-emmy-a-mejor-miniserie/"
+    "text": "Jantelagen, la idea que explica por qué los suecos valoran la humildad y no ponerse por encima de los demás",
+    "link": "https://www.bbc.com/mundo/articles/c86x11y8g2zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/X645FAHTMRCLHHVFM4DOZWST7M.jpg?auth=f7ff16bb8cc3762ca9dbd58b213cbb609c97049833fe7d23d645c4773b6170c9&smart=true&width=1920&height=1280",
+    "image": null,
     "category": null,
-    "text": "Brasil y EEUU se reunirán en el G20 para abordar la guerra arancelaria entre ambas administraciones",
-    "link": "https://www.infobae.com/america/agencias/2026/09/15/brasil-y-eeuu-se-reuniran-en-el-g20-para-abordar-la-guerra-arancelaria-entre-ambas-administraciones/"
+    "text": "Por qué a los médicos les gusta la serie The Pitt, una de las grandes ganadoras de los premios Emmy 2026",
+    "link": "https://www.bbc.com/mundo/articles/cvzezj53867go?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/Q6V5LXJS4ZHVHDFEFTG5ZTC6FU.png?auth=854cbf6d97bb366bb9bf3b070694c186a2a5d7a3e64ea13ee3d19a34214c22ea&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Amazon se asocia con OpenAI para llevar anuncios de sus marcas a ChatGPT",
-    "link": "https://www.infobae.com/tecno/2026/09/15/amazon-se-asocia-con-openai-para-llevar-anuncios-de-sus-marcas-a-chatgpt/"
+    "text": "Premios Emmy 2026: estos son los ganadores de una gala en la que hizo historia la serie de comedia \"Widow's Bay\"",
+    "link": "https://www.bbc.com/mundo/articles/cmx2zex83g59o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/WXHL4ZZ3ORH2XNGZXOUBI2DGVE.jpg?auth=f5a360505e1faeac339fd235c75c4ad0f5e162d67e24722fb059bb1ac6113a5d&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "La violencia machista en todo su esplendor: ¿cuál es el límite de la literatura para retratar un femicida",
-    "link": "https://www.infobae.com/cultura/2026/09/15/la-violencia-machista-en-todo-su-esplendor-cual-es-el-limite-de-la-literatura-para-retratar-un-femicida/"
+    "text": "Recibí quimioterapia durante 11 años por un cáncer que no tenía",
+    "link": "https://www.bbc.com/mundo/articles/crer35p25lzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-15",
-    "image": "https://www.infobae.com/resizer/v2/GABXXTJRARAF7J2L62F3XDRCTY.png?auth=ad83ec8ea84fb2c22e031c22c27a1243de05a828ff7570010428509892705393&smart=true&width=1408&height=768",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "La actividad comercial repunta en Panamá, pero sus beneficios no llegan a todos por igual, afirma el sector privado",
-    "link": "https://www.infobae.com/panama/2026/09/15/la-actividad-comercial-repunta-en-panama-pero-sus-beneficios-no-llegan-a-todos-por-igual-afirma-el-sector-privado/"
+    "text": "Antofagasta: calidad del aire este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/antofagasta-calidad-del-aire-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/7FSGGABKH5HMNEXPWQX33DS7GE.jpg?auth=4a2ecb583cece8e0fa1bec19870d40de3bfb671deecd3b4ce7f0cc4bfd16f7a2&smart=true&width=1920&height=1278",
+    "category": null,
+    "text": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 15 de septiembre",
+    "link": "https://www.infobae.com/mexico/2026/09/15/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-15-de-septiembre/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Estatus de la calidad del aire en Ventanas este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/estatus-de-la-calidad-del-aire-en-ventanas-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Estatus de la calidad del aire en Valdivia 2 este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/estatus-de-la-calidad-del-aire-en-valdivia-2-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Estatus de la calidad del aire en Centro Quintero este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/estatus-de-la-calidad-del-aire-en-centro-quintero-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Calidad del aire en Valparaíso este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/calidad-del-aire-en-valparaiso-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Calidad del aire en La Serena este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/calidad-del-aire-en-la-serena-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Calidad del aire en Rancagua I este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/calidad-del-aire-en-rancagua-i-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Lota rural: calidad del aire este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/lota-rural-calidad-del-aire-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Estatus de la calidad del aire en Linares este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/estatus-de-la-calidad-del-aire-en-linares-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Estatus de la calidad del aire en Las Encinas Temuco este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/estatus-de-la-calidad-del-aire-en-las-encinas-temuco-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Estatus de la calidad del aire en Lagunillas, ENEL este 15 de septiembre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/09/15/estatus-de-la-calidad-del-aire-en-lagunillas-enel-este-15-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://imagenes.elpais.com/resizer/v2/V43ERUMJNJIXRL6CU3VL3QMJHQ.jpg?auth=00ce6c6eaa30c19ce174e6734c53d9f38e745d6a6169d11816f3cdbd0afdfba1",
+    "category": "Holanda",
+    "text": "Un sabotaje bloquea gran parte de la red ferroviaria de Países Bajos",
+    "link": "https://elpais.com/internacional/2026-09-15/un-presunto-sabotaje-interrumpe-gran-parte-de-la-red-ferroviaria-de-paises-bajos.html"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://imagenes.elpais.com/resizer/v2/7UVZKDIE55NNTMWQWDDB6UOTIU.jpg?auth=14f7543fd40626cb030905358ae7fdd8b9c7b96b0d7e82e6615190ce0acbfb43",
+    "category": "Elecciones EE UU",
+    "text": "El Supremo rechaza las restricciones de Trump al voto por correo para las legislativas",
+    "link": "https://elpais.com/us/2026-09-15/el-tribunal-suprema-rechaza-por-ahora-las-restricciones-de-trump-al-voto-por-correo-antes-de-las-elecciones-legislativas.html"
   },
   {
     "date": "2026-09-15",
@@ -169,13 +218,6 @@
   },
   {
     "date": "2026-09-15",
-    "image": "https://imagenes.elpais.com/resizer/v2/WH2SAPQVR6KU7MEL2JTLD2UB5I.jpg?auth=33b1ed0168a4015fcdbbcbe85fa485af318d02ff619a5453fd3f5c9a8289b153",
-    "category": "Unión Europea",
-    "text": "Bots, privatizaciones y millones de euros perdidos: los visados que envenenan las relaciones entre los turcos y la Unión Europea",
-    "link": "https://elpais.com/internacional/2026-09-15/bots-privatizaciones-y-millones-de-euros-perdidos-los-visados-que-envenenan-las-relaciones-entre-los-turcos-y-la-union-europea.html"
-  },
-  {
-    "date": "2026-09-15",
     "image": "https://imagenes.elpais.com/resizer/v2/IZ4G6TTGAFGTLM2L4UHFILIJWQ.jpg?auth=49d450d2b98bfb2fabba1e69b184e586934837f5c916a239c46833b4eafd012e",
     "category": "Ataque contra Irán",
     "text": "El canal de Suez tiembla ante los avances hutíes en el mar Rojo y el cierre del oleoducto saudí",
@@ -183,80 +225,164 @@
   },
   {
     "date": "2026-09-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa8a5a8e9ff7120d94d5b32.jpg",
-    "category": null,
-    "text": "Sorpresa en el mercado laboral: los jóvenes sin título universitario están en mejor posición que los graduados",
-    "link": "https://actualidad.rt.com/actualidad/627699-sorpresa-mercado-laboral-jovenes-educacion-desempleo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "image": "https://imagenes.elpais.com/resizer/v2/JZGHJUIM5BMCFBJIEFZYU6H3SE.jpg?auth=a1a2aa4bcb96524d7d275dd1f07373272ce23dd0e8753d425f773bc2e24fc29f",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Cazas de la OTAN derriban un dron que volaba sobre Lituania procedente de Bielorrusia",
+    "link": "https://elpais.com/internacional/2026-09-15/cazas-de-la-otan-derriban-un-dron-que-volaba-sobre-lituania-procedente-de-bielorrusia.html"
   },
   {
     "date": "2026-09-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa8944ce9ff71133707da24.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa9264959bf5b65a20954f2.jpg",
     "category": null,
-    "text": "Kim Jong-un: \"Rusia y RPDC consolidan su unidad en medio de las complejas vicisitudes de la historia\"",
-    "link": "https://actualidad.rt.com/actualidad/627691-kim-jong-rusia-rpdc-consolidar-unidad?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Niños unen fuerzas para rescatar a un gato atrapado a varios metros de altura",
+    "link": "https://actualidad.rt.com/viral/627748-video-ninos-unen-fuerzas-rescatar-gato-atrapado-varios-metros-altura?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa8b35ae9ff7114bf373522.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa8f112e9ff71173a5f4a5c.jpg",
     "category": null,
-    "text": "Microsoft da un paso ante los temores de descontrol de la IA",
-    "link": "https://actualidad.rt.com/actualidad/627697-microsoft-lanzar-codigo-conducta-sistemas-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Dembélé y Mbappé encienden la carrera por el Balón de Oro con un tenso cruce de declaraciones",
+    "link": "https://actualidad.rt.com/actualidad/627720-dembele-mbappe-carrera-balon-oro?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa8a5aee9ff714bc84be361.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa9272ae9ff71235261c460.jpg",
     "category": null,
-    "text": "Una familia pierde la custodia de su hija por negarse a su transición de género",
-    "link": "https://actualidad.rt.com/actualidad/627704-familia-pierde-custodia-hija-cambio-genero?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Kremlin: El espacio debe estar libre de cualquier tipo de armamento",
+    "link": "https://actualidad.rt.com/actualidad/627746-kremlin-espacio-debe-libre-cualquier-tipo-armamento?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa89a6959bf5b797b18bf23.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa91c83e9ff71133707da66.jpg",
     "category": null,
-    "text": "Exponen un riesgo oculto en la moda de 'farmear aura'",
-    "link": "https://actualidad.rt.com/actualidad/627701-exponer-riesgo-oculto-moda-farmear-aura?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Lavrov: \"Si EE.UU. no se hubiera desviado de los acuerdos de Anchorage ya llevaríamos un año sin guerra\"",
+    "link": "https://actualidad.rt.com/actualidad/627743-lavrov-eeuu-hubiera-desviado-acuerdos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa91fd359bf5b662f74d0ff.jpg",
+    "category": null,
+    "text": "VIDEO: Conductor de 93 años atropella a una mujer y se estrella contra una farmacia",
+    "link": "https://actualidad.rt.com/viral/627744-conductor-atropellar-mujer-estrellarse-farmacia-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa91f6359bf5b3e7e0c0bfe.jpg",
+    "category": null,
+    "text": "Kremlin nombra las condiciones para una tregua energética con Ucrania",
+    "link": "https://actualidad.rt.com/actualidad/627727-kremlin-comenta-anuncio-trump-cese?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa9164ce9ff714da517a4d6.jpg",
+    "category": null,
+    "text": "Lavrov: \"Los europeos se aferraron a Trump y lograron disuadirlo de mantener la propuesta que se formuló en Alaska\"",
+    "link": "https://actualidad.rt.com/actualidad/627738-lavrov-europeos-aferraron-trump-lograron-disaudirlo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa9144a59bf5b026160adb0.jpg",
+    "category": null,
+    "text": "VIDEO: Violenta explosión en una planta salinera en México",
+    "link": "https://actualidad.rt.com/actualidad/627730-violenta-explosion-planta-salinera-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa91596e9ff710d450de46e.jpg",
+    "category": null,
+    "text": "Lavrov: La UE sigue manteniendo una postura \"estúpida\" sobre Ucrania",
+    "link": "https://actualidad.rt.com/actualidad/627740-lavrov-ue-sigue-manteniendo-postura?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-15",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa9138ae9ff710d127b3798.jpg",
+    "category": null,
+    "text": "Lavrov: Occidente libra una \"guerra jurídica\" contra Rusia para crear ruido propagandístico",
+    "link": "https://actualidad.rt.com/actualidad/627736-lavrov-occidente-libra-guerra-juridica-rusia-crear-ruido-propagandistico?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-15",
     "image": null,
     "category": null,
-    "text": "Acciones se desploman a nivel global tras llamados a frenar el avance de la IA",
-    "link": "https://actualidad.rt.com/actualidad/627707-acciones-desplomar-nivel-global-llamados-frenar-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa8afece9ff71088f3a32a1.JPG",
-    "category": null,
-    "text": "VIDEO: Atropella a una agente de tránsito, huye en moto y desata una intensa persecución",
-    "link": "https://actualidad.rt.com/viral/627690-video-atropella-agente-transito-huye?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Pentágono reconoce carencias de munición y armamento avanzado por la guerra con Irán",
+    "link": "https://es.euronews.com/2026/09/15/pentagono-reconoce-carencias-municion-armamento-guerra-iran"
   },
   {
     "date": "2026-09-15",
     "image": null,
     "category": null,
-    "text": "Octogenario senador de EE.UU. vuelve al Capitolio en silla de ruedas tras larga ausencia",
-    "link": "https://actualidad.rt.com/actualidad/627706-octogenario-senador-eeuu-volver-capitolio-silla-ruedas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El robot aparcacoches de Gatwick promete un aparcamiento de larga estancia más seguro y fácil",
+    "link": "https://es.euronews.com/video/2026/09/15/el-robot-aparcacoches-de-gatwick-promete-un-aparcamiento-de-larga-estancia-mas-seguro-y-fa"
   },
   {
     "date": "2026-09-15",
     "image": null,
     "category": null,
-    "text": "Arrestan a un entrenador de fútbol escolar tras un perturbador descubrimiento",
-    "link": "https://actualidad.rt.com/actualidad/627708-arrestan-entrenador-futbol-escolar-perturbador?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aa80c3f59bf5b1501686c70.jpg",
-    "category": null,
-    "text": "IA desbocada: el peligro futuro que se vuelve presente",
-    "link": "https://actualidad.rt.com/actualidad/627601-ia-desbocada-peligro-futuro-presente?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 15 septiembre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/09/15/ultimas-noticias-15-septiembre-2026-mediodia"
   },
   {
     "date": "2026-09-15",
     "image": null,
     "category": null,
-    "text": "¿Qué es el Escudo de las Américas?: EE.UU. deja atrás el Plan Colombia y apuesta por la fuerza letal",
-    "link": "https://es.euronews.com/2026/09/15/que-es-el-escudo-de-las-americas-eeuu-deja-atras-el-plan-colombia-y-apuesta-por-la-fuerza-"
+    "text": "Los ataques a almacenes de Rusia destruyen millones de libros y golpean al sector editorial",
+    "link": "https://es.euronews.com/2026/09/15/ataques-almacenes-rusia-destruyen-millones-libros"
+  },
+  {
+    "date": "2026-09-15",
+    "image": null,
+    "category": null,
+    "text": "La ONU reclama acceso total para sus investigadores mientras aumenta la cifra de muertos en Gaza",
+    "link": "https://es.euronews.com/2026/09/15/la-onu-reclama-acceso-total-para-sus-investigadores-mientras-aumenta-la-cifra-de-muertos-e"
+  },
+  {
+    "date": "2026-09-15",
+    "image": null,
+    "category": null,
+    "text": "Logró subirse a un árbol: los osos atacan a personas en decenas de regiones de Rusia",
+    "link": "https://es.euronews.com/2026/09/15/logro-subirse-a-un-arbol-los-osos-atacan-a-personas-en-decenas-de-regiones-de-rusia"
+  },
+  {
+    "date": "2026-09-15",
+    "image": null,
+    "category": null,
+    "text": "Jóvenes universitarios presentan una lista estudiantil para sacudir las elecciones de Serbia",
+    "link": "https://es.euronews.com/video/2026/09/15/estudiantes-universitarios-lanzan-la-lista-estudiantil-para-sacudir-las-elecciones-de-serb"
+  },
+  {
+    "date": "2026-09-15",
+    "image": null,
+    "category": null,
+    "text": "El Supremo de EE.UU. rechaza las restricciones propuestas por Trump al voto por correo",
+    "link": "https://es.euronews.com/2026/09/15/el-supremo-de-eeuu-rechaza-las-restricciones-propuestas-por-trump-al-voto-por-correo"
+  },
+  {
+    "date": "2026-09-15",
+    "image": null,
+    "category": null,
+    "text": "Los fieles acuden masivamente a Mumbai y Hyderabad con motivo del inicio de Ganesh Chaturthi",
+    "link": "https://es.euronews.com/video/2026/09/15/fieles-acuden-masivamente-a-mumbai-y-hyderabad-al-inicio-de-ganesh-chaturthi"
+  },
+  {
+    "date": "2026-09-15",
+    "image": null,
+    "category": null,
+    "text": "Al menos dos muertos y tiendas destruidas en ataques israelíes contra campamentos de Gaza",
+    "link": "https://es.euronews.com/video/2026/09/15/al-menos-dos-muertos-y-tiendas-destruidas-en-ataques-israelies-contra-campamentos-de-gaza"
+  },
+  {
+    "date": "2026-09-15",
+    "image": null,
+    "category": null,
+    "text": "Trump afirma que Rusia y Ucrania han frenado sus ataques mutuos a energéticas ante la escalada del combustible",
+    "link": "https://es.euronews.com/2026/09/15/trump-anuncia-una-tregua-energetica-entre-rusia-ucrania-ante-escalada-precio-diesel"
+  },
+  {
+    "date": "2026-09-15",
+    "image": null,
+    "category": null,
+    "text": "Juicio a Alex Saab: Se prevé que el fiel aliado de Maduro se declare culpable de blanqueo en EE.UU.",
+    "link": "https://es.euronews.com/2026/09/15/juicio-alex-saab-aliado-maduro-se-declare-culpable-blanqueo-eeuu"
   },
   {
     "date": "2026-09-14",
@@ -274,24 +400,10 @@
   },
   {
     "date": "2026-09-14",
-    "image": "https://s.france24.com/media/display/be5dd2d2-b086-11f1-972f-005056a97e36/w:1024/p:16x9/AP22268740380759.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "\"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260914-un-querido-amigo-un-oligarca-ruso-cercano-a-putin-financia-parte-de-la-boda-de-un-hijo-de-trump"
-  },
-  {
-    "date": "2026-09-14",
     "image": null,
     "category": null,
     "text": "Por qué preocupa que la IA pueda amenazar a la humanidad y qué tan real es ese temor",
     "link": "https://www.bbc.com/mundo/articles/cqkg0dvwm99vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "Las jaulas en las que eran encerrados los migrantes en el \"Alcatraz de los caimanes\" de Florida",
-    "link": "https://www.bbc.com/mundo/articles/ckrer3p31z8wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-14",
@@ -304,119 +416,7 @@
     "date": "2026-09-14",
     "image": null,
     "category": null,
-    "text": "China rechaza la idea de que está en una \"competencia maliciosa\" con EE.UU. por el control de la IA",
-    "link": "https://www.bbc.com/mundo/articles/c95y4jd0ygddo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "Qué significa desacelerar el desarrollo de la IA como pide el director de Anthropic",
-    "link": "https://www.bbc.com/mundo/articles/cm74kx7lqevjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "El alarmante llamado del director de Anthropic para ralentizar el desarrollo de la inteligencia artificial",
-    "link": "https://www.bbc.com/mundo/articles/c86x7vnegvvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
-    "link": "https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "El rapero Macklemore es apartado de la gira de Ed Sheeran tras sus palabras a favor de una \"Palestina libre\"",
-    "link": "https://www.bbc.com/mundo/articles/c617jx24xwe0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "Un ministro de Netanyahu pide retirar la ciudadanía israelí a dos cineastas por su documental sobre las muertes de civiles en Gaza",
-    "link": "https://www.bbc.com/mundo/articles/cr2kw42vn1x7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/XBCZPQ2PV5FOJLPFDINHNC3LTE.jpg?auth=3c3169cac14f823600859d6a1becaf3f2342e9ab213f415a7ab16523bc7a74d4",
-    "category": "Independentismo",
-    "text": "Los nacionalistas de Escocia, Gales e Irlanda del Norte se unen para impulsar su independencia del Reino Unido",
-    "link": "https://elpais.com/internacional/2026-09-14/los-nacionalistas-de-escocia-gales-e-irlanda-del-norte-se-unen-para-impulsar-su-independencia-del-reino-unido.html"
-  },
-  {
-    "date": "2026-09-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/DPLIUZL6O5E4VOHTVIGQF2QHMA.jpg?auth=ad76d9827273313e65c834a0e6286daec2ffab5506ed24fd5bdb3d316a953dcb",
-    "category": "Democracia",
-    "text": "Trump lleva la democracia de Estados Unidos a su nivel más bajo en al menos medio siglo",
-    "link": "https://elpais.com/internacional/2026-09-15/trump-lleva-la-democracia-de-estados-unidos-a-su-nivel-mas-bajo-de-la-historia-reciente.html"
-  },
-  {
-    "date": "2026-09-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/B7EVEVRTF5IB3MSBP6JYXFV6YQ.jpg?auth=ce71e6524138b0616c068d54fe415b6428159cf661c304db1df97d09634786ef",
-    "category": "Emma Bonino",
-    "text": "Emma Bonino en el corazón",
-    "link": "https://elpais.com/internacional/2026-09-14/emma-bonino-en-el-corazon.html"
-  },
-  {
-    "date": "2026-09-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/HNGJO42GMNK47L3PK4LBZCGZMU.jpg?auth=9d40c27f088e53935d3251c90cd265e1e30f280177b694d5eeb792827d3d5a5d",
-    "category": "Cisjordania",
-    "text": "Una ONG israelí acusa al Gobierno de Netanyahu de tratar de “eliminar” las condiciones de vida en Cisjordania",
-    "link": "https://elpais.com/internacional/2026-09-14/una-ong-israeli-denuncia-el-proyecto-de-eliminacion-en-cisjordania.html"
-  },
-  {
-    "date": "2026-09-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/XXPAETN4YNLMJDVHDRIMZLXOJ4.jpg?auth=d17985f9def03e0239acd799fbb88f17b63525fc720d42e4af25dd9ea95617fa",
-    "category": "Suecia",
-    "text": "¿Por qué la ultraderecha baja en Suecia mientras avanza en Europa?",
-    "link": "https://elpais.com/internacional/2026-09-14/por-que-la-ultraderecha-baja-en-suecia-mientras-avanza-en-europa.html"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "Venezuela acude a la cumbre del G20 sobre energía en EE.UU. ante la tensión en los mercados globales",
-    "link": "https://es.euronews.com/2026/09/14/venezuela-acude-cumbre-del-g20-sobre-energia-eeuu-ante-tension-mercados-globales"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "Trump anuncia una tregua energética entre Rusia y Ucrania ante la escalada del precio del diésel",
-    "link": "https://es.euronews.com/2026/09/14/trump-anuncia-una-tregua-energetica-entre-rusia-ucrania-ante-escalada-precio-diesel"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "Irán confisca los bienes de 240 disidentes y periodistas en plena ola de represión",
-    "link": "https://es.euronews.com/2026/09/14/iran-confisca-bienes-240-disidentes-periodistas-ola-represion"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "EURONEWS HOY | Las noticias del lunes 14 de septiembre de 2026: La UE sopesa endurecer su política migratoria",
-    "link": "https://es.euronews.com/2026/09/14/euronews-hoy-las-noticias-del-lunes-14-de-septiembre-de-2026-la-ue-sopesa-endurecer-su-pol"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "El Papa León XIV inaugura Aqva: la odisea artística vaticana sobre el poder y el peligro del agua",
-    "link": "https://es.euronews.com/video/2026/09/14/el-papa-leon-xiv-presenta-ola-gigante-en-nueva-muestra-sobre-el-agua-de-la-biblioteca-vati"
-  },
-  {
-    "date": "2026-09-14",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 14 septiembre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/09/14/ultimas-noticias-14-septiembre-2026-tarde"
+    "text": "Las jaulas en las que eran encerrados los migrantes en el \"Alcatraz de los caimanes\" de Florida",
+    "link": "https://www.bbc.com/mundo/articles/ckrer3p31z8wo?at_medium=RSS&at_campaign=rss"
   }
 ]

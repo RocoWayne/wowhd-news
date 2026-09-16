@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-09-16",
+    "image": "https://s.france24.com/media/display/85f8c03c-3ca9-11ed-a2de-005056bf30b7/w:1024/p:16x9/000_32JU9XC.jpg",
+    "category": "Medio Oriente",
+    "text": "Amnistía acusa a Irán de coordinar asesinatos, torturas y abusos sexuales durante las protestas de 2022",
+    "link": "http://www.france24.com/es/medio-oriente/20260916-amnist%C3%ADa-acusa-a-ir%C3%A1n-de-coordinar-asesinatos-torturas-y-abusos-sexuales-durante-las-protestas-de-2022"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://s.france24.com/media/display/b010e1d0-b214-11f1-8bcf-3df65e1cd14d/w:1024/p:16x9/4b1db1fbadbda79ba7927467c9785233b5321da6w.jpg",
+    "category": "Europa",
+    "text": "¿Otra tormenta en la monarquía?: Carlos III responde a las revelaciones del libro del hermano de Diana",
+    "link": "http://www.france24.com/es/europa/20260916-otra-tormenta-en-la-monarqu%C3%ADa-carlos-iii-responde-a-las-revelaciones-del-libro-del-hermano-de-diana"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://s.france24.com/media/display/e4d0886c-b205-11f1-8435-757719c1152f/w:1024/p:16x9/ES-20260916-113145-113326-CS.jpg",
+    "category": null,
+    "text": "Arabia Saudita acusa a hutíes de intentar atacar La Meca; grupo yemení lo niega",
+    "link": "http://www.france24.com/es/video/20260916-arabia-saudita-acusa-a-hut%C3%ADes-de-intentar-atacar-la-meca-grupo-yemen%C3%AD-lo-niega"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://s.france24.com/media/display/48288f6c-b202-11f1-a05a-757719c1152f/w:1024/p:16x9/ES-20260916-090657-090846-CS.jpg",
+    "category": null,
+    "text": "Kosovo: CPI condena a expresidente Hashim Thaci a 25 años de prisión por crímenes de guerra",
+    "link": "http://www.france24.com/es/video/20260916-kosovo-cpi-condena-a-expresidente-hashim-thaci-a-25-a%C3%B1os-de-prisi%C3%B3n-por-cr%C3%ADmenes-de-guerra"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://s.france24.com/media/display/1a6b183e-b1f7-11f1-9661-3df65e1cd14d/w:1024/p:16x9/ES-20260916-074208-074346-CS.jpg",
+    "category": null,
+    "text": "Politización del Supremo brasileño enfrenta a De Moraes y Mendonça a tres semanas de las elecciones",
+    "link": "http://www.france24.com/es/video/20260916-politizaci%C3%B3n-del-supremo-brasile%C3%B1o-enfrenta-a-de-moraes-y-mendon%C3%A7a-a-tres-semanas-de-las-elecciones"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://s.france24.com/media/display/53b54358-b1fc-11f1-b4d6-4daf57bffe27/w:1024/p:16x9/FOTO-PORTADA-COSTA-RICA-LAURA-FERNANDEZ-REFORMA-JUDICIAL.jpg",
+    "category": "América Latina",
+    "text": "¿Qué cambios al poder judicial impulsa la presidenta de Costa Rica y por qué causan controversia?",
+    "link": "http://www.france24.com/es/am%C3%A9rica-latina/20260916-qu%C3%A9-cambios-al-poder-judicial-impulsa-la-presidenta-de-costa-rica-y-por-qu%C3%A9-causan-controversia"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://s.france24.com/media/display/4e8cfc34-b1e5-11f1-b707-3df65e1cd14d/w:1024/p:16x9/Moserrat-volca%CC%81n.jpeg",
+    "category": "En Foco",
+    "text": "Montserrat: la isla caribeña sepultada por un volcán",
+    "link": "http://www.france24.com/es/programas/en-foco/20260916-montserrat-la-isla-caribe%C3%B1a-sepultada-por-un-volc%C3%A1n"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://s.france24.com/media/display/4bf2baf2-aaee-11f1-bdec-005056bfb2b6/w:1024/p:16x9/2026-09-01T103012Z-1424067749-RC29ANAWIDJQ-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+    "category": "Medio Oriente",
+    "text": "La ONU alerta sobre posibles crímenes de guerra tras el hallazgo de cientos de cuerpos bajo los escombros en Gaza",
+    "link": "http://www.france24.com/es/medio-oriente/20260916-la-onu-alerta-sobre-posibles-cr%C3%ADmenes-de-guerra-tras-el-hallazgo-de-cientos-de-cuerpos-bajo-los-escombros-en-gaza"
+  },
+  {
+    "date": "2026-09-16",
     "image": "https://s.france24.com/media/display/030df706-b1f7-11f1-bd8c-757719c1152f/w:1024/p:16x9/000-1382IB.jpg",
     "category": "EE. UU. y Canadá",
     "text": "\"Red de asesinatos” vinculada a Rusia incluye a tres latinoamericanos: claves de la imputación en EE. UU.",
@@ -31,78 +87,29 @@
     "date": "2026-09-16",
     "image": null,
     "category": null,
-    "text": "Estados Unidos mantiene descertificación a Colombia en lucha contra las drogas",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260916-ee-uu-mantiene-descertificaci%C3%B3n-a-colombia-en-lucha-antidrogas-espera-avances-en-nuevo-gobierno"
-  },
-  {
-    "date": "2026-09-16",
-    "image": "https://s.france24.com/media/display/98cbbe26-b1df-11f1-88fe-4daf57bffe27/w:1024/p:16x9/WEB-PORTADA-16SEP-ELL.png",
-    "category": "Ellas hoy",
-    "text": "Apuestas deportivas, publicidad y sexismo: el debate que abre Sydney Sweeney",
-    "link": "http://www.france24.com/es/programas/ellas-hoy/20260916-apuestas-deportivas-publicidad-y-sexismo-el-debate-que-abre-sydney-sweeney"
-  },
-  {
-    "date": "2026-09-16",
-    "image": "https://s.france24.com/media/display/e495ecd0-b1e6-11f1-8b75-0dbbad64a63b/w:1024/p:16x9/ES-20260916-073408-073603-CS.jpg",
-    "category": null,
-    "text": "Sin teloneros y sin banda: Ed Sheeran se queda sin músicos tras retirar a Macklemore de su gira",
-    "link": "http://www.france24.com/es/video/20260916-sin-teloneros-y-sin-banda-ed-sheeran-se-queda-sin-m%C3%BAsicos-tras-retirar-a-macklemore-de-su-gira"
-  },
-  {
-    "date": "2026-09-16",
-    "image": "https://s.france24.com/media/display/4b27ace6-b1e1-11f1-90e5-3df65e1cd14d/w:1024/p:16x9/ES-20260916-074353-074944-CS.jpg",
-    "category": null,
-    "text": "Directo Latam y el reconocimiento de culpabilidad de Alex Saab por lavado de dinero",
-    "link": "http://www.france24.com/es/video/20260916-directo-latam-y-el-reconocimiento-de-culpabilidad-de-alex-saab-por-lavado-de-dinero"
-  },
-  {
-    "date": "2026-09-16",
-    "image": "https://s.france24.com/media/display/43faa0d4-b1d9-11f1-9d4d-cfc9bd8e913f/w:1024/p:16x9/ES-20260916-081336-082135-CS.jpg",
-    "category": "Revista de prensa",
-    "text": "\"La mayor venta de bombas controvertidas a Israel que planea Trump\": 'The Washington Post'",
-    "link": "http://www.france24.com/es/programas/revista-de-prensa/20260916-la-mayor-venta-de-bombas-controvertidas-a-israel-que-planea-trump-the-washington-post"
-  },
-  {
-    "date": "2026-09-16",
-    "image": "https://s.france24.com/media/display/99a7845e-b1d7-11f1-9ea1-f72ea3a769d9/w:1024/p:16x9/AP25205333423139-1.jpg",
-    "category": "Economía",
-    "text": "La Unión Europea le planta cara a China poniendo límites a la avalancha de productos",
-    "link": "http://www.france24.com/es/programas/econom%C3%ADa/20260916-la-uni%C3%B3n-europea-le-planta-cara-a-china-poniendo-l%C3%ADmites-a-la-avalancha-de-productos"
-  },
-  {
-    "date": "2026-09-16",
-    "image": "https://s.france24.com/media/display/3d723f5c-b1e2-11f1-88cf-757719c1152f/w:1024/p:16x9/2026-09-16T083628Z-570247194-RC28KNAPX2ZW-RTRMADP-3-EU-PARLIAMENT-CARNEY.jpg",
-    "category": "Europa",
-    "text": "La UE abre una puerta inédita para que Canadá sea el primer \"miembro asociado\" tras tensiones con Trump",
-    "link": "http://www.france24.com/es/europa/20260916-canad%C3%A1-seguridad-ia-claves-del-discurso-de-von-der-leyen-sobre-el-estado-de-la-uni%C3%B3n-europe"
-  },
-  {
-    "date": "2026-09-16",
-    "image": "https://s.france24.com/media/display/1c34b81e-8074-11f1-ae59-005056a90284/w:1024/p:16x9/2026-07-15T122749Z-71517555-RC2UDDA347D5-RTRMADP-3-IRAN-CRISIS-YEMEN-RED-SEA.jpg",
-    "category": "El Debate",
-    "text": "Bab el-Mandeb: ¿qué buscan los hutíes de Yemen y qué teme Arabia Saudita?",
-    "link": "http://www.france24.com/es/programas/el-debate/20260916-bab-el-mandeb-qu%C3%A9-buscan-los-hut%C3%ADes-de-yemen-y-qu%C3%A9-teme-arabia-saudita"
+    "text": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
+    "link": "https://www.bbc.com/mundo/articles/cr5yevn02vv8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-16",
     "image": null,
     "category": null,
-    "text": "\"La mía será la última cara que vea\": cómo se convirtió Florida en el estado que más impone la pena de muerte en EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/c5yjrzwzkrko?at_medium=RSS&at_campaign=rss"
+    "text": "4 muertes en 7 meses: la indignación por los crímenes contra mujeres en la Universidad de Morelos, en la que estudiaba la joven española asesinada",
+    "link": "https://www.bbc.com/mundo/articles/c6x2zyqevrd5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-16",
     "image": null,
     "category": null,
-    "text": "Ed Sheeran: cómo cultivar la imagen del \"chico bueno\" de la música contribuyó a la peor crisis de su carrera",
+    "text": "El hermano de Diana de Gales asegura que Carlos III le dijo que se \"olvidaría pronto\" a la princesa poco después de su muerte",
+    "link": "https://www.bbc.com/mundo/articles/c6jrxzw49q33o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-16",
+    "image": null,
+    "category": null,
+    "text": "Cómo cultivar la imagen del \"chico bueno\" de la música llevó a Ed Sheeran a atravesar la peor crisis de su carrera",
     "link": "https://www.bbc.com/mundo/articles/cqkgvk30lz4yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-16",
-    "image": null,
-    "category": null,
-    "text": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo \"tiene razón en sentir miedo\"",
-    "link": "https://www.bbc.com/mundo/articles/c6gqdekd4zpwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-16",
@@ -115,8 +122,8 @@
     "date": "2026-09-16",
     "image": null,
     "category": null,
-    "text": "Por qué Trump apuesta todo por la IA y considera \"un engaño\" las advertencias sobre sus peligros",
-    "link": "https://www.bbc.com/mundo/articles/c64gv3y8x0q3o?at_medium=RSS&at_campaign=rss"
+    "text": "Por qué Florida es el estado que más condenados a muerte ejecuta en EE.UU.",
+    "link": "https://www.bbc.com/mundo/articles/c5yjrzwzkrko?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-16",
@@ -129,6 +136,13 @@
     "date": "2026-09-16",
     "image": null,
     "category": null,
+    "text": "Por qué Trump apuesta todo por la IA y considera \"un engaño\" las advertencias sobre sus peligros",
+    "link": "https://www.bbc.com/mundo/articles/c64gv3y8x0q3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-16",
+    "image": null,
+    "category": null,
     "text": "El derrumbe de un edificio dañado por la guerra en Gaza deja al menos 21 muertos y decenas de desaparecidos",
     "link": "https://www.bbc.com/mundo/articles/c6j4jl029pzdo?at_medium=RSS&at_campaign=rss"
   },
@@ -136,78 +150,78 @@
     "date": "2026-09-16",
     "image": null,
     "category": null,
-    "text": "La cámara principal del telescopio Roman de la NASA capta su primera imagen de prueba",
-    "link": "https://www.infobae.com/america/agencias/2026/09/16/la-camara-principal-del-telescopio-roman-de-la-nasa-capta-su-primera-imagen-de-prueba/"
+    "text": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo \"tiene razón en sentir miedo\"",
+    "link": "https://www.bbc.com/mundo/articles/c6gqdekd4zpwo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/RVQVTIZWBVEJVADVYGRS3MAGFU.jpg?auth=50a30772e14e414e4c8dd60f567fbbeb8fe4a2fdd784b3f47c4a9460150e417c&smart=true&width=3264&height=1836",
+    "image": "https://www.infobae.com/resizer/v2/ROMSSFMMLBHBZOTTSGY4XPDYA4.png?auth=6e48fbcecdbf7ab118e56c5e75f45001a267e7e60c13af6d32d38e2a61376d45&smart=true&width=1600&height=900",
     "category": null,
-    "text": "De la Acrópolis a Santorini: el viaje de Gastón Trezeguet por Grecia en plena definición de Gran Hermano",
-    "link": "https://www.infobae.com/teleshow/2026/09/16/de-la-acropolis-a-santorini-el-viaje-de-gaston-trezeguet-por-grecia-en-plena-definicion-de-gran-hermano/"
+    "text": "El gol de la Hormiga González con el que Olympiacos remontó al Jagiellonia en la Europa League",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/16/el-gol-de-la-hormiga-gonzalez-con-el-que-olympiacos-remonto-al-jagiellonia-en-la-europa-league/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/EIAXE5UW5REK3IF265U6TENI7A.jpg?auth=62062809c08926a0469786642fea74ef3105e15a99ce75c7ff96b02b9e5726bf&smart=true&width=1201&height=629",
+    "image": "https://www.infobae.com/resizer/v2/3TPKEINY6VDRJDFD5YBIQQNKEY.JPG?auth=30cc9071e27a98a3d4d7f270bcb5e87d13805179804fa852e18e804bb91a7abd&smart=true&width=7373&height=4915",
     "category": null,
-    "text": "Perú vs Estados Unidos: día, hora y canal TV del partido amistoso por fecha FIFA 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/09/16/peru-vs-estados-unidos-dia-hora-y-canal-tv-del-partido-por-fecha-fifa-2026/"
+    "text": "Ayuda humanitaria de Estados Unidos llegará en las próximas semanas a cinco provincias de Cuba",
+    "link": "https://www.infobae.com/cuba/2026/09/16/ayuda-humanitaria-de-estados-unidos-llegara-en-las-proximas-semanas-a-cinco-provincias-de-cuba/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/3RYSFBY4YNGTHCNAR6RPCCTZR4.JPG?auth=cc80a00ee4e6314e7b0697ccbeb9c33f64f58cca093080b02ff01194c80a9430&smart=true&width=3178&height=2119",
+    "image": "https://www.infobae.com/resizer/v2/HMYFQGQHMBFY5AB5FUI3XXY5SU.jpg?auth=07d0e405223f4229554fd2df8a08d062dbcfea639cbe0d5303df87bf17d8b162&smart=true&width=1080&height=721",
     "category": null,
-    "text": "EN VIVO | Desfile Militar del 16 de septiembre: se presenta el Ejercito Nacional",
-    "link": "https://www.infobae.com/mexico/2026/09/16/en-vivo-desfile-militar-del-16-de-septiembre-sigue-los-drones-blindados-y-el-pase-de-lista-de-claudia-sheinbaum/"
+    "text": "Ángel Barajas arrasó en los Juegos Suramericanos 2026 y cosechó dos medallas de oro para Colombia",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/16/angel-barajas-arraso-en-los-juegos-suramericanos-2026-y-cosecho-dos-medallas-de-oro-para-colombia/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/GYGSL23XABA7LI354J73OXXLWI.jpeg?auth=b20f08eb30c367825ea2a9f4e5162527e6045797ef0d2ea36df0abe1747af028&smart=true&width=6000&height=4000",
+    "image": "https://www.infobae.com/resizer/v2/HGLPSV7PZRAXZPWE4BJZK6NURU.png?auth=338b85966340b8880555c3496248a99f45f3213382cf6054d4adc1109feeae6b&smart=true&width=763&height=402",
     "category": null,
-    "text": "Diputados: el ajuste en Discapacidad previsto para 2027 rompió el diálogo entre libertarios y opositores",
-    "link": "https://www.infobae.com/politica/2026/09/16/diputados-el-ajuste-en-discapacidad-previsto-para-2027-rompio-el-dialogo-entre-libertarios-y-opositores/"
+    "text": "Autoridades de Toluca, en México, detuvieron a dos cubanos por presuntos robos y narcomenudeo",
+    "link": "https://www.infobae.com/cuba/2026/09/16/autoridades-de-toluca-en-mexico-detuvieron-a-dos-cubanos-por-presuntos-robos-y-narcomenudeo/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/GRZZE2QYSZCFHNSQ66M6X3JRXU.JPG?auth=4541dafcf6bfdd7820df31d3f384e210f19c921e2ecf7860bd77a2095aeac6ec&smart=true&width=5000&height=3333",
+    "image": "https://www.infobae.com/resizer/v2/JCANR3H2VZBTVCY4EGF3KPVSAU.jpg?auth=73686d602f64bf90c0d0fd606cb4d56f88269d4c645796f28a06b57152fa612e&smart=true&width=1980&height=1090",
     "category": null,
-    "text": "“Hay muchas cosas que podemos hacer en Latinoamérica que en otros países no pueden existir”: Gael García Bernal en una reflexión sobre el cine",
-    "link": "https://www.infobae.com/cultura/2026/09/16/hay-muchas-cosas-que-podemos-hacer-en-latinoamerica-que-en-otros-paises-no-pueden-existir-gael-garcia-bernal-en-una-reflexion-sobre-el-cine/"
+    "text": "Los motivos por los que Telefe bajó a L-Gante de MasterChef Celebrity y el enojo de Wanda Nara: “Pedía que lo retengan”",
+    "link": "https://www.infobae.com/teleshow/2026/09/16/los-motivos-por-los-que-telefe-bajo-a-l-gante-de-masterchef-celebrity-y-el-enojo-de-wanda-nara-pedia-que-lo-retengan/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/C2VKRQCA2RHQRJM3QOIBSKGSIY.jpeg?auth=214c7c9f1d99a96bb41b0c7a53db7e9cfe8b316bbd3c851fadadf43fe567f4b2&smart=true&width=6589&height=4393",
+    "image": "https://www.infobae.com/resizer/v2/SYDOPY5LAJCJRMX2LWAQU3PBYY.jpg?auth=691a18f26e17c9daee54f5b74da05802acab9f462ad6ca087293134a94c9977b&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "José Carbonell, psiquiatra: “Querer crecer va a permitir que tu autoestima mejore y siga subiendo”",
-    "link": "https://www.infobae.com/espana/2026/09/16/jose-carbonell-psiquiatra-querer-crecer-va-a-permitir-que-tu-autoestima-mejore-y-siga-subiendo/"
+    "text": "Secretario ejecutivo del Instituto Electoral de Tabasco renuncia tras promover a un aspirante de Morena",
+    "link": "https://www.infobae.com/mexico/2026/09/16/secretario-ejecutivo-del-instituto-electoral-de-tabasco-renuncia-tras-promover-a-un-aspirante-de-morena/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/2H55N5TLO5HLDKEDAPNCERVCUQ.jpg?auth=c236bb40288a8052d3551e99719710c0b34c2ea1c3e54d7a492db6740b56495f&smart=true&width=3400&height=1913",
+    "image": "https://www.infobae.com/resizer/v2/PD3IBRAQPFCB3LDYP4Y2VRPBRM.jpg?auth=3a82fd06292cf68aba7845497861d24fa610635b3145f8fdc6acb54105d59650&smart=true&width=3000&height=1688",
     "category": null,
-    "text": "Angustia, cansancio e incertidumbre: el clima emocional que muestra un informe de la UBA",
-    "link": "https://www.infobae.com/salud/2026/09/16/angustia-cansancio-e-incertidumbre-el-clima-emocional-que-muestra-un-informe-de-la-uba/"
+    "text": "Copa Davis: Molteni y Andreozzi vuelven a formar dupla para la serie ante Turquía",
+    "link": "https://www.infobae.com/deportes/2026/09/16/copa-davis-molteni-y-andreozzi-vuelven-a-formar-dupla-para-la-serie-ante-turquia/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/YY6IT55XMRC2PFV3ODKWQLDFZE.jpg?auth=ce4839621c4fbd8d363c4bda821224aecece70de226ecc6312dd9d1f3fc116f1&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/H77XN3B4ORGTNB7KINSU74UBUM.png?auth=7bbdaa71026c06216ccbb22f7d45e14acdca53ea4c9ea67d661c260b3ac06793&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Actualiza tu PS5: Sony lanza una versión que mejora el rendimiento de la consola",
-    "link": "https://www.infobae.com/tecno/2026/09/16/actualiza-tu-ps5-sony-lanza-una-version-que-mejora-el-rendimiento-de-la-consola/"
+    "text": "Marisol Aguirre genera polémica en redes tras asegurar que “fue a Disney recién a los 19 años”",
+    "link": "https://www.infobae.com/peru/2026/09/16/marisol-aguirre-se-vuelve-viral-por-su-comentario-sobre-disney-y-desata-criticas-y-comentarios-divididos-en-redes/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/JFL3HGHNBZD6XEKGKWTWZ7VJ5Q.jpeg?auth=82cf4e74317da04a457b321cf02c2c661216b734a1625e51568327633b103174&smart=true&width=1306&height=816",
+    "image": "https://www.infobae.com/resizer/v2/STCS2HL3QBC77NDBVRVD6YYRUY.png?auth=7c28f82acbd3a9bf8b1f3f5c038d5b67ffa60ac0d28cabd1a60f0bf0505a9b40&smart=true&width=1600&height=1080",
     "category": null,
-    "text": "Paso a paso para generar una imagen de Las Guerreras K-pop como figuras para colorear",
-    "link": "https://www.infobae.com/tecno/2026/09/16/paso-a-paso-para-generar-una-imagen-de-las-guerreras-k-pop-como-figuras-para-colorear/"
+    "text": "Contraloría declaró de impacto nacional los millonarios giros identificados en la Fiduprevisora: se hicieron durante el Gobierno Petro",
+    "link": "https://www.infobae.com/colombia/2026/09/16/contraloria-declaro-de-impacto-nacional-los-millonarios-giros-identificados-en-la-fiduprevisora-se-hicieron-durante-el-gobierno-petro/"
   },
   {
     "date": "2026-09-16",
-    "image": "https://www.infobae.com/resizer/v2/PDH4PLFGY5FI5KQCCUIG5NJIL4.png?auth=e461e888d619cf719b4fa244acca21431d5097e3c543240e0c9a3480e2dd798b&smart=true&width=2048&height=1403",
+    "image": "https://www.infobae.com/resizer/v2/7WHX2CDP3BAWND5CVW2BWW3XJE.jpg?auth=f82d13e46dd8ce000a198d98526051d62a58372669e7d207232b9a9e0ef1746c&smart=true&width=1152&height=640",
     "category": null,
-    "text": "Ataque de un enjambre de abejas dejó a unas 16 personas heridas en La Estrella, Antioquia: se cerraron vías y se acordonó la zona",
-    "link": "https://www.infobae.com/colombia/2026/09/16/ataque-de-enjambre-de-abejas-dejo-a-unas-16-peronas-heridas-en-la-estrella-antioquia-se-cerraron-vias-y-se-acordono-la-zona/"
+    "text": "El aeropuerto José Martí de La Habana declara la falta de combustible Jet A-1",
+    "link": "https://www.infobae.com/cuba/2026/09/16/el-aeropuerto-jose-marti-de-la-habana-declara-la-falta-de-combustible-jet-a-1/"
   },
   {
     "date": "2026-09-16",
@@ -218,6 +232,13 @@
   },
   {
     "date": "2026-09-16",
+    "image": "https://www.infobae.com/resizer/v2/DCJXMPLKWFGFNDWYWJB77SZWYY.png?auth=aa9fed7a378d381d4b3c58a0074302d94fada3ca227631c9ee0805bfdf9bbf0e&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento",
+    "link": "https://www.infobae.com/peru/2026/09/16/fraude-en-tiempos-de-inteligencia-artificial-de-la-preocupacion-al-conocimiento/"
+  },
+  {
+    "date": "2026-09-16",
     "image": "https://www.youtube.com/watch?v=d7FGncqV00U",
     "category": "Unión Europea",
     "text": "Von der Leyen apuesta por que Canadá sea el primer miembro asociado de la UE",
@@ -225,17 +246,17 @@
   },
   {
     "date": "2026-09-16",
-    "image": "https://imagenes.elpais.com/resizer/v2/Y5LBQUJQ75NH3FLO5DD6KFAIQ4.jpg?auth=6e7790c887ed5ec6dd1501447bf79496ae1e75e6267b3a553fea81755b0dfe0b",
-    "category": "Estados Unidos",
-    "text": "Trump pierde en el Supremo la batalla del voto por correo, pero sigue su guerra para subvertir las ‘midterms’",
-    "link": "https://elpais.com/us/2026-09-16/trump-pierde-en-el-supremo-la-batalla-del-voto-por-correo-pero-sigue-su-guerra-para-subvertir-las-midterms.html"
-  },
-  {
-    "date": "2026-09-16",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260915/1214609_175539_video_1800.mp4",
     "category": "Ataque contra Irán",
     "text": "Amnistía acusa a Irán de crímenes contra la humanidad por los asesinatos, torturas y violaciones durante las protestas de 2022",
     "link": "https://elpais.com/internacional/2026-09-16/una-oleada-de-atrocidades-amnistia-acusa-a-iran-de-cometer-crimenes-contra-la-humanidad-en-la-represion-de-las-protestas-de-2022.html"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://imagenes.elpais.com/resizer/v2/Y5LBQUJQ75NH3FLO5DD6KFAIQ4.jpg?auth=6e7790c887ed5ec6dd1501447bf79496ae1e75e6267b3a553fea81755b0dfe0b",
+    "category": "Estados Unidos",
+    "text": "Trump pierde en el Supremo la batalla del voto por correo, pero sigue su guerra para subvertir las ‘midterms’",
+    "link": "https://elpais.com/us/2026-09-16/trump-pierde-en-el-supremo-la-batalla-del-voto-por-correo-pero-sigue-su-guerra-para-subvertir-las-midterms.html"
   },
   {
     "date": "2026-09-16",
@@ -274,73 +295,94 @@
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaa902659bf5b6bc5392735.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aab1bcf59bf5b23be661617.jpg",
     "category": null,
-    "text": "Los estadounidenses han pagado miles de millones extra en gasolina desde el inicio de la guerra con Irán",
-    "link": "https://actualidad.rt.com/actualidad/627909-estadounidenses-pagado-miles-millones-gasolina-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Congreso de EE.UU. aprueba el proyecto de ley de sanciones antirrusas impulsado por Lindsey Graham",
+    "link": "https://actualidad.rt.com/actualidad/627985-congreso-eeuu-aprobar-proyecto-ley-sanciones-antirrusas-lindsay-graham?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaad01959bf5b761f49dc9a.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaaf12659bf5b4c9250341d.jpg",
     "category": null,
-    "text": "Los ataques sicariales ponen en jaque a otro país suramericano que blinda su frontera",
-    "link": "https://actualidad.rt.com/actualidad/627948-ataques-sicariales-poner-jaque-pais-sudamericano-frontera?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Encuesta: La mayoría de los estadounidenses teme que la IA destruya a la humanidad",
+    "link": "https://actualidad.rt.com/actualidad/627982-encuesta-mayoria-estadounidenses-teme-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaaa7fc59bf5b036a4069f4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aab087ae9ff7120202bb222.jpg",
     "category": null,
-    "text": "La nueva vía estratégica de China hacia el Sudeste Asiático",
-    "link": "https://actualidad.rt.com/actualidad/627925-canal-pinglu-nueva-via-estrategica-china?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Vuelo real: pareja de monarcas pilota un avión en un VIDEO DESDE LA CABINA",
+    "link": "https://actualidad.rt.com/actualidad/627984-vuelo-real-pareja-monarcas-pilotar-avion?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaac2a459bf5b37f23dd7dc.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaaef2359bf5b42490a5e7e.jpg",
     "category": null,
-    "text": "El gran pacto antichino cumple cinco años con una factura gigantesca y resultados aún limitados",
-    "link": "https://actualidad.rt.com/actualidad/627937-gran-pacto-antichino-cumple-cinco-anos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Fundador de TikTok se convierte en el hombre más rico de Asia",
+    "link": "https://actualidad.rt.com/actualidad/627981-fundador-popular-red-social-hombre-mas-rico-china?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaabd3b59bf5b42490a5e44.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaae85959bf5b240d08a641.jpg",
     "category": null,
-    "text": "Reuters: EE.UU. mantuvo conversaciones secretas con los hutíes",
-    "link": "https://actualidad.rt.com/actualidad/627943-reuters-eeuu-mantuvo-conversaciones-secretas-huties?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "China ofrece apoyo contra la inseguridad a un país latinoamericano cortejado por EE.UU.",
+    "link": "https://actualidad.rt.com/actualidad/627975-china-ofrecer-apoyo-inseguridad-pais-latinoamericano?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaa854ee9ff716b9e5f3e78.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aab057d59bf5b186b3e8bb6.jpg",
     "category": null,
-    "text": "Una 'salvación' pone en vilo el futuro del juez que llevó la política de Brasil al banquillo",
-    "link": "https://actualidad.rt.com/actualidad/627910-juez-moraes-salvar-90-dias-supremo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump formula nuevas exigencias a México en el combate contra el narcotráfico",
+    "link": "https://actualidad.rt.com/actualidad/627978-trump-nuevas-exigencias-mexico-combate-narco?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaab02959bf5b0247163520.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aab0472e9ff7157b8084ec9.jpg",
     "category": null,
-    "text": "Estas son las 10 mejores ciudades de América Latina",
-    "link": "https://actualidad.rt.com/actualidad/627931-mejores-ciudades-america-latina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El urgente llamado de Trump tras la subida de tasas de interés por la Fed",
+    "link": "https://actualidad.rt.com/actualidad/627993-urgente-llamado-trump-subida-tasas-fed?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaac70659bf5b6bc539276e.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aab04b7e9ff7166802b1ec5.jpg",
     "category": null,
-    "text": "El Vaticano quiere competir por primera vez en los Oscar",
-    "link": "https://actualidad.rt.com/actualidad/627946-vaticano-busca-oscar-revelar-revista-hollywood?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump: \"Estamos 'manteniendo' a casi todos los países del mundo, y esto no puede continuar por más tiempo\"",
+    "link": "https://actualidad.rt.com/actualidad/627994-trump-mantener-paises-mundo-poder?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaab86d59bf5b05ef1b965a.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaafdbee9ff71581c038986.jpg",
     "category": null,
-    "text": "VIDEO: Atrapan vestido de mujer a un sanguinario asesino con más de 80 víctimas",
-    "link": "https://actualidad.rt.com/actualidad/627942-atrapan-vestido-mujer-sanguinario-asesino-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La Reserva Federal de EE.UU. desafía a Trump y sube las tasas de interés por primera vez en 3 años",
+    "link": "https://actualidad.rt.com/actualidad/627983-reserva-federal-eeuu-desafia-trump-tasas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaab749e9ff7158194f24fb.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaab743e9ff7157ed24f605.jpg",
     "category": null,
-    "text": "Lo que Von der Leyen no contó sobre el verdadero estado de la Unión",
-    "link": "https://actualidad.rt.com/actualidad/627930-von-der-leyen-no-conto-verdadero-estado-union?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Un régimen abiertamente nazi\": Lavrov carga contra Kiev",
+    "link": "https://actualidad.rt.com/actualidad/627940-regimen-abiertamente-nazi-lavrov-carga-kiev-perseguir-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-16",
+    "image": null,
+    "category": null,
+    "text": "EE.UU. destaca la cooperación de Venezuela en la lucha contra el narcotráfico",
+    "link": "https://es.euronews.com/2026/09/16/eeuu-destaca-la-cooperacion-de-venezuela-en-la-lucha-contra-el-narcotrafico"
+  },
+  {
+    "date": "2026-09-16",
+    "image": null,
+    "category": null,
+    "text": "México ordena detener a Francisco Javier 'N', el presunto asesino de la estudiante española Claudia Tacoronte",
+    "link": "https://es.euronews.com/2026/09/16/mexico-orden-detencion-francisco-javier-presunto-asesino-estudiante-claudia-tacoronte"
+  },
+  {
+    "date": "2026-09-16",
+    "image": null,
+    "category": null,
+    "text": "La Justicia argentina reclama detener el proyecto petrolero en las Malvinas",
+    "link": "https://es.euronews.com/2026/09/16/justicia-argentina-reclama-detener-proyecto-petrolero-malvinas"
   },
   {
     "date": "2026-09-16",
@@ -376,47 +418,5 @@
     "category": null,
     "text": "Mark Carney, recibido con una ovación de pie en el Parlamento Europeo",
     "link": "https://es.euronews.com/video/2026/09/16/ue-canada-ovacion-en-pie-pour-mark-carney-en-el-parlamento-europeo"
-  },
-  {
-    "date": "2026-09-16",
-    "image": null,
-    "category": null,
-    "text": "Gran incendio forestal en Valencia arrasa 690 hectáreas tras el verano más cálido",
-    "link": "https://es.euronews.com/video/2026/09/16/gran-incendio-forestal-en-valencia-arrasa-690-hectareas-tras-el-verano-mas-calido"
-  },
-  {
-    "date": "2026-09-16",
-    "image": null,
-    "category": null,
-    "text": "Los repartidores de Gaza recurren a la bicicleta tras la falta de combustible y el destrozo de las vías",
-    "link": "https://es.euronews.com/2026/09/16/repartidores-gaza-recurren-bicicleta-tras-falta-combustible-destrozo-carreteras"
-  },
-  {
-    "date": "2026-09-16",
-    "image": null,
-    "category": null,
-    "text": "Sánchez devuelve a Vivas la responsabilidad por los menores de Ceuta: \"Eso pregúnteselo a Vivas\"",
-    "link": "https://es.euronews.com/2026/09/16/sanchez-descarga-responsabilidades-gestion-mena-ceuta"
-  },
-  {
-    "date": "2026-09-16",
-    "image": null,
-    "category": null,
-    "text": "Los saudíes ocultan el volumen de sus cancelaciones petrolíferas",
-    "link": "https://es.euronews.com/2026/09/16/riad-no-comenta-las-cancelaciones-de-envios-de-petroleo-se-desconoce-el-alcance-del-dano"
-  },
-  {
-    "date": "2026-09-16",
-    "image": null,
-    "category": null,
-    "text": "EE.UU. planea enviar bombas a Israel por valor de 2.800 millones de dólares",
-    "link": "https://es.euronews.com/2026/09/16/eeuu-planea-enviar-bombas-a-israel-por-2800-millones-de-dolares"
-  },
-  {
-    "date": "2026-09-16",
-    "image": null,
-    "category": null,
-    "text": "La UE ofrece a Canadá convertirse en su primer miembro asociado",
-    "link": "https://es.euronews.com/my-europe/2026/09/16/la-ue-ofrece-a-canada-convertirse-en-su-primer-miembro-asociado"
   }
 ]

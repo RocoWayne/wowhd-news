@@ -1,6 +1,48 @@
 [
   {
     "date": "2026-09-17",
+    "image": "https://s.france24.com/media/display/d3e34a8a-b2f0-11f1-a9e7-430f3874e448/w:1024/p:16x9/ES-20260917-163434-163614-CS.jpg",
+    "category": null,
+    "text": "Revelan una supuesta exigencia de EE. UU. para permitir \"disidentes\" en comicios de Brasil",
+    "link": "https://www.france24.com/es/video/20260917-revelan-una-supuesta-exigencia-de-ee-uu-para-permitir-disidentes-en-comicios-de-brasil"
+  },
+  {
+    "date": "2026-09-17",
+    "image": "https://s.france24.com/media/display/aa6b0488-b2ee-11f1-877d-7922de457103/w:1024/p:16x9/ES-20260917-150851-151059-CS.jpg",
+    "category": null,
+    "text": "Rusia bombardea Kiev con misiles y drones horas después de nuevas sanciones de EE. UU.",
+    "link": "https://www.france24.com/es/video/20260917-rusia-bombardea-kiev-con-misiles-y-drones-horas-despu%C3%A9s-de-nuevas-sanciones-de-ee-uu"
+  },
+  {
+    "date": "2026-09-17",
+    "image": "https://s.france24.com/media/display/b1b93370-b2eb-11f1-952d-5570cf9529c5/w:1024/p:16x9/ES-20260917-124453-125132-CS.jpg",
+    "category": null,
+    "text": "Directo a... Buenos Aires y el proyecto de ley que endurece sanciones a quienes operen en Malvinas",
+    "link": "https://www.france24.com/es/video/20260917-directo-a-buenos-aires-y-el-proyecto-de-ley-que-endurece-sanciones-a-quienes-operen-en-malvinas"
+  },
+  {
+    "date": "2026-09-17",
+    "image": "https://s.france24.com/media/display/67a825d0-b2ea-11f1-bb30-61f6f55d211c/w:1024/p:16x9/ES-20260917-131506-132505-CS.jpg",
+    "category": null,
+    "text": "¿Qué se puede entender por integrante asociado de la UE y por qué Canadá?",
+    "link": "https://www.france24.com/es/video/20260917-qu%C3%A9-se-puede-entender-por-integrante-asociado-de-la-ue-y-por-qu%C3%A9-canad%C3%A1"
+  },
+  {
+    "date": "2026-09-17",
+    "image": null,
+    "category": null,
+    "text": "Bolivia alerta que los grupos criminales PCC y Comando Vermelho están reclutando a sus ciudadanos",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260917-bolivia-alerta-que-los-grupos-criminales-pcc-y-comando-vermelho-est%C3%A1n-reclutando-a-sus-ciudadanos"
+  },
+  {
+    "date": "2026-09-17",
+    "image": "https://s.france24.com/media/display/774b8e04-b2dc-11f1-9350-5570cf9529c5/w:1024/p:16x9/IRA%CC%81N-1.png",
+    "category": null,
+    "text": "Irán: Amnistía Internacional denuncia crímenes contra la humanidad en las protestas de 2022",
+    "link": "https://www.france24.com/es/video/20260917-ir%C3%A1n-amnist%C3%ADa-internacional-denuncia-cr%C3%ADmenes-contra-la-humanidad-en-las-protestas-de-2022"
+  },
+  {
+    "date": "2026-09-17",
     "image": "https://s.france24.com/media/display/2cdb4d4c-b281-11f1-a800-d7a11ace016d/w:1024/p:16x9/2026-09-16T175859Z-738929787-RC2XJNAL5KN5-RTRMADP-3-SOCCER-SPAIN-ELC-RMA.jpg",
     "category": "Deportes",
     "text": "Mbappé, fustigado desde la derecha en Francia y España por la polémica de la camiseta de Ceuta",
@@ -33,55 +75,6 @@
     "category": null,
     "text": "Familias huyen de los combates y cruzan el estrecho de Bab el-Mandeb mientras la OIM los recibe",
     "link": "https://www.france24.com/es/video/20260917-familias-huyen-de-los-combates-y-cruzan-el-estrecho-de-bab-el-mandeb-mientras-la-oim-los-recibe"
-  },
-  {
-    "date": "2026-09-17",
-    "image": null,
-    "category": "En Foco",
-    "text": "El despegue de la India: el tercer mercado aeroespacial del mundo",
-    "link": "https://www.france24.com/es/programas/en-foco/20260917-el-despegue-de-la-india-el-tercer-mercado-aeroespacial-del-mundo"
-  },
-  {
-    "date": "2026-09-17",
-    "image": "https://s.france24.com/media/display/a8bf8832-b2c8-11f1-9386-430f3874e448/w:1024/p:16x9/capture-15566877486aac3677a29ff3-98468772.jpg",
-    "category": "Corresponsales",
-    "text": "¿Fe viral? Jóvenes sin tradición ortodoxa inundan el Muro de las Lamentaciones",
-    "link": "https://www.france24.com/es/programas/corresponsales/20260917-fe-viral-j%C3%B3venes-sin-tradici%C3%B3n-ortodoxa-inundan-el-muro-de-las-lamentaciones"
-  },
-  {
-    "date": "2026-09-17",
-    "image": "https://s.france24.com/media/display/e86a397e-b2c7-11f1-9175-5570cf9529c5/w:1024/p:16x9/2026-09-17T171314Z-797024520-RC27DLAA1T9T-RTRMADP-3-USA-ELECTION-IMMIGRATION.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Congresista republicana María Elvira Salazar advierte a Trump que los votantes hispanos “se sienten traicionados”",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260917-congresista-republicana-mar%C3%ADa-elvira-salazar-advierte-a-trump-que-los-votantes-hispanos-se-sienten-traicionados"
-  },
-  {
-    "date": "2026-09-17",
-    "image": "https://s.france24.com/media/display/953846a4-aedc-11f1-8d8a-005056bfb2b6/w:1024/p:16x9/000-C8698C2.jpg",
-    "category": "Francia en foco",
-    "text": "Cómo Francia se enamoró de Céline Dion",
-    "link": "https://www.france24.com/es/programas/francia-en-foco/20260917-c%C3%B3mo-francia-se-enamor%C3%B3-de-c%C3%A9line-dion"
-  },
-  {
-    "date": "2026-09-17",
-    "image": null,
-    "category": null,
-    "text": "Congresista republicana María Elvira Salazar advierte a Trump que los votantes hispanos “se sienten traicionados”",
-    "link": "https://www.france24.com/es/minuto-a-minuto/20260917-congresista-republicana-mar%C3%ADa-elvira-salazar-advierte-a-trump-que-los-votantes-hispanos-se-sienten-traicionados"
-  },
-  {
-    "date": "2026-09-17",
-    "image": "https://s.france24.com/media/display/f6935040-b2c6-11f1-a59c-7922de457103/w:1024/p:16x9/ES-20260917-084304-084512-CS.jpg",
-    "category": null,
-    "text": "Inventar información u ocultar errores: OpenAI publica incidentes que ha tenido con su IA",
-    "link": "https://www.france24.com/es/video/20260917-inventar-informaci%C3%B3n-u-ocultar-errores-openai-publica-incidentes-que-ha-tenido-con-su-ia"
-  },
-  {
-    "date": "2026-09-17",
-    "image": "https://s.france24.com/media/display/f76c3184-b2c2-11f1-9f1b-7922de457103/w:1024/p:16x9/ES-20260917-083330-083510-CS.jpg",
-    "category": null,
-    "text": "Informe desde Bruselas: Canadá y UE se acercan en medio de tensión con Trump",
-    "link": "https://www.france24.com/es/video/20260917-informe-desde-bruselas-canad%C3%A1-y-ue-se-acercan-en-medio-de-tensi%C3%B3n-con-trump"
   },
   {
     "date": "2026-09-17",
@@ -129,6 +122,20 @@
     "date": "2026-09-17",
     "image": null,
     "category": null,
+    "text": "La compleja ingeniería que se requiere para fabricar las ventanillas de los aviones",
+    "link": "https://www.bbc.com/mundo/articles/c6jdv92pm9x1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-17",
+    "image": null,
+    "category": null,
+    "text": "El hermano de Diana de Gales asegura que Carlos III sonaba \"como si hubiera ganado la lotería\" cuando le llamó tras la muerte de la princesa",
+    "link": "https://www.bbc.com/mundo/articles/c6jrxzw49q33o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-17",
+    "image": null,
+    "category": null,
     "text": "Microsoft advierte que la IA sin control podría dar lugar a una \"especie no humana\" que compita con las personas",
     "link": "https://www.bbc.com/mundo/articles/ck5ylr62r9r6o?at_medium=RSS&at_campaign=rss"
   },
@@ -141,94 +148,87 @@
   },
   {
     "date": "2026-09-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/UF6LJ3YWVRFFHDMR5MVDCQMQCM.jpg?auth=c7246d5568efd3693532c69e9b9afb33a8f18a85cfb7314a8c6bea18294f25b1&smart=true&width=1080&height=721",
     "category": null,
-    "text": "Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo",
-    "link": "https://www.bbc.com/mundo/articles/cmy0z5egwg42o?at_medium=RSS&at_campaign=rss"
+    "text": "El reto de Antonela Roccuzzo a Thiago Messi que se volvió viral en pleno festejo del Inter Miami",
+    "link": "https://www.infobae.com/teleshow/2026/09/17/el-reto-de-antonela-roccuzzo-a-thiago-messi-que-se-volvio-viral-en-pleno-festejo-del-inter-miami/"
   },
   {
     "date": "2026-09-17",
-    "image": "https://www.infobae.com/resizer/v2/GRELQMGPIZCARNG47X3LX5NX6I.JPG?auth=21c64c5650c108c08690b83ba4a9f4c91732c9d9f49f52595d13780de6351432&smart=true&width=4960&height=3226",
+    "image": "https://www.infobae.com/resizer/v2/3V4V5BRGNBEWDN773U7V37MZZM.png?auth=bf1a24602eacdaff5c791761018356f84dfebcdd39073b05ccac1b6e3ec3aef5&smart=true&width=643&height=515",
     "category": null,
-    "text": "Cuáles son las bajas más sensibles en la convocatoria de la selección Colombia: James Rodríguez lidera el grupo de ausentes",
-    "link": "https://www.infobae.com/colombia/deportes/2026/09/17/cuales-son-las-bajas-mas-sensibles-en-la-convocatoria-de-la-seleccion-colombia-james-rodriguez-lidera-el-grupo-de-ausentes/"
+    "text": "Emiliano Yacobitti cuestionó el presupuesto en Educación: “El Gobierno no cumple la ley ni la palabra”",
+    "link": "https://www.infobae.com/educacion/2026/09/17/emiliano-yacobitti-cuestiono-el-presupuesto-en-educacion-el-gobierno-no-cumple-la-ley-ni-la-palabra/"
   },
   {
     "date": "2026-09-17",
-    "image": "https://www.infobae.com/resizer/v2/LOOLQURBMFCX5ELFWPXILT66BE.png?auth=82001460e18ec5c2f2a21c203ba3cdc32606fbdb34f05933b68ffc7cde91b5d3&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/TLDRN46JMFCTDEOVYQL6ZSJ2SI.png?auth=42f8f7d3117af24a458fc09370a0a308d0b0477ef081dadb6213c9c9c0c94086&smart=true&width=1600&height=900",
     "category": null,
-    "text": "Alcalde Galán aclaró si habrá racionamiento de agua en Bogotá por El Niño y pidió reforzar el ahorro de energía ante los picos de demanda",
-    "link": "https://www.infobae.com/colombia/2026/09/17/alcalde-galan-aclaro-si-habra-racionamiento-de-agua-en-bogota-por-el-nino-y-pidio-reforzar-el-ahorro-de-energia-ante-los-picos-de-demanda/"
+    "text": "Santiago Sandoval, joya de Chivas, quiere reencontrarse con Matías Almeyda: “Espero sacarme una foto con él”",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/17/santiago-sandoval-joya-de-chivas-quiere-reencontrarse-con-matias-almeyda-espero-sacarme-una-foto-con-el/"
   },
   {
     "date": "2026-09-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/2QXQBFYQLJEKBMUI3W2JPYA7DM.png?auth=d058b2664764150189d727cb2b165479fbb459416e4b8d7766adb68a0ae39154&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "De la Espriella rechaza categóricamente una propuesta del ELN de intercambio de rehenes",
-    "link": "https://www.infobae.com/america/agencias/2026/09/17/de-la-espriella-rechaza-categoricamente-una-propuesta-del-eln-de-intercambio-de-rehenes/"
+    "text": "Juan Pablo Varillas, segundo singlista de Perú ante Paraguay por encima de Gonzalo Bueno: ¿por qué la elección pese al ránking?",
+    "link": "https://www.infobae.com/peru/2026/09/17/juan-pablo-varillas-segundo-singlista-de-peru-ante-paraguay-por-encima-de-gonzalo-bueno-por-que-la-eleccion-pese-al-ranking/"
   },
   {
     "date": "2026-09-17",
-    "image": "https://www.infobae.com/resizer/v2/NFFBNL53KZCZ5IILY5N6MDCTPU.png?auth=37179261b6d49014bc5fc8979eb5e056af4d03af6e00109517ad3c454ca38da5&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/UVURRVEYG5CCDOCJVNX72EWLYQ.png?auth=5998ae7e4bcd65ba7b1e3ac0ebac4a53e28a0bd5b43d6761078aac41bff6cfc0&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Abelardo de la Espriella ordenó investigar a la Universidad de La Guajira: “Que se revisen las actuaciones del señor rector”",
-    "link": "https://www.infobae.com/colombia/2026/09/17/abelardo-de-la-espriella-ordeno-investigar-a-la-universidad-de-la-guajira-que-se-revisen-las-actuaciones-del-senor-rector/"
+    "text": "Carlos Carrillo denunció que dirigentes del Pacto Histórico buscan limitar la elección de delegados para su primer congreso nacional, de cara a 2027",
+    "link": "https://www.infobae.com/colombia/2026/09/17/carlos-carrillo-denuncio-que-dirigentes-del-pacto-historico-buscan-limitar-la-eleccion-de-delegados-para-su-primer-congreso-nacional-de-cara-a-2027/"
   },
   {
     "date": "2026-09-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/KH6LIYCOXZE43CCGD6T6T4DASY.png?auth=d115d861fbe6b95b419e06f75e48c9e017099e5bb40715256c7f4a0f6a559038&smart=true&width=900&height=482",
     "category": null,
-    "text": "La bolsa de São Paulo sube 0,24 % tras vivir jornada volátil por un anuncio del Gobierno",
-    "link": "https://www.infobae.com/america/agencias/2026/09/17/la-bolsa-de-sao-paulo-sube-024-tras-vivir-jornada-volatil-por-un-anuncio-del-gobierno/"
+    "text": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 17 de septiembre en CDMX y Estado de México",
+    "link": "https://www.infobae.com/mexico/2026/09/17/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-17-de-septiembre/"
   },
   {
     "date": "2026-09-17",
-    "image": "https://www.infobae.com/resizer/v2/OO5XWKGHCZHXDP3H2SRUS4VRJI.png?auth=bb3eeb8ef5969e6ac5d1b1f792dbcac10b385643b78280416c89bc8a3cc1ba13&smart=true&width=1536&height=1024",
+    "image": "https://www.infobae.com/resizer/v2/NSGH7SAA3VBMDMK6RNQVZIBYZM.png?auth=5649acd3a6d7d2765a3e9311948defacc8a70086ac98adf85ae53d7be36a1308&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Se aprobó Inocencia Fiscal II: 5 claves para entender la ley con la que el Gobierno busca sacar los dólares del colchón",
-    "link": "https://www.infobae.com/economia/2026/09/17/se-aprobo-inocencia-fiscal-ii-5-claves-para-entender-la-ley-con-la-que-el-gobierno-busca-sacar-los-dolares-del-colchon/"
+    "text": "El ministro Jaime Andrés Bernal pidió un debate sobre la cadena perpetua para violadores y asesinos de niños, tras el caso de Ana Lucía González",
+    "link": "https://www.infobae.com/colombia/2026/09/17/el-ministro-jaime-andres-bernal-pidio-un-debate-sobre-la-cadena-perpetua-para-violadores-y-asesinos-de-ninos-tras-el-caso-de-ana-lucia-gonzalez/"
   },
   {
     "date": "2026-09-17",
-    "image": "https://www.infobae.com/resizer/v2/EBQXOFYBPRH7RONYAG6NAKMKDE.png?auth=7f06ca6ed4456f255978b6d6e5123bbd7b71edd9aa68cbf0f89b23df9397adfa&smart=true&width=1057&height=595",
+    "image": "https://www.infobae.com/resizer/v2/NUSXP5ITUJHK5J66ZZG5427UDQ.jpg?auth=edf9bc19fb00e369c77e14cdc051801abd183ff211f1648ba6e10f4ca43704f1&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "EN VIVO: presentan a Marcelo Gallardo como nuevo entrenador de la selección de Ecuador",
-    "link": "https://www.infobae.com/deportes/2026/09/17/en-vivo-presentan-a-marcelo-gallardo-como-nuevo-entrenador-de-la-seleccion-de-ecuador/"
+    "text": "¿Dónde quedó el dinero? Gobierno de San Nicolás de los Garza amplía denuncia contra Samuel García por presunto desvío de 30 millones de pesos",
+    "link": "https://www.infobae.com/mexico/2026/09/17/donde-quedo-el-dinero-gobierno-de-san-nicolas-de-los-garza-amplia-denuncia-contra-samuel-garcia-por-presunto-desvio-de-30-millones-de-pesos/"
   },
   {
     "date": "2026-09-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/ZAYLK3YTPJBRHC2FT4CXE7BW3I.JPG?auth=10ebb83d0c07775abee763813b52339b9345bced0cd008ac22a00a5381b396a2&smart=true&width=5472&height=3648",
     "category": null,
-    "text": "Flávio Bolsonaro niega que su campaña reciba ayuda del Gobierno estadounidense",
-    "link": "https://www.infobae.com/america/agencias/2026/09/17/flavio-bolsonaro-niega-que-su-campana-reciba-ayuda-del-gobierno-estadounidense/"
+    "text": "Senado, en vivo: tras la aprobación de la ley de Inocencia Fiscal II, los legisladores debaten un nuevo régimen de Biocombustibles",
+    "link": "https://www.infobae.com/politica/2026/09/17/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-el-proyecto-de-inocencia-fiscal-ii-minuto-a-minuto/"
   },
   {
     "date": "2026-09-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/IYKJZFD6LNHGPAALS6WRDIVNCQ.jpg?auth=60c637b37cd99d417e0bc1e2d5120ddf9746ae84a207890748e4264f77443bc4&smart=true&width=5000&height=3047",
     "category": null,
-    "text": "Merz telefonea a Trump e intercambian opiniones sobre cómo acabar con guerra en Ucrania",
-    "link": "https://www.infobae.com/america/agencias/2026/09/17/merz-telefonea-a-trump-e-intercambian-opiniones-sobre-como-acabar-con-guerra-en-ucrania/"
-  },
-  {
-    "date": "2026-09-17",
-    "image": null,
-    "category": null,
-    "text": "Los Yankees esperan la evolución de Judge tras mostrar molestias en la pierna derecha",
-    "link": "https://www.infobae.com/america/agencias/2026/09/17/los-yankees-esperan-la-evolucion-de-judge-tras-mostrar-molestias-en-la-pierna-derecha/"
+    "text": "Cuáles son las diferencias entre OLED, QLED o Micro RGB en un televisor SmartTV",
+    "link": "https://www.infobae.com/tecno/2026/09/15/cuales-son-las-diferencias-entre-oled-qled-o-micro-rgb-en-un-televisor-smarttv/"
   },
   {
     "date": "2026-09-17",
     "image": null,
     "category": null,
-    "text": "Emiratí DP World plantea a Perú invertir 1.470 millones de dólares en el puerto del Callao",
-    "link": "https://www.infobae.com/america/agencias/2026/09/17/emirati-dp-world-plantea-a-peru-invertir-1470-millones-de-dolares-en-el-puerto-del-callao/"
+    "text": "'The Violinist', ganadora en Annecy, lleva a Toronto la guerra, la amistad y la música",
+    "link": "https://www.infobae.com/america/agencias/2026/09/17/the-violinist-ganadora-en-annecy-lleva-a-toronto-la-guerra-la-amistad-y-la-musica/"
   },
   {
     "date": "2026-09-17",
-    "image": "https://www.infobae.com/resizer/v2/52J4DHLBRNEC3OUVQNORJXPHNI.jpg?auth=dac36b87693325ad1cedcf9a6ebd307c99a5f26a6416abba74e538f72e61fc95&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Precio del dólar hoy en Canadá: cotización de cierre del 17 de septiembre",
-    "link": "https://www.infobae.com/noticias/2026/09/17/precio-del-dolar-hoy-en-canada-cotizacion-de-cierre-del-17-de-septiembre/"
+    "text": "Flávio Bolsonaro acusa a Lula de \"querer comprar a los pobres\" al subir la ayuda social",
+    "link": "https://www.infobae.com/america/agencias/2026/09/17/flavio-bolsonaro-acusa-a-lula-de-querer-comprar-a-los-pobres-al-subir-la-ayuda-social/"
   },
   {
     "date": "2026-09-17",
@@ -281,73 +281,73 @@
   },
   {
     "date": "2026-09-17",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac7da159bf5b659921d962.jpg",
     "category": null,
-    "text": "EE.UU. dona drones a uno de sus socios latinoamericanos \"más comprometidos\" contra los cárteles",
-    "link": "https://actualidad.rt.com/actualidad/628158-eeuu-donar-drones-socios-latinoamericanos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ursula von der Leyen: una villana de James Bond",
+    "link": "https://actualidad.rt.com/actualidad/628170-ursula-von-der-leyen-villana?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac53e059bf5b6b7f307048.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac7bb459bf5b2bcc1ab341.jpg",
     "category": null,
-    "text": "\"¿Quiero entrar y aniquilarlos o no?\": la encrucijada de Trump en su guerra contra Irán",
-    "link": "https://actualidad.rt.com/actualidad/628154-trump-encrucijada-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un caso de presunto abuso sexual estudiantil sacude a la Marina de Guerra de un país suramericano",
+    "link": "https://actualidad.rt.com/actualidad/628178-caso-abuso-sexual-sacudir-marina-guerra?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-17",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac797de9ff7133835fca7a.jpg",
     "category": null,
-    "text": "Se registra una explosión en un campo de tiro militar de un país de la OTAN",
-    "link": "https://actualidad.rt.com/actualidad/628161-explosion-campo-tiro-militar-pais-otan?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Pentágono evalúa retirar casi un tercio de las fuerzas de EE.UU. desplegadas en Europa",
+    "link": "https://actualidad.rt.com/actualidad/628182-pentagono-evaluar-retirar-fuerzas-europa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac49be59bf5b65e56823ab.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac6e8b59bf5b164d73450c.jpg",
     "category": null,
-    "text": "Nuevo descubrimiento científico desafía la teoría convencional sobre el origen de la Tierra",
-    "link": "https://actualidad.rt.com/actualidad/628155-nuevo-descubrimiento-cientifico-desafia-teorias?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac49f5e9ff71767c2e221c.jpg",
-    "category": null,
-    "text": "Una mujer envía escalofriantes mensajes antes de ser asesinada por un joven en Brasil",
-    "link": "https://actualidad.rt.com/actualidad/628146-mujer-envia-escalofriantes-mensajes-asesinada-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac4d7459bf5b65e630fa73.jpg",
-    "category": null,
-    "text": "\"Apoyar a los narcoterroristas tiene consecuencias\": la advertencia de EE.UU. a México",
-    "link": "https://actualidad.rt.com/actualidad/628153-apoyar-narcoterroristas-tiene-consecuencias-advertencia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Politico: Trump y Sheinbaum mantienen una llamada que introduce \"nuevos temas\" en la relación bilateral",
+    "link": "https://actualidad.rt.com/actualidad/628180-trump-sheinbaum-mantienen-llamada-introduce?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-17",
     "image": null,
     "category": null,
-    "text": "Diputado queda atrapado toda la noche en un baño del Parlamento con escaso oxígeno",
-    "link": "https://actualidad.rt.com/actualidad/628160-diputado-pasar-noche-encerrado-bano?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac48b959bf5b164d7344ee.jpeg",
-    "category": null,
-    "text": "Espeluznante caso: madre confiesa haber tenido sexo con su hijo \"unas 100 veces\"",
-    "link": "https://actualidad.rt.com/actualidad/628156-espeluznante-caso-madre-confiesa-sexo-hijo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Axios: Donald Trump podría reunirse con Delcy Rodríguez en los próximos días",
+    "link": "https://actualidad.rt.com/actualidad/628183-trump-esperar-reunion-delcy-rodriguez?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-17",
     "image": null,
     "category": null,
-    "text": "Cinco paracaidistas de la OTAN quedan enredados entre árboles durante un ejercicio",
-    "link": "https://actualidad.rt.com/actualidad/628159-cinco-paracaidistas-otan-quedan-enredados?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Fue nombrado \"profesor del año\" y terminó detenido por dispararle a dos hombres",
+    "link": "https://actualidad.rt.com/actualidad/628179-acusar-profesor-eeuu-disparar-hombres?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac1374e9ff7144b30c43b5.jpg",
+    "image": null,
     "category": null,
-    "text": "WSJ: EE.UU. está agotando sus reservas de interceptores de misiles",
-    "link": "https://actualidad.rt.com/actualidad/627988-wsj-eeuu-agotando-reservas-interceptores-misiles?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Messi sorprende con un mensaje a deportistas de los Juegos Suramericanos (VIDEO)",
+    "link": "https://actualidad.rt.com/actualidad/628185-messi-sorprender-mensaje-deportistas-juegos-suramericanos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac6e21e9ff712d29190c02.jpg",
+    "category": null,
+    "text": "Merz: \"La era de la amistad transatlántica incondicional ha llegado a su fin\"",
+    "link": "https://actualidad.rt.com/actualidad/628157-merz-amistad-transatlantica-incondicional-llegar-fin?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-17",
+    "image": null,
+    "category": null,
+    "text": "Netanyahu define el derrocamiento del Gobierno iraní como su \"principal misión\"",
+    "link": "https://actualidad.rt.com/actualidad/628174-netanyahu-definir-derrocamiento-gobierno-irani?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aac5dfae9ff712d4e569e9d.jpg",
+    "category": null,
+    "text": "¿Por qué Trump está desviando millones de dólares en ayuda militar hacia América Latina?",
+    "link": "https://actualidad.rt.com/actualidad/628165-trump-desviar-millones-ayuda-militar-america?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-17",

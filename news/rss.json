@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-09-19",
+    "image": "https://s.france24.com/media/display/63d2a060-b458-11f1-b32e-0730212ba17f/w:1024/p:16x9/000-C8RZ2XK.jpg",
+    "category": "Francia",
+    "text": "El enclave francés frente a las costas de Canadá acapara la atención mientras Macron recibe a Carney en una visita simbólica",
+    "link": "https://www.france24.com/es/francia/20260919-el-enclave-franc%C3%A9s-frente-a-las-costas-de-canad%C3%A1-acapara-la-atenci%C3%B3n-mientras-macron-recibe-a-carney-en-una-visita-simb%C3%B3lica"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://s.france24.com/media/display/1c3988d2-b46b-11f1-8fc9-6f779f079bc8/w:1024/p:16x9/ES-20260919-150440-150951-CS.jpg",
+    "category": null,
+    "text": "Luis Botello: \"La Corte de EE. UU. tiene la última palabra sobre veto de Trump a los medios\"",
+    "link": "https://www.france24.com/es/video/20260919-luis-botello-la-corte-de-ee-uu-tiene-la-%C3%BAltima-palabra-sobre-veto-de-trump-a-los-medios"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://s.france24.com/media/display/14fc2468-b46a-11f1-889f-ed3d9e22a40f/w:1024/p:16x9/ES-20260919-141100-141300-CS.jpg",
+    "category": null,
+    "text": "Violencia en Sudáfrica: nueve feminicidios en serie preocupan a la población",
+    "link": "https://www.france24.com/es/video/20260919-violencia-en-sud%C3%A1frica-nueve-feminicidios-en-serie-preocupan-a-la-poblaci%C3%B3n"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://s.france24.com/media/display/3701a9bc-b469-11f1-812d-9f514b90f153/w:1024/p:16x9/8023582514001.jpg",
+    "category": "América Latina",
+    "text": "Bachelet se retira de la carrera por liderar la ONU: ¿por qué abandonó la candidatura?",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260919-bachelet-se-retira-de-la-carrera-por-liderar-la-onu-por-qu%C3%A9-abandon%C3%B3-la-candidatura"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://s.france24.com/media/display/4a4a11f8-b45f-11f1-8759-9f514b90f153/w:1024/p:16x9/FORMATO-1-42.png",
+    "category": null,
+    "text": "Cuba enfrenta octavo apagón y la población se las ingenia para resistir",
+    "link": "https://www.france24.com/es/video/20260919-cuba-enfrenta-octavo-apag%C3%B3n-y-la-poblaci%C3%B3n-se-las-ingenia-para-resistir"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://s.france24.com/media/display/31c533bc-b458-11f1-8c8e-6f779f079bc8/w:1024/p:16x9/ES-20260919-121002-121144-CS.jpg",
+    "category": null,
+    "text": "El archipiélago francés frente a Canadá, bajo la mirada de Trump, vuelve al tablero geopolítico",
+    "link": "https://www.france24.com/es/video/20260919-el-archipi%C3%A9lago-franc%C3%A9s-frente-a-canad%C3%A1-bajo-la-mirada-de-trump-vuelve-al-tablero-geopol%C3%ADtico"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://s.france24.com/media/display/6473a4cc-b455-11f1-916f-0730212ba17f/w:1024/p:16x9/ES-20260919-120532-120728-CS.jpg",
+    "category": null,
+    "text": "Las reacciones ciudadanas al acuerdo de seguridad de EE. UU. para Groenlandia",
+    "link": "https://www.france24.com/es/video/20260919-las-reacciones-ciudadanas-al-acuerdo-de-seguridad-de-ee-uu-para-groenlandia"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://s.france24.com/media/display/72e2dd2c-b453-11f1-9b2a-ed3d9e22a40f/w:1024/p:16x9/AP26262386075857.jpg",
+    "category": "Europa",
+    "text": "Oktoberfest: Múnich da comienzo a la fiesta más legendaria de la cerveza",
+    "link": "https://www.france24.com/es/europa/20260919-oktoberfest-m%C3%BAnich-da-comienzo-a-la-fiesta-m%C3%A1s-legendaria-de-la-cerveza"
+  },
+  {
+    "date": "2026-09-19",
     "image": "https://s.france24.com/media/display/0321c574-b409-11f1-a939-9f514b90f153/w:1024/p:16x9/2026-09-17T093053Z-2036940640-RC2ZINAAJOGS-RTRMADP-3-EUROPE-ECONOMY-ENERGY.jpg",
     "category": "Europa",
     "text": "Alemania recorta impuestos sobre los combustibles antes de las cruciales elecciones del domingo",
@@ -26,62 +82,6 @@
     "category": null,
     "text": "Arabia Saudita emite su primera alerta aérea en Riad tras ataque hutí",
     "link": "https://www.france24.com/es/video/20260919-arabia-saudita-emite-su-primera-alerta-a%C3%A9rea-en-riad-tras-ataque-hut%C3%AD"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://s.france24.com/media/display/98fd17d0-b43e-11f1-a99e-0730212ba17f/w:1024/p:16x9/ES-20260919-100228-100818-CS.jpg",
-    "category": null,
-    "text": "¿Qué implica el acuerdo de seguridad de EE. UU. en Groenlandia?",
-    "link": "https://www.france24.com/es/video/20260919-qu%C3%A9-implica-el-acuerdo-de-seguridad-de-ee-uu-en-groenlandia"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://s.france24.com/media/display/108cdfae-b428-11f1-8faa-6f779f079bc8/w:1024/p:16x9/AP26262343642560.jpg",
-    "category": "Europa",
-    "text": "Dinamarca y Groenlandia reivindican la soberanía de la isla ante el acuerdo de seguridad con Trump",
-    "link": "https://www.france24.com/es/europa/20260919-dinamarca-y-groenlandia-reivindican-la-soberan%C3%ADa-de-la-isla-ante-el-acuerdo-de-seguridad-con-trump"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://s.france24.com/media/display/763598c6-b39e-11f1-b997-ed3d9e22a40f/w:1024/p:16x9/2026-09-16T200737Z-126985946-RC2IKNASV7PE-RTRMADP-3-USA-FED-STOCKS.jpg",
-    "category": "Economía",
-    "text": "El mundo vuelve a los préstamos caros por la guerra en Irán, los aranceles y el auge de la IA",
-    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260919-el-mundo-vuelve-a-los-pr%C3%A9stamos-caros-por-la-guerra-en-ir%C3%A1n-los-aranceles-y-el-auge-de-la-ia"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://s.france24.com/media/display/0ffb5fe4-b431-11f1-9f31-ed3d9e22a40f/w:1024/p:16x9/ES-20260919-081024-081220-CS.jpg",
-    "category": null,
-    "text": "Cuba enfrenta su octavo apagón nacional en 2026 en plena crisis energética",
-    "link": "https://www.france24.com/es/video/20260919-cuba-enfrenta-su-octavo-apag%C3%B3n-nacional-en-2026-en-plena-crisis-energ%C3%A9tica"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://s.france24.com/media/display/5718d994-b42f-11f1-92df-5b4fdf021577/w:1024/p:16x9/ES-20260919-070704-070852-CS.jpg",
-    "category": null,
-    "text": "Estados Unidos: protestas contra amenaza de demolición del Centro Kennedy en Washington",
-    "link": "https://www.france24.com/es/video/20260919-estados-unidos-protestas-contra-amenaza-de-demolici%C3%B3n-del-centro-kennedy-en-washington"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://s.france24.com/media/display/ceede58e-b42c-11f1-8a4b-9f514b90f153/w:1024/p:16x9/ES-20260919-060136-060344-CS.jpg",
-    "category": null,
-    "text": "Donald Trump anuncia acuerdo de seguridad sobre Groenlandia",
-    "link": "https://www.france24.com/es/video/20260919-donald-trump-anuncia-acuerdo-de-seguridad-sobre-groenlandia"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://s.france24.com/media/display/f5c423ba-b42e-11f1-9171-6f779f079bc8/w:1024/p:16x9/2026-09-19T114800Z-1100229945-RC28MNAOL58F-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
-    "category": "Medio Oriente",
-    "text": "En directo: humo y fuego cerca del aeropuerto de Riad, luego de alertas aéreas en Arabia Saudita",
-    "link": "https://www.france24.com/es/medio-oriente/20260919-en-directo-arabia-saudita-emiti%C3%B3-alertas-a%C3%A9reas-en-todo-el-pa%C3%ADs-en-medio-de-la-escalada-en-yemen"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://s.france24.com/media/display/7ee961fa-b399-11f1-8d7a-9ff5c3f464d4/w:1024/p:16x9/IMG-0204.png",
-    "category": "Una Semana en el Mundo",
-    "text": "Los hutíes tras Bab el-Mandeb: ¿una nueva carta de poder para Irán?",
-    "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260919-los-hut%C3%ADes-tras-bab-el-mandeb-una-nueva-carta-de-poder-para-ir%C3%A1n"
   },
   {
     "date": "2026-09-19",
@@ -127,87 +127,87 @@
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/QPUI6MD63BAQXBED5YTNY7XOIY.png?auth=88bc14ed15f0cfab471e24d1e7ee1ce43f4eb112f6bd2d6b4166fda74e63db28&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/MYJOUWULFNH4HAZ3OJJB2PJE2A.jpg?auth=0b77b3ee44918fc9e3f4183b98ddcf5a7858345f92ab8e5671b0f918048f407c&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 19 de septiembre: Hallan cadáver con dos meses de descomposición en el sótano de una obra en Guadalajara",
-    "link": "https://www.infobae.com/mexico/2026/09/19/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-19-de-septiembre-sheinbaum-admite-que-el-crimen-organizado-se-infiltro-entre-pobladores-de-guerrero/"
+    "text": "River Plate pierde con Huracán en el Monumental y no puede acercarse a la cima de su zona en el Torneo Clausura",
+    "link": "https://www.infobae.com/deportes/2026/09/19/river-plate-buscara-arrimarse-a-la-cima-de-la-zona-b-en-su-choque-ante-huracan-hora-tv-y-formaciones/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/BZ6FP5BRNZHV5IH62AJZX4Z4WQ.jpg?auth=fc253572fe0e7697c44a4ba4ce71b6f71582003658a600ff976cd7c9068b45b4&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/3UPY5N5R65BKTOO5TJWGXMNZE4.jpg?auth=6d21f135aba515d19fad047d4af742bdcde6aa9ba9728b6df6b4f4e320438608&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Así se vivió el Segundo Simulacro Nacional 2026 en el Metro CDMX: este fue el protocolo para los usuarios",
-    "link": "https://www.infobae.com/mexico/2026/09/18/simulacro-nacional-en-el-metro-cdmx-este-es-el-protocolo-de-emergencia-que-deben-seguir-los-usuarios-el-19-de-septiembre/"
+    "text": "Gol de Michael Hoyos, de cabeza, para Sporting Cristal vs Atlético Grau por Torneo Clausura 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/19/gol-michael-hoyos-sporting-cristal-vs-atletico-grau-torneo-clausura-liga-1-2026-video-hoy/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/2ERF55BBM5BUFN2FPV2IHXWCPY.png?auth=4fe862ca6da6bc2726a1b6a352905768cab7f453004095e4106362bcf1817a75&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/2AROIGKZ55HF5OWKVCWEH4BGNQ.jpg?auth=441446f3823b0c33282082e1c3370d4e8bcbf381c253c8a3b19b57e50cec6bdf&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Ricardo Darín sorprendió con un contundente elogio a su esposa Florencia Bas: “Es un montón”",
-    "link": "https://www.infobae.com/teleshow/2026/09/19/ricardo-darin-sorprendio-con-un-contundente-elogio-a-su-esposa-florencia-bas-es-un-monton/"
+    "text": "Perú 2-1 Paraguay EN VIVO HOY: punto a punto de los partidos del día 2 por Copa Davis 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/19/peru-vs-paraguay-en-vivo-hoy-punto-a-punto-ignacio-buse-juan-pablo-varillas-arklon-huertas-del-pino-dia-2-copa-davis-2026-resumen-resultado/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/3H4OY3UFDZCBFPCMFL2QAI5VRY.png?auth=e48174d206b0b1adf59ff58a719ecdf5caf78411f685ac93eae96a722f2d29ee&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/GRT5QZQPAVGTLLJDDSEDTB5AZU.jpg?auth=3713fd8b20df5aec7be6e96b8cef42c102616617c692764748a8d3394a4d7f18&smart=true&width=1456&height=816",
     "category": null,
-    "text": "Temblor hoy en México: últimas noticias y Simulacro Nacional del 19 de septiembre",
-    "link": "https://www.infobae.com/mexico/2026/09/19/temblor-hoy-en-mexico-noticias-actividad-sismica-19-de-septiembre-de-2026/"
+    "text": "Los beneficios nutricionales de las semillas de calabaza y la cantidad que recomiendan los especialistas",
+    "link": "https://www.infobae.com/salud/2026/09/19/los-beneficios-nutricionales-de-las-semillas-de-calabaza-y-la-cantidad-que-recomiendan-los-especialistas/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/MOTEZNXJHBHAREIDYFJKE6HMRY.jpg?auth=49ecadd7afe2d4277a473638c5c2558305ec0fe1820e49dc1435e85adbf276b0&smart=true&width=2140&height=1401",
+    "image": "https://www.infobae.com/resizer/v2/M2NPW75FPJCKFCPLFC5NOOCAG4.png?auth=57f7d760c71d1053a5ed45c2c19138b2dfc2f02a5b9f1c38cd2e199ee3c95c2b&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Thiago Tirante venció a Mert Alkaya y Argentina quedó a un punto de llevarse la serie de Copa Davis ante Turquía",
-    "link": "https://www.infobae.com/deportes/2026/09/19/thiago-tirante-vencio-a-mert-alkaya-y-argentina-quedo-a-un-punto-de-llevarse-la-serie-de-copa-davis-ante-turquia/"
+    "text": "¿Proselitismo? Andrea Chávez y Cruz Pérez Cuéllar son recibidos con “porras” en evento de Sheinbaum tras gira en Chihuahua",
+    "link": "https://www.infobae.com/mexico/2026/09/19/proselitismo-andrea-chavez-y-cruz-perez-cuellar-son-recibidos-con-porras-en-evento-de-sheinbaum-tras-gira-en-chihuahua/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/TXXC54FQR5CWDHZGDELTDH4CZA.jpg?auth=0f38405b1154287677173dccb0eea1688cfcf29d1437bf84ac40e41f0bdcc6d9&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/VJDJIOW5LBHFXK3DCMV4HHEVFQ.png?auth=e16ae9822dba6bf75a2f8d50b5896a861253d540b0a200b25748ce43857ea226&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Estrés cotidiano: seis recursos breves para hacer una pausa y recuperar el foco",
-    "link": "https://www.infobae.com/salud/2026/09/19/estres-cotidiano-seis-recursos-breves-para-hacer-una-pausa-y-recuperar-el-foco/"
+    "text": "¿Qué extrañamos después de una separación? Las claves para entender por qué cuesta soltar",
+    "link": "https://www.infobae.com/salud/2026/09/19/que-extranamos-despues-de-una-separacion-las-claves-para-entender-por-que-cuesta-soltar/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/T3ZSFN4IMFFCDJ3R6DGFW7JCUY.jpg?auth=f13d516e7537aadb61fa3608320fd3913a9ea2e972239826763e4a371a8cf8cd&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/6XV5ZTPJKVDOXL3HKYZLIJEXPQ.png?auth=59de652317dca2d47b093b920fe49ff51569090ee5e9114c1956b828da0d01ef&smart=true&width=1600&height=900",
     "category": null,
-    "text": "Antes del duelo clave Instituto-Talleres, Gimnasia de Mendoza recibe a Riestra por la fecha 10 del Torneo Clausura",
-    "link": "https://www.infobae.com/deportes/2026/09/19/instituto-defendera-la-cima-de-la-zona-a-en-el-duelo-cordobes-ante-talleres-hora-tv-y-formaciones/"
+    "text": "Rafa Márquez pierde pieza clave para la Selección Mexicana previo a su debut ante Colombia",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/19/rafa-marquez-pierde-pieza-clave-para-la-seleccion-mexicana-previo-a-su-debut-ante-colombia/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/ZGSVTMBYRVFFBESZ7TBO5GF7JA.jpg?auth=e1e87185d931c736f25638b949181c99444dd0aeb66a82fdf99fc5967b456596&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/JYVXU6VF7BEZ5NSK5DMRD6KETI.jpg?auth=1c9cdaa898d9876d516b68572546fd1e2efe6bad8a8de38338f745e54ea9a9ec&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Scaloni sorprendió con la lista de la selección argentina y sumó a nueve futbolistas para los amistosos",
-    "link": "https://www.infobae.com/deportes/2026/09/19/scaloni-sorprendio-con-la-lista-de-convocados-del-futbol-local-para-los-amistosos-de-la-seleccion-argentina-las-promesas-de-boca-y-river-que-sumo-al-plantel/"
+    "text": "Sporting Cristal 3-1 Atlético Grau EN VIVO HOY: minuto a minuto del partido por Torneo Clausura de Liga 1 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/19/sporting-cristal-vs-atletico-grau-en-vivo-hoy-minuto-a-minuto-partido-fecha-10-torneo-clausura-liga-1-2026-goles-resumen-resultado/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/MEWHXXMAHRFN3AVXMD72K5C7DI.jpg?auth=91925665704b2702303bcc39a58d0ace216e0791fd1306b073add66bb96965c0&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/LJMN3O6RVJGAFBLWYGULHBPHIA.jpg?auth=f1e058fd02d32d2348fa262823aadd47cfa9fa56b87c3a6e3b8b4123f3690a16&smart=true&width=1922&height=1080",
     "category": null,
-    "text": "Sheinbaum participa en el Simulacro Nacional por 19-S desde Chihuahua: “La prevención es nuestra fuerza”",
-    "link": "https://www.infobae.com/mexico/2026/09/19/sheinbaum-participa-en-el-simulacro-nacional-por-19-s-desde-chihuahua-la-prevencion-es-nuestra-fuerza/"
+    "text": "Gobierno de Honduras declara como terroristas a tres grupos criminales que operan en el país",
+    "link": "https://www.infobae.com/honduras/2026/09/19/gobierno-de-honduras-declara-como-terroristas-a-tres-grupos-criminales-que-operan-en-el-pais/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/C5ZRR5XQC5CVNOMBTZX4TOO6RE.png?auth=fc8fea7e3d061999a92364dcfb046539a4dc04256f90d9a58d76f986b585fbbd&smart=true&width=1890&height=1063",
+    "image": "https://www.infobae.com/resizer/v2/BNTNVOHG7FGALEXHYQWNOX4HEY.jpeg?auth=f3cd270c07bc4f925a5f2abc009ac88d002848d13946290131964dd9f04c4ab2&smart=true&width=2560&height=1707",
     "category": null,
-    "text": "Sacerdote que alertó sobre terremoto del 10 de agosto en Colombia habló sobre un nuevo sismo en Bogotá y los estragos que causaría El Niño",
-    "link": "https://www.infobae.com/colombia/2026/09/19/sacerdote-que-alerto-sobre-terremoto-del-10-de-agosto-en-colombia-hablo-sobre-un-nuevo-sismo-en-bogota-y-los-estragos-que-causaria-el-nino/"
+    "text": "Sin Maru Campos, Sheinbaum encabeza evento en Chihuahua y destaca soberanía tras tensión con gobernadora",
+    "link": "https://www.infobae.com/mexico/2026/09/19/sin-maru-campos-sheinbaum-encabeza-evento-en-chihuahua-y-destaca-soberania-tras-tension-con-gobernadora/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/RCQ5NMSMN5H4HCIRMDHT4WO3O4.jpg?auth=9a28aba7d36822ba6d746ae9ff1d83bc953dfb4ae4ae1f67e63050e4f8b374d5&smart=true&width=3000&height=2000",
+    "image": "https://www.infobae.com/resizer/v2/FG7CUZS56JGRBIEMSKLVO5YS7Q.jpg?auth=871b7112f23250bde67b6bb4ab97acb81cc0a0cead770ebfc085c53e843d11f9&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Copa Davis: Argentina le ganó los dos primeros puntos a Turquía y buscará cerrar la serie este domingo con el dobles",
-    "link": "https://www.infobae.com/deportes/2026/09/19/argentina-enfrentara-a-turquia-por-la-copa-davis-2026-cruces-horarios-y-como-ver-los-partidos-en-vivo/"
+    "text": "Migraciones entregará más de 7 mil carnés de extranjería en jornada extraordinaria",
+    "link": "https://www.infobae.com/peru/2026/09/19/migraciones-entregara-mas-de-7-mil-carnes-de-extranjeria-en-jornada-extraordinaria/"
   },
   {
     "date": "2026-09-19",
-    "image": "https://www.infobae.com/resizer/v2/IIBCFTSCVJBBZB3YZDMIK5BT2E.jpeg?auth=3cf751242d2eecfb38437c404c3f56b559638df362b1b47e62f90e1890d16865&smart=true&width=1600&height=1200",
+    "image": null,
     "category": null,
-    "text": "9 detenidos del grupo delincuencial Los Popeyes: los señalan de vender droga en Vélez, Santander",
-    "link": "https://www.infobae.com/colombia/2026/09/19/9-detenidos-del-grupo-delincuencial-los-popeyes-los-senalan-de-vender-droga-en-velez-santander/"
+    "text": "Bolivia exhibe más de 30 aeronaves que marcaron la historia de su Fuerza Aérea",
+    "link": "https://www.infobae.com/america/agencias/2026/09/19/bolivia-exhibe-mas-de-30-aeronaves-que-marcaron-la-historia-de-su-fuerza-aerea/"
   },
   {
     "date": "2026-09-19",
@@ -215,6 +215,20 @@
     "category": "Conflicto EE. UU. - Dinamarca por Groenlandia",
     "text": "Trump anuncia un acuerdo con Dinamarca para asumir el “control permanente de la seguridad” de Groenlandia",
     "link": "https://elpais.com/internacional/2026-09-18/trump-anuncia-un-acuerdo-militar-historico-con-dinamarca-sobre-groenlandia.html"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://imagenes.elpais.com/resizer/v2/YCH4LD5KUJN3ROD3WVXRRLOVJM.jpg?auth=022c445c95958ccde45113714cf786979a64489810025d4eee11c279fec9bdaa",
+    "category": "Groenlandia",
+    "text": "Dinamarca y Groenlandia celebran un acuerdo con Estados Unidos lleno de incógnitas",
+    "link": "https://elpais.com/internacional/2026-09-19/dinamarca-y-groenlandia-celebran-un-acuerdo-con-estados-unidos-lleno-de-incognitas.html"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://imagenes.elpais.com/resizer/v2/2NWL3MAZ55OXPFRTRGWB6L6NFE.jpg?auth=b76010f9656ca36ad2003459261a3acf63e94fb9452b9a55c40c878442549674",
+    "category": "Ataque contra Irán",
+    "text": "Los hutíes de Yemen se atribuyen ataques con drones y misiles en Arabia Saudí",
+    "link": "https://elpais.com/internacional/2026-09-19/los-huties-de-yemen-se-atribuyen-ataques-con-drones-y-misiles-en-arabia-saudi.html"
   },
   {
     "date": "2026-09-19",
@@ -239,87 +253,73 @@
   },
   {
     "date": "2026-09-19",
-    "image": "https://imagenes.elpais.com/resizer/v2/Q4U3XLSAVVHY5GGS5WZ76MNWEU.jpg?auth=950391a538fd88cdcebce357f0d454f954904e33ba3a6b12d7332b3e25ab904b",
-    "category": "Marruecos",
-    "text": "Marruecos sella una entente con EE UU e Israel para apuntalar su peso internacional",
-    "link": "https://elpais.com/internacional/2026-09-19/marruecos-sella-una-entente-con-ee-uu-e-israel-para-apuntalar-su-peso-internacional.html"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://imagenes.elpais.com/resizer/v2/RAOGATZZS5AUVIJ2PUDB34A4LA.jpg?auth=dca2a57e6fd5be134f8b621c598ce00540f0ae0444b5a0fae236d75b35c9e61a",
-    "category": "Guerra",
-    "text": "Los ataques atribuidos a Rusia se multiplican en Europa y llegan a las puertas de la OTAN",
-    "link": "https://elpais.com/internacional/2026-09-19/los-ataques-atribuidos-a-rusia-se-multiplican-en-europa-y-llegan-a-las-puertas-de-la-otan.html"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aae8caee9ff7178be741147.jpg",
+    "image": null,
     "category": null,
-    "text": "Ya no es ciencia ficción: la IA ya ayuda a matar",
-    "link": "https://actualidad.rt.com/actualidad/628400-ciencia-ficcion-ia-participa-ataques?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "DRAMÁTICO MOMENTO en que un trapecista cae desde las alturas en pleno 'show' y sufre graves heridas",
+    "link": "https://actualidad.rt.com/viral/628447-dramatico-momento-trapecista-cae-alturas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaed17359bf5b0c9613e059.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
     "category": null,
-    "text": "Trump creará la Fuerza de IA, encabezada por un 'zar' de la IA \"con un alto coeficiente intelectual\"",
-    "link": "https://actualidad.rt.com/actualidad/628430-trump-creara-fuerza-ia-encabezada-zar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Embajadas de EE.UU. emiten alerta en varios países de Oriente Medio",
+    "link": "https://actualidad.rt.com/actualidad/628437-embajadas-eeuu-emitir-alerta-paises-oriente-medio?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaec73759bf5b390c4a64e2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaf01a0e9ff71564a785930.jpg",
     "category": null,
-    "text": "Una prueba en robots revela el lado aterrador de la IA avanzada (VIDEO)",
-    "link": "https://actualidad.rt.com/actualidad/628424-prueba-robots-revela-lado-peligroso-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Enviado de Putin: \"Europa se enfrenta a la peor crisis energética de la historia\"",
+    "link": "https://actualidad.rt.com/actualidad/628439-enviado-putin-europa-enfrentar-peor-crisis-energetica?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaee4e859bf5b390c4a64ec.jpg",
+    "category": null,
+    "text": "Disparan a una policía embarazada dentro de una comisaría",
+    "link": "https://actualidad.rt.com/actualidad/628435-balear-policia-embarazada-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaefcb359bf5b7610706d28.jpg",
+    "category": null,
+    "text": "Irán impone 7 condiciones a EE.UU. para iniciar negociaciones",
+    "link": "https://actualidad.rt.com/actualidad/628443-iran-imponer-condiciones-eeuu-iniciar-negociaciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-19",
     "image": null,
     "category": null,
-    "text": "Florida registra su primera muerte del año por este virus potencialmente mortal",
-    "link": "https://actualidad.rt.com/actualidad/628428-florida-registra-primera-muerte-virus-mortal?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aae8ff059bf5b11726d20aa.jpg",
-    "category": null,
-    "text": "Multimillonario británico afirma que el Reino Unido está en \"declive\"",
-    "link": "https://actualidad.rt.com/actualidad/628405-magnate-britanico-jim-ratcliffe-reino-unido-declive?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaebe4059bf5b61ae108585.jpg",
-    "category": null,
-    "text": "China critica la ley de \"sanciones infernales\" contra Rusia e Irán",
-    "link": "https://actualidad.rt.com/actualidad/628425-china-arremete-ley-infernales-sanciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaec3d5e9ff71672f7f08a4.jpg",
-    "category": null,
-    "text": "Hutíes desvelan los objetivos de sus ataques de represalia contra Arabia Saudita",
-    "link": "https://actualidad.rt.com/actualidad/628427-huties-desvelan-objetivos-ataques-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aae9c8ae9ff7159194a7f0c.jpg",
-    "category": null,
-    "text": "Jefe del CENTCOM anuncia plan de defensa aérea conjunto con países de Oriente Medio",
-    "link": "https://actualidad.rt.com/actualidad/628407-jefe-centcom-anuncia-defensa-aerea-paises-region?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaeb6ed59bf5b39e12b0765.jpg",
-    "category": null,
-    "text": "Abuelos en China rompen el molde: rutinas de ejercicio que parecen de gimnasia profesional (VIDEOS)",
-    "link": "https://actualidad.rt.com/viral/628417-abuelos-china-rompen-molde-rutinas-ejercicio-parecen-gimnasia-profesional?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Asesinan a tiros a candidata a un gobierno regional de Perú",
+    "link": "https://actualidad.rt.com/actualidad/628442-asesinar-tiros-candidata-gobierno-regional?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-19",
     "image": null,
     "category": null,
-    "text": "Trump quiere cambiarle el nombre a la IA y ya propone nuevas opciones",
-    "link": "https://actualidad.rt.com/actualidad/628412-trump-quiere-cambiarle-nombre-inteligencia-artificial?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "ATAQUE SANGRIENTO: Agente de EE.UU. abate a un sujeto que lo emboscó y golpeó en el suelo",
+    "link": "https://actualidad.rt.com/actualidad/628441-ataque-sangriento-agente-eeuu-abate?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-19",
+    "image": null,
+    "category": null,
+    "text": "Venezuela y Paraguay firman memorando para restablecer relaciones",
+    "link": "https://actualidad.rt.com/actualidad/628444-venezuela-paraguay-firmar-memorando-restablecer-relaciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-19",
+    "image": null,
+    "category": null,
+    "text": "Bachelet retira su candidatura a la dirección de la ONU",
+    "link": "https://actualidad.rt.com/actualidad/628445-bachelet-retira-candidatura-direccion-onu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-19",
+    "image": null,
+    "category": null,
+    "text": "Furia sobre ruedas: Roba un autobús tras golpear al chofer y causa estragos en sentido contrario (VIDEO)",
+    "link": "https://actualidad.rt.com/viral/628436-furia-ruedas-roba-autobus-golpear-chofer?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-19",

@@ -1,9 +1,16 @@
 [
   {
     "date": "2026-09-20",
-    "image": "https://s.france24.com/media/display/c4f9fd28-b4ff-11f1-ad98-0730212ba17f/w:1024/p:16x9/FOTO-PORTADA-IRAN-AMENAZA-EEUU-20-SEPT.jpg",
+    "image": "https://s.france24.com/media/display/85a52024-b51a-11f1-a4d6-5b4fdf021577/w:1024/p:16x9/FOTO-PORTADA-ALEMANIA-MERZ-DISCURSO.jpg",
+    "category": "Europa",
+    "text": "Merz admite un \"desastre\" en dos elecciones regionales, pero promete seguir con sus reformas",
+    "link": "https://www.france24.com/es/europa/20260920-merz-admite-un-desastre-en-dos-elecciones-regionales-pero-promete-seguir-con-sus-reformas"
+  },
+  {
+    "date": "2026-09-20",
+    "image": "https://s.france24.com/media/display/95da504c-b504-11f1-bc3f-5b4fdf021577/w:1024/p:16x9/AP26263426242066.jpg",
     "category": "Medio Oriente",
-    "text": "En directo: Irán asegura tener información sobre planes de EE. UU. para retomar sus ataques",
+    "text": "En directo: Israel ordena bloqueos y \"extensas\" redadas en Cisjordania tras un mortal tiroteo",
     "link": "https://www.france24.com/es/medio-oriente/20260920-en-directo-ir%C3%A1n-asegura-tener-informaci%C3%B3n-sobre-planes-de-ee-uu-para-retomar-sus-ataques"
   },
   {
@@ -78,17 +85,17 @@
   },
   {
     "date": "2026-09-20",
-    "image": "https://s.france24.com/media/display/1dd39098-b498-11f1-82dc-ed3d9e22a40f/w:1024/p:16x9/ES-20260919-190155-190338-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Hutíes reivindican ataques contra Riad; enfrentamientos en Yemen se intensifican",
-    "link": "https://www.france24.com/es/video/20260920-hut%C3%ADes-reivindican-ataques-contra-riad-enfrentamientos-en-yemen-se-intensifican"
+    "text": "La remota isla donde los hackers se preparan para defendernos de una guerra invisible",
+    "link": "https://www.bbc.com/mundo/articles/cj4jqnd0vnro?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-20",
     "image": null,
     "category": null,
-    "text": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/cm2dw10jdlrpo?at_medium=RSS&at_campaign=rss"
+    "text": "Ucrania golpea Moscú con unos 450 drones en el mayor ataque contra la capital rusa hasta la fecha",
+    "link": "https://www.bbc.com/mundo/articles/cm1j42lee8n2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-20",
@@ -115,8 +122,15 @@
     "date": "2026-09-20",
     "image": null,
     "category": null,
-    "text": "Ucrania golpea Moscú con unos 450 drones en el mayor ataque contra la capital rusa hasta la fecha",
-    "link": "https://www.bbc.com/mundo/articles/cm1j42lee8n2o?at_medium=RSS&at_campaign=rss"
+    "text": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.",
+    "link": "https://www.bbc.com/mundo/articles/cm2dw10jdlrpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-20",
+    "image": null,
+    "category": null,
+    "text": "Ed Sheeran admite en un concierto haber cometido \"errores\" tras la polémica por la exclusión de su gira del rapero Macklemore",
+    "link": "https://www.bbc.com/mundo/articles/cm790jgwj0z4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-20",
@@ -134,94 +148,94 @@
   },
   {
     "date": "2026-09-20",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/STSC4GNRQNGDZHY26BH3PGBAOU.jpeg?auth=29e84cc806132aafc4173213e82bcb5469659a58493c0d75297d38a840b75629&smart=true&width=1200&height=1119",
     "category": null,
-    "text": "Ed Sheeran admite en un concierto haber cometido \"errores\" tras la polémica por la exclusión de su gira del rapero Macklemore",
-    "link": "https://www.bbc.com/mundo/articles/cm790jgwj0z4o?at_medium=RSS&at_campaign=rss"
+    "text": "Rescatan con vida a comerciante tras 14 días secuestrado en una zona montañosa de Copán, Honduras",
+    "link": "https://www.infobae.com/honduras/2026/09/20/rescatan-con-vida-a-comerciante-tras-14-dias-secuestrado-en-una-zona-montanosa-de-copan-honduras/"
   },
   {
     "date": "2026-09-20",
-    "image": "https://www.infobae.com/resizer/v2/7CMMFPEO45GQNAK46MEZTR74YA.jpg?auth=82f6784314cb297a5a41e174226909d25f48587095b45d340e528e932b4fc655&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/SJTWWKOEKBBNFCKHSR3L23WMFU.jpg?auth=fa1dcccbbb1ef20d7916a0fe7e7fdecf827b5be7d5ea8f81834f16826888c3cb&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "“Ni cinco dólares”: la queja de los abogados de Nick Reiner sobre el fideicomiso familiar",
-    "link": "https://www.infobae.com/entretenimiento/2026/09/20/ni-cinco-dolares-la-queja-de-los-abogados-de-nick-reiner-sobre-el-fideicomiso-familiar/"
+    "text": "San Lorenzo y Boca se enfrentan en el clásico por la fecha 10 del Torneo Clausura: el Ciclón juega con un hombre menos",
+    "link": "https://www.infobae.com/deportes/2026/09/20/san-lorenzo-y-boca-juniors-animaran-el-clasico-de-la-fecha-en-el-torneo-clausura-hora-tv-y-formaciones/"
   },
   {
     "date": "2026-09-20",
-    "image": "https://www.infobae.com/resizer/v2/G7VYJIFIUJFPZGCRZNAAUV3CY4.JPG?auth=2ff1b943ff7e1b68c6ff7429962edc81a3b5717de4e51dd4c566888cdd5f1191&smart=true&width=4283&height=2907",
+    "image": "https://www.infobae.com/resizer/v2/HFAO63OMAZCAXPVB5LAIY5EERE.jpg?auth=da482709e8862c6ec96956e9bcfb1a2c12df1947adb00a0c466849b47f19e13e&smart=true&width=5108&height=3399",
     "category": null,
-    "text": "Atlético de Madrid - Real Madrid, en directo: el VAR decanta el partido y el Atlético de Madrid se adelanta en el encuentro",
-    "link": "https://www.infobae.com/espana/deportes/2026/09/20/atletico-de-madrid-real-madrid-en-directo-mourinho-busca-conquistar-el-metropolitano-en-su-reestreno-en-los-derbis/"
+    "text": "Corea del Norte vs. Colombia: Hora y dónde ver el partido de la Tricolor en la semifinal del Mundial Femenino Sub-20 2026",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/20/hora-y-donde-ver-el-partido-de-la-seleccion-colombia-en-la-semifinal-del-mundial-femenino-sub-20-2026/"
   },
   {
     "date": "2026-09-20",
-    "image": "https://www.infobae.com/resizer/v2/GVX6J2YLUNEJVBEA4OVMK7HUZ4.jpg?auth=618f137f983ad0f5ed072d48b2d49f5406a650154bd61326f83b2d6bb132ea01&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/NE7NTTV2BJDX5L4KCV5QRCD34E.png?auth=e4a855494336c604a8da38c587e1e796ad959417dfb8501f645d1778bbf42cb4&smart=true&width=1292&height=727",
     "category": null,
-    "text": "La revelación de Andy Carroll sobre Wayne Rooney en las concentraciones de Inglaterra y la respuesta del exgoleador",
-    "link": "https://www.infobae.com/deportes/2026/09/20/la-revelacion-de-andy-carroll-sobre-wayne-rooney-en-las-concentraciones-de-inglaterra-y-la-respuesta-del-exgoleador/"
+    "text": "Fiscalía judicializó a dos mujeres en Barranquilla por presunta tortura contra menor de 7 años: le habrían arrancado las uñas como castigo",
+    "link": "https://www.infobae.com/colombia/2026/09/20/fiscalia-judicializo-a-dos-mujeres-en-barranquilla-por-presunta-tortura-contra-menor-de-7-anos-le-habrian-arrancado-las-unas-como-castigo/"
   },
   {
     "date": "2026-09-20",
-    "image": "https://www.infobae.com/resizer/v2/W6ZNYAP5KFH2HK7K67SDWRTFLU.JPG?auth=5e3e683c276465e043e7e14c908894d7fad0a3b7aaab87b37933cd7597785258&smart=true&width=3500&height=2334",
+    "image": "https://www.infobae.com/resizer/v2/3J5BF3EPD5H7ZK425Q4GEFPFGI.png?auth=fa87c1068048f68888085143cc57f7cef0ce0c82b0ce90ab4498d61d959afadd&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Cómo instalar en casa Starlink, el internet satelital de Elon Musk",
-    "link": "https://www.infobae.com/tecno/2026/09/20/como-instalar-en-casa-starlink-el-internet-satelital-de-elon-musk/"
+    "text": "Daniela Christiansson a días de instalarse en Argentina con Maxi López: “En plena mudanza de toda nuestra vida”",
+    "link": "https://www.infobae.com/teleshow/2026/09/20/daniela-christiansson-a-dias-de-instalarse-en-argentina-con-maxi-lopez-en-plena-mudanza-de-toda-nuestra-vida/"
   },
   {
     "date": "2026-09-20",
-    "image": "https://www.infobae.com/resizer/v2/5HFYUOXEXJB3BMOGTGDYBYYTKA.jpg?auth=7a2be33070401745f28cc0a6119d9750ce92fd9bc1aca09fd79bc30459bf0bc7&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/MXEEQ23XXZCTXB5IUWIVQXE3QE.png?auth=d2a857f532e8c546df297649fe0c30e20f9aad6f386918e023c37583e449048d&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Una persona murió en un choque  entre un taxi y una camioneta en el norte de Bogotá: uno de los vehículos colisionó contra una vivienda",
-    "link": "https://www.infobae.com/colombia/2026/09/20/una-persona-murio-en-un-choque-entre-un-taxi-y-una-camioneta-en-el-norte-de-bogota-uno-de-los-vehiculos-colisiono-contra-una-vivienda/"
+    "text": "La ultraderecha vuelve a ganar unas elecciones regionales de Alemania y los conservadores se hunden, según los primeros sondeos: Merz asume su “responsabilidad” ante el “desastre”",
+    "link": "https://www.infobae.com/espana/2026/09/20/la-ultraderecha-vuelve-a-ganar-en-las-elecciones-regionales-de-alemania-pero-los-socialdemocratas-se-quedan-muy-cerca-como-segunda-fuerza-segun-los-sondeos-a-pie-de-urna/"
   },
   {
     "date": "2026-09-20",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/PUDE6NU4QFFAFH6M2LPM75IOHE.jpg?auth=b6b101c5c670e4b415996551e97647d081d3ac0a47f3cf90ab5577b65b081081&smart=true&width=3266&height=1837",
     "category": null,
-    "text": "Una cuadrilla malagueña gana 'la Champions League de la albañilería'",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/20/una-cuadrilla-malaguena-gana-la-champions-league-de-la-albanileria/"
+    "text": "Yoreli Rincón envió mensaje a la selección Colombia tras histórica clasificación a semifinales del Mundial Femenino Sub-20",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/20/yoreli-rincon-envio-mensaje-a-la-seleccion-colombia-tras-historica-clasificacion-a-semifinales-del-mundial-femenino-sub-20/"
   },
   {
     "date": "2026-09-20",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/OICMNBSYHRD2LL3QJIS4NFECNY.jpg?auth=725445b58301be45445ef6833b9852172826f95a5ab839ace4a3905739d2ee4d&smart=true&width=320&height=180",
     "category": null,
-    "text": "Los Javis con 'La bola negra': \"Tenemos una necesidad de validación profunda\"",
-    "link": "https://www.infobae.com/america/agencias/2026/09/20/los-javis-con-la-bola-negra-tenemos-una-necesidad-de-validacion-profunda/"
-  },
-  {
-    "date": "2026-09-20",
-    "image": null,
-    "category": null,
-    "text": "Un Merz bajo fuerte presión llega a la sede de su partido para esperar los resultados",
-    "link": "https://www.infobae.com/america/agencias/2026/09/20/un-merz-bajo-fuerte-presion-llega-a-la-sede-de-su-partido-para-esperar-los-resultados/"
+    "text": "Descubren en Etiopía una nueva especie de serpiente que se alimenta de huevos",
+    "link": "https://www.infobae.com/america/mundo/2026/09/20/descubren-en-etiopia-una-nueva-especie-de-serpiente-que-se-alimenta-de-huevos/"
   },
   {
     "date": "2026-09-20",
     "image": null,
     "category": null,
-    "text": "Participación en legislativas rusas llega a casi 55 % a tres horas del cierre de colegios",
-    "link": "https://www.infobae.com/america/agencias/2026/09/20/participacion-en-legislativas-rusas-llega-a-casi-55-a-tres-horas-del-cierre-de-colegios/"
-  },
-  {
-    "date": "2026-09-20",
-    "image": "https://www.infobae.com/resizer/v2/WE2UH6H3CNAJ3LSIXNX2SPIL4A.png?auth=621571ed7511ebbc85c91c3389533e4244e2c0d5c5c78e9f703ec9e7dcf9aec8&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Prepárase antes de salir: Este es el pronóstico del clima en Punta del Este este domingo 20 de septiembre",
-    "link": "https://www.infobae.com/noticias/2026/09/20/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-punta-del-este-este-domingo-20-de-septiembre/"
+    "text": "Cientos de personas marchan en Palma al grito de \"no más ampliación\" del aeropuerto",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/20/cientos-de-personas-marchan-en-palma-al-grito-de-no-mas-ampliacion-del-aeropuerto/"
   },
   {
     "date": "2026-09-20",
     "image": null,
     "category": null,
-    "text": "0-0. El Leeds sigue invicto y el Crystal Palace, sin arrancar",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/20/0-0-el-leeds-sigue-invicto-y-el-crystal-palace-sin-arrancar/"
+    "text": "'El desencanto' vertebra la programación internacional del Día del Cine Español",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/20/el-desencanto-vertebra-la-programacion-internacional-del-dia-del-cine-espanol/"
   },
   {
     "date": "2026-09-20",
-    "image": "https://www.infobae.com/resizer/v2/M4IGPZPSXRGJDHCD6HBQ6NGUL4.jpg?auth=b3b89ae6d4fa300f3bea8a5e1d0e68038a5ee2172547da08bd47332f48408e1e&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/JYTCBIJCCFE7DOBERZ7WC7CNQA.png?auth=36a2e5c7de56d7621b708f839f72dc6fdd71db764998c5920110f10da8ef1fd6&smart=true&width=1536&height=1024",
     "category": null,
-    "text": "Sorteo 4 de la Triplex de la Once: comprueba los resultados de hoy",
-    "link": "https://www.infobae.com/espana/2026/09/20/sorteo-4-de-la-triplex-de-la-once-comprueba-los-resultados-de-hoy/"
+    "text": "Gorditas de chicharrón: receta mexicana fácil para preparar en casa",
+    "link": "https://www.infobae.com/mexico/2026/09/20/gorditas-de-chicharron-receta-mexicana-facil-para-preparar-en-casa/"
+  },
+  {
+    "date": "2026-09-20",
+    "image": null,
+    "category": null,
+    "text": "Cierran colegios electorales en comicios rusos marcados por múltiples denuncias oposición",
+    "link": "https://www.infobae.com/america/agencias/2026/09/20/cierran-colegios-electorales-en-comicios-rusos-marcados-por-multiples-denuncias-oposicion/"
+  },
+  {
+    "date": "2026-09-20",
+    "image": "https://imagenes.elpais.com/resizer/v2/PYWAQMCWJ5JN3M2XSDOBXEJXQE.jpg?auth=88873d080025ad95d7d4a28c8713d5dd6f5f7dcc02904b5a8e2a931b07712b79",
+    "category": "Alemania",
+    "text": "La extrema derecha se dispara en las elecciones regionales alemanas y agrava la crisis de la CDU",
+    "link": "https://elpais.com/internacional/2026-09-20/la-extrema-derecha-se-dispara-en-las-elecciones-regionales-alemanas-y-profundiza-la-crisis-de-la-cdu-del-canciller-merz.html"
   },
   {
     "date": "2026-09-20",
@@ -232,17 +246,10 @@
   },
   {
     "date": "2026-09-20",
-    "image": "https://imagenes.elpais.com/resizer/v2/JYYDNID75BD4FEKQTFEPERAIIY.jpg?auth=4ff178767ecef9bf52f3695757f914375e44608de94c9f91f621c4c8f3ae865a",
-    "category": "Elecciones Alemania",
-    "text": "Dos mujeres de izquierdas y una misión: frenar a la extrema derecha en Alemania",
-    "link": "https://elpais.com/internacional/2026-09-20/dos-mujeres-de-izquierdas-y-una-mision-frenar-a-la-extrema-derecha-en-alemania.html"
-  },
-  {
-    "date": "2026-09-20",
-    "image": "https://imagenes.elpais.com/resizer/v2/E3G3C4MNDBEJNPKAKLWQ5ZMNBM.jpg?auth=9a79fb64bec521d673221b87d4352107bfc561bfe7359434fc94fc40609efd7e",
+    "image": "https://imagenes.elpais.com/resizer/v2/NSAOLYNHZJOXDGLEHXW2J5VDDE.jpg?auth=81052b8ecf32d078a984ea46371a507dd525eb04458308351899e5b7f64d3147",
     "category": "ONU",
-    "text": "Un mundo en llamas se da cita en una ONU en ruinas",
-    "link": "https://elpais.com/internacional/2026-09-20/un-mundo-en-llamas-se-da-cita-en-una-onu-en-ruinas.html"
+    "text": "El pacto con Groenlandia y el encuentro entre Delcy Rodríguez y Trump trastocan la agenda de la Asamblea General de la ONU",
+    "link": "https://elpais.com/internacional/2026-09-20/el-pacto-con-groenlandia-y-el-encuentro-entre-delcy-rodriguez-y-trump-trastocan-la-agenda-de-la-asamblea-general-de-la-onu.html"
   },
   {
     "date": "2026-09-20",
@@ -260,10 +267,24 @@
   },
   {
     "date": "2026-09-20",
-    "image": "https://imagenes.elpais.com/resizer/v2/NSAOLYNHZJOXDGLEHXW2J5VDDE.jpg?auth=81052b8ecf32d078a984ea46371a507dd525eb04458308351899e5b7f64d3147",
+    "image": "https://imagenes.elpais.com/resizer/v2/E3G3C4MNDBEJNPKAKLWQ5ZMNBM.jpg?auth=9a79fb64bec521d673221b87d4352107bfc561bfe7359434fc94fc40609efd7e",
     "category": "ONU",
-    "text": "El pacto con Groenlandia y el encuentro entre Delcy Rodríguez y Trump trastocan la agenda de la Asamblea General de la ONU",
-    "link": "https://elpais.com/internacional/2026-09-20/el-pacto-con-groenlandia-y-el-encuentro-entre-delcy-rodriguez-y-trump-trastocan-la-agenda-de-la-asamblea-general-de-la-onu.html"
+    "text": "Un mundo en llamas se da cita en una ONU en ruinas",
+    "link": "https://elpais.com/internacional/2026-09-20/un-mundo-en-llamas-se-da-cita-en-una-onu-en-ruinas.html"
+  },
+  {
+    "date": "2026-09-20",
+    "image": "https://imagenes.elpais.com/resizer/v2/JYYDNID75BD4FEKQTFEPERAIIY.jpg?auth=4ff178767ecef9bf52f3695757f914375e44608de94c9f91f621c4c8f3ae865a",
+    "category": "Elecciones Alemania",
+    "text": "Dos mujeres de izquierdas y una misión: frenar a la extrema derecha en Alemania",
+    "link": "https://elpais.com/internacional/2026-09-20/dos-mujeres-de-izquierdas-y-una-mision-frenar-a-la-extrema-derecha-en-alemania.html"
+  },
+  {
+    "date": "2026-09-20",
+    "image": "https://imagenes.elpais.com/resizer/v2/TQVIDJIHQRPORF4TWG226R4SAA.jpg?auth=4803dbc465386b309629834b7c28ab4577f3b350bb72ccd7c5eecaa050a01652",
+    "category": "Estados Unidos",
+    "text": "Trump anuncia que el gigantesco arco del triunfo de Washington será un complejo militar con drones y francotiradores",
+    "link": "https://elpais.com/us/actualidad/2026-09-20/trump-anuncia-que-el-gigantesco-arco-del-triunfo-de-washington-sera-un-complejo-militar-con-drones-y-francotiradores.html"
   },
   {
     "date": "2026-09-20",
@@ -274,87 +295,87 @@
   },
   {
     "date": "2026-09-20",
-    "image": "https://imagenes.elpais.com/resizer/v2/5QPB3CXBHFIKJBG4CS4HXCAVW4.jpg?auth=94dfee493a65b3f12b5aec71ce7bfff018f377869e847056daf2015bb8d51ef5",
-    "category": "Estados Unidos",
-    "text": "Irán apuntala el control de dos estrechos clave ante la inacción de Estados Unidos",
-    "link": "https://elpais.com/internacional/2026-09-20/iran-y-su-aliado-huti-amenazan-la-economia-mundial-con-el-control-de-dos-estrechos-clave.html"
-  },
-  {
-    "date": "2026-09-20",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260920/1216241_122704_video_1800.mp4",
-    "category": "Ataque contra Irán",
-    "text": "Estados Unidos da la espalda a Arabia Saudí en plena ofensiva de los hutíes",
-    "link": "https://elpais.com/internacional/2026-09-20/estados-unidos-da-la-espalda-a-arabia-saudi-en-plena-ofensiva-de-los-huties.html"
-  },
-  {
-    "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafd7ac59bf5b1e9260a16d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab0237f59bf5b7fdd209090.jpg",
     "category": null,
-    "text": "Jefe de Rosatom denuncia el incremento de ataques de Kiev cerca de la mayor central nuclear de Europa",
-    "link": "https://actualidad.rt.com/actualidad/628507-jefe-rosatom-denuncia-incremento-ataques-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Dan a conocer los primeros resultados de las elecciones parlamentarias en Rusia",
+    "link": "https://actualidad.rt.com/actualidad/628499-dan-conocer-resultados-elecciones-parlamentarias?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafece0e9ff71303339ca58.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaff5f059bf5b21756f4857.jpg",
     "category": null,
-    "text": "Denuncian eutanasia forzada y sangrienta de una anciana de 83 años en Canadá",
-    "link": "https://actualidad.rt.com/actualidad/628518-denunciar-eutanasia-forzada-sangrienta-anciana-canada?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump asegura \"comunicación constante\" con los hutíes y un pacto de no agresión hacia EE.UU.",
+    "link": "https://actualidad.rt.com/actualidad/628524-trump-comunicacion-constante-huties-pacto-agresion-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafede359bf5b6a6574c728.jpeg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab0171359bf5b7f8109c95a.jpg",
     "category": null,
-    "text": "China ya puso en órbita satélites de computación espacial: ¿qué significa este avance?",
-    "link": "https://actualidad.rt.com/actualidad/628517-china-orbita-satelites-computacion-espacial-avance?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Merz califica de \"desastre\" el resultado de su partido en nuevas elecciones estatales",
+    "link": "https://actualidad.rt.com/actualidad/628532-merz-califica-desastre-resultado-partido-elecciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaff555e9ff71271b775fb4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaffccfe9ff7111a6769081.jpg",
     "category": null,
-    "text": "\"No diferente de cualquier otro fin de semana\", dice Trump entre alertas de embajadas de EE.UU. en Oriente Medio",
-    "link": "https://actualidad.rt.com/actualidad/628523-diferente-fin-semana-dice-trump-alertas-embajadas-eeuu-oriente-medio?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Finalizan las elecciones parlamentarias en Rusia",
+    "link": "https://actualidad.rt.com/actualidad/628498-finalizan-elecciones-parlamentarias-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafd92959bf5b1e5b4b2059.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aad0d13e9ff7132b97a5a0d.jpg",
     "category": null,
-    "text": "Irán advierte que EE.UU. se encamina al \"colapso\"",
-    "link": "https://actualidad.rt.com/actualidad/628504-iran-advierte-eeuu-encamina-colapso?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "¿Pueden las acciones de Alemania convertirla en un 'Estado enemigo' conforme a la Carta de la ONU?",
+    "link": "https://actualidad.rt.com/actualidad/628234-acciones-alemania-pueden-convertirla-enemigo?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaff0b859bf5b1e5b4b2068.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaffe2759bf5b22d118b434.jpg",
     "category": null,
-    "text": "IMPONENTE TOMA del gigantesco cohete chino Long March-8A transportado en posición vertical",
-    "link": "https://actualidad.rt.com/actualidad/628520-video-gigantesco-cohete-chino-long-march-vertical?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Preso por asesinato exige indemnización por una \"humillación\" recibida en la cárcel",
+    "link": "https://actualidad.rt.com/actualidad/628521-preso-asesinato-exige-indemnizacion-humillacion-carcel?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafe89de9ff716ccf32b09f.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaffecee9ff7106476c5a5c.jpg",
     "category": null,
-    "text": "VIDEO: Lo que encontraron dentro de su camioneta los obligó a romper el cristal y salir corriendo",
-    "link": "https://actualidad.rt.com/viral/628514-encontraron-camioneta-obligo-romper-cristal-corriendo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump desvela opciones sobre Irán y afirma que la decisión se tomará pronto",
+    "link": "https://actualidad.rt.com/actualidad/628527-trump-desvela-opciones-iran-afirma?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafe932e9ff716dac08d6f1.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaff4f459bf5b7f8109c946.jpg",
     "category": null,
-    "text": "VIDEO: Drones rusos hacen añicos dos estaciones de radar del Ejército de Kiev",
-    "link": "https://actualidad.rt.com/actualidad/628513-drones-rusos-hacen-anicos-estaciones-radar-ejercito-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Una aldea británica está considerando unirse a EE.UU.",
+    "link": "https://actualidad.rt.com/actualidad/628522-aldea-britanica-considerar-unirse-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafdbf5e9ff716b8875caaa.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aaff00359bf5b7f673e936b.jpg",
     "category": null,
-    "text": "¿Confiarías tu dinero a la IA?: esta es la probabilidad de que te dé un consejo equivocado",
-    "link": "https://actualidad.rt.com/actualidad/628508-confiarias-dinero-ia-probabilidad-consejo-equivocado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Rusia registra más de 1.000 oleadas de ciberataques desde el extranjero durante las elecciones parlamentarias",
+    "link": "https://actualidad.rt.com/actualidad/628516-rusia-denuncia-ciberataques-masivos-paises?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-20",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafd000e9ff71303339ca47.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6aafec2a59bf5b1f850ab6de.png",
     "category": null,
-    "text": "El sombrío pronóstico de Zajárova sobre cómo Zelenski planea resolver su \"astronómico\" déficit",
-    "link": "https://actualidad.rt.com/actualidad/628506-zajarova-zelenski-planea-resolver-deficit?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Drones rusos atacan un puente en usado por Ucrania para transportar cargas militares",
+    "link": "https://actualidad.rt.com/actualidad/628519-video-drones-rusos-atacan-puenteusado-ucrania-transportar-cargas-militares?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-20",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 20 septiembre 2026 - Tarde",
+    "link": "https://es.euronews.com/video/2026/09/20/ultimas-noticias-20-septiembre-2026-tarde"
+  },
+  {
+    "date": "2026-09-20",
+    "image": null,
+    "category": null,
+    "text": "Los rusos votan en la última jornada de las elecciones legislativas",
+    "link": "https://es.euronews.com/2026/09/20/los-rusos-votan-en-la-ultima-jornada-de-las-elecciones-legislativas"
   },
   {
     "date": "2026-09-20",
@@ -397,26 +418,5 @@
     "category": null,
     "text": "Ed Sheeran confirma como \"catastrófica\" e \"injustificable\" la situación en Gaza en su concierto de Filadelfia",
     "link": "https://es.euronews.com/2026/09/20/ed-sheeran-confirma-como-catastrofica-e-injustificable-la-situacion-en-gaza-en-su-conciert"
-  },
-  {
-    "date": "2026-09-20",
-    "image": null,
-    "category": null,
-    "text": "Las embajadas de EE.UU. emiten alertas de seguridad por ataques hutíes a Arabia Saudí",
-    "link": "https://es.euronews.com/2026/09/20/las-embajadas-de-eeuu-emiten-alertas-de-seguridad-por-ataques-huties-a-arabia-saudi"
-  },
-  {
-    "date": "2026-09-20",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 20 septiembre 2026 - Mañana",
-    "link": "https://es.euronews.com/video/2026/09/20/ultimas-noticias-20-septiembre-2026-manana"
-  },
-  {
-    "date": "2026-09-19",
-    "image": null,
-    "category": null,
-    "text": "La madre que se volvió viral por correr descalza (y ganar) una carrera para poder comprar los útiles escolares de su hija",
-    "link": "https://www.bbc.com/mundo/articles/cw804jpgr4z9o?at_medium=RSS&at_campaign=rss"
   }
 ]

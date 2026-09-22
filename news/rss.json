@@ -1,59 +1,87 @@
 [
   {
     "date": "2026-09-22",
-    "image": "https://s.france24.com/media/display/4ee1bea2-b6a1-11f1-be35-e554abee39f5/w:1024/p:16x9/ES-20260922-071333-072505-CS.jpg",
+    "image": "https://s.france24.com/media/display/987550d2-b6c0-11f1-b4a9-1d61c7110e09/w:1024/p:16x9/2026-09-22T144613Z-1952586155-RC2EONARX4BR-RTRMADP-3-UN-ASSEMBLY.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "Irán, Cuba, Ucrania, Groenlandia e IA: qué dijo Trump ante la Asamblea General de la ONU",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260922-ir%C3%A1n-cuba-ucrania-groenlandia-e-ia-qu%C3%A9-dijo-trump-ante-la-asamblea-general-de-la-onu"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://s.france24.com/media/display/1c8ccf60-b696-11f1-b2f3-e554abee39f5/w:1024/p:16x9/Las-llamas-asedian-Villa-de-Leyva-joya-turi%CC%81stica-del-pai%CC%81s.png",
     "category": null,
-    "text": "Karina Chabour de France 24 habla sobre los hallazgos del reportaje ICE, Trump y África",
-    "link": "https://www.france24.com/es/video/20260922-karina-chabour-de-france-24-habla-sobre-los-hallazgos-del-reportaje-ice-trump-y-%C3%A1frica"
+    "text": "Las llamas asedian Villa de Leyva, joya turística de Colombia",
+    "link": "https://www.france24.com/es/video/20260922-las-llamas-asedian-villa-de-leyva-joya-turi%CC%81stica-de-colombia"
   },
   {
     "date": "2026-09-22",
-    "image": "https://s.france24.com/media/display/ea93dd6e-b604-11f1-9a81-4d220c210a04/w:1024/p:16x9/WEB-PORTADA-18SEP-HIS.png",
-    "category": "Historia",
-    "text": "Reino Unido: ¿un frente separatista contra Londres?",
-    "link": "https://www.france24.com/es/programas/historia/20260922-reino-unido-un-frente-separatista-contra-londres"
+    "image": "https://s.france24.com/media/display/fd51f178-b043-11f1-87fa-005056a90284/w:1024/p:16x9/PASDEREF-FOCUS-EN-Data-Centers-Texas-CORNET-0309.jpg",
+    "category": "En Foco",
+    "text": "Texas: ¿la IA abre una grieta en el bastión republicano?",
+    "link": "https://www.france24.com/es/programas/en-foco/20260922-texas-la-ia-abre-una-grieta-en-el-basti%C3%B3n-republicano"
   },
   {
     "date": "2026-09-22",
-    "image": "https://s.france24.com/media/display/2830e5e8-b69d-11f1-b8d4-d382746d948a/w:1024/p:16x9/WEB-PORTADA-22SEP-A7D.png",
-    "category": "África 7 días",
-    "text": "Yibuti ante el éxodo yemení: ¿está preparado el Cuerno de África para otra crisis?",
-    "link": "https://www.france24.com/es/programas/%C3%A1frica-7-d%C3%ADas/20260922-yibuti-ante-el-%C3%A9xodo-yemen%C3%AD-est%C3%A1-preparado-el-cuerno-de-%C3%A1frica-para-otra-crisis"
+    "image": "https://s.france24.com/media/display/2d736118-6506-11f1-9bdb-005056a90284/w:1024/p:16x9/2026-06-10T195048Z-1965722526-RC27RLABG478-RTRMADP-3-POPE-SPAIN.jpg",
+    "category": "Francia",
+    "text": "Abusos a menores, IA y \"repensar\" Europa: ABC de los asuntos que marcan la visita de León XIV a Francia",
+    "link": "https://www.france24.com/es/francia/20260922-abusos-a-menores-ia-y-repensar-europa-abc-de-los-asuntos-que-marcan-la-visita-de-le%C3%B3n-xiv-a-francia"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://s.france24.com/media/display/9603d92c-b6b6-11f1-8b6e-557acd7c815c/w:1024/p:16x9/ES-20260922-113923-114042-CS.jpg",
+    "category": null,
+    "text": "Incendios agravados por El Niño azotan Quito y despiertan preocupación",
+    "link": "https://www.france24.com/es/video/20260922-incendios-agravados-por-el-ni%C3%B1o-azotan-quito-y-despiertan-preocupaci%C3%B3n"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://s.france24.com/media/display/5027cf28-b6b4-11f1-b350-d5a6f2570fbe/w:1024/p:16x9/ES-20260922-113353-113649-CS.jpg",
+    "category": null,
+    "text": "Informe desde Nueva York: Trump descata logros en economía y amenaza a Irán en la UNGA",
+    "link": "https://www.france24.com/es/video/20260922-informe-desde-nueva-york-trump-descata-logros-en-econom%C3%ADa-y-amenaza-a-ir%C3%A1n-en-la-unga"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://s.france24.com/media/display/55655dc0-b6b4-11f1-ad31-d382746d948a/w:1024/p:16x9/ES-20260922-074955-075507-CS.jpg",
+    "category": null,
+    "text": "Directo Latam y el empate técnico entre Lula y Flávio según las encuestadoras en Brasil",
+    "link": "https://www.france24.com/es/video/20260922-directo-latam-y-el-empate-t%C3%A9cnico-entre-lula-y-fl%C3%A1vio-seg%C3%BAn-las-encuestadoras-en-brasil"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://s.france24.com/media/display/26dffec8-b6b5-11f1-8a44-1d61c7110e09/w:1024/p:16x9/ES-20260922-113725-113851-CS.jpg",
+    "category": null,
+    "text": "Guterres se despide de la ONU y abre la carrera por la nueva secretaría general",
+    "link": "https://www.france24.com/es/video/20260922-guterres-se-despide-de-la-onu-y-abre-la-carrera-por-la-nueva-secretar%C3%ADa-general"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://s.france24.com/media/display/ea1b8a5a-b6b1-11f1-94a1-d5a6f2570fbe/w:1024/p:16x9/ES-20260922-072522-072913-CS.jpg",
+    "category": null,
+    "text": "Directo París y las medidas de Lecornu para hacer frente al alza de la gasolina",
+    "link": "https://www.france24.com/es/video/20260922-directo-par%C3%ADs-y-las-medidas-de-lecornu-para-hacer-frente-al-alza-de-la-gasolina"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://s.france24.com/media/display/30bccebc-b6b0-11f1-b2a7-557acd7c815c/w:1024/p:16x9/ES-20260922-070745-070950-CS.jpg",
+    "category": null,
+    "text": "Un año después, palestinos y judios reaccionan a reconocimiento de Francia de un Estado palestino",
+    "link": "https://www.france24.com/es/video/20260922-un-a%C3%B1o-despu%C3%A9s-palestinos-y-judios-reaccionan-a-reconocimiento-de-francia-de-un-estado-palestino"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Trump firma un acuerdo de seguridad con Groenlandia y Dinamarca tras meses de amenazas",
+    "text": "En vivo I \"No hay que ceder a la tentación permanente del doble rasero\": Macron sobre guerras y soberanía",
     "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260922-en-directo-la-asamblea-general-de-la-onu-comenzar%C3%A1-este-martes-marcada-por-las-guerras-en-ir%C3%A1n-y-ucrania"
   },
   {
     "date": "2026-09-22",
-    "image": "https://s.france24.com/media/display/78157ebe-b690-11f1-b7cb-1d61c7110e09/w:1024/p:16x9/AP23083589626182.jpg",
-    "category": "Economía",
-    "text": "Francia busca medidas para contener el precio de los combustibles que traen enojo colectivo",
-    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260922-francia-busca-medidas-para-contener-el-precio-de-los-combustibles-que-traen-enojo-colectivo"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://s.france24.com/media/display/844420a0-aad8-11f1-87f6-005056bf30b7/w:1024/p:16x9/WEB-PORTADA-04SEP-AME.png",
-    "category": "América Latina",
-    "text": "Donald Trump y Delcy Rodríguez: del enfrentamiento a una relación marcada por el petróleo",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260922-donald-trump-y-delcy-rodr%C3%ADguez-del-enfrentamiento-a-una-relaci%C3%B3n-marcada-por-el-petr%C3%B3leo"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://s.france24.com/media/display/846be8b0-b686-11f1-ba9e-4d220c210a04/w:1024/p:16x9/ES-20260922-070237-070519-CS.jpg",
-    "category": null,
-    "text": "Inicia la 81ª Asamblea General de la ONU con conflictos mundiales como temas clave",
-    "link": "https://www.france24.com/es/video/20260922-inicia-la-81%C2%AA-asamblea-general-de-la-onu-con-conflictos-mundiales-como-temas-clave"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://s.france24.com/media/display/c34715da-b65b-11f1-a88f-557acd7c815c/w:1024/p:16x9/6e4ce260ffc30af5250929c50f56f3b5794d29f1.jpg",
-    "category": "Asia-Pacífico",
-    "text": "Japón: el tifón Dujuan deja cuatro muertos y más de 45.000 viviendas sin electricidad",
-    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260922-jap%C3%B3n-el-tif%C3%B3n-dujuan-deja-cuatro-muertos-y-m%C3%A1s-de-45-000-viviendas-sin-electricidad"
+    "image": "https://s.france24.com/media/display/f783b48c-b6ad-11f1-916f-4d220c210a04/w:1024/p:16x9/ES-20260922-122130-122832-CS.jpg",
+    "category": "Revista de prensa",
+    "text": "\"Aliados latinoamericanos de Trump planean calificar carteles como 'terroristas'\": 'The New York Times'",
+    "link": "https://www.france24.com/es/programas/revista-de-prensa/20260922-aliados-latinoamericanos-de-trump-planean-calificar-carteles-como-terroristas-the-new-york-times"
   },
   {
     "date": "2026-09-22",
@@ -66,8 +94,15 @@
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Por qué los estados de la antigua Alemania comunista se convirtieron en el bastión de la extrema derecha en el país europeo",
-    "link": "https://www.bbc.com/mundo/articles/cr93ex2jyz54o?at_medium=RSS&at_campaign=rss"
+    "text": "\"Contratacaremos si nos atacan\": el gobierno de Lituania le dice a la BBC que tiene planes de respuesta y evacuación ante las amenazas de Rusia",
+    "link": "https://www.bbc.com/mundo/articles/cm36ly7p3pe9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-22",
+    "image": null,
+    "category": null,
+    "text": "El huracán Polo alcanza la categoría 5 en tiempo récord y amenaza las costas de México",
+    "link": "https://www.bbc.com/mundo/articles/c3n07v5wr0rqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-22",
@@ -87,113 +122,148 @@
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Los voluntarios que arriesgan sus vidas para desactivar las \"bombas de carbono\" de los catastróficos incendios forestales que azotan Indonesia",
-    "link": "https://www.bbc.com/mundo/articles/c36lxky8ky2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://www.infobae.com/resizer/v2/TUJVMRBD2FGGXPXUMUXKRN4GCM.jpg?auth=46ce520cc752112c03370c1cb97362a9851862d52bfb5fe5d38a5c0e6bbdbea5&smart=true&width=1920&height=1279",
-    "category": null,
-    "text": "El Congreso rechaza la propuesta de Vox para refrendar la españolidad de Ceuta, con la abstención del PP",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/22/el-congreso-rechaza-la-propuesta-de-vox-para-refrendar-la-espanolidad-de-ceuta-con-la-abstencion-del-pp/"
+    "text": "Qué gana EE.UU. con el acuerdo sobre Groenlandia firmado con Dinamarca tras meses de amenazas de Trump",
+    "link": "https://www.bbc.com/mundo/articles/cvzez9yz6766o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Se publica la primera historia completa en inglés de la música en España",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/22/se-publica-la-primera-historia-completa-en-ingles-de-la-musica-en-espana/"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://www.infobae.com/resizer/v2/W2BGELMF2VC2PGHZZEYS2LYBOA.jpg?auth=57262956052ad7b85a54da7f1793184ca0d1defe47157f97fb158002602a9d10&smart=true&width=1920&height=1282",
-    "category": null,
-    "text": "Sumar avisa a Vox que usará cualquier ley para blindar el derecho de voto de los nacionalizados por la 'ley de nietos'",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/22/sumar-avisa-a-vox-que-usara-cualquier-ley-para-blindar-el-derecho-de-voto-de-los-nacionalizados-por-la-ley-de-nietos/"
+    "text": "Por qué los estados de la antigua Alemania comunista se convirtieron en el bastión de la extrema derecha en el país europeo",
+    "link": "https://www.bbc.com/mundo/articles/cr93ex2jyz54o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Asociación Francisco de Vitoria se queja a Bolaños de los \"ataques\" de ministros a jueces",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/22/asociacion-francisco-de-vitoria-se-queja-a-bolanos-de-los-ataques-de-ministros-a-jueces/"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://www.infobae.com/resizer/v2/BSWDHCEDQJAFXLZ3OH25CD3HPM.png?auth=a76a0b2a799d3e7593b05ce85bde22fcabe811d73c36167f1f58c12d816f9cb2&smart=true&width=5818&height=4672",
-    "category": null,
-    "text": "Daniel Hadad recibió una distinción en el sur de Florida por la expansión internacional de Infobae",
-    "link": "https://www.infobae.com/estados-unidos/2026/09/22/daniel-hadad-recibio-una-distincion-en-el-sur-de-florida-por-la-expansion-internacional-de-infobae/"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://www.infobae.com/resizer/v2/YNLZCOHSK5EJVCXDOJ646DKPDQ.png?auth=c797cf45a181c6cdac4447183d8b97ac8b2929ae8adb07fa15d2a81d8a2a6e86&smart=true&width=1920&height=1173",
-    "category": null,
-    "text": "Juicio por la muerte de Maradona, en vivo: “No podemos descartar que haya muerto por Covid”, declaró el último testigo del caso",
-    "link": "https://www.infobae.com/sociedad/policiales/2026/09/22/juicio-por-la-muerte-de-maradona-en-vivo-las-ultimas-noticias-de-hoy-22-de-septiembre-minuto-a-minuto/"
+    "text": "Clavicular: acusan de violación ante una corte de EE.UU. al controvertido influencer de \"looksmaxxing\"",
+    "link": "https://www.bbc.com/mundo/articles/c3dx075j0qpjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Pablo López llevará su gira Hibakusha a Barcelona, València y Madrid en mayo de 2027",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/22/pablo-lopez-llevara-su-gira-hibakusha-a-barcelona-valencia-y-madrid-en-mayo-de-2027/"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://www.infobae.com/resizer/v2/NVPKZZHHEFGOJAEXTGB2XLFY6A.jpg?auth=79acd5947cb3344ac09c2a663173d85f576be52eee9363700968815a8058c51d&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Delcy Rodríguez se acerca a Pedro Sánchez en la ONU y le pide seguir hablando sobre la situación en Venezuela",
-    "link": "https://www.infobae.com/america/agencias/2026/09/22/delcy-rodriguez-se-acerca-a-pedro-sanchez-en-la-onu-y-le-pide-seguir-hablando-sobre-la-situacion-en-venezuela/"
+    "text": "Revelan la causa de la muerte de la actriz Hayden Panettiere, estrella de \"Heroes\" y \"Nashville\"",
+    "link": "https://www.bbc.com/mundo/articles/cm5yezpwn6pno?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Ceuta recibirá uno de los Premios al Altruismo por su solidaridad y humanidad",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/22/ceuta-recibira-uno-de-los-premios-al-altruismo-por-su-solidaridad-y-humanidad/"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://www.infobae.com/resizer/v2/PDYDQTK7ZZEWBOVIGT5XHFYD3Q.jpg?auth=1a8611052f1db6a71f32932f8465fba741ae29620bbfc545dce47b31dc3ae44b&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Sumar critica que el PSOE rechace paralizar la extradición del activista 'Fergie' Chambers por \"miedo\" a Trump",
-    "link": "https://www.infobae.com/america/agencias/2026/09/22/sumar-critica-que-el-psoe-rechace-paralizar-la-extradicion-del-activista-fergie-chambers-por-miedo-a-trump/"
+    "text": "Qué efectos podría tener el Super El Niño en América Latina",
+    "link": "https://www.bbc.com/mundo/articles/cked742w87qdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Merz celebra acuerdo sobre Groenlandia y garantiza apoyo de Alemania",
-    "link": "https://www.infobae.com/america/agencias/2026/09/22/merz-celebra-acuerdo-sobre-groenlandia-y-garantiza-apoyo-de-alemania/"
+    "text": "La ONU denuncia desapariciones forzadas y muertes bajo custodia en Nicaragua",
+    "link": "https://www.bbc.com/mundo/articles/cm3rey8217lpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-22",
-    "image": "https://www.infobae.com/resizer/v2/VX2VAT56DVA5THO4VT5RTUA35E.jpg?auth=7aa2348e4bef80119aa4a0801a9188244ed8f5cd0baa4f6295ee76485f6779b3&smart=true&width=1920&height=1185",
+    "image": null,
     "category": null,
-    "text": "La UE renueva finalmente las sanciones contra Rusia y las levanta a dos oligarcas cercanos al Kremlin",
-    "link": "https://www.infobae.com/america/agencias/2026/09/22/la-ue-renueva-finalmente-las-sanciones-contra-rusia-y-las-levanta-a-dos-oligarcas-cercanos-al-kremlin/"
+    "text": "La Bolsa de São Paulo sube un 0,44 % impulsada por el escenario electoral",
+    "link": "https://www.infobae.com/america/agencias/2026/09/22/la-bolsa-de-sao-paulo-sube-un-044-impulsada-por-el-escenario-electoral/"
   },
   {
     "date": "2026-09-22",
-    "image": "https://imagenes.elpais.com/resizer/v2/HUCDGSEVP5AMHFCEIMKWHSROMM.jpg?auth=3ef07606a4bba9eaa09fe03264dcf66d042ae23cb45c09494dc1c7981bf4f226",
-    "category": "Irán",
-    "text": "Irán se muestra dispuesto a reabrir Ormuz si Trump afloja la presión militar y levanta su bloqueo",
-    "link": "https://elpais.com/internacional/2026-09-22/iran-se-muestra-dispuesto-a-reabrir-ormuz-si-trump-afloja-la-presion-militar-y-levanta-su-bloqueo.html"
+    "image": "https://www.infobae.com/resizer/v2/RCLLXCULR35BJZQLXT7DMASKFY.jpg?auth=73c812c7f1b8f413678790e6bbce114d3ae47cf0753ec9752cfa0064dce0c651&smart=true&width=5812&height=3875",
+    "category": null,
+    "text": "Salvatore Mancuso ya no será gestor de paz: el Gobierno de Abelardo de la Espriella revocó su designación",
+    "link": "https://www.infobae.com/colombia/2026/09/22/salvatore-mancuso-ya-no-sera-gestor-de-paz-el-gobierno-de-abelardo-de-la-espriella-revoco-su-designacion/"
   },
   {
     "date": "2026-09-22",
-    "image": "https://imagenes.elpais.com/resizer/v2/X3X2IH7LGVN4LILYTS5YTYH3ZE.jpg?auth=7e89ac8d991eb3f0048c950a0f7442781567f71f4829b42d42c4cade9a7847f6",
-    "category": "Ataque contra Irán",
-    "text": "Los hutíes prosiguen su avance en Yemen y acarician el control total del estrecho de Bab el Mandeb",
-    "link": "https://elpais.com/internacional/2026-09-22/los-huties-prosiguen-su-avance-en-yemen-y-acarician-el-control-total-del-estrecho-de-bab-el-mandeb.html"
+    "image": "https://www.infobae.com/resizer/v2/4Y35RVCEF5CKLH3BILPP7B7CSQ.jpg?auth=ae8c3c53f496637aba2cc1e8e00601b9bcfcb9a3cf1a99f735f31f48bcc21b01&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Sánchez pide una \"respuesta global\" a la IA y avisa a \"tecnoligarcas\": \"Por encima de su negocio están nuestros hijos\"",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/22/sanchez-pide-una-respuesta-global-a-la-ia-y-avisa-a-tecnoligarcas-por-encima-de-su-negocio-estan-nuestros-hijos/"
   },
   {
     "date": "2026-09-22",
-    "image": "https://imagenes.elpais.com/resizer/v2/TDWFK4VZXRAYJEQH7SGEJEUJ34.jpg?auth=47d03bd590aecc5379b5d44a87446d0e16b9e8c331eec83b8b56ac7bd297e849",
+    "image": "https://www.infobae.com/resizer/v2/B3GKVQI5G5AIROR4ZFTFHQNDLU.png?auth=8492c2c988acc70bca2ba69ef25eb20fff8769e021007717cfc9d4f1d8609a8b&smart=true&width=1536&height=1024",
+    "category": null,
+    "text": "El Ministerio de Gobernación de Guatemala deroga el reglamento disciplinario de los alumnos de la PNC vigente desde 1997",
+    "link": "https://www.infobae.com/guatemala/2026/09/22/el-ministerio-de-gobernacion-de-guatemala-deroga-el-reglamento-disciplinario-de-los-alumnos-de-la-pnc-vigente-desde-1997/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://www.infobae.com/resizer/v2/IBOBYLSTTNFYZADZ6VLAPNKRJE.jpg?auth=6fc16f298f5d6aeb6a7e97724469bf5082d7841373a6c73156ff8e7e243db6e7&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Precio del dólar hoy en México: cotización de cierre del 22 de septiembre",
+    "link": "https://www.infobae.com/mexico/2026/09/22/precio-del-dolar-hoy-en-mexico-cotizacion-de-cierre-del-22-de-septiembre/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": null,
+    "category": null,
+    "text": "Más de medio millón de hogares en México tienen integrantes desplazados por la violencia",
+    "link": "https://www.infobae.com/america/agencias/2026/09/22/mas-de-medio-millon-de-hogares-en-mexico-tienen-integrantes-desplazados-por-la-violencia/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://www.infobae.com/resizer/v2/HDEDEBAHGVBUPLKZMRL6BYEQMI.jpg?auth=480b23047797b0b8d0a33ab36a2ed5bf4ea6fc62e15bef4c54e280f1ee7abea3&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "El presidente de Corea del Sur reivindica el diálogo con Corea de Norte y la mediación entre Trump y Kim",
+    "link": "https://www.infobae.com/america/agencias/2026/09/22/el-presidente-de-corea-del-sur-reivindica-el-dialogo-con-corea-de-norte-y-la-mediacion-entre-trump-y-kim/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": null,
+    "category": null,
+    "text": "1-1. Un gol de penalti de Karchaoui le quita la victoria al Madrid en su debut europeo",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/22/1-1-un-gol-de-penalti-de-karchaoui-le-quita-la-victoria-al-madrid-en-su-debut-europeo/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://www.infobae.com/resizer/v2/7RISRIMNIJHGDFH34N6UAR62VE.jpg?auth=f1f12fe22e00f271bf5f3da13cf64a8fef09d5e767ea79acdbeb0b5436766d32&smart=true&width=3600&height=3600",
+    "category": null,
+    "text": "¿Estás planeando un viaje con IA? Aquí te decimos cómo hacerlo mejor.",
+    "link": "https://www.infobae.com/america/the-new-york-times/2026/09/22/estas-planeando-un-viaje-con-ia-aqui-te-decimos-como-hacerlo-mejor/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": null,
+    "category": null,
+    "text": "Christina Applegate comparte un nuevo vídeo en redes tras meses de hospitalización",
+    "link": "https://www.infobae.com/america/agencias/2026/09/22/christina-applegate-comparte-un-nuevo-video-en-redes-tras-meses-de-hospitalizacion/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://www.infobae.com/resizer/v2/XFAT6DBYJ5CJVD2MV3K634A3S4.png?auth=6d2dd4de9c6faa80f76370401f6703774aa43710b2c3bbd2a62c92c1afde098f&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "‘Star Detective Precure!’ investigará un caso dentro de ‘Street Fighter 6′",
+    "link": "https://www.infobae.com/malditos-nerds/2026/09/22/star-detective-precure-investigara-un-caso-dentro-de-street-fighter-6/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://www.infobae.com/resizer/v2/CSXN464BD5D4RJ456QVXQVIPAQ.jpg?auth=8524c133aa7d5eea120194c85af296f7a56398f576d303a8ecc06f074dcf9696&smart=true&width=1280&height=854",
+    "category": null,
+    "text": "El Congreso de Guatemala recibe la nómina de seis aspirantes a contralor general para el período 2026-2030",
+    "link": "https://www.infobae.com/guatemala/2026/09/22/el-congreso-de-guatemala-recibe-la-nomina-de-seis-aspirantes-a-contralor-general-para-el-periodo-2026-2030/"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260922/1217101_164211_video_1800.mp4",
     "category": "ONU",
-    "text": "Trump lleva sus batallas a la Asamblea General de Naciones Unidas",
-    "link": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html"
+    "text": "Trump amenaza con aniquilar Irán en un discurso en la Asamblea General de la ONU con tintes electorales",
+    "link": "https://elpais.com/internacional/2026-09-22/trump-amenaza-con-aniquilar-iran-en-un-discurso-en-la-asamblea-general-de-la-onu-con-tintes-electorales.html"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260922/1217195_203609_video_1800.mp4",
+    "category": "ONU",
+    "text": "Guterres, en su último discurso ante la Asamblea General de la ONU: “Las grietas del mundo se han convertido en abismos”",
+    "link": "https://elpais.com/internacional/2026-09-22/guterres-en-su-ultimo-discurso-ante-la-asamblea-general-de-la-onu-las-grietas-del-mundo-se-han-convertido-en-abismos.html"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://imagenes.elpais.com/resizer/v2/I3ONU3CDGRIZLJGM7GQPDCFXUM.jpg?auth=45a555d5744a39375b6a297a8a341e5643ef0ad023f36d0b4a4855278cb6541a",
+    "category": "América",
+    "text": "Lula a Trump: “Brasil no cabe en el patio trasero de nadie”",
+    "link": "https://elpais.com/america/2026-09-22/lula-a-trump-brasil-no-se-mete-en-el-patio-trasero-de-nadie.html"
   },
   {
     "date": "2026-09-22",
@@ -204,219 +274,149 @@
   },
   {
     "date": "2026-09-22",
-    "image": "https://imagenes.elpais.com/resizer/v2/TA4GRNA5VFDLVIERWSCHNH6AZA.JPG?auth=8731698b1d8a438bbe729678dd6808234376e7baec7e5e8fe41852db64f885d7",
-    "category": "Elecciones",
-    "text": "La Izquierda rompe la alternancia en Berlín y acaricia la alcaldía con la promesa de abaratar la vivienda",
-    "link": "https://elpais.com/internacional/2026-09-22/la-izquierda-rompe-la-alternancia-en-berlin-y-acaricia-la-alcaldia-con-la-promesa-de-abaratar-la-vivienda.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/S42U7HO24NCHLMTBAD5BJCJTAE.jpg?auth=ead047cddf222f63443f74aa674ce6a45815a494a3fc33618c464356d73ec825",
+    "category": "Guinea Ecuatorial",
+    "text": "Guinea Ecuatorial declara terrorista el principal grupo de oposición y pone precio a la cabeza de sus líderes exiliados",
+    "link": "https://elpais.com/internacional/2026-09-22/guinea-ecuatorial-declara-terrorista-el-principal-grupo-de-oposicion-y-pone-precio-a-la-cabeza-de-sus-lideres-exiliados.html"
   },
   {
     "date": "2026-09-22",
-    "image": "https://imagenes.elpais.com/resizer/v2/43IDBHIIEVMZ5BYWFQDJ26IYJQ.jpg?auth=2a810f3e1c666633cd33b3cb0392ca6668b9b113eba52bc0ea5d2594ac92bb16",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Putin militariza el Parlamento ruso",
-    "link": "https://elpais.com/internacional/2026-09-22/putin-militariza-el-parlamento-ruso.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/HUCDGSEVP5AMHFCEIMKWHSROMM.jpg?auth=3ef07606a4bba9eaa09fe03264dcf66d042ae23cb45c09494dc1c7981bf4f226",
+    "category": "Irán",
+    "text": "El ministro de Exteriores de Irán y los enviados de Trump se reúnen en la ONU",
+    "link": "https://elpais.com/internacional/2026-09-22/iran-se-muestra-dispuesto-a-reabrir-ormuz-si-trump-afloja-la-presion-militar-y-levanta-su-bloqueo.html"
   },
   {
     "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2ab6d59bf5b5a6e41a293.jpg",
+    "image": "https://imagenes.elpais.com/resizer/v2/JNNIATOUPVG2JEVHLSS7WW5CPI.jpg?auth=7a33bf987b998d570280c7f68ad300533059e0819e70ba0def582a31bee2ddfb",
+    "category": "Estados Unidos",
+    "text": "Estados Unidos construirá dos nuevas bases en Groenlandia tras el pacto de seguridad",
+    "link": "https://elpais.com/internacional/2026-09-22/trump-firma-el-acuerdo-de-seguridad-con-dinamarca-y-groenlandia.html"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://imagenes.elpais.com/resizer/v2/X3X2IH7LGVN4LILYTS5YTYH3ZE.jpg?auth=7e89ac8d991eb3f0048c950a0f7442781567f71f4829b42d42c4cade9a7847f6",
+    "category": "Ataque contra Irán",
+    "text": "Los hutíes prosiguen su avance en Yemen y acarician el control total del estrecho de Bab el Mandeb",
+    "link": "https://elpais.com/internacional/2026-09-22/los-huties-prosiguen-su-avance-en-yemen-y-acarician-el-control-total-del-estrecho-de-bab-el-mandeb.html"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2e77959bf5b02b72542e1.jpg",
     "category": null,
-    "text": "Díaz-Canel desmonta el discurso de Trump en la ONU: \"La mentira es el recurso\"",
-    "link": "https://actualidad.rt.com/actualidad/628895-diaz-canel-responder-declaraciones-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Esto dijo Trump cuando le preguntaron si habría una guerra entre Rusia y Reino Unido",
+    "link": "https://actualidad.rt.com/actualidad/628938-trump-preguntar-guerra-reino-unido-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab29c6ee9ff7115c9448352.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2b5ce59bf5b5cff36a4d1.png",
     "category": null,
-    "text": "Trump admite que ejerce \"la mayor presión\" a la que Cuba \"ha estado sometida jamás\"",
-    "link": "https://actualidad.rt.com/actualidad/628878-trump-presion-cuba-rubio-negociar-habana?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "China gana la batalla por Oriente Medio sin enviar tropas",
+    "link": "https://actualidad.rt.com/actualidad/628872-china-esta-aventajando-eeuu-pugna?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2a5dc59bf5b0a970c6e04.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab28ab8e9ff710b227f04ee.jpg",
     "category": null,
-    "text": "VIDEO: Hallan helicóptero desaparecido en Brasil y confirman muerte del cantante Rick",
-    "link": "https://actualidad.rt.com/actualidad/628890-hallan-helicoptero-desaparecido-brasil-muerte-cantante?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab29b8559bf5b540e2c7bbe.jpg",
-    "category": null,
-    "text": "La arremetida de Lula contra los 'tecnoligarcas' en Naciones Unidas",
-    "link": "https://actualidad.rt.com/actualidad/628877-lula-lanza-tecno-oligarcas-naciones-unidas?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2a50ae9ff7160785d6f66.jpg",
-    "category": null,
-    "text": "Rusia ataca infraestructuras portuarias y un buque con cargamento militar para Ucrania",
-    "link": "https://actualidad.rt.com/actualidad/628892-rusia-infraestructuras-portuarias-buque-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab29a4ce9ff7155727f19af.jpeg",
-    "category": null,
-    "text": "Trump ataca a México: \"Es inaceptable compartir frontera con un país controlado por cárteles\"",
-    "link": "https://actualidad.rt.com/actualidad/628880-trump-mexico-inaceptable-eeuu-compartir-frontera?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2a55859bf5b46711e50af.jpg",
-    "category": null,
-    "text": "Trump sobre la IA: \"Vamos a fomentarla, no a frenarla\"",
-    "link": "https://actualidad.rt.com/actualidad/628883-trump-sobre-ia-fomentar-frenar?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2a1a259bf5b69244d3714.jpg",
-    "category": null,
-    "text": "Trump firma acuerdo con Groenlandia y Dinamarca",
-    "link": "https://actualidad.rt.com/actualidad/628886-trump-firmar-acuerdo-groenlandia-dinamarca?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2953659bf5b69244d36e8.jpg",
-    "category": null,
-    "text": "\"Grita en la lengua estatal\": Se viraliza una recomendación a embarazadas en Ucrania",
-    "link": "https://actualidad.rt.com/actualidad/628868-grita-lengua-estatal-viraliza-recomendacion?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab29b3459bf5b69244d3703.jpg",
-    "category": null,
-    "text": "VIDEO: La delegación de Cuba en la ONU se retira tras declaraciones amenazantes de Trump",
-    "link": "https://actualidad.rt.com/actualidad/628882-delegacion-cuba-onu-retirar-declaraciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Los hutíes publican NUEVAS IMÁGENES de su ofensiva contra fuerzas gubernamentales",
+    "link": "https://actualidad.rt.com/actualidad/628860-huties-publicar-nuevas-imagenes-ofensiva?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "EURONEWS HOY | Las noticias del martes 22 de septiembre: Comienza la Asamblea General de la ONU",
-    "link": "https://es.euronews.com/2026/09/22/euronews-hoy-las-noticias-del-martes-22-de-septiembre-trump-y-macron-conversan-en-nueva-yo"
+    "text": "De la Espriella retira a Colombia del caso contra Israel en la CIJ",
+    "link": "https://actualidad.rt.com/actualidad/628927-espriella-retira-colombia-caso-israel-cij?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2e3b659bf5b17a269ac93.jpg",
+    "category": null,
+    "text": "\"Reflejan el estancamiento estratégico de EE.UU.\": Irán responde a Trump",
+    "link": "https://actualidad.rt.com/actualidad/628935-refelejan-estancamiento-estrategico-eeuu-iran-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2df0ae9ff710a5c3e3ba6.jpg",
+    "category": null,
+    "text": "Trump amenaza con hacer explotar la montaña Pickaxe en Irán",
+    "link": "https://actualidad.rt.com/actualidad/628936-trump-amenaza-hacer-explotar-montana?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2df65e9ff7160785d6fa4.jpg",
+    "category": null,
+    "text": "Trump sobre Irán: \"Llegamos a un acuerdo o todo terminará muy, muy rápido\"",
+    "link": "https://actualidad.rt.com/actualidad/628931-trump-iran-llegamos-acuerdo-terminar-rapido?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2b9ec59bf5b52dc478766.jpg",
+    "category": null,
+    "text": "Este es el (trágico) impacto económico que el Superniño puede dejar en América Latina",
+    "link": "https://actualidad.rt.com/actualidad/628901-tragico-impacto-economico-supernino-america-latina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2d85e59bf5b71b354dee5.jpg",
+    "category": null,
+    "text": "VIDEO: Oso persigue a un hombre en el patio de su casa",
+    "link": "https://actualidad.rt.com/viral/628929-momento-oso-persigue-hombre-fuera-casa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab2d7b5e9ff713c8721d3b7.jpg",
+    "category": null,
+    "text": "VIDEO: La inolvidable mímica de Zelenski en su encuentro con Trump",
+    "link": "https://actualidad.rt.com/actualidad/628928-video-inolvidable-mimica-zelenski-encuentro?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Últimas noticias | 22 septiembre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/09/22/ultimas-noticias-22-septiembre-2026-tarde"
+    "text": "El Niño transforma el desierto de Atacama: miles de hectáreas se cubren de flores",
+    "link": "https://es.euronews.com/2026/09/22/desierto-atacama-flores-lluvias-el-nino"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Sánchez se ausenta de la recepción de Trump en la ONU mientras España busca apoyo por Ceuta",
-    "link": "https://es.euronews.com/2026/09/22/sanchez-ausenta-recepcion-trump-onu-mientras-espana-busca-apoyo-por-ceuta"
+    "text": "Artistas protestan contra los recortes culturales con música, danza y títeres en Bogotá",
+    "link": "https://es.euronews.com/video/2026/09/22/artistas-protestan-contra-los-recortes-culturales-con-musica-danza-y-titeres-en-bogota"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Calles inundadas y labores de rescate mientras el tifón Dujuan golpea Japón",
-    "link": "https://es.euronews.com/video/2026/09/22/calles-inundadas-y-labores-de-rescate-mientras-el-tifon-dujuan-golpea-japon"
+    "text": "El tifón Dujuan deja 4 muertos, 6 desaparecidos y miles de viviendas sin luz en el área de Tokio",
+    "link": "https://es.euronews.com/2026/09/22/tifon-dujuan-deja-4-muertos-6-desaparecidos-miles-viviendas-sin-luz-area-de-tokio-japon"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Donald Trump se reúne con Delcy Rodríguez en un inédito acercamiento entre Washington y Caracas",
-    "link": "https://es.euronews.com/2026/09/22/donald-trump-se-reune-delcy-rodriguez-inedito-acercamiento-washington-caracas"
+    "text": "El espectacular baile de un joven chino con cuatro robots en America's Got Talent",
+    "link": "https://es.euronews.com/video/2026/09/22/robots-bailan-con-su-companero-humano-y-llegan-a-la-final-de-americas-got-talent"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "EE.UU. se muestra dispuesto a reunirse con Irán en la ONU en plena confusión sobre un acuerdo de paz",
-    "link": "https://es.euronews.com/2026/09/22/eeuu-se-muestra-dispuesto-a-reunirse-con-iran-en-la-onu-en-plena-confusion-sobre-un-acuerd"
+    "text": "Trump firma un acuerdo con Dinamarca y Groenlandia para ampliar la presencia militar de EE.UU.",
+    "link": "https://es.euronews.com/2026/09/22/trump-firma-acuerdo-dinamarca-groenlandia-para-ampliar-presencia-militar-estados-unidos"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Un grupo armado cierra un oleoducto del principal campo petrolero de Libia y amenaza las exportaciones",
-    "link": "https://es.euronews.com/2026/09/22/grupo-armado-cierra-un-oleoducto-del-principal-campo-petrolero-de-libia-y-amenaza-las-expo"
+    "text": "Una ciudad romana de 2.000 años se transforma con un espectacular festival de luces",
+    "link": "https://es.euronews.com/video/2026/09/22/la-antigua-ciudad-romana-de-pula-se-transforma-con-el-arte-luminico-contemporaneo"
   },
   {
     "date": "2026-09-22",
     "image": null,
     "category": null,
-    "text": "Las grandes cadenas de EE.UU. suspenden la cobertura de Trump en respuesta a su veto de varios medios",
-    "link": "https://es.euronews.com/2026/09/22/las-grandes-cadenas-de-eeuu-suspenden-la-cobertura-de-trump-en-respuesta-a-su-veto-de-vari"
-  },
-  {
-    "date": "2026-09-22",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 22 septiembre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/09/22/ultimas-noticias-22-septiembre-2026-mediodia"
-  },
-  {
-    "date": "2026-09-22",
-    "image": null,
-    "category": null,
-    "text": "VÍDEO: El atacante armado huye tras abrir fuego cerca de un instituto en Turquía",
-    "link": "https://es.euronews.com/2026/09/22/video-el-atacante-armado-huye-tras-abrir-fuego-cerca-de-una-escuela-en-turquia"
-  },
-  {
-    "date": "2026-09-22",
-    "image": null,
-    "category": null,
-    "text": "Varios heridos en un tiroteo en un instituto al oeste de Turquía",
-    "link": "https://es.euronews.com/2026/09/22/varios-heridos-en-un-instituto-al-oeste-de-turquia-tras-un-tiroteo"
-  },
-  {
-    "date": "2026-09-22",
-    "image": null,
-    "category": null,
-    "text": "Los rusos en el extranjero votan 8 a 1 contra el partido de Putin y desafían resultados oficiales",
-    "link": "https://es.euronews.com/2026/09/22/los-rusos-en-el-extranjero-votan-8-a-1-contra-el-partido-de-putin-y-desafian-resultados-of"
-  },
-  {
-    "date": "2026-09-21",
-    "image": null,
-    "category": null,
-    "text": "Muere Presley Gerber: la lucha contra los problemas de adicción y salud mental del hijo de la modelo Cindy Crawford",
-    "link": "https://www.bbc.com/mundo/articles/crwyz2076608o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-21",
-    "image": null,
-    "category": null,
-    "text": "\"Eran como mis hijos\": el duelo de una profesora que perdió a más de 200 alumnos en el doble terremoto de Venezuela",
-    "link": "https://www.bbc.com/mundo/articles/cxr501n9z45qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-21",
-    "image": null,
-    "category": null,
-    "text": "\"Sigo con la bala dentro\": Wilber Garcés, el repartidor venezolano de comida que recibió un disparo de un agente de ICE en Texas",
-    "link": "https://www.bbc.com/mundo/articles/cq986rke4ny6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-21",
-    "image": null,
-    "category": null,
-    "text": "Converse retira un anuncio \"profundamente perturbador\" tras acusaciones de racismo",
-    "link": "https://www.bbc.com/mundo/articles/c933k2lrj045o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-21",
-    "image": null,
-    "category": null,
-    "text": "Los ataques de EE.UU. contra embarcaciones sospechosas de traficar drogas en el Caribe y el Pacífico podrían constituir crímenes de lesa humanidad, dice la ONU",
-    "link": "https://www.bbc.com/mundo/articles/cr1e52qqwq0go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-21",
-    "image": null,
-    "category": null,
-    "text": "\"Creo que fue su enfermedad mental\": las razones del exesposo de Lindsay Clancy para perdonarle que haya matado a sus 3 hijos",
-    "link": "https://www.bbc.com/mundo/articles/cqj9xpry7z97o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-21",
-    "image": null,
-    "category": null,
-    "text": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
-    "link": "https://www.bbc.com/mundo/articles/c6wyz27241l2o?at_medium=RSS&at_campaign=rss"
+    "text": "Trump lleva a la ONU su pulso con Irán: amenaza con la \"aniquilación\" al tiempo que abre vías de negociación",
+    "link": "https://es.euronews.com/2026/09/22/trump-amenaza-aniquilar-a-iran-en-la-onu-y-luego-confirma-contactos-directos"
   }
 ]

@@ -1,87 +1,227 @@
 [
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/fdb59c58-b68a-11f1-abed-4d220c210a04/w:1024/p:16x9/4839e6a1dd32f5f93786eb108c6ccdef3cb6a716.jpg",
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/6146cc18-b7c8-11f1-a817-4d7b41827f6c/w:1024/p:16x9/ES-20260923-210939-211434-CS.jpg",
+    "category": null,
+    "text": "¿Qué encontró Claude en el hallazgo de biología y por qué es importante?",
+    "link": "https://www.france24.com/es/video/20260924-qu%C3%A9-encontr%C3%B3-claude-en-el-hallazgo-de-biolog%C3%ADa-y-por-qu%C3%A9-es-importante"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/7ef3fade-b7c7-11f1-a39c-55848da96185/w:1024/p:16x9/ES-20260923-210429-210854-CS.jpg",
+    "category": null,
+    "text": "Trump y Xi Jinping se reúnen en Washington en medio de tensiones por comercio, IA y Taiwán",
+    "link": "https://www.france24.com/es/video/20260924-trump-y-xi-jinping-se-re%C3%BAnen-en-washington-en-medio-de-tensiones-por-comercio-ia-y-taiw%C3%A1n"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/07f90fa0-b7c7-11f1-bb1c-a5615d7a48ac/w:1024/p:16x9/ES-20260923-191940-192115-CS.jpg",
+    "category": null,
+    "text": "Harvey Weinstein es condenado a 15 años de prisión por agresión sexual en nuevo juicio",
+    "link": "https://www.france24.com/es/video/20260924-harvey-weinstein-es-condenado-a-15-a%C3%B1os-de-prisi%C3%B3n-por-agresi%C3%B3n-sexual-en-nuevo-juicio"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/eb6a4432-b7c4-11f1-adf9-513157f91e8c/w:1024/p:16x9/ES-20260923-191610-191817-CS.jpg",
+    "category": null,
+    "text": "Pezeshkian, Zelenski y Milei marcan la segunda jornada de la Asamblea General de la ONU",
+    "link": "https://www.france24.com/es/video/20260924-pezeshkian-zelenski-y-milei-marcan-la-segunda-jornada-de-la-asamblea-general-de-la-onu"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/55b87126-b778-11f1-9bc1-55848da96185/w:1024/p:16x9/2026-09-04T163037Z-147491736-RC2H9LAKXXVX-RTRMADP-3-USA-CHINA-AI.jpg",
+    "category": "En Contexto",
+    "text": "Cumbre Xi - Trump: ¿sigue la tregua comercial o vuelve la guerra arancelaria?",
+    "link": "https://www.france24.com/es/programas/en-contexto/20260924-cumbre-xi-trump-sigue-la-tregua-comercial-o-vuelve-la-guerra-arancelaria"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/d07569b4-b7c3-11f1-af14-a5615d7a48ac/w:1024/p:16x9/AP26266836312668.jpg",
     "category": "América Latina",
-    "text": "Lula vs. Bolsonaro: la batalla se reedita cuatro años después... ahora con Flávio como candidato",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260923-lula-vs-bolsonaro-la-batalla-se-reedita-cuatro-a%C3%B1os-despu%C3%A9s-ahora-con-fl%C3%A1vio-como-candidato"
+    "text": "Delcy Rodríguez promete que “en Venezuela habrá elecciones en igualdad de condiciones para todos”",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260924-delcy-rodr%C3%ADguez-promete-que-en-venezuela-habr%C3%A1-elecciones-en-igualdad-de-condiciones-para-todos"
   },
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/cbe784ec-b794-11f1-adf6-4d7b41827f6c/w:1024/p:16x9/ES-20260923-114249-114421-CS.jpg",
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/047372fe-b7c1-11f1-b7ee-833f01c30b8b/w:1024/p:16x9/ES-20260923-151009-151143-CS.jpg",
     "category": null,
-    "text": "Wilber Garcés es trasladado a hospital por parálisis; publican videos del momento de su arresto",
-    "link": "https://www.france24.com/es/video/20260923-wilber-garc%C3%A9s-es-trasladado-a-hospital-por-par%C3%A1lisis-publican-videos-del-momento-de-su-arresto"
+    "text": "Directivos de OpenAI, Anthropic y Hugging Face hablan ante el Consejo de Seguridad de la ONU",
+    "link": "https://www.france24.com/es/video/20260924-directivos-de-openai-anthropic-y-hugging-face-hablan-ante-el-consejo-de-seguridad-de-la-onu"
   },
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/fff11fac-b792-11f1-b9f5-a5615d7a48ac/w:1024/p:16x9/ES-20260923-113844-114017-CS.jpg",
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/b017418c-b7bf-11f1-9035-a5615d7a48ac/w:1024/p:16x9/ES-20260923-163909-164053-CS.jpg",
     "category": null,
-    "text": "España: Maricarmen Abascal, la mujer de 87 años que fue desalojada de su apartamento en Madrid",
-    "link": "https://www.france24.com/es/video/20260923-espa%C3%B1a-maricarmen-abascal-la-mujer-de-87-a%C3%B1os-que-fue-desalojada-de-su-apartamento-en-madrid"
+    "text": "Rusia ataca Kiev con drones horas después de la reunión entre Zelenski y Trump",
+    "link": "https://www.france24.com/es/video/20260924-rusia-ataca-kiev-con-drones-horas-despu%C3%A9s-de-la-reuni%C3%B3n-entre-zelenski-y-trump"
   },
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/46845b98-b791-11f1-a9b8-a5615d7a48ac/w:1024/p:16x9/ES-20260923-074222-074939-CS.jpg",
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/f5e86d72-b7be-11f1-9221-55848da96185/w:1024/p:16x9/ES-20260923-163626-163844-CS.jpg",
     "category": null,
-    "text": "Directo Latam y las reacciones a la reunión Rodríguez-Trump en Nueva York",
-    "link": "https://www.france24.com/es/video/20260923-directo-latam-y-las-reacciones-a-la-reuni%C3%B3n-rodr%C3%ADguez-trump-en-nueva-york"
+    "text": "Junta de Paz presenta un plan de 2.450 millones para Gaza, pero enfrenta enormes obstáculos",
+    "link": "https://www.france24.com/es/video/20260924-junta-de-paz-presenta-un-plan-de-2-450-millones-para-gaza-pero-enfrenta-enormes-obst%C3%A1culos"
   },
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/b57eca96-b78d-11f1-93f1-833f01c30b8b/w:1024/p:16x9/ES-20260923-073805-073950-CS.jpg",
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/63f29fa4-b7ba-11f1-ac18-833f01c30b8b/w:1024/p:16x9/ES-20260923-132108-132854-CS.jpg",
     "category": null,
-    "text": "Cubanos buscan efectivo en medio de la escasez de billetes y monedas",
-    "link": "https://www.france24.com/es/video/20260923-cubanos-buscan-efectivo-en-medio-de-la-escasez-de-billetes-y-monedas"
+    "text": "¿Qué se puede concluir del encuentro entre Trump y sus aliados del Escudo de las Américas?",
+    "link": "https://www.france24.com/es/video/20260924-qu%C3%A9-se-puede-concluir-del-encuentro-entre-trump-y-sus-aliados-del-escudo-de-las-am%C3%A9ricas"
   },
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/90185ad2-b789-11f1-9e07-833f01c30b8b/w:1024/p:16x9/2026-09-23T094425Z-778289377-RC2WONA9DCRY-RTRMADP-3-MOROCCO-PARLIAMENT-ELECTION.jpg",
-    "category": "África",
-    "text": "Marruecos vota entre una baja participación, el descontento de los jóvenes y la sombra de Ceuta",
-    "link": "https://www.france24.com/es/%C3%A1frica/20260923-marruecos-vota-entre-una-baja-participaci%C3%B3n-el-descontento-de-los-j%C3%B3venes-y-la-sombra-de-ceuta"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/f2e4c956-b78f-11f1-b69d-cd71256adcef/w:1024/p:16x9/ES-20260923-072236-072750-CS.jpg",
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/be436336-b7b9-11f1-a747-833f01c30b8b/w:1024/p:16x9/ES-20260923-124518-124926-CS.jpg",
     "category": null,
-    "text": "Informe desde París: Gobierno anuncia ayudas para el precio de la gasolina",
-    "link": "https://www.france24.com/es/video/20260923-informe-desde-par%C3%ADs-gobierno-anuncia-ayudas-para-el-precio-de-la-gasolina"
+    "text": "Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU",
+    "link": "https://www.france24.com/es/video/20260924-directo-a-nueva-york-y-los-discursos-de-pezeshkian-y-milei-ante-la-asamblea-de-la-onu"
   },
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/87b5be80-b783-11f1-8a4f-833f01c30b8b/w:1024/p:16x9/ES-20260923-073549-073733-CS.jpg",
+    "date": "2026-09-24",
+    "image": "https://s.france24.com/media/display/fdf3fdc2-b7b1-11f1-8d55-833f01c30b8b/w:1024/p:16x9/2026-09-23T121128Z-1099618453-RC20PNAMAMSZ-RTRMADP-3-SPAIN-HOUSING.jpg",
+    "category": "Europa",
+    "text": "El desahucio de una jubilada de 87 años en silla de ruedas expone la crisis de vivienda en España",
+    "link": "https://www.france24.com/es/europa/20260924-espa%C3%B1a-el-desalojo-de-una-jubilada-de-87-a%C3%B1os-en-silla-de-ruedas-expone-la-crisis-de-la-vivienda-en-espa%C3%B1a"
+  },
+  {
+    "date": "2026-09-24",
+    "image": null,
     "category": null,
-    "text": "Avanza el huracán Polo de categoría 5 hacia la costa Pacífica de México",
-    "link": "https://www.france24.com/es/video/20260923-avanza-el-hurac%C3%A1n-polo-de-categor%C3%ADa-5-hacia-la-costa-pac%C3%ADfica-de-m%C3%A9xico"
+    "text": "Australia denuncia que un agente de OpenAI hackeó un sitio web de su gobierno",
+    "link": "https://www.bbc.com/mundo/articles/cq8r6njee8ddo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/d3b7b0ca-b762-11f1-a655-55848da96185/w:1024/p:16x9/2026-09-23T143308Z-978379383-RC22PNAAB0P3-RTRMADP-3-UN-ASSEMBLY.jpg",
-    "category": "Medio Oriente",
-    "text": "\"Irán jamás bajará la cabeza\": Pezeshkian desafía a Trump y señala a EE. UU.  de \"terrorista\"",
-    "link": "https://www.france24.com/es/medio-oriente/20260923-ir%C3%A1n-jam%C3%A1s-bajar%C3%A1-la-cabeza-pezeshkian-desaf%C3%ADa-a-trump-y-se%C3%B1ala-a-ee-uu-de-terrorista"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/88b5eb20-b783-11f1-8be7-4d7b41827f6c/w:1024/p:16x9/Delcy-Rodri%CC%81guez-se-reu%CC%81ne-con-Donald-Trump-en-Nueva-York.png",
+    "date": "2026-09-24",
+    "image": null,
     "category": null,
-    "text": "Delcy Rodríguez se reúne con Donald Trump en Nueva York",
-    "link": "https://www.france24.com/es/video/20260923-delcy-rodr%C3%ADguez-se-re%C3%BAne-con-donald-trump-en-nueva-york"
+    "text": "China busca poner fin a la guerra con Irán, pero no como Trump quiere",
+    "link": "https://www.bbc.com/mundo/articles/cme8xkx8k60po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/268702de-b708-11f1-adbd-557acd7c815c/w:1024/p:16x9/f603b81d49997eeda459f27a3148c5de5ed25631.jpg",
-    "category": "Francia",
-    "text": "\"El regreso de la ley de la selva\": claves del último discurso de Macron en la Asamblea General de la ONU",
-    "link": "https://www.france24.com/es/francia/20260923-el-regreso-de-la-ley-de-la-selva-claves-del-%C3%BAltimo-discurso-de-macron-en-la-asamblea-general-de-la-onu"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://s.france24.com/media/display/8489668c-b77c-11f1-ad76-4d7b41827f6c/w:1024/p:16x9/El-papa-y-la-UNESCO-estrechan-lazos.png",
+    "date": "2026-09-24",
+    "image": null,
     "category": null,
-    "text": "El papa León XIV abordará la evolución de la IA ante la UNESCO",
-    "link": "https://www.france24.com/es/video/20260923-el-papa-le%C3%B3n-xiv-abordar%C3%A1-la-evoluci%C3%B3n-de-la-ia-ante-la-unesco"
+    "text": "Delcy Rodríguez dice ante la ONU que habrá una transición hacia \"una democracia plena\" en Venezuela pero no da una fecha para las elecciones",
+    "link": "https://www.bbc.com/mundo/articles/cqzjzl9jkd4wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-24",
+    "image": null,
+    "category": null,
+    "text": "\"El hombre que le vendió drogas mortales a mi hija para que se quitara la vida debería pudrirse en el infierno\"",
+    "link": "https://www.bbc.com/mundo/articles/c8qlw1wvqrzno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/LXQ4SBGNA5HLZFHBSZ3N7J6VGI.png?auth=f406cfc43c2581495677e094825e4af09f98387babcfaee983caf6483d509fa1&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "La desilusión de Mario Pergolini luego de que Mora Bianchi rechazara uno de sus regalos: \"¿No te gustó?\"",
+    "link": "https://www.infobae.com/teleshow/2026/09/24/la-desilusion-de-mario-pergolini-luego-de-que-mora-bianchi-rechazara-uno-de-sus-regalos-no-te-gusto/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/G5J6RZKEE5GL3OLLTXFK5OMIYE.png?auth=1232b3d3323c178305224f5ee99066c2f37d6f0ff67629441c60a27fe66649f1&smart=true&width=1280&height=720",
+    "category": null,
+    "text": "BTS en Perú: show de drones en la Costa Verde recibirá a la banda, el primero para la agrupación en Latinoamérica",
+    "link": "https://www.infobae.com/peru/2026/09/23/bts-en-peru-habra-show-de-drones-en-la-costa-verde-para-recibir-a-la-banda-el-primero-para-la-agrupacion-en-latinoamerica/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/R2BJ6I3FABDVXFVMHBB5554TF4.jpg?auth=2fcccc8d1df28baa1605a0d109bf0c5b693e84016bfa1f08256dccaa2d6068c8&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Córdoba abre su Mercado de Arte Contemporáneo con 59 galerías, una sede nueva y actividades por toda la provincia",
+    "link": "https://www.infobae.com/cultura/2026/09/24/cordoba-abre-su-mercado-de-arte-contemporaneo-con-59-galerias-una-sede-nueva-y-actividades-por-toda-la-provincia/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/BPZ3PXBSQBFGJFTA2MX7YXM4AM.jpg?auth=21d9a15716399613f2c0f8c64c70bdb71aef070570e5ebd14a8c28316bd8b300&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Pelea de Canelo vs Mbilli podría mudarse desde Arabia a Las Vegas",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/24/pelea-de-canelo-vs-mbilli-podria-mudarse-desde-arabia-a-las-vegas/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/ZRFGNWBBHZEKZLZ7DIOLCKGCCM.png?auth=5c0d8919b172f31cc6b59428cffc3b0435522fb4d91a4abaffab57cad4e7a01f&smart=true&width=1280&height=720",
+    "category": null,
+    "text": "BTS abrirá su primera tienda ‘POP-UP’ en Lima antes de sus conciertos: el paso a paso para realizar tu reserva gratuita",
+    "link": "https://www.infobae.com/peru/2026/09/23/bts-abrira-su-primer-pop-up-en-lima-antes-de-sus-tres-conciertos-fechas-lugar-y-el-paso-a-paso-para-realizar-tu-reserva-gratuita/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/4AOQZXGPYZFFXNQNVT6N54HVAA.png?auth=f5d8baf126696a61a03cbc7dd347ac670e279ded34c8c8a104f4bf171f6c6c2b&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "¿Cómo estará el clima en Zaragoza este 24 de septiembre?",
+    "link": "https://www.infobae.com/espana/2026/09/24/como-estara-el-clima-en-zaragoza-este-24-de-septiembre/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/HD5HWVP7KVBJXPMSU4CPCK2AXQ.jpg?auth=15f70ced04bb1a81f417574540c59fcac859e38f7da137179e306a6dc7a9f74e&smart=true&width=5472&height=3648",
+    "category": null,
+    "text": "Presidente del Legislativo en Honduras defiende reformas contra grupos terroristas: “Tenemos que velar por la mayoría del pueblo hondureño”",
+    "link": "https://www.infobae.com/honduras/2026/09/24/presidente-del-legislativo-en-honduras-defiende-reformas-contra-grupos-terroristas-tenemos-que-velar-por-la-mayoria-del-pueblo-hondureno/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/JTVW6ZO5FNCD5G4OIF5GKJH5JY.jpg?auth=1c4200d74cca0eb60682680743aa665a34d9a2343df827514c944c41c6c8ebb1&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Pico y Placa: qué autos no circulan en Cartagena este 24 de septiembre de 2026",
+    "link": "https://www.infobae.com/colombia/2026/09/24/pico-y-placa-que-autos-no-circulan-en-cartagena-este-24-de-septiembre-de-2026/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/736VAU3ILBGCDDFPNZUWFSJQDE.jpg?auth=5cb763f0db09f2b941d341ca2c99948c5b3e9144851afd386b976b988e9cfc7d&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "De “Lady Polanco” hasta exigir su expulsión de un reality: las polémicas de Azalia Ojeda que reabre por su paso en La Granja VIP 2",
+    "link": "https://www.infobae.com/mexico/2026/09/24/de-lady-polanco-hasta-exigir-su-expulsion-de-un-reality-las-polemicas-de-azalia-ojeda-que-reabre-por-su-paso-en-la-granja-vip-2/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://www.infobae.com/resizer/v2/H6H7QEJ52BA2XEVYTWT5RA6VLQ.png?auth=2b0e2bcc7839ac505c13c2cb87fe36202e998003f3916c1641f4fa7c4b15c6b7&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Resultado Sinuano Noche hoy 23 de septiembre",
+    "link": "https://www.infobae.com/colombia/2026/09/24/resultado-sinuano-noche-hoy-23-de-septiembre/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": null,
+    "category": null,
+    "text": "Empresas europeas en China celebran prórroga de tregua comercial entre Washington y Pekín",
+    "link": "https://www.infobae.com/america/agencias/2026/09/24/empresas-europeas-en-china-celebran-prorroga-de-tregua-comercial-entre-washington-y-pekin/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": null,
+    "category": null,
+    "text": "Rescatan en Ecuador a una adolescente y a su hija sospechosas de ser víctimas de trata",
+    "link": "https://www.infobae.com/america/agencias/2026/09/24/rescatan-en-ecuador-a-una-adolescente-y-a-su-hija-sospechosas-de-ser-victimas-de-trata/"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://imagenes.elpais.com/resizer/v2/T2AOHRDJ7FD7DDQHXNRZU2T2IQ.JPG?auth=344624a31923518da86785c2c47748a251379c5dfdfc31d9f40ff5165f14a1f5",
+    "category": "AFD",
+    "text": "Neonazis, exactores porno, una proxeneta, un condenado por robo,… entre los nuevos diputados regionales de AfD",
+    "link": "https://elpais.com/internacional/2026-09-24/neonazis-exactores-porno-una-proxeneta-un-condenado-por-robo-entre-los-nuevos-diputados-regionales-de-afd.html"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://imagenes.elpais.com/resizer/v2/JFUUSPZZBRATLKAYJFJNRVPSOU.jpg?auth=2f5e73e426e8d439354abe442b235aaabc8770c5f9316acaa6f2a3a33cf647a3",
+    "category": "ONU",
+    "text": "Éléonore Caroit, ministra francesa: “La ONU está en crisis, sí. Pero si no existiera habría que inventarla”",
+    "link": "https://elpais.com/internacional/2026-09-24/eleonore-caroit-ministra-francesa-la-onu-esta-en-crisis-si-pero-si-no-existiera-habria-que-inventarla.html"
+  },
+  {
+    "date": "2026-09-24",
+    "image": "https://imagenes.elpais.com/resizer/v2/IRZONAYWMZL27M4243RYBKCIOM.jpg?auth=3875e302201c199d5ecea4e53b39c4d2b978142fa4a13631bdab10213b081440",
+    "category": "Ruanda",
+    "text": "Kagame endurece la represión contra las escasas voces opositoras en Ruanda",
+    "link": "https://elpais.com/internacional/2026-09-24/kagame-endurece-la-represion-contra-las-escasas-voces-opositoras-en-ruanda.html"
+  },
+  {
+    "date": "2026-09-23",
+    "image": null,
+    "category": null,
+    "text": "El presidente de Irán le dice a Trump que su país nunca se \"arrodillará\"",
+    "link": "https://www.bbc.com/mundo/articles/c9vgyv56exp3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-23",
@@ -94,20 +234,6 @@
     "date": "2026-09-23",
     "image": null,
     "category": null,
-    "text": "Xi Jinping llega a EE.UU.: el \"príncipe\" que lo perdió todo antes de convertirse en el líder más poderoso de China",
-    "link": "https://www.bbc.com/mundo/articles/c8ly4pqd2zlko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-23",
-    "image": null,
-    "category": null,
-    "text": "\"Lo próximo que veremos será una acción militar directa de EE.UU. en América Latina, supuestamente contra el narcotráfico\"",
-    "link": "https://www.bbc.com/mundo/articles/cq3d7yxdymlvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-23",
-    "image": null,
-    "category": null,
     "text": "Los jubilados que deciden gastarse su dinero en lugar de dejárselo en herencia a sus hijos",
     "link": "https://www.bbc.com/mundo/articles/cqwyzd6g18y3o?at_medium=RSS&at_campaign=rss"
   },
@@ -115,8 +241,22 @@
     "date": "2026-09-23",
     "image": null,
     "category": null,
+    "text": "Xi Jinping llega a EE.UU.: el \"príncipe\" que lo perdió todo antes de convertirse en el líder más poderoso de China",
+    "link": "https://www.bbc.com/mundo/articles/c8ly4pqd2zlko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-23",
+    "image": null,
+    "category": null,
     "text": "La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela",
     "link": "https://www.bbc.com/mundo/articles/cmje8gqd3zjwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-23",
+    "image": null,
+    "category": null,
+    "text": "\"Lo próximo que veremos será una acción militar directa de EE.UU. en América Latina, supuestamente contra el narcotráfico\"",
+    "link": "https://www.bbc.com/mundo/articles/cq3d7yxdymlvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-23",
@@ -131,111 +271,6 @@
     "category": null,
     "text": "Los 3 intentos frustrados de María Corina Machado por regresar a Venezuela mientras Delcy Rodríguez está en Nueva York",
     "link": "https://www.bbc.com/mundo/articles/cq783ykjl9leo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-23",
-    "image": null,
-    "category": null,
-    "text": "Por qué el café estimula mucho a algunas personas y tiene pocos efectos en otras",
-    "link": "https://www.bbc.com/mundo/articles/cvj64p0je3d5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-23",
-    "image": null,
-    "category": null,
-    "text": "La gran empresa de envío de comida que admitió haber pagado menos de lo debido a sus repartidores",
-    "link": "https://www.bbc.com/mundo/articles/cmz6zvv08zxwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-23",
-    "image": null,
-    "category": null,
-    "text": "El huracán Polo reduce su fuerza a categoría 4 y sigue su amenazante paso por la costa del Pacífico de México",
-    "link": "https://www.bbc.com/mundo/articles/c3n07v5wr0rqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/JL3XRMLXNRE6XH2XBGQQ72VARM.png?auth=e2708331c7f79d90d6f6061c3da0fd1a85cce6bd79510e5769404214d151273e&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "De la gloria a un severo accidente: el difícil recuerdo de Checo Pérez en el Gran Premio de Azerbaiyán",
-    "link": "https://www.infobae.com/mexico/2026/09/23/de-la-gloria-a-un-severo-accidente-el-dificil-recuerdo-de-checo-perez-en-el-gran-premio-de-azerbaiyan/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/DISMTCJB4RFATMYSNODSHZUFGQ.png?auth=50d53582272333765974b21ae75a9d1509bce4d6e35fce5143e6ba101edf4cc9&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Alito Moreno escala la denuncia contra el INE: presenta queja en Suiza por censura y persecución política del gobierno de Sheinbaum",
-    "link": "https://www.infobae.com/mexico/2026/09/23/alito-moreno-escala-la-denuncia-contra-el-ine-presenta-queja-en-suiza-por-censura-y-persecucion-politica-del-gobierno-de-sheinbaum/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": null,
-    "category": null,
-    "text": "Flávio Bolsonaro promete sumar a Brasil al Escudo de las Américas si gana las elecciones",
-    "link": "https://www.infobae.com/america/agencias/2026/09/23/flavio-bolsonaro-promete-sumar-a-brasil-al-escudo-de-las-americas-si-gana-las-elecciones/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/GYGX5IKD5RCQVHCXP6RIL2MQIU.png?auth=445f493a007f91efe5cb03a8b9175d7ae2927354516ff6e30d4c14122fbb940b&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "La curiosa estrategia de un pueblo para prevenir incendios forestales: 250 cabras para limpiar el monte",
-    "link": "https://www.infobae.com/tendencias/2026/09/23/la-curiosa-estrategia-de-un-pueblo-para-prevenir-incendios-forestales-250-cabras-para-limpiar-el-monte/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": null,
-    "category": null,
-    "text": "Opositores piden a ejércitos de Centroamérica revisar la cooperación militar con Nicaragua",
-    "link": "https://www.infobae.com/america/agencias/2026/09/23/opositores-piden-a-ejercitos-de-centroamerica-revisar-la-cooperacion-militar-con-nicaragua/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": null,
-    "category": null,
-    "text": "Organismos nicaragüenses piden a Costa Rica frenar deportación del opositor Carlos Calero",
-    "link": "https://www.infobae.com/america/agencias/2026/09/23/organismos-nicaraguenses-piden-a-costa-rica-frenar-deportacion-del-opositor-carlos-calero/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/KJNCEXV7AZAGDJTMN6BEXXDDAA.png?auth=bd860f6096251d6529ed430710c75df4c230f05d38601ba1eea20d48bb1c93cf&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Tom Cruise elogió a la hija de Alan Tacher en plena alfombra roja y desató la emoción del conductor",
-    "link": "https://www.infobae.com/mexico/2026/09/23/tom-cruise-elogio-a-la-hija-de-alan-tacher-en-plena-alfombra-roja-y-desato-la-emocion-del-conductor/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/UKGBHGQOIVCAHKNWPTUFWYOG5E.jfif?auth=09792fc32fa558090da41459c08d39443863ed36451d713cadd38da850b4429f&smart=true&width=2900&height=1605",
-    "category": null,
-    "text": "Lo citaron de urgencia a la selección de Inglaterra, grabó un video con su novia y los usuarios estallaron: “Vuelve a tus vacaciones”",
-    "link": "https://www.infobae.com/deportes/2026/09/23/lo-citaron-de-urgencia-a-la-seleccion-de-inglaterra-grabo-un-video-con-su-novia-y-los-usuarios-estallaron-vuelve-a-tus-vacaciones/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/52P2VLGSDZGTHJA4JT65H3XIR4.png?auth=2137d9a73cd3869f0d2292fd8cc77c0d72c2e08b27ae4f7112f6623c3b00c294&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "El auge del fraude digital en Cuba y las grietas de un sistema que no logra proteger a sus usuarios",
-    "link": "https://www.infobae.com/cuba/2026/09/23/el-auge-del-fraude-digital-en-cuba-y-las-grietas-de-un-sistema-que-no-logra-proteger-a-sus-usuarios/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/XZUFBVSSX5G3LHGK456YVKSXFM.jpg?auth=45fbce70d924ee4d6779a24f2c3d7a8bad6942858dd4944369a25ed29715f30c&smart=true&width=3264&height=1836",
-    "category": null,
-    "text": "Independiente Santa Fe vs. Deportivo Cali en vivo HOY - encuentro de ida de la Gran Final de la Liga Femenina de Colombia: siga aquí el partido",
-    "link": "https://www.infobae.com/colombia/deportes/2026/09/23/independiente-santa-fe-vs-deportivo-cali-en-vivo-hoy-encuentro-de-ida-de-la-gran-final-de-la-liga-femenina-de-colombia-siga-aqui-el-partido/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/ENKEYZIDWVGEVDVIWNK7UGGUDM.png?auth=18e49a43608b63e7bc315908fd56f01a17be53d06fccd4bc1d2cd4658b01dd58&smart=true&width=1600&height=900",
-    "category": null,
-    "text": "El Piojo Alvarado se conmueve al recordar a la afición mexicana durante el Mundial: “Me daban ganas de llorar”",
-    "link": "https://www.infobae.com/mexico/deportes/2026/09/23/el-piojo-alvarado-se-conmueve-al-recordar-a-la-aficion-mexicana-durante-el-mundial-me-daban-ganas-de-llorar/"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://www.infobae.com/resizer/v2/OAP536TFBFGEBC3DFG5KZTVTMU.JPG?auth=48962ae539e5cd425928a2a6478ccde06d2d33e3ecfbdbcdb9268e7414c549f6&smart=true&width=3998&height=2665",
-    "category": null,
-    "text": "Segunda jornada de la Asamblea General de la ONU: Irán, Ucrania y la inteligencia artificial ocupan el centro de la agenda",
-    "link": "https://www.infobae.com/america/mundo/2026/09/23/en-vivo-segunda-jornada-de-la-asamblea-general-de-la-onu/"
   },
   {
     "date": "2026-09-23",
@@ -264,90 +299,6 @@
     "category": "Marruecos",
     "text": "Los marroquíes votan el ‘Gobierno del Mundial de Fútbol’ con una abstención del 62%",
     "link": "https://elpais.com/internacional/2026-09-23/los-marroquies-votan-el-gobierno-del-mundial-de-futbol-en-medio-de-una-baja-participacion.html"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260923/1217574_182246_video_1800.mp4",
-    "category": "Ataque contra Irán",
-    "text": "El presidente de Irán acusa en la ONU a EE UU e Israel de violar el derecho internacional en sus ataques",
-    "link": "https://elpais.com/internacional/2026-09-23/el-presidente-de-iran-acusa-en-la-onu-a-ee-uu-e-israel-de-violar-el-derecho-internacional-en-sus-ataques.html"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://imagenes.elpais.com/resizer/v2/P6IUDPPPFBBM7NPZGPXLXTKMYU.JPG?auth=29518784a7b17d43cbbf13e1c3b501fda39cf62a431660679ba830cec33a3dda",
-    "category": "Ataque contra Irán",
-    "text": "Irán abre la vía diplomática sin descartar seguir adelante con la guerra",
-    "link": "https://elpais.com/internacional/2026-09-23/iran-abre-la-via-diplomatica-sin-descartar-seguir-adelante-con-la-guerra.html"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab454fb59bf5b16c2288fe3.jpg",
-    "category": null,
-    "text": "VIDEO: Un bombardero pesado B-1 sobrevuela a Trump y a Xi y esta es su reacción",
-    "link": "https://actualidad.rt.com/actualidad/629136-bombardero-pesado-b1-sobrevuela-trump-xi-reaccion?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab443e359bf5b61c3047670.png",
-    "category": null,
-    "text": "\"Si no tomamos medidas, se convertirán en terroristas\": Modelo israelí habla sobre niños en Gaza y la ONU responde",
-    "link": "https://actualidad.rt.com/actualidad/629127-creceran-convertiran-terroristas-modelo-israeli-ninos-gaza-onu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
-    "category": null,
-    "text": "Potentes explosiones sacuden Kiev (VIDEO)",
-    "link": "https://actualidad.rt.com/actualidad/629137-potentes-explosiones-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab443e059bf5b794b02e558.jpg",
-    "category": null,
-    "text": "\"Los europeos están molestos\": ¿Qué se sabe de las tensiones entre Bruselas y Kiev por la ayuda financiera?",
-    "link": "https://actualidad.rt.com/actualidad/629130-europeos-molestos-tensiones-kiev-bruselas?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab4519ee9ff711db221386e.jpg",
-    "category": null,
-    "text": "Cazas y militares: así reciben a Xi a su llegada a EE.UU. (VIDEO)",
-    "link": "https://actualidad.rt.com/actualidad/629133-cazas-militares-recibir-xi-llegada-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab45316e9ff710ef4301e2f.jpg",
-    "category": null,
-    "text": "VIDEO: Extienden la alfombra roja para recibir a Xi Jinping al aterrizar su avión en EE.UU.",
-    "link": "https://actualidad.rt.com/actualidad/629134-extienden-alfombra-roja-recibir-xi-jinping-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab45018e9ff71147d21fa26.jpg",
-    "category": null,
-    "text": "Trump da cálida bienvenida en persona a Xi Jinping a su llegada a EE.UU. (VIDEO)",
-    "link": "https://actualidad.rt.com/actualidad/629135-trump-da-calida-bienvenida-persona?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab43edbe9ff7146e27b0e4a.jpg",
-    "category": null,
-    "text": "\"En un maldito misil\": Zelenski responde cuándo viajará a Moscú, y Rusia reacciona",
-    "link": "https://actualidad.rt.com/actualidad/629129-madlito-misil-zelenski-responde-viajara?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab44c9a59bf5b7157770f26.jpg",
-    "category": null,
-    "text": "Xi Jinping llega a EE.UU. para su reunión con Trump (VIDEO)",
-    "link": "https://actualidad.rt.com/actualidad/629131-video-xi-jinping-llegar-eeuu-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-23",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab426a2e9ff71134a589ceb.jpg",
-    "category": null,
-    "text": "VIDEO: Zelenski se pronuncia ante una sala semivacía en la ONU",
-    "link": "https://actualidad.rt.com/actualidad/629117-video-zelenski-pronuncia-sala-semivacia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-23",
@@ -418,5 +369,54 @@
     "category": null,
     "text": "\"No nos dejamos intimidar\": Cubanos responden a Trump, que dijo en la ONU que Cuba \"caerá\"",
     "link": "https://es.euronews.com/2026/09/23/cubanos-responden-trump-cuba-caera-onu"
+  },
+  {
+    "date": "2026-09-23",
+    "image": null,
+    "category": null,
+    "text": "Reporteros Sin Fronteras pide a la UE actuar tras probar que la IA elude el bloqueo a medios rusos",
+    "link": "https://es.euronews.com/2026/09/23/reporteros-sin-fronteras-pide-ue-actuar-tras-probar-que-ia-elude-bloqueo-medios-rusos"
+  },
+  {
+    "date": "2026-09-23",
+    "image": null,
+    "category": null,
+    "text": "El Coliseo de Roma se ilumina de rosa en campaña contra el cáncer de mama",
+    "link": "https://es.euronews.com/video/2026/09/23/el-coliseo-de-roma-se-ilumina-de-rosa-en-campana-contra-el-cancer-de-mama"
+  },
+  {
+    "date": "2026-09-22",
+    "image": "https://imagenes.elpais.com/resizer/v2/VAXUACJUSRA55M2WQV5A4F6JV4.jpg?auth=951f8d7692f482aae46d44b43dd35ab3c07114c3dc2a05bd409e79df57deda20",
+    "category": "Elecciones EE UU",
+    "text": "Lo que estamos escuchando de los votantes latinos: los republicanos tienen las prioridades totalmente equivocadas",
+    "link": "https://elpais.com/us/2026-09-22/lo-que-estamos-escuchando-de-los-votantes-latinos-los-republicanos-tienen-las-prioridades-totalmente-equivocadas.html"
+  },
+  {
+    "date": "2026-09-20",
+    "image": "https://imagenes.elpais.com/resizer/v2/BHLR7H7QVRKN5AQALYLYARB5WY.jpg?auth=cca0f3bc24fafae6a32f746b13744fc6ca29798c4660f6a77f341bc0e0f3a8c1",
+    "category": "Energía",
+    "text": "El estrecho infinito",
+    "link": "https://elpais.com/internacional/2026-09-20/el-estrecho-infinito.html"
+  },
+  {
+    "date": "2026-09-20",
+    "image": "https://imagenes.elpais.com/resizer/v2/EUKRGBFLCNG65FEF73IERHSRUI.jpg?auth=6e9dbbd67232583dbddaac867066667f9454f64befed9ab1641b589ab8a33863",
+    "category": "Inteligencia artificial",
+    "text": "Piloto automático hacia el Apocalipsis",
+    "link": "https://elpais.com/internacional/2026-09-20/piloto-automatico-hacia-el-apocalipsis.html"
+  },
+  {
+    "date": "2026-09-16",
+    "image": "https://imagenes.elpais.com/resizer/v2/MU7BIT533VLGTFTUHFBEGAXUU4.jpg?auth=371304a44c48b0cf48c0ba3ae419b7666655c8131160febae5178b1ab173db6e",
+    "category": "España",
+    "text": "Carl Schmitt se cuela en los grandes discursos de Bruselas",
+    "link": "https://elpais.com/espana/2026-09-16/carl-schmitt-se-cuela-en-los-grandes-discursos-de-bruselas.html"
+  },
+  {
+    "date": "2026-09-14",
+    "image": "https://imagenes.elpais.com/resizer/v2/B7EVEVRTF5IB3MSBP6JYXFV6YQ.jpg?auth=ce71e6524138b0616c068d54fe415b6428159cf661c304db1df97d09634786ef",
+    "category": "Emma Bonino",
+    "text": "Emma Bonino en el corazón",
+    "link": "https://elpais.com/internacional/2026-09-14/emma-bonino-en-el-corazon.html"
   }
 ]

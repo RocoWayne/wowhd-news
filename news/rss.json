@@ -1,6 +1,76 @@
 [
   {
     "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/2c06ff7c-b8f0-11f1-8688-11fa9f8a3b4f/w:1024/p:16x9/IMG-0205.png",
+    "category": "Una Semana en el Mundo",
+    "text": "¿Paz o escalada? Las amenazas que marcaron la Asamblea de la ONU",
+    "link": "https://www.france24.com/es/una-semana-en-el-mundo"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/351b3512-b9e3-11f1-a146-555a0aff87a4/w:1024/p:16x9/2026-09-26T193634Z-982558729-RC27RNA3O9BL-RTRMADP-3-SPAIN-HOUSING-PROTEST.jpg",
+    "category": "Europa",
+    "text": "Crisis de vivienda en España: gran protesta en Madrid contra el desahucio de una mujer de 87 años",
+    "link": "https://www.france24.com/es/europa/20260926-crisis-de-vivienda-en-espa%C3%B1a-gran-protesta-en-madrid-tras-el-desahucio-de-una-mujer-de-87-a%C3%B1os"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/738938fa-b9dc-11f1-847e-91cf9f3cd539/w:1024/p:16x9/ES-20260926-114001-114155-CS.jpg",
+    "category": null,
+    "text": "Trump rechaza plan iraní para reabrir Ormuz; anuncia que podría retomar ataques tras 'midterms'",
+    "link": "https://www.france24.com/es/video/20260926-trump-rechaza-plan-iran%C3%AD-para-reabrir-ormuz-anuncia-que-podr%C3%ADa-retomar-ataques-tras-midterms"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/82f7ea0e-b9da-11f1-bab9-8f3418d01115/w:1024/p:16x9/ES-20260926-113722-113931-CS.jpg",
+    "category": null,
+    "text": "Miles protestan en España contra gestión de Sánchez en Ceuta y exigen elecciones anticipadas",
+    "link": "https://www.france24.com/es/video/20260926-miles-protestan-en-espa%C3%B1a-contra-gesti%C3%B3n-de-s%C3%A1nchez-en-ceuta-y-exigen-elecciones-anticipadas"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/0cb9ada8-b9d7-11f1-bcdf-8f3418d01115/w:1024/p:16x9/ES-20260926-113154-113643-CS.jpg",
+    "category": null,
+    "text": "Informe desde París: 700.000 personas asistieron a eucaristía de León XIV",
+    "link": "https://www.france24.com/es/video/20260926-informe-desde-par%C3%ADs-700-000-personas-asistieron-a-eucarist%C3%ADa-de-le%C3%B3n-xiv"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/10d4318e-b981-11f1-b2f4-91cf9f3cd539/w:1024/p:16x9/AP23187175127326.jpg",
+    "category": "Economía",
+    "text": "¿Qué puesto ocupa América Latina en la carrera de la IA?",
+    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260926-qu%C3%A9-puesto-ocupa-am%C3%A9rica-latina-en-la-carrera-de-la-ia"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/8ad98460-b9d2-11f1-8c71-852b23529bb9/w:1024/p:16x9/HTJ204uXgAAWm68.jpeg",
+    "category": "Europa",
+    "text": "Los ministros de Exteriores de Rusia y Alemania se reúnen en la ONU a la sombra de la guerra en Ucrania",
+    "link": "https://www.france24.com/es/europa/20260926-los-ministros-de-exteriores-de-rusia-y-alemania-se-re%C3%BAnen-en-la-onu-a-la-sombra-de-la-guerra-en-ucrania"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/b0ff804c-b9d5-11f1-887b-11fa9f8a3b4f/w:1024/p:16x9/ES-20260926-092442-092850-CS.jpg",
+    "category": null,
+    "text": "¿El mensaje de León XIV sobre la defensa de la vida desafía al Gobierno francés?",
+    "link": "https://www.france24.com/es/video/20260926-el-mensaje-de-le%C3%B3n-xiv-sobre-la-defensa-de-la-vida-desaf%C3%ADa-al-gobierno-franc%C3%A9s"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/57fa84a8-b9ce-11f1-906f-8f3418d01115/w:1024/p:16x9/ES-20260926-091622-092134-CS.jpg",
+    "category": null,
+    "text": "Carlos Manrique: \"Nunca se puede hacer lo suficiente ante un horror como los abusos sexuales\"",
+    "link": "https://www.france24.com/es/video/20260926-carlos-manrique-nunca-se-puede-hacer-lo-suficiente-ante-un-horror-como-los-abusos-sexuales"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/bbb18ba6-f385-11ef-ac6c-005056bfb2b6/w:1024/p:16x9/c62598157c4ac31dd6c70e08d71ea045db5f4c1d.jpg",
+    "category": "Salud",
+    "text": "Perú refuerza la vacunación contra el sarampión tras la primera muerte en décadas",
+    "link": "https://www.france24.com/es/salud/20260926-per%C3%BA-refuerza-la-vacunaci%C3%B3n-contra-el-sarampi%C3%B3n-tras-la-primera-muerte-en-d%C3%A9cadas"
+  },
+  {
+    "date": "2026-09-26",
     "image": "https://s.france24.com/media/display/6b526f0c-b9bf-11f1-a6fb-c959b9d22ec6/w:1024/p:16x9/ES-20260926-081230-081428-CS.jpg",
     "category": null,
     "text": "Miles Pattenden: \"La visita de León XIV a Francia es más tradicional que las que hizo Francisco\"",
@@ -12,62 +82,6 @@
     "category": "América Latina",
     "text": "Trump dice que Estados Unidos llegará a un acuerdo con Cuba y descarta una intervención militar",
     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260926-trump-dice-que-estados-unidos-llegar%C3%A1-a-un-acuerdo-con-cuba-y-descarta-una-intervenci%C3%B3n-militar"
-  },
-  {
-    "date": "2026-09-26",
-    "image": null,
-    "category": null,
-    "text": "Unas 700.000 personas colman París para la misa más multitudinaria de León XIV en Francia",
-    "link": "https://www.france24.com/es/francia/20260926-unas-700-000-personas-colman-par%C3%ADs-para-la-misa-m%C3%A1s-multitudinaria-de-le%C3%B3n-xiv-en-francia"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://s.france24.com/media/display/fe208a44-b9b5-11f1-a40a-c959b9d22ec6/w:1024/p:16x9/ES-20260926-075133-075403-CS.jpg",
-    "category": null,
-    "text": "¿Qué opinan los líderes de otras religiones en Francia al despliegue de la visita de León XIV?",
-    "link": "https://www.france24.com/es/video/20260926-qu%C3%A9-opinan-los-l%C3%ADderes-de-otras-religiones-en-francia-al-despliegue-de-la-visita-de-le%C3%B3n-xiv"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://s.france24.com/media/display/dc5818aa-b94c-11f1-afa2-11fa9f8a3b4f/w:1024/p:16x9/2026-09-22T113922Z-1098508945-RC27ONAAUZB6-RTRMADP-3-BRITAIN-ROYALS-SPENCER-BOOK.jpg",
-    "category": "Europa",
-    "text": "La princesa Diana: nueve revelaciones sobre la leyenda de la monarquía en las memorias de su hermano",
-    "link": "https://www.france24.com/es/europa/20260926-la-princesa-diana-nueve-revelaciones-sobre-la-leyenda-de-la-monarqu%C3%ADa-en-las-memorias-de-su-hermano"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://s.france24.com/media/display/d002bc9c-b936-11f1-8b95-852b23529bb9/w:1024/p:16x9/969292e5ada988f781066493d18012f7fdb7ed72.jpg",
-    "category": "América Latina",
-    "text": "Lula prohíbe las apuestas online en Brasil a nueve días de las elecciones",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260926-lula-proh%C3%ADbe-las-apuestas-online-en-brasil-a-nueve-d%C3%ADas-de-las-elecciones"
-  },
-  {
-    "date": "2026-09-26",
-    "image": null,
-    "category": null,
-    "text": "Trump rechaza una propuesta iraní para reabrir Ormuz y mantiene abierta la puerta a nuevos bombardeos",
-    "link": "https://www.france24.com/es/medio-oriente/20260926-trump-rechaza-una-propuesta-iran%C3%AD-para-reabrir-ormuz-y-mantiene-abierta-la-puerta-a-nuevos-bombardeos"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://s.france24.com/media/display/e41515e8-b9b0-11f1-8b6d-c959b9d22ec6/w:1024/p:16x9/ES-20260926-072537-072743-CS.jpg",
-    "category": null,
-    "text": "Informe desde París: mientras disminuyen los fieles, aumentan bautismos de adultos jóvenes",
-    "link": "https://www.france24.com/es/video/20260926-informe-desde-par%C3%ADs-mientras-disminuyen-los-fieles-aumentan-bautismos-de-adultos-j%C3%B3venes"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://s.france24.com/media/display/f6b329da-b9ae-11f1-a7a9-91cf9f3cd539/w:1024/p:16x9/ES-20260926-072145-072506-CS.jpg",
-    "category": null,
-    "text": "Wilmer Esteve Roldán Solano: \"León XIV es hijo de un país de migrantes, como es EE. UU.\"",
-    "link": "https://www.france24.com/es/video/20260926-wilmer-esteve-rold%C3%A1n-solano-le%C3%B3n-xiv-es-hijo-de-un-pa%C3%ADs-de-migrantes-como-es-ee-uu"
-  },
-  {
-    "date": "2026-09-26",
-    "image": null,
-    "category": null,
-    "text": "🔴 En vivo: León XIV ofrece su homilía ante una multitudinaria Plaza de la Concordia",
-    "link": "https://www.france24.com/es/francia/20260926-%F0%9F%9B%91-en-directo-le%C3%B3n-xiv-elebra-una-misa-multitudinaria-en-el-coraz%C3%B3n-de-par%C3%ADs-en-la-plaza-de-la-concordia-y-en-los-campos-el%C3%ADseos"
   },
   {
     "date": "2026-09-26",
@@ -113,87 +127,87 @@
   },
   {
     "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/52KKBJGYTRESFJSAQASGIGBP5Q.png?auth=b1811e3938224d3010f7fa3b25a0b5326f9b83d822cf225e818b2eb62999a0d9&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/CGQ3KORAKBHKJACVWHTCX4ZE2U.jpg?auth=c87843e91f6637bad9b4e351f4cd721590be53494051aeb5d8f7f0505a28e0cf&smart=true&width=1920&height=2134",
     "category": null,
-    "text": "Cuál es la verdad sobre la caída temprana del satélite espacial de Colombia durante el gobierno Petro",
-    "link": "https://www.infobae.com/colombia/2026/09/26/cual-es-la-verdad-sobre-la-caida-temprana-del-satelite-espacial-de-colombia-durante-el-gobierno-petro/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/LU2L2LBSO5CCXELP2EAXREEJWM?auth=c4737b6cc54a6b040e3d8bf0dfd0d1659e16e14ae8db1b0777166a8e042da3ad&smart=true&width=5000&height=2813",
-    "category": null,
-    "text": "Inglaterra- España, en directo: última hora del estreno de La Roja en la Nations League con las dos estrellas",
-    "link": "https://www.infobae.com/espana/deportes/2026/09/26/espana-inglaterra-en-directo-ultima-hora-del-estreno-de-la-roja-en-la-nations-league-con-las-dos-estrellas/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/QIFEXNHMJRDARBC3KY2JZZ4HLU.png?auth=2efb29edbdcc4f316a2ae25398815d41544c0df8eb0680539faab67c871c4cfc&smart=true&width=1536&height=1024",
-    "category": null,
-    "text": "El truco de la esponja en el refrigerador: lo que conviene saber antes de aplicarlo",
-    "link": "https://www.infobae.com/mexico/2026/09/26/el-truco-de-la-esponja-en-el-refrigerador-lo-que-conviene-saber-antes-de-aplicarlo/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/U4ZOC422CFCAPEOIDUAWMI6ZXQ.jpeg?auth=10de41da014683fe15379adc534898ede5233b2210dce25123042ee1cba8568c&smart=true&width=1280&height=720",
-    "category": null,
-    "text": "A la cárcel tres personas por secuestrar y robar a un conductor de plataforma en Soacha",
-    "link": "https://www.infobae.com/colombia/2026/09/26/a-la-carcel-tres-personas-por-secuestrar-y-robar-a-un-conductor-de-plataforma-en-soacha/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/VPSDYMWSMVFAZE4QP2ZIYQ3CF4.jpg?auth=42eb26e11a4f4bf4ef1bce1a33a8ef46deb9de6cb351ab84aca59078d5bc80e0&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "KID PHENOMENON abre una nueva etapa con ‘KIDS00’s’: fecha de lanzamiento en México del nuevo álbum del grupo japonés de J-pop",
-    "link": "https://www.infobae.com/mexico/2026/09/26/kid-phenomenon-abre-una-nueva-etapa-con-kids00s-fecha-de-lanzamiento-en-mexico-del-nuevo-album-del-grupo-japones-de-j-pop/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/HFAO63OMAZCAXPVB5LAIY5EERE.jpg?auth=da482709e8862c6ec96956e9bcfb1a2c12df1947adb00a0c466849b47f19e13e&smart=true&width=5108&height=3399",
-    "category": null,
-    "text": "Colombia vs. Italia Mundial Femenino Sub-20 en vivo: con un parcial 1-1 ambas selecciones irian al alargue para buscar el tercer puesto del campeonato",
-    "link": "https://www.infobae.com/colombia/2026/09/26/colombia-vs-italia-mundial-femenino-sub-20-en-vivo-las-cafeteras-disputaran-la-medalla-de-bronce-del-campeonato-en-polonia/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/FH2PFOVKJRHKXNAWXODM5LVI4U.png?auth=cc5c1e2aa7ad2a5c0612ddac34159ccab7b1a9229d24d22d7f26ab20a023486f&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Cuatro ejercicios con polea para trabajar el pecho desde posiciones distintas",
-    "link": "https://www.infobae.com/salud/2026/09/26/cuatro-ejercicios-con-polea-para-trabajar-el-pecho-desde-posiciones-distintas/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/C4FQN66W3ZDCTEEBQMY4N6QSMY.jpg?auth=482f4c06229dac67132c294bfff7380a71b1542d9c820d2812945880d6c3ed50&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Rosario Central y Estudiantes de La Plata se enfrentarán por la Supercopa Internacional: hora, TV y formaciones",
-    "link": "https://www.infobae.com/deportes/2026/09/26/rosario-central-y-estudiantes-de-la-plata-se-enfrentaran-por-la-supercopa-internacional-hora-tv-y-formaciones/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/5HXDNLUSQBHO7FMPN6DMJ7IOZM.png?auth=a6d2f392288f7f8b35fa23aab8f84b4d871d2781b6b5ba8c1ffc1ba4dad5652b&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Entregan segunda vivienda en Antioquia de ‘Adopta un Hogar’, el programa de Nicky Jam para damnificados por el terremoto",
-    "link": "https://www.infobae.com/colombia/2026/09/26/entregan-segunda-vivienda-en-antioquia-de-adopta-un-hogar-el-programa-de-nicky-jam-para-damnificados-por-el-terremoto/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/5TP4FVTYZ5GQJHVIDNYDJ74H3M.jpg?auth=bd6fec4dcd85f8a6e5b25183d4de40089931c2ddae59ea0c98fedaf67298aaa4&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Miembros de mesa en las Elecciones 2026: pagos, beneficios, multas y todo lo que debes saber si te toca cumplir ese rol el 4 de octubre",
-    "link": "https://www.infobae.com/peru/2026/09/23/miembros-de-mesa-2026-pago-de-s165-beneficios-multas-y-todo-lo-que-debes-saber-para-las-elecciones-regionales-y-municipales/"
+    "text": "Ningún candidato del PSOE a la Alcaldía de Córdoba alcanza el 50% y se citan el 3 de octubre a la segunda vuelta",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/26/ningun-candidato-del-psoe-a-la-alcaldia-de-cordoba-alcanza-el-50-y-se-citan-el-3-de-octubre-a-la-segunda-vuelta/"
   },
   {
     "date": "2026-09-26",
     "image": null,
     "category": null,
-    "text": "Asesinan a un subcomandante de Policía en el convulso departamento colombiano del Cauca",
-    "link": "https://www.infobae.com/america/agencias/2026/09/26/asesinan-a-un-subcomandante-de-policia-en-el-convulso-departamento-colombiano-del-cauca/"
+    "text": "2-3. España derrota a Inglaterra y marca territorio en la Liga de Naciones",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/26/2-3-espana-derrota-a-inglaterra-y-marca-territorio-en-la-liga-de-naciones/"
   },
   {
     "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/OBWNVJCXF5EX5KA7UF3GA7O6TM.JPG?auth=3e011b1a4795ce99480b6261d690e97a50eb06ec60fede7174062c2d78e74db8&smart=true&width=6500&height=4338",
+    "image": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Una gran multitud de personas marcha en Madrid contra los desahucios tras el caso de Maricarmen: “Si no se aprueba este martes el decreto, este Gobierno que se dice progresista no tiene ningún sentido”",
-    "link": "https://www.infobae.com/espana/2026/09/26/una-gran-multitud-de-personas-marcha-en-madrid-contra-los-desahucios-tras-el-caso-de-maricarmen/"
+    "text": "La Primitiva: Comprueba el resultado del último sorteo del sábado 26 de septiembre",
+    "link": "https://www.infobae.com/espana/2026/09/26/la-primitiva-comprueba-el-resultado-del-ultimo-sorteo-del-sabado-26-de-septiembre/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/FAE4B7GILNFW3C4AZSQ6GMJR7U.jpg?auth=94c9afe3a7def190e618ab46707cd5785086e4e4772d91d1973586aaefceaafd&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "La oposición irlandesa pide al Gobierno no jugar el partido con la selección de Israel",
+    "link": "https://www.infobae.com/america/agencias/2026/09/26/la-oposicion-irlandesa-pide-al-gobierno-no-jugar-el-partido-con-la-seleccion-de-israel/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": null,
+    "category": null,
+    "text": "1-2. Modric amarga el debut de Santi Denia",
+    "link": "https://www.infobae.com/america/agencias/2026/09/26/1-2-modric-amarga-el-debut-de-santi-denia/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Comprobar la Primitiva: los resultados de este 26 de septiembre",
+    "link": "https://www.infobae.com/espana/2026/09/26/comprobar-la-primitiva-los-resultados-de-este-26-de-septiembre/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/OP3EOVIPFNGWTCWQV4EF77EDPY.jpg?auth=2e579d6666d6f9a6c785a7409af87b28633c7b286c9d780147d7ec8d9a143c12&smart=true&width=1920&height=1320",
+    "category": null,
+    "text": "Carlos Alcaraz enmienda para Europa el tropiezo de Alexander Zverev en el segundo día de Laver Cup",
+    "link": "https://www.infobae.com/america/agencias/2026/09/26/carlos-alcaraz-enmienda-para-europa-el-tropiezo-de-alexander-zverev-en-el-segundo-dia-de-laver-cup/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": null,
+    "category": null,
+    "text": "Don Omar anuncia que cerrará su nueva gira en su natal Puerto Rico a finales de 2027",
+    "link": "https://www.infobae.com/america/agencias/2026/09/26/don-omar-anuncia-que-cerrara-su-nueva-gira-en-su-natal-puerto-rico-a-finales-de-2027/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/CXGLWMMV2FEDTKL5BTAR6PZG5Y.JPG?auth=efb0ca5f40586af7fdea41d08275c41b8f2fcd5091b787eed4df4b78f421e006&smart=true&width=3345&height=1882",
+    "category": null,
+    "text": "Con un doblete de Di María, Rosario Central le da vuelta a Estudiantes la final de la Supercopa Internacional",
+    "link": "https://www.infobae.com/deportes/2026/09/26/rosario-central-y-estudiantes-de-la-plata-se-enfrentaran-por-la-supercopa-internacional-hora-tv-y-formaciones/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/UNFL65ATQZED3GLE6IDQ2QILJI.png?auth=30385c20a24f5478c2da0eece45c458aadc1cadab24561c9e72060d207961d90&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Cruz Azul vs Toluca: Sigue EN VIVO el Minuto a Minuto del partido de la Jornada 10 de la Liga Mx",
+    "link": "https://www.infobae.com/mexico/deportes/2026/09/24/cruz-azul-vs-toluca-donde-como-y-a-que-hora-ver-en-vivo-el-partido-de-la-jornada-10-del-apertura-2026/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/SFAKXLQ7W5CW3I7TFICJLZYFHQ.jpg?auth=25932b8965b3c232f9057f9a03ef55df6c5fc64a34586d317f8938adf3f01e39&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Perú vs Estados Unidos EN VIVO HOY: minuto a minuto del partido amistoso por fecha FIFA 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/26/peru-vs-estados-unidos-en-vivo-hoy-minuto-a-minuto-partido-amistoso-orlando-fecha-fifa-2026-goles-resumen-resultado/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/ODCAJ2FUHREV5NX3WYCNRANYPU.JPG?auth=e457f9681aa810cbd90af601bd1556a34395f71bbcf80d9ce5277770add132f9&smart=true&width=2460&height=1645",
+    "category": null,
+    "text": "Inglaterra-España, en directo: Mikel Oyarzabal culmina la remontada de España en Wembley",
+    "link": "https://www.infobae.com/espana/deportes/2026/09/26/espana-inglaterra-en-directo-ultima-hora-del-estreno-de-la-roja-en-la-nations-league-con-las-dos-estrellas/"
   },
   {
     "date": "2026-09-26",
@@ -232,73 +246,73 @@
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": null,
     "category": null,
-    "text": "Lavrov revela qué hay detrás del diálogo entre Rusia y EE.UU.",
-    "link": "https://actualidad.rt.com/actualidad/629577-lavrov-detras-dialogo-rusia-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Carrera por la IA: estudio expone la incomoda ventaja de China ante EE.UU.",
+    "link": "https://actualidad.rt.com/actualidad/629581-carrera-ia-estudio-exponer-incomoda-ventaja-china-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab81d4e59bf5b5b2a4a47af.jpg",
     "category": null,
-    "text": "Lavrov: Europa se prepara para una guerra con nosotros",
-    "link": "https://actualidad.rt.com/actualidad/629578-lavrov-europa-prepara-guerra?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Kremlin comenta las palabras del \"maldito misil\" de Zelenski",
+    "link": "https://actualidad.rt.com/actualidad/629579-kremlin-comenta-palabras-maldito-misil?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab8006159bf5b41d97021b3.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab522a9e9ff713a1a147752.jpg",
     "category": null,
-    "text": "VIDEO: Trump tacha de \"ridícula\" una afirmación de Obama",
-    "link": "https://actualidad.rt.com/actualidad/629554-video-trump-tacha-ridicula-afirmacion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ayotzinapa: 43 jóvenes desaparecidos y 12 años de impunidad",
+    "link": "https://actualidad.rt.com/actualidad/629222-doce-ayotzinapa-jovenes-desaparecidos-impunidad?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab7dff159bf5b4ef850336a.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab7e7e959bf5b2b643d8365.jpg",
     "category": null,
-    "text": "Vucic llama a Putin un día antes de dimitir: ¿de qué hablaron?",
-    "link": "https://actualidad.rt.com/actualidad/629557-vucic-llamaba-putin-dimitir?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La reunión entre Trump y Xi inquieta a Japón",
+    "link": "https://actualidad.rt.com/actualidad/629550-tokio-intentan-descifrar-planes-washington?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab8009ae9ff7162dc63d27b.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab8283c59bf5b4ef850339e.jpg",
     "category": null,
-    "text": "VIDEO: Impactante vuelo rasante del avión de Trump sobre un estadio",
-    "link": "https://actualidad.rt.com/actualidad/629576-video-impactante-vuelo-rasante-avion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán dice qué pasará si EE.UU. interviene en el estrecho de Ormuz",
+    "link": "https://actualidad.rt.com/actualidad/629584-iran-dice-pasara-eeuu-interviene-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab82a97e9ff710fd77c09ae.jpg",
     "category": null,
-    "text": "Nicaragua interviene en la ONU",
-    "link": "https://actualidad.rt.com/actualidad/629572-nicaragua-onu-asamblea?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán da consejo a países musulmanes vecinos sobre EE.UU.",
+    "link": "https://actualidad.rt.com/actualidad/629583-iran-da-consejo-paises-musulmanes?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab8030c59bf5b148c2651d5.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab8270be9ff7157ae75d86a.jpg",
     "category": null,
-    "text": "Lavrov comenta la reunión con su homólogo alemán",
-    "link": "https://actualidad.rt.com/actualidad/629573-lavrov-reunion-homologo-aleman?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán:  El Ejército más poderoso del mundo se arrodilló ante nuestras Fuerzas Armadas",
+    "link": "https://actualidad.rt.com/actualidad/629582-iran-ejercito-poderoso-mundo-arrodillar?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab7fdd6e9ff71540f03040f.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab7dcc6e9ff715d6a473bac.jpg",
     "category": null,
-    "text": "Lavrov: No fue Rusia quien puso fin a las negociaciones sobre Ucrania, sino aquellos que afirman que los rusos no quieren negociar",
-    "link": "https://actualidad.rt.com/actualidad/629563-lavrov-rusia-negociaciones-ucrania-aquellos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump confirma que habló de Taiwán con Xi",
+    "link": "https://actualidad.rt.com/actualidad/629558-seguir-curso-trump-taiwan-xi?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
     "image": null,
     "category": null,
-    "text": "Lavrov reclama más puestos para Asia, África y América Latina en el Consejo de Seguridad de la ONU",
-    "link": "https://actualidad.rt.com/actualidad/629575-lavrov-reclama-puestos-asia-africa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Nuevo revés para Boeing tras detectarse un fallo en su avión popular",
+    "link": "https://actualidad.rt.com/actualidad/629580-reves-boeing-detectarse-fallo?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab7fb4359bf5b4e0e4238e9.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab7e51259bf5b4d5838173b.jpg",
     "category": null,
-    "text": "\"Cadáveres cuidadosamente colocados\": Lavrov destaca un 'fake' no investigado sobre la operación especial",
-    "link": "https://actualidad.rt.com/actualidad/629574-cadaveres-cuidadosamente-colocados-lavrov-destaca?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Tus políticas aquí son tan estúpidas\": Exvocera de la Casa Blanca relata cómo Trump reprendió a Starmer",
+    "link": "https://actualidad.rt.com/actualidad/629566-simplemente-sentado-exvocera-casa-blanca-trump-starmer?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-26",
@@ -404,19 +418,5 @@
     "category": null,
     "text": "Cómo la turística Santa Marta se convirtió en la primera prueba de fuego de la lucha de De la Espriella contra los grupos armados en Colombia",
     "link": "https://www.bbc.com/mundo/articles/cm74ky4x3vp8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "\"Atrapar a un depredador\": el controvertido programa que exponía a pedófilos en TV y que inspira una nueva película con Robert Pattinson",
-    "link": "https://www.bbc.com/mundo/articles/c61wxx7w8pg9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/EDAPZA2BEZDNZAXCO7CTVAPS44.jpg?auth=52f8766840ff09335e553067104914f8d92e899db0b199cb6e9f5c2144606ff0",
-    "category": "Opinión",
-    "text": "Delcy Rodríguez y Trump, la imagen del nuevo mundo",
-    "link": "https://elpais.com/opinion/2026-09-25/delcy-rodriguez-y-trump-la-imagen-del-nuevo-mundo.html"
   }
 ]

@@ -1,6 +1,55 @@
 [
   {
     "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/a9916214-b94c-11f1-b480-91cf9f3cd539/w:1024/p:16x9/ES-20260925-201104-201228-CS.jpg",
+    "category": null,
+    "text": "Academia Goncourt retira la novela de Thélyson Orélien por presunto uso de IA y plagio",
+    "link": "https://www.france24.com/es/video/20260926-academia-goncourt-retira-la-novela-de-th%C3%A9lyson-or%C3%A9lien-por-presunto-uso-de-ia-y-plagio"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/cf81b7f4-b94b-11f1-a15d-555a0aff87a4/w:1024/p:16x9/ES-20260925-200853-201033-CS.jpg",
+    "category": null,
+    "text": "Informe desde París: parisinos reaccionan con euforia a la llegada del papa León XIV",
+    "link": "https://www.france24.com/es/video/20260926-informe-desde-par%C3%ADs-parisinos-reaccionan-con-euforia-a-la-llegada-del-papa-le%C3%B3n-xiv"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/02a17a14-b949-11f1-90a9-11fa9f8a3b4f/w:1024/p:16x9/ES-20260925-191649-191830-CS.jpg",
+    "category": null,
+    "text": "Informe desde Río de Janeiro: Lula da Silva prohíbe las apuestas en línea",
+    "link": "https://www.france24.com/es/video/20260926-informe-desde-r%C3%ADo-de-janeiro-lula-da-silva-proh%C3%ADbe-las-apuestas-en-l%C3%ADnea"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/be0bb53c-b947-11f1-a708-11fa9f8a3b4f/w:1024/p:16x9/ES-20260925-191403-191543-CS.jpg",
+    "category": null,
+    "text": "Informe desde Washington: Corte Suprema da a Trump acceso a datos para auditar a los votantes",
+    "link": "https://www.france24.com/es/video/20260926-informe-desde-washington-corte-suprema-da-a-trump-acceso-a-datos-para-auditar-a-los-votantes"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/5af9c7de-b944-11f1-b78a-8f3418d01115/w:1024/p:16x9/ES-20260925-191112-191254-CS.jpg",
+    "category": null,
+    "text": "Lourdes cubre mosaicos de antiguo sacerdote acusado de abuso sexual antes de la llegada de León XIV",
+    "link": "https://www.france24.com/es/video/20260926-lourdes-cubre-mosaicos-de-antiguo-sacerdote-acusado-de-abuso-sexual-antes-de-la-llegada-de-le%C3%B3n-xiv"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/1c3353d6-b943-11f1-ac52-c959b9d22ec6/w:1024/p:16x9/ES-20260925-190649-191036-CS.jpg",
+    "category": null,
+    "text": "Papa León XIV cierra su primer día con un encuentro con más de 80.000 jóvenes en el Stade de France",
+    "link": "https://www.france24.com/es/video/20260926-papa-le%C3%B3n-xiv-cierra-su-primer-d%C3%ADa-con-un-encuentro-con-m%C3%A1s-de-80-000-j%C3%B3venes-en-el-stade-de-france"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://s.france24.com/media/display/aff4192c-b94b-11f1-8421-c959b9d22ec6/w:1024/p:16x9/AP26265476842295.jpg",
+    "category": "Medio Oriente",
+    "text": "Siete días para reabrir el estrecho de Ormuz: Irán fija condiciones a cambio de concesiones críticas de EE. UU.",
+    "link": "https://www.france24.com/es/medio-oriente/20260926-siete-d%C3%ADas-para-reabrir-el-estrecho-de-ormuz-ir%C3%A1n-fija-condiciones-a-cambio-de-concesiones-cr%C3%ADticas-de-ee-uu"
+  },
+  {
+    "date": "2026-09-26",
     "image": "https://s.france24.com/media/display/8e21253a-b93a-11f1-adde-8f3418d01115/w:1024/p:16x9/000-C9AN7BH.jpg",
     "category": "Cultura",
     "text": "La novela de Thélyson Orélien, salpicada de escándalos, ha sido retirada de la selección del Premio Goncourt",
@@ -8,108 +57,213 @@
   },
   {
     "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/3CE32BLEPZFNTIDKPXXC6VCABE.png?auth=3c4190713edfaa552c3ecda1a73e4d0caee8db59a74472904afc1df536f96a9d&smart=true&width=2752&height=1536",
+    "image": null,
     "category": null,
-    "text": "Muere el “Baby Face”, leyenda de la lucha libre mexicana y famoso por su negocio de arroz inspirado en Japón",
-    "link": "https://www.infobae.com/mexico/deportes/2026/09/26/muere-el-baby-face-leyenda-de-la-lucha-libre-mexicana-y-famoso-por-su-negocio-de-arroz-inspirado-en-japon/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/X7HQV6EDY5CX3CKLEPK3Y6WN5U.jpeg?auth=48e01b7e990334bee115d1e5c6fb15ae9e68d1b784e5b0ddeaddfd83ce550175&smart=true&width=640&height=438",
-    "category": null,
-    "text": "Trasladaron de urgencia a Olmedo López, implicado en el escándalo de la Ungrd, desde su lugar de reclusión en Bogotá",
-    "link": "https://www.infobae.com/colombia/2026/09/26/trasladaron-de-urgencia-a-olmedo-lopez-implicado-en-el-escandalo-de-la-ungrd-desde-su-lugar-de-reclusion-en-bogota/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/76E4PIMAG5F7BDHY2TKQ5FNOS4.jpg?auth=e42599d9fe121b6323093e35a693b7521309d2da9acb4630345b84848e5c94a6&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Alianza Lima 2-0 Esquimo EN VIVO HOY: punto a punto del partido por fecha 1 de la ‘Noche Blanquiazul de Vóley’ 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/09/25/alianza-lima-vs-esquimo-en-vivo-hoy-punto-a-punto-partido-fecha-1-noche-blanquiazul-voley-2026-resumen-resultado/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/ZF2HIQNX4NECVNERG6NHEIJCI4.jpg?auth=43d6924a304639f5eede9924d5807175acced213114393abe6d85fcdcd38d5f7&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores?",
-    "link": "https://www.infobae.com/peru/2026/09/26/el-241-de-la-fuerza-laboral-en-peru-esta-altamente-expuesta-a-la-ia-generativa-que-significa-para-los-trabajadores/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/CTQQ2PGXMZE2BAL6C2CAEPHQLE.jpg?auth=c12d0784e4f207cc53df47569e36333a8352512a89ebb4a082cd374c50778f3a&smart=true&width=2600&height=1733",
-    "category": null,
-    "text": "Autoridades de Irán confirmaron el plan presentado a Estados Unidos para reabrir el estrecho de Ormuz",
-    "link": "https://www.infobae.com/america/mundo/2026/09/26/autoridades-de-iran-confirmaron-el-plan-presentado-a-estados-unidos-para-reabrir-el-estrecho-de-ormuz/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/V3RJ32FJNFCQRHGKDGRYTEU2M4.jpg?auth=280be7cb85061ab5579750bec65c4dedf80fd97c5ccbab019e537625fcba1707&smart=true&width=1959&height=1080",
-    "category": null,
-    "text": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 25 de septiembre? Líneas 2, 3, 4, 5, 8, B y 12 del STC con retrasos por lluvias",
-    "link": "https://www.infobae.com/mexico/2026/09/25/que-esta-pasando-en-el-metro-cdmx-y-metrobus-hoy-25-de-septiembre/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/ENZXL3EWDRBBXAX2DNY4KHFPZ4.png?auth=92876e2a806c3795275c0469c5f2ca533bd3b9129371e9dc0e23820fe140139c&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "El Congreso tendrá una nueva comisión accidental para la fuerza pública: trabajará en las capacidades y presupuesto para militares y policías",
-    "link": "https://www.infobae.com/colombia/2026/09/26/el-congreso-tendra-una-nueva-comision-accidental-para-la-fuerza-publica-trabajara-en-las-capacidades-y-presupuesto-para-militares-y-policias/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/NXECI2OO75DAPB4P6UEJAA26UE.jpg?auth=fa9dd0c4b32fce6d685b6880e03c2698f09d43211de2f1a361ac15b2ab3df804&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Nicolás Cabré ya figura en el muro de los Six Star Finishers antes de correr la Maratón de Berlín",
-    "link": "https://www.infobae.com/teleshow/2026/09/26/nicolas-cabre-ya-figura-en-el-muro-de-los-six-star-finishers-antes-de-correr-la-maraton-de-berlin/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/YLXFJ5LDJJBKBMQSVEVVDWJHRE.png?auth=489897ee70015458b887fe5bfb98860eda2d2d529c0af2951887264b3c8921e4&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Así se movió la fortuna de los 10 millonarios más ricos del planeta",
-    "link": "https://www.infobae.com/noticias/2026/09/26/asi-se-movio-la-fortuna-de-los-10-millonarios-mas-ricos-del-planeta/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/CTIXQ5U7GFARXHJ6IKQPMRD7MA.jpg?auth=be3401a866df3ff1fe6edc533942ef88eac74ef10292c1d6c30ce5f6b7132a8b&smart=true&width=3000&height=2000",
-    "category": null,
-    "text": "Tú crees que eres un buen colaborador. ¿Las personas a tu cargo están de acuerdo contigo?",
-    "link": "https://www.infobae.com/harvard-business-review/2026/09/26/tu-crees-que-eres-un-buen-colaborador-las-personas-a-tu-cargo-estan-de-acuerdo-contigo/"
-  },
-  {
-    "date": "2026-09-26",
-    "image": "https://www.infobae.com/resizer/v2/4BIB43ZLJRFADBLJPKA4FYM4Y4.png?auth=1b95923dd8eee23591cfe076c1f8f4c059316c64e14a1792ad501bc2af3ac4c4&smart=true&width=657&height=391",
-    "category": null,
-    "text": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 25 de septiembre",
-    "link": "https://www.infobae.com/mexico/2026/09/25/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-25-de-septiembre/"
+    "text": "\"Me enteré de que lo mataron por las redes sociales\": el doble castigo que sufren los condenados en Arabia Saudita, uno de los países que ejecuta más personas en el mundo",
+    "link": "https://www.bbc.com/mundo/articles/cqkgwx3zed53o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-26",
     "image": null,
     "category": null,
-    "text": "Sindicato de prensa venezolano pide garantías reales tras el desbloqueo de portales",
-    "link": "https://www.infobae.com/america/agencias/2026/09/26/sindicato-de-prensa-venezolano-pide-garantias-reales-tras-el-desbloqueo-de-portales/"
+    "text": "Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días",
+    "link": "https://www.bbc.com/mundo/articles/crx2zzgjledno?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": null,
     "category": null,
-    "text": "Reportan potentes explosiones en la capital de Arabia Saudita",
-    "link": "https://actualidad.rt.com/actualidad/629487-reportan-potentes-explosiones-capital-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Basque Culinary Center cumple 15 años",
+    "link": "https://www.infobae.com/america/agencias/2026/09/26/el-basque-culinary-center-cumple-15-anos/"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab708df59bf5b2ba86b140c.jpg",
+    "image": "https://www.infobae.com/resizer/v2/WZ3XX6UXSBGWZP6VUP6OERWLVU.JPG?auth=e72287cb2376424401bdcb71cab7d52356b1ad9b1cfe702f345031261bd60c28&smart=true&width=5387&height=3030",
     "category": null,
-    "text": "VIDEOS: Avión con mandos militares se estrella en África y deja muertos",
-    "link": "https://actualidad.rt.com/actualidad/629482-accidente-aereo-republica-democratica-congo-muertos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Partido Comunista de China se enfrenta a un cambio generacional",
+    "link": "https://www.infobae.com/economist/2026/09/26/el-partido-comunista-de-china-se-enfrenta-a-un-cambio-generacional/"
   },
   {
     "date": "2026-09-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab70d6b59bf5b2a7164e59a.jpg",
+    "image": "https://www.infobae.com/resizer/v2/J5237JAHJRDQXILHER3J755VWA.jpg?auth=997a7c88f5bffdf4f197ac6c195fb62f7a5c6475c98e5c1714061bbf05b28682&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Washington deja fuera de su paquete de ayuda el arma que Kiev más necesita",
-    "link": "https://actualidad.rt.com/actualidad/629483-washington-deja-fuera-paquete-arma?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Asesinan a balazos a un hombre frente al Metro Hidalgo; caen dos presuntos responsables tras persecución",
+    "link": "https://www.infobae.com/mexico/2026/09/26/asesinan-a-balazos-a-un-hombre-frente-al-metro-hidalgo-caen-dos-presuntos-responsables-tras-persecucion/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/NU7TMMZCJZD2FP3XPDXVUMONPI.JPG?auth=325045755642e3437344f29e02ececc5ec83d2c557ef11a24b6aa906b112ca53&smart=true&width=5128&height=3418",
+    "category": null,
+    "text": "Del ajuste al precio internacional: la ruta del diésel que reconfigura la política de combustibles en Bolivia",
+    "link": "https://www.infobae.com/america/america-latina/2026/09/25/del-ajuste-al-precio-internacional-la-ruta-del-diesel-que-reconfigura-la-politica-de-combustibles-en-bolivia/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/5YBBR354LFFUJE7OLUKEMMKUIQ.jpg?auth=66b13b2734f97a0c0274467abb5506b0f43d5006fc6c6cc346b0a0a7e4948a94&smart=true&width=2048&height=1299",
+    "category": null,
+    "text": "Alejandro Gutman, el arquitecto social de Bukele: “Estudiar dejó de ser un privilegio de pocos para convertirse en un derecho de todos”",
+    "link": "https://www.infobae.com/el-salvador/2026/09/26/alejandro-gutman-el-arquitecto-social-de-bukele-estudiar-dejo-de-ser-un-privilegio-de-pocos-para-convertirse-en-un-derecho-de-todos/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/URFDN4YTWBBA5MJ5FSKQUBPTXQ.jpg?auth=efff749de98ba63baa67b16b1c511c15149e8e47a7dd82cfba04bfd6d27f904b&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Los Derechos Humanos de orden público y la ciencia: conociendo al Dr. Baofa Yu",
+    "link": "https://www.infobae.com/america/opinion/2026/09/26/los-derechos-humanos-de-orden-publico-y-la-ciencia-conociendo-al-dr-baofa-yu/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/7A5RQDU2IZHCZLY7GO5U2OBN7U.jpg?auth=6164487c0055f270050ef894690e8dab099b46f973d9648061a75cc54c361eb1&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Hija de Ernesto Ruffo agradece el apoyo que recibió mientras su padre permanecía en la cárcel por el caso en su contra de huachicol fiscal",
+    "link": "https://www.infobae.com/mexico/2026/09/26/hija-de-ernesto-ruffo-agradece-el-apoyo-que-recibio-mientras-su-padre-permanecia-en-la-carcel-por-el-caso-en-su-contra-de-huachicol-fiscal/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/YPCO2RIXL5E65DXIORID6IQSZE.jpg?auth=a07636767c74a7dcbd85e800096fbdfbc5f89162533579a12ed8b50c8eefe138&smart=true&width=1920&height=1441",
+    "category": null,
+    "text": "PSOE celebra este sábado primarias para elegir a sus alcaldables en Jaén, Almería, Córdoba y seis grandes municipios más",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/26/psoe-celebra-este-sabado-primarias-para-elegir-a-sus-alcaldables-en-jaen-almeria-cordoba-y-seis-grandes-municipios-mas/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/GOFPTE4XZNFCLDFKJNOGLS2EJI.jpg?auth=47f1a7db1a35777811cbb7f64861321d517bcfafb0f6159f833fee7da91c4350&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "De un alquiler de 1956 al Supremo: el recorrido judicial que acabó con el desahucio de Maricarmen",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/26/de-un-alquiler-de-1956-al-supremo-el-recorrido-judicial-que-acabo-con-el-desahucio-de-maricarmen/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/Q3VZWBRIRVHRZL2WGKI4CIDNQI.jpg?auth=64dc06fef11e9f2a58730d3bfa9d5519983b6a0bcf3956e133d07ff0baf7b6ea&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "La Casa Blanca impide a los periodistas de CNN subir al Air Force One para cubrir a Trump en un viaje a Tennessee",
+    "link": "https://www.infobae.com/america/agencias/2026/09/26/la-casa-blanca-impide-a-los-periodistas-de-cnn-subir-al-air-force-one-para-cubrir-a-trump-en-un-viaje-a-tennessee/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": null,
+    "category": null,
+    "text": "Irán confirma la condena a 74 latigazos de una cantante por un concierto virtual sin velo",
+    "link": "https://www.infobae.com/america/agencias/2026/09/26/iran-confirma-la-condena-a-74-latigazos-de-una-cantante-por-un-concierto-virtual-sin-velo/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://www.infobae.com/resizer/v2/AP7BI563PRGF5LWF6HCFPN7F7Q.png?auth=206e7d7b9a5c1765347df2c9522db3ac8732c0257c6de56e865d29581feb4779&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "El consejo de los nutricionistas para frenar el picoteo nocturno sin pasar hambre",
+    "link": "https://www.infobae.com/salud/2026/09/26/el-consejo-de-los-nutricionistas-para-frenar-el-picoteo-nocturno-sin-pasar-hambre/"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://imagenes.elpais.com/resizer/v2/QSKAGEE4UNE5HKKG5CHRWXYJOY.JPG?auth=7bac6d312bdc5d0fd5990d63ebef603fd9c2e8e33c81ba535e8d9a735b56a97f",
+    "category": "Ultraderecha",
+    "text": "Todos contra la inmigración, pero divididos frente a Putin: qué une y qué separa a la extrema derecha europea",
+    "link": "https://elpais.com/internacional/2026-09-26/todos-contra-la-inmigracion-pero-divididos-frente-a-putin-que-une-y-que-separa-a-la-extrema-derecha-europea.html"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260920/1216347_185015_video_1800.mp4",
+    "category": "Alemania",
+    "text": "Friedrich Merz, el impopular ‘canciller de las reformas’ que lucha por mantenerse a flote",
+    "link": "https://elpais.com/internacional/2026-09-26/friedrich-merz-el-impopular-canciller-de-las-reformas-que-lucha-por-mantenerse-a-flote.html"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://imagenes.elpais.com/resizer/v2/WVU5XEJTIVGWNHYDG6KGQESSFM.jpg?auth=dc00f9ca3bac8e18a45f8d0a40ab370bb35213027b6933fa9a75a19126181bf0",
+    "category": "Ataque contra Irán",
+    "text": "Yalda Moaiery, fotoperiodista iraní condenada a 15 años de prisión: “La guerra ha dado paso a la peor versión de la República Islámica”",
+    "link": "https://elpais.com/internacional/2026-09-26/yalda-moaiery-fotoperiodista-irani-condenada-a-15-anos-de-prision-la-guerra-ha-dado-paso-a-la-peor-version-de-la-republica-islamica.html"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://imagenes.elpais.com/resizer/v2/T7UVTYPE25GW3A2U43GAG662NE.jpg?auth=3f34924b52d031b8aa186e34fbc1a7ae09f44be6958f0a8d51d52deb38d5d963",
+    "category": "Reino Unido",
+    "text": "La tortura del transporte público de Londres en los meses de verano",
+    "link": "https://elpais.com/internacional/historias-de-corresponsal/2026-09-26/la-tortura-del-transporte-publico-de-londres-en-los-meses-de-verano.html"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab64994e9ff714c804bfd95.jpg",
+    "category": null,
+    "text": "El precio oculto de la oferta de F-35 de Trump a Arabia Saudita",
+    "link": "https://actualidad.rt.com/actualidad/629367-precio-oculto-oferta-f-35?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab75ab8e9ff71068022c47a.jpg",
+    "category": null,
+    "text": "El presidente iraní explica por qué fracasó el memorando de entendimiento",
+    "link": "https://actualidad.rt.com/actualidad/629503-presidente-irani-explica-causa-fracaso?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": null,
+    "category": null,
+    "text": "De gestor de paz a preso en EE.UU.: Colombia extradita a alias 'Araña', líder de disidencias de las FARC",
+    "link": "https://actualidad.rt.com/actualidad/629508-gestor-paz-preso-eeuu-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab750b5e9ff7122c30cd61f.jpg",
+    "category": null,
+    "text": "Ver mal y verse mal: revelan un efecto inesperado de las dietas altas en grasa",
+    "link": "https://actualidad.rt.com/actualidad/629501-dieta-alta-grasa-salud-ocular?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab7545859bf5b113b776ff0.jpg",
+    "category": null,
+    "text": "Presidente iraní explica por qué el líder supremo no aparece en público",
+    "link": "https://actualidad.rt.com/actualidad/629505-presidente-irani-explicar-lider-supremo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab6967de9ff716fcf794648.jpg",
+    "category": null,
+    "text": "Reportan aviso de la CIA sobre posible ataque ruso a países europeos y así responden",
+    "link": "https://actualidad.rt.com/actualidad/629430-francia-e-italia-desmienten-supuesto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab755cc59bf5b646d430356.jpg",
+    "category": null,
+    "text": "Rusia golpea en Kiev infraestructura de apoyo a Starlink",
+    "link": "https://actualidad.rt.com/actualidad/629504-rusia-golpea-kiev-infraestructura-apoyo-starlink?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab73c4f59bf5b789f5c6134.jpg",
+    "category": null,
+    "text": "Presidente de Irán dice cuándo se reuniría con Trump",
+    "link": "https://actualidad.rt.com/actualidad/629499-presidente-iran-cuando-reunir-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab74140e9ff716fcf7946e5.jpg",
+    "category": null,
+    "text": "\"No tiene ningún problema\": Presidente iraní da detalles de la salud de Mojtabá Jameneí",
+    "link": "https://actualidad.rt.com/actualidad/629500-tiene-ningun-problema-presidente-irani-salud-mojtaba-jamenei?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab71e8959bf5b76ad1d8700.jpg",
+    "category": null,
+    "text": "Alemania investiga a un exguardia nazi de 105 años por complicidad en asesinatos masivos",
+    "link": "https://actualidad.rt.com/actualidad/629493-alemania-investiga-exguardia-nazi-105?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-26",
+    "image": null,
+    "category": null,
+    "text": "La coalición saudí afirma que intercepta drones y misiles hutíes rumbo a Arabia Saudí",
+    "link": "https://es.euronews.com/2026/09/26/la-coalicion-saudi-afirma-que-intercepta-drones-y-misiles-huties-rumbo-a-arabia-saudi"
+  },
+  {
+    "date": "2026-09-26",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 26 septiembre 2026 - Mañana",
+    "link": "https://es.euronews.com/video/2026/09/26/ultimas-noticias-26-septiembre-2026-manana"
   },
   {
     "date": "2026-09-25",
@@ -141,66 +295,10 @@
   },
   {
     "date": "2026-09-25",
-    "image": "https://s.france24.com/media/display/110871d0-b934-11f1-b29d-c959b9d22ec6/w:1024/p:16x9/ES-20260925-140654-140822-CS.jpg",
-    "category": null,
-    "text": "Drones rusos burlan sistema de interceptación ucraniano y alcanzan edificio residencial",
-    "link": "https://www.france24.com/es/video/20260925-drones-rusos-burlan-sistema-de-interceptaci%C3%B3n-ucraniano-y-alcanzan-edificio-residencial"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://s.france24.com/media/display/20dda13a-b933-11f1-abe6-91cf9f3cd539/w:1024/p:16x9/ES-20260925-140132-140301-CS.jpg",
-    "category": null,
-    "text": "León XIV llega a Francia y advierte sobre IA y eutanasia en su primer discurso ante Macron",
-    "link": "https://www.france24.com/es/video/20260925-le%C3%B3n-xiv-llega-a-francia-y-advierte-sobre-ia-y-eutanasia-en-su-primer-discurso-ante-macron"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "El tercer mandato de Lula: un veterano liderazgo progresista que capoteó a Trump desde un Brasil polarizado",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260925-el-tercer-mandato-de-lula-un-veterano-liderazgo-progresista-que-capote%C3%B3-a-trump-desde-un-brasil-polarizado"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://s.france24.com/media/display/0e510b32-9743-11f0-af07-005056bfb2b6/w:1024/p:16x9/4bef7b3dc94bec777ef13eb98d3a999a59209c8f.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Un informe saca a la luz los errores de seguridad en el asesinato de Charlie Kirk",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260925-un-informe-saca-a-la-luz-los-errores-de-seguridad-en-el-asesinato-de-charlie-kirk"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://s.france24.com/media/display/e0a3a3aa-b930-11f1-8750-91cf9f3cd539/w:1024/p:16x9/000-36HD2K2.jpg",
-    "category": "Asia-Pacífico",
-    "text": "Terremoto de magnitud 6,6 sacude a Nueva Caledonia, archipiélago francés en el Pacífico Sur",
-    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260925-terremoto-de-magnitud-6-6-sacude-a-nueva-caledonia-archipi%C3%A9lago-franc%C3%A9s-en-el-pac%C3%ADfico-sur"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://s.france24.com/media/display/0af24b46-b92e-11f1-b1a5-555a0aff87a4/w:1024/p:16x9/ES-20260925-131510-132715-CS.jpg",
-    "category": null,
-    "text": "Unicef reporta \"desnutrición aguda\" en Yemen: ¿cómo se llegó a este punto?",
-    "link": "https://www.france24.com/es/video/20260925-unicef-reporta-desnutrici%C3%B3n-aguda-en-yemen-c%C3%B3mo-se-lleg%C3%B3-a-este-punto"
-  },
-  {
-    "date": "2026-09-25",
     "image": null,
     "category": null,
     "text": "¿Qué es el kratom, la \"heroína de las gasolineras\" que causa alarma entre las autoridades en EE.UU.?",
     "link": "https://www.bbc.com/mundo/articles/c6z0zzrzxk44o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "Cómo la turística Santa Marta se convirtió en la primera prueba de fuego de la lucha de De la Espriella contra los grupos armados en Colombia",
-    "link": "https://www.bbc.com/mundo/articles/cm74ky4x3vp8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "Italia prohíbe el burka y el niqab en las escuelas y limita el número de niños que no hablen italiano en las aulas",
-    "link": "https://www.bbc.com/mundo/articles/cje3rr1lkrv7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-25",
@@ -220,8 +318,15 @@
     "date": "2026-09-25",
     "image": null,
     "category": null,
-    "text": "Cómo Australia lidera la cruzada contra las grandes tecnológicas",
-    "link": "https://www.bbc.com/mundo/articles/cme30qx3q9geo?at_medium=RSS&at_campaign=rss"
+    "text": "Italia prohíbe el burka y el niqab en las escuelas y limita el número de niños que no hablen italiano en las aulas",
+    "link": "https://www.bbc.com/mundo/articles/cje3rr1lkrv7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-25",
+    "image": null,
+    "category": null,
+    "text": "Cómo la turística Santa Marta se convirtió en la primera prueba de fuego de la lucha de De la Espriella contra los grupos armados en Colombia",
+    "link": "https://www.bbc.com/mundo/articles/cm74ky4x3vp8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-25",
@@ -241,8 +346,8 @@
     "date": "2026-09-25",
     "image": null,
     "category": null,
-    "text": "Valentina Agudelo, la colombiana que creó un innovador dispositivo que identifica el riesgo de cáncer de mama en minutos y en cualquier parte",
-    "link": "https://www.bbc.com/mundo/articles/cr89j2n7z7y0o?at_medium=RSS&at_campaign=rss"
+    "text": "Cómo Australia lidera la cruzada contra las grandes tecnológicas",
+    "link": "https://www.bbc.com/mundo/articles/cme30qx3q9geo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-25",
@@ -250,6 +355,13 @@
     "category": null,
     "text": "Por qué la amenaza de la guerra puede salvar a los grandes fabricantes europeos de automóviles",
     "link": "https://www.bbc.com/mundo/articles/cwj3d6v53376o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-25",
+    "image": "https://imagenes.elpais.com/resizer/v2/EDAPZA2BEZDNZAXCO7CTVAPS44.jpg?auth=52f8766840ff09335e553067104914f8d92e899db0b199cb6e9f5c2144606ff0",
+    "category": "Opinión",
+    "text": "Delcy Rodríguez y Trump, la imagen del nuevo mundo",
+    "link": "https://elpais.com/opinion/2026-09-25/delcy-rodriguez-y-trump-la-imagen-del-nuevo-mundo.html"
   },
   {
     "date": "2026-09-25",
@@ -264,90 +376,6 @@
     "category": "Cumbres bilaterales",
     "text": "La cena de gala (y un águila calva) de Trump para agasajar a Xi Jinping",
     "link": "https://elpais.com/internacional/2026-09-25/la-cena-de-gala-y-un-aguila-calva-de-trump-para-agasajar-a-xi-jinping.html"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/EDAPZA2BEZDNZAXCO7CTVAPS44.jpg?auth=52f8766840ff09335e553067104914f8d92e899db0b199cb6e9f5c2144606ff0",
-    "category": "Opinión",
-    "text": "Delcy Rodríguez y Trump, la imagen del nuevo mundo",
-    "link": "https://elpais.com/opinion/2026-09-25/delcy-rodriguez-y-trump-la-imagen-del-nuevo-mundo.html"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218529_132456_video_1800.mp4",
-    "category": "Papa León XIV",
-    "text": "El Papa pide en Francia una “justa laicidad” que no excluya a la religión del espacio público",
-    "link": "https://elpais.com/internacional/2026-09-25/el-papa-pide-en-francia-una-justa-laicidad-que-no-excluya-a-la-religion-del-espacio-publico.html"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/MZZERXYQTBOPPICC52BQKKTG5U.jpg?auth=274b9be5aa74288e45ab318235cde42ada049898f2ba05c13b3db17902ca136a",
-    "category": "Papa León XIV",
-    "text": "El Papa, sobre Ceuta: “Realmente es una crisis humanitaria”",
-    "link": "https://elpais.com/internacional/2026-09-25/el-papa-sobre-ceuta-lo-he-seguido-desde-el-primer-dia-realmente-es-una-crisis-humanitaria.html"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/A7LQYK2UCFIZHDKF3AX5CCKLEM.jpg?auth=3b58100ffa941ea0931df4e4665d3396f667ee7ea283cda5404eefe385a8432e",
-    "category": "Rusia",
-    "text": "Rusia iza su bandera en la ‘flota fantasma’ para evitar los abordajes europeos",
-    "link": "https://elpais.com/internacional/2026-09-25/rusia-redobla-su-flota-fantasma-pese-a-las-sanciones-y-los-bombardeos-de-ucrania.html"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/WL7RT2T4SZGKTITKQD3XIS7EZA.jpg?auth=4c1c297fcb25edaa9a284d837d5b1f21f701ebcbb42f1deea49db2e8b09f62c8",
-    "category": "Irán",
-    "text": "Irán envía a Estados Unidos un plan para la reapertura del estrecho de Ormuz en siete días",
-    "link": "https://elpais.com/internacional/2026-09-25/iran-envia-a-estados-unidos-un-plan-para-la-reapertura-del-estrecho-de-ormuz-en-siete-dias.html"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab7050fe9ff7155892977a0.jpg",
-    "category": null,
-    "text": "Arabia Saudita no descarta desarrollar armas nucleares, segun inteligencia de EE.UU.",
-    "link": "https://actualidad.rt.com/actualidad/629477-washington-post-arabia-saudita-programa-nuclear?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab702e4e9ff716fcf7946b9.jpg",
-    "category": null,
-    "text": "El Pentágono suma en silencio decenas de heridos a su lista por la guerra contra Irán",
-    "link": "https://actualidad.rt.com/actualidad/629475-pentagono-elevar-silenciosamente-heridos-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "\"Revisaron las amenazas\": Jefes militares de la 'OTAN islámica' celebran una reunión",
-    "link": "https://actualidad.rt.com/actualidad/629481-jefes-militares-otan-islamica-reunir-cooperacion-defensa?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "Cuatro militares son heridos por fuego accidental durante ejercicios de la OTAN",
-    "link": "https://actualidad.rt.com/actualidad/629480-militares-italia-heridos-letonia?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab70069e9ff71068022c44c.jpg",
-    "category": null,
-    "text": "\"Dinero, poder y alfombras rojas\": Exportavoz explica por qué Zelenski no celebra elecciones",
-    "link": "https://actualidad.rt.com/actualidad/629466-exvocera-zelenski-pasar-celebrar-elecciones-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab6f9b8e9ff711ec44f5cea.jpg",
-    "category": null,
-    "text": "¿Qué pasa en China? 139 bailarines dan un espectáculo, pero no todos son humanos (VIDEO)",
-    "link": "https://actualidad.rt.com/viral/629479-pasa-china-139-bailarines-escena?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab6f9f559bf5b4e136b37ad.jpg",
-    "category": null,
-    "text": "\"Es como un cáncer\": Lula prohíbe las apuestas en línea en Brasil, a 9 días de las elecciones",
-    "link": "https://actualidad.rt.com/actualidad/629473-gobierno-lula-anunciar-prohibicion-apuestas-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-25",
@@ -390,33 +418,5 @@
     "category": null,
     "text": "EURONEWS HOY | Las noticias del 25 de septiembre de 2026: Trump licenciará misiles Patriot a Ucrania",
     "link": "https://es.euronews.com/2026/09/25/euronews-hoy-las-noticias-del-25-de-septiembre-de-2026-trump-licenciara-misiles-patriot-a-"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 25 septiembre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/09/25/ultimas-noticias-25-septiembre-2026-tarde"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "TV Azteca, bajo la lupa por un préstamo de 290 millones de un banco vinculado a un asesor de Bukele",
-    "link": "https://es.euronews.com/2026/09/25/tv-azteca-prestamo-alterbank-bukele-eeuu"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "Ucrania, ataque de drones rusos sobre Kiev mata a un adolescente y hiere a 20 vecinos",
-    "link": "https://es.euronews.com/video/2026/09/25/ucrania-ataque-de-drones-rusos-sobre-kiev-mata-a-un-adolescente-y-hiere-a-20-vecinos"
-  },
-  {
-    "date": "2026-09-25",
-    "image": null,
-    "category": null,
-    "text": "Explosión cerca de la Acrópolis derrumba un edificio en Plaka y hiere a 2 personas",
-    "link": "https://es.euronews.com/video/2026/09/25/explosion-cerca-de-la-acropolis-derrumba-un-edificio-en-plaka-y-hiere-a-2-personas"
   }
 ]

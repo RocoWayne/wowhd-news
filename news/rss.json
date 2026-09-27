@@ -1,6 +1,76 @@
 [
   {
     "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/6ac3618a-ba1f-11f1-aaf7-852b23529bb9/w:1024/p:16x9/WEB-IVS-26SEP-PORTADA-WEB-V2-1.png",
+    "category": "América Latina",
+    "text": "Flávio Bolsonaro: el heredero que navega sobre la ola ultraderechista global en busca de un nombre propio",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260927-fl%C3%A1vio-bolsonaro-el-heredero-que-navega-sobre-la-ola-ultraderechista-global-en-busca-de-un-nombre-propio"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/03ef90b6-baae-11f1-a033-555a0aff87a4/w:1024/p:16x9/ES-20260927-100801-101219-CS.jpg",
+    "category": null,
+    "text": "Informe desde Beirut: Hezbolá conmemora dos años de la muerte de Nasrallah",
+    "link": "https://www.france24.com/es/video/20260927-informe-desde-beirut-hezbol%C3%A1-conmemora-dos-a%C3%B1os-de-la-muerte-de-nasrallah"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/c695e866-baa1-11f1-88b8-177f79e345bf/w:1024/p:16x9/ES-20260927-130129-130348-CS.jpg",
+    "category": null,
+    "text": "Informe desde Londres: Policía antiterrorismo impide ataque terrorista contra base de Fairford",
+    "link": "https://www.france24.com/es/video/20260927-informe-desde-londres-polic%C3%ADa-antiterrorismo-impide-ataque-terrorista-contra-base-de-fairford"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/57ef21c6-baa5-11f1-afea-177f79e345bf/w:1024/p:16x9/ES-20260927-130634-130821-CS.jpg",
+    "category": null,
+    "text": "Lucha contra el abuso sexual, foco del tercer día de la visita de León XIV a Francia",
+    "link": "https://www.france24.com/es/video/20260927-lucha-contra-el-abuso-sexual-foco-del-tercer-d%C3%ADa-de-la-visita-de-le%C3%B3n-xiv-a-francia"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/3d316278-b699-11f1-b4a8-e554abee39f5/w:1024/p:16x9/2ca818fad21bf6cd55c130d7edb0080dfb71c6fd.jpg",
+    "category": "Francia",
+    "text": "Francia: la ultraderecha de Le Pen gana terreno en el Senado a siete meses de las presidenciales",
+    "link": "https://www.france24.com/es/francia/20260927-francia-la-ultraderecha-de-le-pen-gana-terreno-en-el-senado-a-siete-meses-de-las-presidenciales"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/cdb3e5da-baab-11f1-bd0c-177f79e345bf/w:1024/p:16x9/7576de1e1693e1104c15d74179813e5f7704480f.jpg",
+    "category": "Deportes",
+    "text": "Brandon McNulty da la sorpresa y gana el título mundial de ciclismo en ruta",
+    "link": "https://www.france24.com/es/deportes/20260927-brandon-mcnulty-da-la-sorpresa-y-gana-el-t%C3%ADtulo-mundial-de-ciclismo-en-ruta"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/abf7e9c2-ba9d-11f1-9899-177f79e345bf/w:1024/p:16x9/5fa2bb981a0b2213c42f51052f6d0653c4e842f8w.jpg",
+    "category": "Europa",
+    "text": "Suiza: el referendo para una neutralidad más estricta es rechazado por un 70% de votantes",
+    "link": "https://www.france24.com/es/europa/20260927-suiza-el-referendo-para-una-neutralidad-m%C3%A1s-estricta-es-rechazado-por-un-70-de-votantes"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/aedbff9a-baa0-11f1-b1fa-91cf9f3cd539/w:1024/p:16x9/ES-20260927-100153-100356-CS.jpg",
+    "category": null,
+    "text": "Irlanda del Norte: manifestantes bloquean calles para impedir movilización de Orden de Orange",
+    "link": "https://www.france24.com/es/video/20260927-irlanda-del-norte-manifestantes-bloquean-calles-para-impedir-movilizaci%C3%B3n-de-orden-de-orange"
+  },
+  {
+    "date": "2026-09-27",
+    "image": null,
+    "category": null,
+    "text": "El presidente serbio, Aleksandar Vucic, dimite y abre paso a unas elecciones presidenciales anticipadas",
+    "link": "https://www.france24.com/es/europa/20260927-el-presidente-serbio-aleksandar-vucic-dimite-y-abre-paso-a-unas-elecciones-presidenciales-anticipadas"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://s.france24.com/media/display/3fe9bf78-ba8c-11f1-a1b3-91cf9f3cd539/w:1024/p:16x9/d47e0ac733479fef03190b100d6f520130010495w.jpg",
+    "category": "Europa",
+    "text": "\"La ola de rabia es imparable\": el campamento por la vivienda se instala en el corazón de Madrid",
+    "link": "https://www.france24.com/es/europa/20260927-la-ola-de-rabia-es-imparable-el-campamento-por-la-vivienda-se-instala-en-el-coraz%C3%B3n-de-madrid"
+  },
+  {
+    "date": "2026-09-27",
     "image": "https://s.france24.com/media/display/829ecc58-ba93-11f1-b8a7-11fa9f8a3b4f/w:1024/p:16x9/2026-09-27T063338Z-15922337-RC2IRNAOLTC0-RTRMADP-3-NIRELAND-PARADE.jpg",
     "category": "Europa",
     "text": "Irlanda del Norte y el bloqueo a la marcha de la Orden de Orange que revive fantasmas de un pasado violento",
@@ -8,87 +78,17 @@
   },
   {
     "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/11ba3416-ba87-11f1-83b7-11fa9f8a3b4f/w:1024/p:16x9/ES-20260927-083950-084154-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Lula y Bolsonaro se miden en las calles a una semana de la primera vuelta presidencial",
-    "link": "https://www.france24.com/es/video/20260927-lula-y-bolsonaro-se-miden-en-las-calles-a-una-semana-de-la-primera-vuelta-presidencial"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/8121cd62-ba7f-11f1-be23-852b23529bb9/w:1024/p:16x9/ES-20260927-083246-083452-CS.jpg",
-    "category": null,
-    "text": "Suiza rechaza ampliamente reforzar la neutralidad en su Constitución",
-    "link": "https://www.france24.com/es/video/20260927-suiza-rechaza-ampliamente-reforzar-la-neutralidad-en-su-constituci%C3%B3n"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/68496db2-ba4e-11f1-9c5d-177f79e345bf/w:1024/p:16x9/2026-09-27T083058Z-1752333620-RC2JRNAPBREJ-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg",
-    "category": "Europa",
-    "text": "La policía británica detiene a cinco hombres y evacúa viviendas cerca de una base aérea utilizada por EE. UU.",
-    "link": "https://www.france24.com/es/europa/20260927-la-polic%C3%ADa-brit%C3%A1nica-detiene-a-cinco-hombres-y-evac%C3%BAa-viviendas-cerca-de-una-base-a%C3%A9rea-utilizada-por-ee-uu"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/9725d0d6-ba70-11f1-b245-852b23529bb9/w:1024/p:16x9/2026-09-27T080553Z-597339368-RC2JRNAII01R-RTRMADP-3-SAFRICA-SHOOTING.jpg",
-    "category": "África",
-    "text": "Sudáfrica: dos tiroteos en menos de cinco horas dejan 27 muertos y múltiples heridos",
-    "link": "https://www.france24.com/es/%C3%A1frica/20260927-sud%C3%A1frica-dos-tiroteos-en-menos-de-cinco-horas-dejan-27-muertos-y-m%C3%BAltiples-heridos"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/2174686e-ba81-11f1-8cbf-11fa9f8a3b4f/w:1024/p:16x9/2026-09-27T141221Z-322448966-RC2QRNAAR12S-RTRMADP-3-POPE-FRANCE.jpg",
-    "category": "Francia",
-    "text": "En directo: desde Lourdes, el papa León XIV califica la muerte asistida de \"falsa compasión\"",
-    "link": "https://www.france24.com/es/francia/20260927-en-directo-le%C3%B3n-xiv-insta-a-la-iglesia-a-afrontar-sus-fallos-antes-de-reunirse-con-v%C3%ADctimas-de-abusos-en-francia"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/d7a186ba-ba15-11f1-be07-555a0aff87a4/w:1024/p:16x9/FORMATO-1-44.png",
-    "category": null,
-    "text": "Cisjordania: el arte como catalizador para sanar heridas de la violencia",
-    "link": "https://www.france24.com/es/video/20260927-cisjordania-el-arte-como-catalizador-para-sanar-heridas-de-la-violencia"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/4fb646c4-ba14-11f1-865f-8f3418d01115/w:1024/p:16x9/WhatsApp-Image-2026-09-26-at-2-57-56-PM.jpeg",
-    "category": null,
-    "text": "Afganistán: taxistas mantienen viva la música pese a prohibiciones",
-    "link": "https://www.france24.com/es/video/20260927-afganist%C3%A1n-taxistas-mantienen-viva-la-m%C3%BAsica-pese-a-prohibiciones"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/9ea92c66-b9f0-11f1-8cc7-91cf9f3cd539/w:1024/p:16x9/WEB-IVS-NOT-26SEP-PORTADA-WEB.png",
-    "category": "América Latina",
-    "text": "Lula da Silva y su 'último baile': la conexión popular que sobrevive y resiste ante la extrema derecha",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260927-lula-da-silva-y-su-%C3%BAltimo-baile-la-conexi%C3%B3n-popular-que-sobrevive-y-busca-resistir-ante-la-derecha"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/3dc68570-ba0d-11f1-a208-8f3418d01115/w:1024/p:16x9/ES-20260926-190658-191242-CS.jpg",
-    "category": null,
-    "text": "¿Por qué el caso Ayotzinapa sigue sin esclarecerse 12 años después?",
-    "link": "https://www.france24.com/es/video/20260927-por-qu%C3%A9-el-caso-ayotzinapa-sigue-sin-esclarecerse-12-a%C3%B1os-despu%C3%A9s"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/9ea92c66-b9f0-11f1-8cc7-91cf9f3cd539/w:1024/p:16x9/WEB-IVS-NOT-26SEP-PORTADA-WEB.png",
-    "category": null,
-    "text": "Lula prohíbe las apuestas en línea en Brasil: clubes temen impacto en sus finanzas",
-    "link": "https://www.france24.com/es/video/20260927-lula-proh%C3%ADbe-las-apuestas-en-l%C3%ADnea-en-brasil-clubes-temen-impacto-en-sus-finanzas"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://s.france24.com/media/display/22b0800e-ba05-11f1-b73c-852b23529bb9/w:1024/p:16x9/RODRI-ESPANA-SABADO.jpg",
-    "category": "Deportes",
-    "text": "Liga de Naciones: España se estrena como campeona mundial con una victoria en Wembley",
-    "link": "https://www.france24.com/es/deportes/20260927-liga-de-naciones-espa%C3%B1a-se-estrena-como-campeona-mundial-con-una-victoria-en-wembley"
+    "text": "Arrestan a 5 sospechosos de preparar un atentado tras un \"incidente grave\" cerca de una base aérea británica utilizada por el ejército de EE.UU.",
+    "link": "https://www.bbc.com/mundo/articles/cj3v4qlv5p1xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-27",
     "image": null,
     "category": null,
-    "text": "Arrestan a cinco sospechosos de preparar un atentado tras un \"incidente grave\" cerca de una base aérea británica utilizada por el ejército de EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/cj3v4qlv5p1xo?at_medium=RSS&at_campaign=rss"
+    "text": "Las imágenes de la acampada en la Puerta del Sol de Madrid para protestar por la crisis de vivienda",
+    "link": "https://www.bbc.com/mundo/articles/c6804zkj5z0po?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-27",
@@ -108,13 +108,6 @@
     "date": "2026-09-27",
     "image": null,
     "category": null,
-    "text": "Cómo logra Japón mantener sus calles limpias con tan pocos cestos de basura",
-    "link": "https://www.bbc.com/mundo/articles/cm89j2x1jl99o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-27",
-    "image": null,
-    "category": null,
     "text": "Por qué 130 años después sigue la obsesión con el asesinato de los padres de Lizzie Borden, uno de los mayores misterios sin resolver en EE.UU.",
     "link": "https://www.bbc.com/mundo/articles/cv5yjzzgx022o?at_medium=RSS&at_campaign=rss"
   },
@@ -127,87 +120,94 @@
   },
   {
     "date": "2026-09-27",
-    "image": "https://www.infobae.com/resizer/v2/2MKN5CNXPFAFXHU4LVNHAOAMEU.jpg?auth=cebf76e0d5e3b8362f260183cc461992ce1abbf886126ae7b8c6adf5dea3732e&smart=true&width=1920&height=1279",
+    "image": null,
     "category": null,
-    "text": "Tractocamión embiste a agentes de la FGR durante persecución en Zacatecas: un elemento murió y dos resultaron heridos",
-    "link": "https://www.infobae.com/mexico/2026/09/27/tractocamion-embiste-a-agentes-de-la-fgr-durante-persecucion-en-zacatecas-un-elemento-murio-y-dos-resultaron-heridos/"
+    "text": "Cómo logra Japón mantener sus calles limpias con tan pocos cestos de basura",
+    "link": "https://www.bbc.com/mundo/articles/cm89j2x1jl99o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-27",
-    "image": "https://www.infobae.com/resizer/v2/XIMQNWFTZVEX3HNLJLLGA6WV6Y.png?auth=bbb3326d9113cf83f58ba32593303fe01447d5ac8262e2fe4bd3ce07c029a3c4&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/BCYY5BKYD5GZ7MIRLRXCQLGEBA.png?auth=626482b440b00387d61ead8599e4c3b7e9c3f73fe2b52236309de91c493984fa&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "“Te extraño todos los días”: el homenaje de Paula Chaves a su perro Moro a cinco meses de su partida",
-    "link": "https://www.infobae.com/teleshow/2026/09/27/te-extrano-todos-los-dias-el-homenaje-de-paula-chaves-a-su-perro-moro-a-cinco-meses-de-su-partida/"
+    "text": "El golazo olímpico de Gastón Lodico con el que Racing se puso en ventaja ante Boca: el gesto previo de un hincha que se volvió viral",
+    "link": "https://www.infobae.com/deportes/2026/09/27/el-golazo-olimpico-de-gaston-lodico-con-el-que-racing-se-puso-en-ventaja-ante-boca-el-gesto-previo-de-un-hincha-que-se-volvio-viral/"
   },
   {
     "date": "2026-09-27",
-    "image": "https://www.infobae.com/resizer/v2/7GK2QEIMPZGP5LNZ5NCX4SHQZ4.jpg?auth=8316f8e512673a0bb9ef0a8b2f6d936ee662fd79af3559d2400d2370fb0c8707&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/55VN4SL6GZBMPOERRRYDBW5Y2E.jpg?auth=ec62c4fb25a12c960bd1879e13ef3f6287b03ea8e5c6fd5f4f53fbe20918d3f3&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Joven acudió a una falsa entrevista de trabajo en Bogotá y terminó secuestrado por varias horas",
-    "link": "https://www.infobae.com/colombia/2026/09/27/hombre-de-27-anos-fue-secuestrado-tras-acudir-a-una-falsa-oferta-laboral-en-el-sur-de-bogota-termine-siendo-humillado-y-reducido/"
+    "text": "Ejército denunció que las disidencias se llevaron el cuerpo de un soldado en El Tambo: “Estas conductas constituyen crímenes de guerra”",
+    "link": "https://www.infobae.com/colombia/2026/09/27/ejercito-denuncio-que-las-disidencias-se-llevaron-el-cuerpo-de-un-soldado-en-el-tambo-estas-conductas-constituyen-crimenes-de-guerra/"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://www.infobae.com/resizer/v2/RLRWJP5TNVAANFDOK5LU5LNI24.jpg?auth=59b73c388acf4d1c391682aff36ce83dcf3fa7f4e754c6e01f167e175b6acd45&smart=true&width=1920&height=1279",
+    "category": null,
+    "text": "Rufián advierte de que el problema de la vivienda \"está arrasando a la izquierda\" y señala la inacción del PSOE",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/27/rufian-advierte-de-que-el-problema-de-la-vivienda-esta-arrasando-a-la-izquierda-y-senala-la-inaccion-del-psoe/"
   },
   {
     "date": "2026-09-27",
     "image": null,
     "category": null,
-    "text": "Ministro de Ecuador confirma la detención en Colombia de esposa e hija de alias Fito",
-    "link": "https://www.infobae.com/america/agencias/2026/09/27/ministro-de-ecuador-confirma-la-detencion-en-colombia-de-esposa-e-hija-de-alias-fito/"
+    "text": "102-85. A'ja Wilson destroza a las Fever de Caitlin Clark",
+    "link": "https://www.infobae.com/espana/agencias/2026/09/27/102-85-aja-wilson-destroza-a-las-fever-de-caitlin-clark/"
   },
   {
     "date": "2026-09-27",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/ODCIX6P2XVA7JNZEBA7AYJQG2A.jpg?auth=0ca9e83abc774a0bdaa2a4350ee13f1fa2959c716d8695a885c6b416c3b8edaa&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Empresarios piden al Parlamento de Panamá rectificar los cambios a una reforma electoral",
-    "link": "https://www.infobae.com/america/agencias/2026/09/27/empresarios-piden-al-parlamento-de-panama-rectificar-los-cambios-a-una-reforma-electoral/"
+    "text": "Sigue traslado de Ernesto Ruffo del Altiplano a su casa en Ensenada; su hija logra hablar con él: “Voy en trayecto”",
+    "link": "https://www.infobae.com/mexico/2026/09/27/sigue-traslado-de-ernesto-ruffo-del-altiplano-a-su-casa-en-ensenada-su-hija-logra-hablar-con-el-voy-en-trayecto/"
   },
   {
     "date": "2026-09-27",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/CBN2QWNV3BFB5BHAMX3M7O5NBA.png?auth=0f4741c3e96f991fb6d99e460a1807546d8b30953d58697c21ab1af0868b78e4&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Sito Alonso: \"Los jugadores tienen que tienen que entender donde están\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/27/sito-alonso-los-jugadores-tienen-que-tienen-que-entender-donde-estan/"
+    "text": "Partidos de hoy, domingo 27 de setiembre de 2026: programación, canales TV y resultados en vivo",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/27/partidos-de-hoy-domingo-27-de-setiembre-de-2026-programacion-canales-tv-y-resultados-en-vivo/"
   },
   {
     "date": "2026-09-27",
-    "image": "https://www.infobae.com/resizer/v2/ZGLVUVVXKVD2VE67NIX3DWCEIE.jpg?auth=aa13a72d71ac81d77dab6e389e5be1b5e0074ff8bf3e0b94a5b3f834353f1e68&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/NFAL2DDPVRC5LIB5VW3SW6TXIA.jpg?auth=cb068a72e22ba90c48f54596b742e30b4395de51049fa4279ef0f7be1e778f4e&smart=true&width=1440&height=810",
     "category": null,
-    "text": "Javier Tebas: \"La transparencia y reglas iguales para todos son imprescindibles para proteger la integridad\"",
-    "link": "https://www.infobae.com/america/agencias/2026/09/27/javier-tebas-la-transparencia-y-reglas-iguales-para-todos-son-imprescindibles-para-proteger-la-integridad/"
+    "text": "El artesano japonés que lleva una técnica milenaria de laca a tablas de surf, skate y objetos cotidianos",
+    "link": "https://www.infobae.com/historias/2026/09/27/el-artesano-japones-que-lleva-una-tecnica-milenaria-de-laca-a-tablas-de-surf-skate-y-objetos-cotidianos/"
   },
   {
     "date": "2026-09-27",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/QX2K4WE3SFAYRKMHROI73WAFSM.jpg?auth=8a2e9b670f575ee4b78ef3c7cc7a26d10ae959874cebce90489f467fdbe08302&smart=true&width=1980&height=1090",
     "category": null,
-    "text": "Moncho Fernández: \"Hemos ganado desde el esfuerzo\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/27/moncho-fernandez-hemos-ganado-desde-el-esfuerzo/"
+    "text": "Carolina Kopelioff, la protagonista de Cautiva, recordó la escena de sexo que grabó con L-Gante: “Un gran actor”",
+    "link": "https://www.infobae.com/teleshow/2026/09/27/carolina-kopelioff-la-protagonista-de-cautiva-recordo-la-escena-de-sexo-que-grabo-con-l-gante-un-gran-actor/"
   },
   {
     "date": "2026-09-27",
-    "image": "https://www.infobae.com/resizer/v2/2VRDWDN3GBD3THBGXDG4L4HET4.jpg?auth=f26949e2bb70eefe10bb7658c1f68c6a6cb9961565df786a1882183317cc771c&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/YK2PKZDQZZAKHDV735FU7UCQ3E.png?auth=708ce63a6a236122a444d70eb55d92a40ab4a1adcf31ee3c3f2726d933848ba8&smart=true&width=1536&height=1024",
     "category": null,
-    "text": "Boca Juniors y Racing definirán a uno de los semifinalistas de la Copa Argentina: hora, TV y formaciones",
-    "link": "https://www.infobae.com/deportes/2026/09/27/boca-juniors-y-racing-definiran-a-uno-de-los-semifinalistas-de-la-copa-argentina-hora-tv-y-formaciones/"
+    "text": "Icetex anunció el último plazo para becas de posgrado en el Tecnológico de Monterrey: Las convocatorias cierran el 2 de octubre",
+    "link": "https://www.infobae.com/colombia/2026/09/27/icetex-anuncio-el-ultimo-plazo-para-becas-de-posgrado-en-el-tecnologico-de-monterrey-las-convocatorias-cierran-el-2-de-octubre/"
   },
   {
     "date": "2026-09-27",
-    "image": "https://www.infobae.com/resizer/v2/RLRIN4YDMFAEVNPK6R5LXIST7I.jpg?auth=96f45eb6eb49e0d17635cf7e627b21937e224b440a9151f41d30e2ce42670bb8&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/PIFAGPDSNFEI5K3KDJHYAYONNM.jpg?auth=32feb1120ad2832aeca57e646ac9f3aa23786b070e9dff5d73011778c9cfc271&smart=true&width=1280&height=853",
     "category": null,
-    "text": "Alianza Lima vs Pinheiros EN VIVO HOY: punto a punto del partido por fecha 3 de la ‘Noche Blanquiazul de Vóley’ 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/09/27/alianza-lima-vs-pinheiros-en-vivo-hoy-punto-a-punto-partido-fecha-3-noche-blanquiazul-voley-2026-resumen-resultado/"
+    "text": "Santiago Buitrago fue el mejor colombiano en el Mundial de Ciclismo de Ruta 2026: Nairo Quintana se despidió de la selección nacional",
+    "link": "https://www.infobae.com/colombia/deportes/2026/09/27/santiago-buitrago-fue-el-mejor-colombiano-en-el-mundial-de-ciclismo-de-ruta-2026-nairo-quintana-se-despidio-de-la-seleccion-nacional/"
   },
   {
     "date": "2026-09-27",
-    "image": "https://www.infobae.com/resizer/v2/UDKJSZCPYRGV7PGLTWGLAVFDJQ.jpg?auth=5d2468237c62835db4931ca0d78b58c0cf85bfa61f23551a1d17e39c689bd182&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/VR7PTGT3F5CNRMHOZDLROFYOSQ.jpg?auth=d60a37f2f91354a241bf9c6cd5a3ce9e04653d26978f04c8ffb94a52462ffb86&smart=true&width=1920&height=1077",
     "category": null,
-    "text": "EN VIVO | La presidenta Claudia Sheinbaum en el Zócalo para cerrar gira y rendir cuentas: la mandataria destaca reformas que blindan a México de la injerencia extranjera",
-    "link": "https://www.infobae.com/mexico/2026/09/27/cierre-de-gira-y-rendicion-de-cuentas-de-claudia-sheinbaum-en-el-zocalo/"
+    "text": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 27 de septiembre: cae “Bebo”, operador financiero de Los Metros y vinculado al tráfico de combustible",
+    "link": "https://www.infobae.com/mexico/2026/09/27/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-27-de-septiembre-ernesto-ruffo-seguira-proceso-por-presunto-huachicol-fiscal-en-prision-domiciliaria/"
   },
   {
     "date": "2026-09-27",
-    "image": "https://www.infobae.com/resizer/v2/JPXV3PVJDNGFHHUOXB34BRVPNU.jpg?auth=670867bd363785120d7087eb37a8bbd2d50d76073eca79a6428c15daa6767d5b&smart=true&width=4231&height=2821",
+    "image": "https://www.infobae.com/resizer/v2/LRCFWYTTWRFDRJUWUXKARUTZZQ.jpg?auth=06a454ff9fc6e298fd5ea54b349ed180313e3a874ebd6e20661be015165c47d0&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Estos serán los rivales del Deportivo Cali y Santa Fe en la Copa Libertadores Femenina 2026: Las Leonas enfrentarán a las vigentes campeonas",
-    "link": "https://www.infobae.com/colombia/deportes/2026/09/27/estos-seran-los-rivales-del-deportivo-cali-y-santa-fe-en-la-copa-libertadores-femenina-2026-las-leonas-enfrentaran-a-las-vigentes-campeonas/"
+    "text": "Confiscan casi 3 mil dosis de droga tras cuatro cateos en Michoacán: hay 7 detenidos",
+    "link": "https://www.infobae.com/mexico/2026/09/27/confiscan-casi-3-mil-dosis-de-droga-tras-cuatro-cateos-en-michoacan-hay-7-detenidos/"
   },
   {
     "date": "2026-09-27",
@@ -288,73 +288,80 @@
   },
   {
     "date": "2026-09-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": null,
     "category": null,
-    "text": "Israel revoca el estatus de diplomáticos neerlandeses en Ramala",
-    "link": "https://actualidad.rt.com/actualidad/629697-israel-revoca-estatus-diplomaticos-neerlandeses-ramala?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab94b6159bf5b4e753489bf.jpg",
-    "category": null,
-    "text": "Atasco futurista en San Petersburgo: 'manada' de robots cruza un paso de peatones (VIDEO)",
-    "link": "https://actualidad.rt.com/actualidad/629692-manana-otonal-san-petersburgo-robots?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Esto pasa con el petróleo tras rechazo de Trump a la propuesta iraní",
+    "link": "https://actualidad.rt.com/actualidad/629715-pasar-petroleo-rechazo-trump-propuesta-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-27",
     "image": null,
     "category": null,
-    "text": "Revelan que Trump propuso a Xi comprar armas de EE.UU.",
-    "link": "https://actualidad.rt.com/actualidad/629689-trump-xi-comprar-armas-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ministro de Exteriores alemán revela quién le pidió que \"hablara con Rusia\"",
+    "link": "https://actualidad.rt.com/actualidad/629714-wadephul-revelar-pedir-hablar-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab986b959bf5b0374720473.png",
+    "category": null,
+    "text": "Detenido hace fuga 'imposible' de su celda en Brasil (VIDEO)",
+    "link": "https://actualidad.rt.com/viral/629707-preso-escapar-celda-brasil-escurrir-barras-celda?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab98c27e9ff7140ec562e58.jpg",
+    "category": null,
+    "text": "Trump dice si le preocupa la posibilidad de que la IA se rebele",
+    "link": "https://actualidad.rt.com/actualidad/629709-trump-dice-preocupa-posibilidad-ia-rebele?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab9997059bf5b037472047f.jpg",
+    "category": null,
+    "text": "\"Más difícil\" que en la Guerra Fría: la advertencia de Bill Gates sobre la IA",
+    "link": "https://actualidad.rt.com/actualidad/629674-ia-guerra-fria-eeuu-bill-gates-union-sovietica?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab991bc59bf5b037c6e8507.jpg",
+    "category": null,
+    "text": "Trump responde si están sobre la mesa ataques a Irán antes de las elecciones intermedias",
+    "link": "https://actualidad.rt.com/actualidad/629713-trump-responde-siguen-opcion-ataques-iran-elecciones-intermediarias?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab9958de9ff7140a474f11f.jpg",
+    "category": null,
+    "text": "Trump dijo a Zelenski que deben \"bajarle el ritmo\" a los ataques a refinerías, y esto le respondió",
+    "link": "https://actualidad.rt.com/actualidad/629712-trump-dijo-zelenski-deben-bajarle?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-09-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab983f7e9ff713fd138bdd9.jpg",
+    "category": null,
+    "text": "FT: Europa y Asia se preparan para un 'tira y afloja' en este ámbito crítico",
+    "link": "https://actualidad.rt.com/actualidad/629706-europa-asia-preparar-tira-afloja-gas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-27",
     "image": null,
     "category": null,
-    "text": "Un caballo bate un récord Guinness gracias a su cola de más de cuatro metros (FOTO)",
-    "link": "https://actualidad.rt.com/actualidad/629686-caballo-bate-record-guinness-cola?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump evalúa \"muy seriamente\" prohibir exportaciones de diésel",
+    "link": "https://actualidad.rt.com/actualidad/629711-trump-evalua-seriamente-prohibir-exportaciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab946cbe9ff7128a735f246.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab97c1459bf5b4e753489d6.jpg",
     "category": null,
-    "text": "Gobierno suizo: el resultado del referéndum no significa el rechazo a la neutralidad",
-    "link": "https://actualidad.rt.com/actualidad/629687-cancilleria-suiza-resultado-referendum-neutralidad?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Seúl exige disculpas y explicación oficial a Kiev: ¿qué pasó?",
+    "link": "https://actualidad.rt.com/actualidad/629702-seul-demanda-disculpa-explicacion-oficial?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab9387fe9ff711e1c691842.jpg",
+    "image": null,
     "category": null,
-    "text": "Abogada de anciana desahuciada en España denuncia que el Gobierno no da alternativas",
-    "link": "https://actualidad.rt.com/actualidad/629682-abogada-anciana-desahuciada-denuncia-falta-alternativas?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab90a1a59bf5b64a26c2aad.jpg",
-    "category": null,
-    "text": "¿Quieren comprobar el CI de su gato? Hay una forma de hacerlo (VIDEO)",
-    "link": "https://actualidad.rt.com/viral/629655-comprobar-iq-gato-forma-hacerlo?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab92229e9ff7140ec562e1c.png",
-    "category": null,
-    "text": "Revelan tres claves que refuerzan a Xi ante su próxima reunión con Trump",
-    "link": "https://actualidad.rt.com/actualidad/629660-revelan-tres-claves-refuerzan-xi?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab934a859bf5b63fa7f0b39.jpg",
-    "category": null,
-    "text": "Irán afirma enriquecer uranio hasta el 60 % con fines pacíficos",
-    "link": "https://actualidad.rt.com/actualidad/629677-guerra-solucion-iran-uranio-fines-pacificos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-09-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6ab931e5e9ff714b795bcb2b.jpg",
-    "category": null,
-    "text": "\"Maricarmen, tengo un mensaje para ti\": Sánchez reacciona al desalojo de una anciana de 87 años de su casa",
-    "link": "https://actualidad.rt.com/actualidad/629678-sanchez-reacciona-desalojo-anciana-87?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Vídeo de las masivas protestas en Madrid por el desahucio de Maricarmen y la crisis de vivienda",
+    "link": "https://es.euronews.com/video/2026/09/27/video-de-las-masivas-protestas-en-madrid-por-el-desahucio-de-maricarmen-y-la-crisis-de-viv"
   },
   {
     "date": "2026-09-27",
@@ -411,12 +418,5 @@
     "category": null,
     "text": "Al menos 27 muertos y 11 heridos tras 2 tiroteos masivos en locales de ocio de Sudáfrica",
     "link": "https://es.euronews.com/2026/09/27/al-menos-27-muertos-11-heridos-tras-2-tiroteos-masivos-locales-de-ocio-de-sudafrica"
-  },
-  {
-    "date": "2026-09-27",
-    "image": null,
-    "category": null,
-    "text": "La UE pide a los países reducir la demanda energética ante la presión invernal del gas",
-    "link": "https://es.euronews.com/2026/09/27/la-ue-pide-a-los-paises-reducir-la-demanda-energetica-ante-la-presion-invernal-del-gas"
   }
 ]

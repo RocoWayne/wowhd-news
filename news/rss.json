@@ -1,101 +1,94 @@
 [
   {
     "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/fc656e4a-bcfd-11f1-b11a-7be0f5469a6a/w:1024/p:16x9/ES-20260930-073618-073826-CS.jpg",
-    "category": null,
-    "text": "Mujeres embarazadas sufren abortos espontáneos por culpa de violencia israelí en Cisjordania ocupada",
-    "link": "https://www.france24.com/es/video/20260930-mujeres-embarazadas-sufren-abortos-espont%C3%A1neos-por-culpa-de-violencia-israel%C3%AD-en-cisjordania-ocupada"
-  },
-  {
-    "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/796af3b0-bcfe-11f1-a483-098db7fa8bc7/w:1024/p:16x9/Lo-que-se-sabe-de-la-filtracio%CC%81n-masiva-de-datos-de-agentes-y-empleados.png",
-    "category": null,
-    "text": "Lo que se sabe de la filtración masiva de datos del  FBI",
-    "link": "https://www.france24.com/es/video/20260930-lo-que-se-sabe-de-la-filtraci%C3%B3n-masiva-de-datos-del-fbi"
-  },
-  {
-    "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/bb2480ba-bcf8-11f1-bd68-098db7fa8bc7/w:1024/p:16x9/FOTO-PORTADA-ESPANA-FRANCIA-MACRON-SANCHEZ.jpg",
-    "category": "Europa",
-    "text": "\"Ante el autoritarismo, España y Francia defienden orden mundial basado en normas\": Sánchez y Macron alinean posturas",
-    "link": "https://www.france24.com/es/europa/20260930-ante-el-autoritarismo-espa%C3%B1a-y-francia-defienden-orden-mundial-basado-en-normas-s%C3%A1nchez-y-macron-alinean-posturas"
-  },
-  {
-    "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/c4306a48-bcf8-11f1-9acb-d367a0468893/w:1024/p:16x9/Unidad-y-cooperacio%CC%81n-puntos-clave-de-la-visita-de-Macron-a-Espan%CC%83a.png",
-    "category": null,
-    "text": "Unidad y cooperación: puntos clave de la visita de Macron a España",
-    "link": "https://www.france24.com/es/video/20260930-unidad-y-cooperacio%CC%81n-puntos-clave-de-la-visita-de-macron-a-espan%CC%83a"
-  },
-  {
-    "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/7a4f7cc8-bce1-11f1-a0fb-1b050e7dec5f/w:1024/p:16x9/2026-09-30T135639Z-1416470123-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
+    "image": "https://s.france24.com/media/display/74a1392a-3f8b-11f1-af77-005056bf30b7/w:1024/p:16x9/AP26096555305099.jpg",
     "category": "EE. UU. y Canadá",
-    "text": "Suspenden la primera ejecución de una mujer en Tennessee en dos siglos: ¿qué se puede esperar del caso?",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260930-suspenden-la-primera-ejecuci%C3%B3n-de-una-mujer-en-tennessee-en-dos-siglos-qu%C3%A9-se-puede-esperar-del-caso"
+    "text": "El sarampión resurge en Estados Unidos: Pensilvania reporta su quinta muerte del año",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260930-el-sarampi%C3%B3n-resurge-en-estados-unidos-pensilvania-reporta-su-quinta-muerte-del-a%C3%B1o"
   },
   {
     "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/811bd09a-bcf7-11f1-88bd-d367a0468893/w:1024/p:16x9/2026-09-30T094522Z-589956922-RC2LTNA5W90U-RTRMADP-3-IRAQ-USA-COALITION.jpg",
+    "image": "https://s.france24.com/media/display/e9656aaa-bd0e-11f1-9141-816a8398162d/w:1024/p:16x9/84e065c535e6c78911fb274a2fbc2130ff08c041.jpg",
+    "category": "Deportes",
+    "text": "\"A su debido tiempo, diré la verdad\": Cristiano Ronaldo abandona la concentración de Portugal",
+    "link": "https://www.france24.com/es/deportes/20260930-a-su-debido-tiempo-dir%C3%A9-la-verdad-cristiano-ronaldo-abandona-la-concentraci%C3%B3n-de-portugal"
+  },
+  {
+    "date": "2026-09-30",
+    "image": "https://s.france24.com/media/display/9e43e776-bd14-11f1-be26-d367a0468893/w:1024/p:16x9/AP26232739325332.jpg",
+    "category": "En Contexto",
+    "text": "Venta de tierras a extranjeros en Argentina: ¿qué hay detrás del fallo del Supremo?",
+    "link": "https://www.france24.com/es/programas/en-contexto/20260930-venta-de-tierras-a-extranjeros-en-argentina-qu%C3%A9-hay-detr%C3%A1s-del-fallo-del-supremo"
+  },
+  {
+    "date": "2026-09-30",
+    "image": "https://s.france24.com/media/display/4c818930-bc23-11f1-a3f6-852b23529bb9/w:1024/p:16x9/d6c1bcc18342f7218a15e2338760a8f56ee7f11e.jpg",
+    "category": "América Latina",
+    "text": "De España a América Latina: una crisis de vivienda que va más allá de la falta de casas",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260930-de-espa%C3%B1a-a-am%C3%A9rica-latina-una-crisis-de-vivienda-que-va-m%C3%A1s-all%C3%A1-de-la-falta-de-casas"
+  },
+  {
+    "date": "2026-09-30",
+    "image": "https://s.france24.com/media/display/1b7533c6-bd0b-11f1-8f53-7be0f5469a6a/w:1024/p:16x9/ES-20260930-110144-110357-CS.jpg",
     "category": null,
-    "text": "EE. UU. se retira oficialmente de Irak mientras Ejército iraquí integra a milicias armadas",
-    "link": "https://www.france24.com/es/video/20260930-ee-uu-se-retira-oficialmente-de-irak-mientras-ej%C3%A9rcito-iraqu%C3%AD-integra-a-milicias-armadas"
+    "text": "Avión que cubría ruta Dubái-Tel Aviv se desvía tras generada pelea de pilotos en la cabina",
+    "link": "https://www.france24.com/es/video/20260930-avi%C3%B3n-que-cubr%C3%ADa-ruta-dub%C3%A1i-tel-aviv-se-desv%C3%ADa-tras-generada-pelea-de-pilotos-en-la-cabina"
   },
   {
     "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/d908ff86-8f24-11f1-b772-005056bf30b7/w:1024/p:16x9/PHOTO-2026-08-03-12-14-20.jpg",
-    "category": "América Latina",
-    "text": "Nuevas restricciones financieras y de viajes: así aumenta Estados Unidos la presión sobre Cuba",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260930-nuevas-restricciones-financieras-y-de-viajes-as%C3%AD-aumenta-estados-unidos-la-presi%C3%B3n-sobre-cuba"
+    "image": "https://s.france24.com/media/display/74ec72a8-bd0f-11f1-ba41-098db7fa8bc7/w:1024/p:16x9/AP26251630597204.jpg",
+    "category": null,
+    "text": "Cuba: aumentan casos de enfermedades virales por escasez de agua potable",
+    "link": "https://www.france24.com/es/video/20260930-cuba-aumentan-casos-de-enfermedades-virales-por-escasez-de-agua-potable"
   },
   {
     "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/dfecd40c-bc2f-11f1-839b-852b23529bb9/w:1024/p:16x9/image-30.jpeg",
-    "category": "América Latina",
-    "text": "Elecciones en Brasil: las favelas en Río de Janeiro, un electorado clave en la disputa por el voto",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260930-elecciones-en-brasil-las-favelas-en-r%C3%ADo-de-janeiro-un-electorado-clave-en-la-disputa-por-el-voto"
+    "image": "https://s.france24.com/media/display/4504f12e-bd09-11f1-94fd-7be0f5469a6a/w:1024/p:16x9/ES-20260930-094050-094311-CS.jpg",
+    "category": null,
+    "text": "Informe desde París: Milei llega a Francia para buscar inversiones para Argentina",
+    "link": "https://www.france24.com/es/video/20260930-informe-desde-par%C3%ADs-milei-llega-a-francia-para-buscar-inversiones-para-argentina"
   },
   {
     "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/208a9d82-bc26-11f1-b412-852b23529bb9/w:1024/p:16x9/WEB-PORTADA-29SEP-ELL.png",
-    "category": "Ellas hoy",
-    "text": "Lady Gaga y Lena Dunham reabren el debate de la gestación subrogada",
-    "link": "https://www.france24.com/es/programas/ellas-hoy/20260930-lady-gaga-y-lena-dunham-reabren-el-debate-de-la-gestaci%C3%B3n-subrogada"
+    "image": "https://s.france24.com/media/display/bc185f3c-bd07-11f1-a3b8-816a8398162d/w:1024/p:16x9/ES-20260930-083426-083619-CS.jpg",
+    "category": null,
+    "text": "Informe desde Beirut: termina coalición anti Estado Islámico en Irak con salida de EE. UU.",
+    "link": "https://www.france24.com/es/video/20260930-informe-desde-beirut-termina-coalici%C3%B3n-anti-estado-isl%C3%A1mico-en-irak-con-salida-de-ee-uu"
   },
   {
     "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/757575aa-bcea-11f1-bb21-816a8398162d/w:1024/p:16x9/2026-09-29T135921Z-771805907-RC21TNAYV7EO-RTRMADP-3-BRITAIN-POLITICS-LABOUR.jpg",
+    "image": "https://s.france24.com/media/display/682ef850-bd06-11f1-9724-1b050e7dec5f/w:1024/p:16x9/ES-20260930-074540-074950-CS.jpg",
+    "category": null,
+    "text": "Directo Latam y la polémica por las 'fake news' en torno a la virgen Nuestra Señora de Aparecida",
+    "link": "https://www.france24.com/es/video/20260930-directo-latam-y-la-pol%C3%A9mica-por-las-fake-news-en-torno-a-la-virgen-nuestra-se%C3%B1ora-de-aparecida"
+  },
+  {
+    "date": "2026-09-30",
+    "image": "https://s.france24.com/media/display/cccbd814-bd01-11f1-abb4-1b050e7dec5f/w:1024/p:16x9/ES-20260930-073849-074045-CS.jpg",
+    "category": null,
+    "text": "Productos farmacéuticos, afectados por la inflación y la escasez en Irán por cierre de Ormuz",
+    "link": "https://www.france24.com/es/video/20260930-productos-farmac%C3%A9uticos-afectados-por-la-inflaci%C3%B3n-y-la-escasez-en-ir%C3%A1n-por-cierre-de-ormuz"
+  },
+  {
+    "date": "2026-09-30",
+    "image": "https://s.france24.com/media/display/6f8c126a-bc37-11f1-9d3f-177f79e345bf/w:1024/p:16x9/AP26272438005114.jpg",
     "category": "Europa",
-    "text": "¿Regresará Reino Unido a la UE? Burnham no lo descarta: “El Brexit ha causado más daño que beneficio”",
-    "link": "https://www.france24.com/es/europa/20260930-regresar%C3%A1-reino-unido-a-la-ue-burnham-no-lo-descarta-el-brexit-ha-causado-m%C3%A1s-da%C3%B1o-que-beneficio"
+    "text": "Reino Unido dice tener ‘sólidos indicios’ de la participación de Irán en el supuesto plan contra la base de Fairford",
+    "link": "https://www.france24.com/es/europa/20260930-reino-unido-dice-tener-s%C3%B3lidos-indicios-de-la-participaci%C3%B3n-de-ir%C3%A1n-en-el-supuesto-plan-contra-la-base-de-fairford"
+  },
+  {
+    "date": "2026-09-30",
+    "image": "https://s.france24.com/media/display/c48ee25a-bd05-11f1-9d3f-1b050e7dec5f/w:1024/p:16x9/ES-20260930-124546-125150-CS.jpg",
+    "category": null,
+    "text": "Directo a… Tel Aviv donde Israel acusa de \"intento de atentado yihadista\" la toma del avión de Dubái",
+    "link": "https://www.france24.com/es/video/20260930-directo-a-tel-aviv-donde-israel-acusa-de-intento-de-atentado-yihadista-la-toma-del-avi%C3%B3n-de-dub%C3%A1i"
   },
   {
     "date": "2026-09-30",
     "image": null,
     "category": null,
-    "text": "Netanyahu ordena preparativos ante cualquier \"amenaza potencial\" tras incidente en vuelo con destino Tel Aviv",
-    "link": "https://www.france24.com/es/medio-oriente/20260930-pelea-de-pilotos-en-el-aire-y-aterrizaje-de-emergencia-lo-que-sabemos-del-vuelo-dub%C3%A1i-tel-aviv-que-fue-desviado"
-  },
-  {
-    "date": "2026-09-30",
-    "image": "https://s.france24.com/media/display/be013ffa-bc7e-11f1-adb1-177f79e345bf/w:1024/p:16x9/AP25357403714237.jpg",
-    "category": "Expreso de Oriente",
-    "text": "7-O: ¿qué sabía Netanyahu antes del ataque de Hamás?",
-    "link": "https://www.france24.com/es/programas/expreso-de-oriente/20260930-7-o-qu%C3%A9-sab%C3%ADa-netanyahu-antes-del-ataque-de-ham%C3%A1s"
-  },
-  {
-    "date": "2026-09-30",
-    "image": null,
-    "category": null,
-    "text": "Netanyahu afirma que un piloto apuñaló a otro durante un vuelo con destino a Israel y \"aparentemente intentó estrellar el avión\"",
-    "link": "https://www.bbc.com/mundo/articles/cvkgw565d2g4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-09-30",
-    "image": null,
-    "category": null,
-    "text": "Las imágenes dentro del avión con destino a Israel en el que apuñalaron a un piloto",
-    "link": "https://www.bbc.com/mundo/articles/cmr4vgg9rw91o?at_medium=RSS&at_campaign=rss"
+    "text": "Qué se sabe sobre el apuñalamiento en un vuelo rumbo a Israel que califican como un \"intento de atentado terrorista\"",
+    "link": "https://www.bbc.com/mundo/articles/cvzeze5zpww7o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-30",
@@ -115,6 +108,13 @@
     "date": "2026-09-30",
     "image": null,
     "category": null,
+    "text": "La Corte Suprema de EE.UU. autoriza finalmente la ejecución de Christa Pike, la mujer condenada a muerte en Tennessee por un brutal asesinato",
+    "link": "https://www.bbc.com/mundo/articles/cmx2zrrqqx92o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-09-30",
+    "image": null,
+    "category": null,
     "text": "Por qué tener poca grasa corporal es perjudicial",
     "link": "https://www.bbc.com/mundo/articles/cwg59rdmyj1eo?at_medium=RSS&at_campaign=rss"
   },
@@ -122,8 +122,8 @@
     "date": "2026-09-30",
     "image": null,
     "category": null,
-    "text": "Una corte paraliza en el último momento la ejecución de Christa Pike, la mujer condenada a muerte en Tennessee por un brutal asesinato",
-    "link": "https://www.bbc.com/mundo/articles/cmx2zrrqqx92o?at_medium=RSS&at_campaign=rss"
+    "text": "Netanyahu afirma que un piloto apuñaló a otro durante un vuelo con destino a Israel y \"aparentemente intentó estrellar el avión\"",
+    "link": "https://www.bbc.com/mundo/articles/cvkgw565d2g4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-09-30",
@@ -155,87 +155,87 @@
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/E73BM7ZSYNDOZL7Q53CRJGCLXE.jpg?auth=75ad6b7fdf73ad903f6b558d3cb9149d084d32d14fcf7bcff78341c9bf5b8ba2&smart=true&width=2374&height=1335",
+    "image": "https://www.infobae.com/resizer/v2/DZTSIGL5WZAN3A3LPMFASUR3GU.jpg?auth=99c8e4e7aae95b44ba04756315a1655fbcdb937d6e0e943fb8fd1dec99f0e04e&smart=true&width=1920&height=1323",
     "category": null,
-    "text": "Un tribunal federal frena la ejecución de Christa Pike a último momento",
-    "link": "https://www.infobae.com/estados-unidos/2026/09/30/un-tribunal-federal-frena-la-ejecucion-de-christa-pike-a-ultimo-momento/"
+    "text": "Ucrania recuperó 176 kilómetros cuadrados de territorio ocupado por Rusia y prepara una nueva contraofensiva",
+    "link": "https://www.infobae.com/america/mundo/2026/09/30/ucrania-recupero-176-kilometros-cuadrados-de-territorio-ocupado-por-rusia-y-prepara-una-nueva-contraofensiva/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/LALGSMA2MVDUBMHY3N6HQ2PRNA.jpg?auth=b1131dd4de530d85dfed2e77cf4fb2a508963b2ee44a2f5a1b55033cb0310465&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/MCZ4HNSHSVF5JLBH2PJITL47IM.jpg?auth=f7566dfdc3926caeb2348b023c7205266a1da0fa58437909d3c79561171dfd3f&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "El Sindicato de Camioneros se movilizará ante la Legislatura porteña para reclamar los USD 200 millones en indemnizaciones",
-    "link": "https://www.infobae.com/politica/2026/09/30/el-sindicato-de-camioneros-se-movilizara-ante-la-legislatura-portena-para-reclamar-los-usd-200-millones-en-indemnizaciones/"
+    "text": "Santiago Ormeño detalla la rudeza de la Liga AUF Uruguaya y cuenta cuál será su finalidad: “Tengo que tomar un buen nivel para volver a Perú”",
+    "link": "https://www.infobae.com/peru/deportes/2026/09/30/santiago-ormeno-detalla-la-rudeza-de-la-liga-auf-uruguaya-y-cuenta-cual-sera-su-finalidad-tengo-que-tomar-un-buen-nivel-para-volver-a-peru/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/GXHDRROCVJDV3ADUDQE33E3H3I.jpg?auth=59477244bf62677f487829b0aa4d70d86be2ad08ba934b53cb5470f9e9d2dfa5&smart=true&width=2000&height=1333",
+    "image": "https://www.infobae.com/resizer/v2/4TA4UBQGQ5FF7DG3QKXVERCNXI.jpg?auth=6d51143d26b8edc7fbbe25c6d083d24f0599d8d0bdc6100933bd56cb5b918666&smart=true&width=1366&height=768",
     "category": null,
-    "text": "Tras el fallo de la Corte, la oposición busca votos para convocar a una sesión y derogar el mega DNU 70",
-    "link": "https://www.infobae.com/politica/2026/09/30/tras-el-fallo-de-la-corte-la-oposicion-busca-votos-para-convocar-a-una-sesion-y-derogar-el-mega-dnu-70/"
+    "text": "Boca Juniors lanzó sus redes sociales en inglés: el saludo de Lautaro Di Lollo que se volvió viral",
+    "link": "https://www.infobae.com/deportes/2026/09/30/boca-juniors-lanzo-sus-redes-sociales-en-ingles-el-saludo-de-lautaro-di-lollo-que-se-volvio-viral/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/4BGDLEXKFZGOVKIORE3IWD2BR4.jpg?auth=98d23e9b4e8f56fa70ced56605fc81784d0522cc083bed5e7658cef07786415f&smart=true&width=1201&height=629",
+    "image": "https://www.infobae.com/resizer/v2/VR7PTGT3F5CNRMHOZDLROFYOSQ.jpg?auth=d60a37f2f91354a241bf9c6cd5a3ce9e04653d26978f04c8ffb94a52462ffb86&smart=true&width=1920&height=1077",
     "category": null,
-    "text": "La historia de superación de Piero Magallanes: de no debutar en Universitario y jugar en torneos amateurs a destacar en la selección peruana",
-    "link": "https://www.infobae.com/peru/deportes/2026/09/30/la-historia-de-superacion-de-piero-magallanes-de-no-debutar-en-universitario-y-jugar-en-torneos-amateurs-a-destacar-en-la-seleccion-peruana/"
+    "text": "EN VIVO | Seguridad, narcotráfico y crimen organizado hoy 30 de septiembre: Interpol retira ficha roja a Inés Gómez Mont y Álvarez Puga",
+    "link": "https://www.infobae.com/mexico/2026/09/30/en-vivo-seguridad-narcotrafico-y-crimen-organizado-hoy-30-de-septiembre-eeuu-sanciona-a-exesposo-de-marina-del-pilar-por-supuestos-nexos-con-los-mayos/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/RXLJGYNVGJFYJPHRDT6JSOO6TM.png?auth=e9f0cbd787be304af2a17af1a87c2cb86d767b0a722be359f469f3f0fa92611b&smart=true&width=1287&height=573",
+    "image": "https://www.infobae.com/resizer/v2/4OAJFH5FBZC2BKKVVEJFE7RGLQ.png?auth=e218c8ad6c38751bfd37bd32a517f0c1daba429f1ed0bc6448ed48a47d181c6d&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Carrió criticó el fallo que dejó vigente la venta de tierras a extranjeros y pidió que Diputados rechace el capítulo en el DNU 70/2023",
-    "link": "https://www.infobae.com/politica/2026/09/30/carrio-critico-el-fallo-que-dejo-vigente-la-venta-de-tierras-a-extranjeros-y-pidio-que-diputados-rechace-el-capitulo-en-el-dnu-702023/"
+    "text": "Morena, PT y PVEM dejan solo a Edgar Amador en San Lázaro mientras la oposición cuestiona las megaobras de la 4T",
+    "link": "https://www.infobae.com/mexico/2026/09/30/morena-pt-y-pvem-dejan-solo-a-edgar-amador-en-san-lazaro-mientras-la-oposicion-cuestiona-las-megaobras-de-la-4t/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/5N3ABWOSMFCGJJHUB2TNW4LHSY.png?auth=3822a007db3ea1b04ef11b7d576e5f136f03f6a96eb1d53faf49c927b327457b&smart=true&width=1007&height=531",
+    "image": "https://www.infobae.com/resizer/v2/ZBN42RE23NBJNIHJ7HTEFANKPE.jpg?auth=0d25830a477375e7b1440f50a5368045cb0174f53bd71f3baa54cbf340e381b1&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Desde septiembre se siente que viene diciembre: ¿Qué más buscaron los colombianos este mes? Estas fueron sus tendencias",
-    "link": "https://www.infobae.com/colombia/2026/09/30/desde-septiembre-se-siente-que-viene-diciembre-que-mas-buscaron-los-colombianos-este-mes-estas-fueron-sus-tendencias/"
+    "text": "Más de 500 militares de fuerzas especiales mexicanas entrenaron con elementos de Estados Unidos en Luisiana",
+    "link": "https://www.infobae.com/mexico/2026/09/30/mas-de-500-militares-de-fuerzas-especiales-mexicanas-entrenaron-con-elementos-de-estados-unidos-en-luisiana/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/FMAGFFP5DFABFGUCIQC2WVTADI.png?auth=ed881f44ff557a1e2c1441e2eb904140804d7b5fb380dde611d2edaec1c74585&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/5WXWDJNSCJBEVIM2BDFW4AVMDE.JPG?auth=bbd474fa5f8ad1b521e897d7521b3ea41f8a1b0501f7efc820f9609af16b40b7&smart=true&width=3984&height=2241",
     "category": null,
-    "text": "De Dorian Yates a Ronnie Coleman: los 5 campeones máximos del Mr. Olympia",
-    "link": "https://www.infobae.com/deportes/2026/09/30/de-dorian-yates-a-ronnie-coleman-los-5-campeones-maximos-del-mr-olympia/"
+    "text": "EN VIVO: Argentina vs Bolivia, se juega el primer amistoso tras el Mundial antes de la despedida de Messi",
+    "link": "https://www.infobae.com/deportes/2026/09/30/la-seleccion-argentina-jugara-un-amistoso-ante-bolivia-en-su-primer-partido-tras-el-mundial-hora-tv-y-todo-lo-que-hay-que-saber/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/HOP6JWR5BNDJLCQX63GPNHOFYY.jpg?auth=727d52ca624fe2d70d2eac1496274f572be43579bbd3e6351a703a27f76d7aa0&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/VIC7QZVAQJALVLVKE6OGUL5M4A.png?auth=ef033e3aa30b8f94f93074e0018f5c18959bee69fe8ab4ef1e9d4fb99b33597f&smart=true&width=1641&height=923",
     "category": null,
-    "text": "Dónde ver Alianza Lima vs Palestino HOY: canal tv online del partido amistoso en Matute 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/09/30/donde-ver-alianza-lima-vs-palestino-hoy-canal-tv-online-partido-amistoso-matute-2026/"
+    "text": "Se percibe microsismo en Mixcoac tras la caída de un fuerte rayo en centro de la CDMX",
+    "link": "https://www.infobae.com/mexico/2026/09/30/se-percibe-microsismo-en-mixcoac-tras-la-caida-de-un-fuerte-rayo-en-centro-de-la-cdmx/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/4EHWXM6IWFA43GDL5FE773TAZ4.png?auth=33064bbb591fac80c7b8ff851a2f7839c1f151cd093a28ce5011a5eea5ce341b&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/22KIUWZZXVCE3DFKSFW2Z32XMA.jpg?auth=4d41137f323144faf3ff9872012430370ced080c02b9f509e9c29c823e994c84&smart=true&width=896&height=504",
     "category": null,
-    "text": "4 plantas para el dormitorio que pueden sumar bienestar y mejorar el descanso",
-    "link": "https://www.infobae.com/tendencias/2026/09/30/4-plantas-para-el-dormitorio-que-pueden-sumar-bienestar-y-mejorar-el-descanso/"
+    "text": "Dos niños dominicanos siguen desaparecidos en Canadá y Policía busca a su padre",
+    "link": "https://www.infobae.com/republica-dominicana/2026/09/30/dos-ninos-dominicanos-siguen-desaparecidos-en-canada-y-buscan-a-su-padre/"
   },
   {
     "date": "2026-09-30",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/W4EZKPUTHRF7BCL6XSQ7I2T32I.JPG?auth=2822136b558d26062daff4606fa1cbfddd69570fe2dc1956074a217f4b1f001f&smart=true&width=5500&height=3667",
     "category": null,
-    "text": "La limitación de compra a \"fondos buitre\" se extiende hasta 2028 por cuestiones jurídicas",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/30/la-limitacion-de-compra-a-fondos-buitre-se-extiende-hasta-2028-por-cuestiones-juridicas/"
+    "text": "EEUU señala que revocó visa a juez peruano por “ponerse del lado de la corrupción” del régimen chino: “Tenemos que actuar”",
+    "link": "https://www.infobae.com/peru/2026/09/30/eeuu-senala-que-revoco-visa-a-juez-peruano-por-ponerse-del-lado-de-la-corrupcion-del-regimen-chino-tenemos-que-actuar/"
   },
   {
     "date": "2026-09-30",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/B3FRSSP3XNAGBBWWRSG3N55IOI.png?auth=50323ea6e9bc9651de044cf92559e9c8c797130d9b25620c499329f624346688&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "EE.UU. conmemora en Madrid sus 250 años con un repaso audiovisual a su relación con España",
-    "link": "https://www.infobae.com/espana/agencias/2026/09/30/eeuu-conmemora-en-madrid-sus-250-anos-con-un-repaso-audiovisual-a-su-relacion-con-espana/"
+    "text": "‘Santa Marta te abraza’, la propuesta para reactivar el comercio y la ocupación hotelera en la región tras millonaria caída comercial",
+    "link": "https://www.infobae.com/colombia/2026/09/30/santa-marta-te-abraza-la-propuesta-para-reactivar-el-comercio-y-la-ocupacion-hotelera-en-la-region-tras-millonaria-caida-comercial/"
   },
   {
     "date": "2026-09-30",
-    "image": "https://www.infobae.com/resizer/v2/QVJB2IENEZCARDOU7BRTFXP33E.png?auth=bedcd7bee39986d3faee5a3a1b9b0212860140a0c929b36fd7d583ab190e1591&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/MBQH4YT5QFBGLLZSRTKRPIYNII.jpg?auth=ea18d81f01122141e901fa5905addbca8b70f4d55f00b0f85fe49187b8e4d3a4&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Alina Lozano defendió a Jim Velásquez tras comentarios sobre su orientación sexual: “Nos enteramos de que era gay”",
-    "link": "https://www.infobae.com/colombia/2026/09/30/alina-lozano-defendio-a-jim-velasquez-tras-comentarios-sobre-su-orientacion-sexual-nos-enteramos-de-que-era-gay/"
+    "text": "Qué declararon los detenidos por la violenta entradera al reconocido abogado en Martínez",
+    "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/que-declararon-los-detenidos-por-la-violenta-entradera-al-reconocido-abogado-en-martinez/"
   },
   {
     "date": "2026-09-30",
@@ -246,17 +246,24 @@
   },
   {
     "date": "2026-09-30",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220418_172034_video_1800.mp4",
+    "category": "Incidencias transporte",
+    "text": "Un piloto apuñala a otro en pleno vuelo y pone al borde del desastre a un avión con destino a Israel",
+    "link": "https://elpais.com/internacional/2026-09-30/un-avion-que-volaba-a-tel-aviv-aterriza-en-arabia-saudi-tras-una-alerta-de-emergencia-por-un-incidente-entre-los-pilotos.html"
+  },
+  {
+    "date": "2026-09-30",
+    "image": "https://imagenes.elpais.com/resizer/v2/E225PDMXQFBBFL446SH3E7QFYM.JPG?auth=1ce573f3cc095fb1f17db3a316931f4e113fcc9d84da3f313b24226c82546b7b",
+    "category": "Incidencias transporte",
+    "text": "Un pasajero del vuelo de Dubái a Tel Aviv: “Até las manos al terrorista con unos auriculares”",
+    "link": "https://elpais.com/internacional/2026-09-30/un-pasajero-del-vuelo-de-dubai-a-tel-aviv-ate-las-manos-al-terrorista-con-unos-auriculares.html"
+  },
+  {
+    "date": "2026-09-30",
     "image": "https://imagenes.elpais.com/resizer/v2/CLGJLQ6JEZPGJB7V2WZX4PIXCA.jpg?auth=952f6bd1063c8ddd8facf67d0da9123989ac65e7c834bc6f4eece868951cee42",
     "category": "Reino Unido",
     "text": "El primer ministro británico asegura que Irán está detrás del incidente en la base aérea de Fairford",
     "link": "https://elpais.com/internacional/2026-09-30/el-primer-ministro-britanico-asegura-que-iran-esta-detras-del-incidente-en-la-base-aerea-de-fairford.html"
-  },
-  {
-    "date": "2026-09-30",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220418_172034_video_1800.mp4",
-    "category": "Incidencias transporte",
-    "text": "Israel denuncia un “intento de atentado yihadista” de un piloto que trató de tomar el control de un avión a Tel Aviv para estrellarlo",
-    "link": "https://elpais.com/internacional/2026-09-30/un-avion-que-volaba-a-tel-aviv-aterriza-en-arabia-saudi-tras-una-alerta-de-emergencia-por-un-incidente-entre-los-pilotos.html"
   },
   {
     "date": "2026-09-30",
@@ -267,87 +274,87 @@
   },
   {
     "date": "2026-09-30",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220418_172034_video_1800.mp4",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220468_193705_video_1800.mp4",
     "category": "Israel",
-    "text": "El intento de secuestro de aviones vinculados a Israel, una amenaza que viene de los años setenta",
+    "text": "El intento de secuestro de aviones vinculados a Israel, una amenaza que viene de los años sesenta",
     "link": "https://elpais.com/internacional/2026-09-30/el-intento-de-secuestro-de-aviones-vinculados-a-israel-una-amenaza-que-viene-de-los-anos-setenta.html"
   },
   {
     "date": "2026-09-30",
-    "image": "https://imagenes.elpais.com/resizer/v2/527TGO3ZIVA2HAMK6OOAWP67I4.jpg?auth=2a854931fdd34f35ca8bb58f113f37848944c9635647cdc7c2fe3d26b757020f",
-    "category": "Viktor Orban",
-    "text": "La justicia húngara envía a prisión preventiva a un exministro de Viktor Orbán",
-    "link": "https://elpais.com/internacional/2026-09-30/la-justicia-hungara-envia-a-prision-preventiva-a-un-exministro-de-viktor-orban.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "category": null,
+    "text": "Sismo de magnitud 5,3 sacude Costa Rica",
+    "link": "https://actualidad-rt.com/actualidad/630252-sismo-magnitud-53-sacudir-costa-rica?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd2c22e9ff7111a60c360b.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd985759bf5b544c2f0e17.jpg",
     "category": null,
-    "text": "China lanza una advertencia a la UE",
-    "link": "https://actualidad-rt.com/actualidad/630186-amenaza-china-posible-endurecimiento-politica-ue?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"CR7 merecía más respeto\": La familia de Cristiano Ronaldo se mete en la crisis con  la selección de Portugal",
+    "link": "https://actualidad-rt.com/actualidad/630242-familia-cristiano-ronaldo-meter-crisis-portugal?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd52ad59bf5b57bd5a584c.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd891659bf5b5eec658482.jpg",
     "category": null,
-    "text": "Los bombardeos 'antinarco' de Trump en el Caribe y el Pacífico enfrentan una orden judicial",
-    "link": "https://actualidad-rt.com/actualidad/630206-bombardeos-antinarco-trump-enfrentar-orden-judicial?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Pentágono pone a Elon Musk al frente de un proyecto crucial sobre el futuro de la guerra",
+    "link": "https://actualidad-rt.com/actualidad/630243-pentagono-pone-elon-musk-frente?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd576159bf5b5be43bba55.jpg",
+    "image": null,
     "category": null,
-    "text": "Trump revela lo primero que le dijo Xi",
-    "link": "https://actualidad-rt.com/actualidad/630213-trump-revela-primero-le-dijo-xi?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Infantino pierde el apoyo de su propio país de cara a las elecciones de la FIFA",
+    "link": "https://actualidad-rt.com/actualidad/630244-infantino-perder-apoyo-propio-pais-elecciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd47d859bf5b38f94dfaac.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd77dbe9ff71719e75fda1.jpg",
     "category": null,
-    "text": "Ejecutan a tiros al presidente de un club de fútbol cuando volvía a casa tras un partido",
-    "link": "https://actualidad-rt.com/actualidad/630205-ejecutan-tiros-presidente-club-futbol-volvia-casa-partido?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Agarré al atacante, lo estrangulé y lo saqué\": Relato del pasajero que ayudó a estabilizar el avión de Flydubai",
+    "link": "https://actualidad-rt.com/actualidad/630216-agarre-atacante-relato-primera-persona-pasajero?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd1ed259bf5b5c4217cdb5.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd597de9ff716301151b33.png",
     "category": null,
-    "text": "El debate por la CIA y la injerencia extranjera se cuela en las elecciones en México",
-    "link": "https://actualidad-rt.com/actualidad/630175-debate-cia-injerencia-extranjera-elecciones-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Este lugar registra su primer asesinato desde la Segunda Guerra Mundial",
+    "link": "https://actualidad-rt.com/actualidad/630211-lugar-registra-primer-asesinato-segunda-guerra-mundial?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd305959bf5b38a11a4397.jpg",
+    "image": null,
     "category": null,
-    "text": "El gran juego petrolero detrás del ultimátum de Argentina al Reino Unido sobre las Malvinas",
-    "link": "https://actualidad-rt.com/actualidad/630141-gran-juego-petrolero-detras-ultimatum-argentina-reino-unido-malvinas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "EE.UU. revela la cantidad de buques comerciales interceptados en el bloqueo a Irán",
+    "link": "https://actualidad-rt.com/actualidad/630245-eeuu-revela-cantidad-buques-comerciales-interceptados-bloqueo-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd13dce9ff716348350ed5.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd8b18e9ff7111a60c364f.jpg",
     "category": null,
-    "text": "Masajistas, alcohol y fotos de desnudos: así es la vida privilegiada de P. Diddy en prisión",
-    "link": "https://actualidad-rt.com/actualidad/630165-masajistas-alcohol-desnudos-vida-privilgiada-diddy-prision?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Explosión en un gasoducto deja fuera de servicio tres centrales eléctricas en Siria (VIDEOS)",
+    "link": "https://actualidad-rt.com/actualidad/630235-explosion-gasoducto-fuera-servicio-centrales-electricas-siria?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd45ee59bf5b7ec939aa70.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd600b59bf5b54af47ac46.jpg",
     "category": null,
-    "text": "Rusia prolonga la prohibición de exportar diésel: ¿qué hay detrás?",
-    "link": "https://actualidad-rt.com/actualidad/630193-rusia-prorroga-prohibicion-exportacion-diesel?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Libro revela la alianza secreta que hubo entre Israel y las dictaduras del Cono Sur",
+    "link": "https://actualidad-rt.com/actualidad/630202-libro-revela-alianza-secreta-israel-dictaduras?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd5165e9ff7125eb56a4ad.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd859559bf5b54af47ac66.jpg",
     "category": null,
-    "text": "Trump en modo enigmático sobre Irán: \"Verán que pasarán cosas muy pronto\"",
-    "link": "https://actualidad-rt.com/actualidad/630209-trump-enigmatico-iran-pasar-cosas-pronto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump dice tener \"control absoluto\" sobre el estrecho de Ormuz",
+    "link": "https://actualidad-rt.com/actualidad/630241-trump-decir-tener-control-absoluto-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-09-30",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.09/thumbnail/6abd4c2de9ff716301151b2a.jpg",
+    "image": null,
     "category": null,
-    "text": "Trump califica la operación de EE.UU. en Irak de \"una incursión costosísima en el infierno\"",
-    "link": "https://actualidad-rt.com/actualidad/630208-trump-califica-operacion-eeuu-irak?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Colombia prepara nuevas reglas para las protestas: qué cambia y cuándo podrá intervenir la Policía",
+    "link": "https://es.euronews.com/2026/09/30/colombia-nuevas-reglas-protestas-policia-decreto"
   },
   {
     "date": "2026-09-30",
@@ -411,12 +418,5 @@
     "category": null,
     "text": "Terror en pleno vuelo a Tel Aviv: un piloto atacado y un avión al borde de la tragedia",
     "link": "https://es.euronews.com/2026/09/30/srael-denuncia-posible-atentado-yihadista-tras-una-pelea-pilotos-vuelo-tel-aviv"
-  },
-  {
-    "date": "2026-09-30",
-    "image": null,
-    "category": null,
-    "text": "Inundaciones y destrucción tras el paso del huracán Polo por México",
-    "link": "https://es.euronews.com/video/2026/09/30/inundaciones-y-destruccion-tras-el-paso-del-huracan-polo-por-mexico"
   }
 ]

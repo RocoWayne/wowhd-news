@@ -1,87 +1,80 @@
 [
   {
     "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/5acce1f0-bdc8-11f1-ab42-1ff0321dbbd3/w:1024/p:16x9/FOTO-PORTADA-EEUU-MUSK-TRUMP-MERIDIAN.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Musk ayudará al Pentágono a pensar \"el futuro de la guerra\": ¿cuál será su rol y qué dudas se plantean?",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261001-musk-ayudar%C3%A1-al-pent%C3%A1gono-a-pensar-el-futuro-de-la-guerra-cu%C3%A1l-ser%C3%A1-su-rol-y-qu%C3%A9-dudas-se-plantean"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/43553932-bdb4-11f1-8c93-578a4b968fd6/w:1024/p:16x9/ES-20261001-074053-074255-CS.jpg",
+    "image": "https://s.france24.com/media/display/253ad48a-bdea-11f1-b65e-69fad0a7cb9f/w:1024/p:16x9/ES-20261001-170145-170335-CS.jpg",
     "category": null,
-    "text": "EE. UU.: reabren investigación de violación múltiple en fraternidad de la Universidad de Cornell",
-    "link": "https://www.france24.com/es/video/20261001-ee-uu-reabren-investigaci%C3%B3n-de-violaci%C3%B3n-m%C3%BAltiple-en-fraternidad-de-la-universidad-de-cornell"
+    "text": "Netanyahu felicita a pasajeros de Flydubai y afirma que el piloto pudo ser \"neutralizado\"",
+    "link": "https://www.france24.com/es/video/20261001-netanyahu-felicita-a-pasajeros-de-flydubai-y-afirma-que-el-piloto-pudo-ser-neutralizado"
   },
   {
     "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/9132bbf0-bdc0-11f1-ab94-dd51fcab6130/w:1024/p:16x9/000-C9VH9CQ.jpg",
+    "image": null,
+    "category": null,
+    "text": "Niños de apenas tres años ante un juez: la crisis de los menores migrantes sin abogado en EE.UU.",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261001-ni%C3%B1os-de-apenas-tres-a%C3%B1os-ante-un-juez-la-crisis-de-los-menores-migrantes-sin-abogado-en-ee-uu"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/36cdd298-bde9-11f1-8631-1ff0321dbbd3/w:1024/p:16x9/ES-20261001-131805-132834-CS.jpg",
+    "category": null,
+    "text": "Christa Pike sobrevive a inyección letal: ¿qué ocurre en el cuerpo al recibir este fármaco?",
+    "link": "https://www.france24.com/es/video/20261001-christa-pike-sobrevive-a-inyecci%C3%B3n-letal-qu%C3%A9-ocurre-en-el-cuerpo-al-recibir-este-f%C3%A1rmaco"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/d27a0b6e-bde7-11f1-8c95-69fad0a7cb9f/w:1024/p:16x9/ES-20261001-124510-124757-CS.jpg",
+    "category": null,
+    "text": "Directo a... Santa Cruz y el proceso para nombrar a un nuevo fiscal general",
+    "link": "https://www.france24.com/es/video/20261001-directo-a-santa-cruz-y-el-proceso-para-nombrar-a-un-nuevo-fiscal-general"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/33cadcfc-bde5-11f1-a5b4-1ff0321dbbd3/w:1024/p:16x9/AP26274597994993.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "\"Nuestro gobierno se ha convertido en una amenaza grave\": la familia de Renee Good presenta una demanda por su muerte",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261001-nuestro-gobierno-se-ha-convertido-en-una-amenaza-grave-la-familia-de-renee-good-presenta-una-demanda-por-su-muerte"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/c3d0256c-bde2-11f1-b2e3-578a4b968fd6/w:1024/p:16x9/ES-20261001-124312-124506-CS.jpg",
+    "category": null,
+    "text": "Tennessee suspende aplicación de pena de muerte hasta 2027 por fallida ejecución de Christa Pike",
+    "link": "https://www.france24.com/es/video/20261001-tennessee-suspende-aplicaci%C3%B3n-de-pena-de-muerte-hasta-2027-por-fallida-ejecuci%C3%B3n-de-christa-pike"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/cd02c71c-bde1-11f1-b404-dd51fcab6130/w:1024/p:16x9/ES-20261001-111041-111455-CS.jpg",
+    "category": null,
+    "text": "Octubre rosa: la concientización y prevención del cáncer de mama en América Latina",
+    "link": "https://www.france24.com/es/video/20261001-octubre-rosa-la-concientizaci%C3%B3n-y-prevenci%C3%B3n-del-c%C3%A1ncer-de-mama-en-am%C3%A9rica-latina"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/dddd81dc-bddf-11f1-bde7-13420ab900a2/w:1024/p:16x9/ES-20261001-093942-094539-CS.jpg",
+    "category": null,
+    "text": "Bolivia: fiscal general Roger Mariaca es detenido tras señalamientos de vínculos con el narco",
+    "link": "https://www.france24.com/es/video/20261001-bolivia-fiscal-general-roger-mariaca-es-detenido-tras-se%C3%B1alamientos-de-v%C3%ADnculos-con-el-narco"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/c24641e4-bdde-11f1-b821-13420ab900a2/w:1024/p:16x9/ES-20261001-074326-074817-CS.jpg",
+    "category": null,
+    "text": "Directo Latam y las alarmas por el posible regreso de las ejecuciones extrajudiciales en Colombia",
+    "link": "https://www.france24.com/es/video/20261001-directo-latam-y-las-alarmas-por-el-posible-regreso-de-las-ejecuciones-extrajudiciales-en-colombia"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/41dde2d0-bdd6-11f1-ac7f-13420ab900a2/w:1024/p:16x9/FORMATO-3.png",
+    "category": null,
+    "text": "Mujeres en Cisjordania sufren abortos espotáneos por los bloqueos y ataques israelíes",
+    "link": "https://www.france24.com/es/video/20261001-mujeres-en-cisjordania-sufren-abortos-espot%C3%A1neos-por-los-bloqueos-y-ataques-israel%C3%ADes"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://s.france24.com/media/display/e99fb378-bdd0-11f1-9ff9-1ff0321dbbd3/w:1024/p:16x9/2026-10-01T193126Z-1496905156-RC2HUNA52FK2-RTRMADP-3-MEXICO-ATTACK.jpg",
     "category": "América Latina",
-    "text": "Bolivia detiene al fiscal general Roger Mariaca por presuntos vínculos con el narcotráfico: ABC del caso",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261001-bolivia-detiene-al-fiscal-general-roger-mariaca-por-presuntos-v%C3%ADnculos-con-el-narcotr%C3%A1fico-abc-del-caso"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/30d6f4e2-bb63-11f1-9e13-8f3418d01115/w:1024/p:16x9/2026-09-04T142757Z-1504289711-RC2DCNAH031A-RTRMADP-3-USA-IMMIGRATION-NEW-YORK.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Supremo de EE. UU. examinará la política sobre detenciones de inmigrantes en estado irregular: ¿frenarán los arrestos?",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261001-supremo-de-ee-uu-examinar%C3%A1-la-pol%C3%ADtica-sobre-detenciones-de-inmigrantes-en-estado-irregular-frenar%C3%A1n-los-arrestos"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/54a90246-bda9-11f1-a68a-578a4b968fd6/w:1024/p:16x9/ES-20261001-073704-073854-CS.jpg",
-    "category": null,
-    "text": "Rusia y Ucrania intercambian nuevos ataques con drones; Moscú negocia con Washington",
-    "link": "https://www.france24.com/es/video/20261001-rusia-y-ucrania-intercambian-nuevos-ataques-con-drones-mosc%C3%BA-negocia-con-washington"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/a1fee99e-bd4e-11f1-8960-ddce071186a9/w:1024/p:16x9/carrusel-de-las-artes-1.jpeg",
-    "category": "Carrusel de las Artes",
-    "text": "Biarritz se convierte en el epicentro del cine y la cultura de América Latina",
-    "link": "https://www.france24.com/es/programas/carrusel-de-las-artes/20261001-biarritz-se-convierte-en-el-epicentro-del-cine-y-la-cultura-de-am%C3%A9rica-latina"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/11fcb69a-bdb3-11f1-8df0-13420ab900a2/w:1024/p:16x9/capture-4223648226abe86b60b2702-05458008.jpg",
-    "category": "Invitad@ del día",
-    "text": "¿Cómo está dividido el voto político en Brasil previo a la primera vuelta presidencial?",
-    "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20261001-c%C3%B3mo-est%C3%A1-dividido-el-voto-pol%C3%ADtico-en-brasil-previo-a-la-primera-vuelta-presidencial"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/ca90bcf0-bdaf-11f1-8291-1ff0321dbbd3/w:1024/p:16x9/AP26274296755769.jpg",
-    "category": "Economía",
-    "text": "Francia intenta contener su deuda y déficit con recortes, mientras incumple los límites de la UE",
-    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261001-francia-intenta-contener-su-deuda-y-d%C3%A9ficit-con-recortes-mientras-incumple-los-l%C3%ADmites-de-la-ue"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/2c1b295e-b6b4-11f1-9b6c-1d61c7110e09/w:1024/p:16x9/FR-NW-OOV-FRZ-CHINE-SCAM-CENTERS-BAIN-Lauren.jpg",
-    "category": "En Foco",
-    "text": "Estafas en el Sudeste Asiático: así operan las redes criminales",
-    "link": "https://www.france24.com/es/programas/en-foco/20261001-estafas-en-el-sudeste-asi%C3%A1tico-as%C3%AD-operan-las-redes-criminales"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/ceadcf8a-bdaf-11f1-a3ff-13420ab900a2/w:1024/p:16x9/FORMATO-2-7.png",
-    "category": null,
-    "text": "Brasil: Río de Janeiro, la cuna del bolsonarismo objetivo de campaña de Lula da Silva",
-    "link": "https://www.france24.com/es/video/20261001-brasil-r%C3%ADo-de-janeiro-la-cuna-del-bolsonarismo-objetivo-de-campa%C3%B1a-de-lula-da-silva"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/c58d9ce0-bdb0-11f1-a945-dd51fcab6130/w:1024/p:16x9/2026-10-01T122810Z-2020480420-RC2BUNAWWHBO-RTRMADP-3-FRANCE-PROTEST-1.jpg",
-    "category": "Francia",
-    "text": "Estudiantes endurecen los bloqueos en Francia: rocían con gasolina al director de una escuela",
-    "link": "https://www.france24.com/es/francia/20261001-estudiantes-endurecen-los-bloqueos-en-francia-roc%C3%ADan-con-gasolina-al-director-de-una-escuela"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://s.france24.com/media/display/12fd58ac-aad9-11f1-ba82-005056bfb2b6/w:1024/p:16x9/2026-09-07T160313Z-898331603-RC2BENAXNBSU-RTRMADP-3-BRAZIL-INDEPENDENCE-DAY.jpg",
-    "category": "Corresponsales",
-    "text": "Brasil: la crisis económica que pone a prueba a Lula en Foz do Iguaçu",
-    "link": "https://www.france24.com/es/programas/corresponsales/20261001-brasil-la-crisis-econ%C3%B3mica-que-pone-a-prueba-a-lula-en-foz-do-igua%C3%A7u"
+    "text": "Un ataque con machetes: dos exalumnos entran a una secundaria en México y matan a la subdirectora",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261001-un-ataque-con-machetes-dos-exalumnos-entran-a-una-secundaria-en-m%C3%A9xico-y-matan-a-la-subdirectora"
   },
   {
     "date": "2026-10-01",
@@ -94,7 +87,7 @@
     "date": "2026-10-01",
     "image": null,
     "category": null,
-    "text": "Christa Pike sobrevive a dos dosis de inyección letal durante su ejecución y se encuentra hospitalizada en Tennessee",
+    "text": "Christa Pike se encuentra \"en estado crítico\" tras sobrevivir a dos dosis de inyección letal durante su ejecución en Tennessee",
     "link": "https://www.bbc.com/mundo/articles/c6vgygpp3eqlo?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -122,8 +115,15 @@
     "date": "2026-10-01",
     "image": null,
     "category": null,
-    "text": "La Corte Suprema de EE.UU. autoriza la ejecución de la condenada a muerte por asesinato Christa Pike, pero la mujer sobrevive a las inyecciones letales",
-    "link": "https://www.bbc.com/mundo/articles/cmx2zrrqqx92o?at_medium=RSS&at_campaign=rss"
+    "text": "Qué dice la presunta violación grupal en la Universidad de Cornell sobre la dificultad de denunciar abusos en los campus de EE.UU.",
+    "link": "https://www.bbc.com/mundo/articles/cw3d7dz85vglo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-01",
+    "image": null,
+    "category": null,
+    "text": "\"Claramente seguía viva\": testigos describen los intentos fallidos de ejecutar a Christa Pike con dos dosis de inyección letal",
+    "link": "https://www.bbc.com/mundo/articles/cw8r6r1yxngyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-01",
@@ -143,85 +143,92 @@
     "date": "2026-10-01",
     "image": null,
     "category": null,
-    "text": "El brent se dispara más de 4 %, hasta 102 dólares, tras el cese de exportaciones de China",
-    "link": "https://www.infobae.com/america/agencias/2026/10/01/el-brent-se-dispara-mas-de-4-hasta-102-dolares-tras-el-cese-de-exportaciones-de-china/"
+    "text": "La Corte Suprema de EE.UU. autoriza la ejecución de la condenada a muerte por asesinato Christa Pike, pero la mujer sobrevive a las inyecciones letales",
+    "link": "https://www.bbc.com/mundo/articles/cmx2zrrqqx92o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-01",
-    "image": "https://www.infobae.com/resizer/v2/PSVTNSV62VDODAW4Q7R7JATCZA.jpg?auth=bab0673ca41ff12584243308e36e254e2a06ee969e0b950db61344339e8b582b&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/GBUIN2KIK5CIPE52JEJTZJ4CAE.png?auth=9aeaa98f58edc359f9e3d854a2dac3071d9ab79b20149b04cde7ce6e39d8d09b&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Dólar hoy en Bolivia: cotización de cierre del 1 de octubre",
-    "link": "https://www.infobae.com/noticias/2026/10/01/dolar-hoy-en-bolivia-cotizacion-de-cierre-del-1-de-octubre/"
+    "text": "EN VIVO | Clima CDMX y resto de México hoy jueves 1 de octubre: efectos del huracán Rachel llegan a la capital y se desata fuerte tormenta",
+    "link": "https://www.infobae.com/mexico/2026/10/01/en-vivo-clima-en-mexico-hoy-1-de-octubre-que-estados-tendran-lluvias-intensas-por-rachel-y-el-frente-frio-1/"
   },
   {
     "date": "2026-10-01",
-    "image": "https://www.infobae.com/resizer/v2/XIT3A5T6EVDQRKC3OWBKCUYSL4.jpg?auth=013ed94c013d42866366ea8d28e026b40f1c187818c8c70a7fd432f8d0abdd3e&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/UVVDIPR5PBFVRAT2T3DLW5TH4M.jpg?auth=12cc2caed9c862912850ec198ea11504d0d2f66ad7e44c7be742d3eef2866570&smart=true&width=1600&height=900",
     "category": null,
-    "text": "La acampada de Sol crea \"comités de barrio\" con asambleas sectoriales para impulsar la huelga general por la vivienda",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/01/la-acampada-de-sol-crea-comites-de-barrio-con-asambleas-sectoriales-para-impulsar-la-huelga-general-por-la-vivienda/"
+    "text": "Atacantes de secundaria de Torreón provienen de familia desarticulada, autoridades prometen aplicar todo el peso de la ley",
+    "link": "https://www.infobae.com/mexico/2026/10/01/atacantes-de-secundaria-de-torreon-provienen-de-familia-desarticulada-autoridades-prometen-aplicar-todo-el-peso-de-la-ley/"
   },
   {
     "date": "2026-10-01",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/F4L7FKGANJBNJFKASLERGGQVDY.jpg?auth=26b901abc1033a63719a5499427785745fdefd7eaab1d42f750996813ce8d695&smart=true&width=4938&height=3292",
     "category": null,
-    "text": "Viernes, 2 de octubre de 2026",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/01/viernes-2-de-octubre-de-2026/"
+    "text": "El truco de Elon Musk para dormir bien y liderar con éxito Tesla y SpaceX",
+    "link": "https://www.infobae.com/tecno/2026/10/01/el-truco-de-elon-musk-para-dormir-bien-y-liderar-con-exito-tesla-y-spacex/"
   },
   {
     "date": "2026-10-01",
-    "image": "https://www.infobae.com/resizer/v2/LCCYKAAEIVHLHNQIPGHEFLD674.jpg?auth=4a0d04c595c596f24f851ee93e7915c829588f763749971dc779a97d87bbf229&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/5BMIK43O6JG35AIPEITMRICDOA.png?auth=27d71ba6050a5254f0f91494578bdb777f70d71b2acd38edce1a382885d7fc0f&smart=true&width=546&height=338",
     "category": null,
-    "text": "Precio del dólar hoy en República Dominicana: cotización de cierre del 1 de octubre",
-    "link": "https://www.infobae.com/noticias/2026/10/01/precio-del-dolar-hoy-en-republica-dominicana-cotizacion-de-cierre-del-1-de-octubre/"
+    "text": "En video | Atlético Nacional publicó las primeras palabras motivacionales de James Rodríguez y sacó lágrimas entre la afición: “Vamos a ganar bien”",
+    "link": "https://www.infobae.com/colombia/deportes/2026/10/01/en-video-atletico-nacional-publico-las-primeras-palabras-motivacionales-de-james-rodriguez-y-saco-lagrimas-entre-la-aficion-vamos-a-ganar-bien/"
   },
   {
     "date": "2026-10-01",
-    "image": "https://www.infobae.com/resizer/v2/K4RGOHSD2FAB7CBCO7BNV4CBGQ.png?auth=2c0489748083f6bba2d590d738e8e2c136d6defb9f4859a5a5b18b5bfc54a2b7&smart=true&width=1536&height=1024",
+    "image": "https://www.infobae.com/resizer/v2/4JSR3DO6GRBAFGNUBZ3SA6YCXQ.png?auth=b574dc3b1959cc4773cd3e84ebc3dbf9b98693232059c851c3bfe3116f7d2b95&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Se aceleraron las ventas de motos 0 km: superaron las 80.000 patentamientos en septiembre",
-    "link": "https://www.infobae.com/economia/2026/10/01/se-aceleraron-las-ventas-de-motos-0-km-superaron-las-80000-patentamientos-en-septiembre/"
+    "text": "La abogada de la denunciante de Joaquín Levinton renunció a la defensa: “No mediatizo a las víctimas”",
+    "link": "https://www.infobae.com/teleshow/2026/10/01/la-abogada-de-la-denunciante-de-joaquin-levinton-renuncio-a-la-defensa-no-mediatizo-a-las-victimas/"
   },
   {
     "date": "2026-10-01",
-    "image": "https://www.infobae.com/resizer/v2/ABRPYIMFTBDDJH64TBC2ZBKCJY.jpg?auth=ead78327d8fdd62ebb67faf9df76fbf43c6901f2b29aaf5c5742a49389a0cbd0&smart=true&width=1920&height=1069",
+    "image": "https://www.infobae.com/resizer/v2/BS47IIUWAZCUPIKGJ5A7ZUNRPM.jpg?auth=0254b6abc55ffdddcc336141ed9f23364153212413ac94ec62dbce46316ccb3d&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Carlos Sainz: \"Sería una faena que no hubiera Dakar, sobre todo para mí porque ya se van agotando las opciones\"",
-    "link": "https://www.infobae.com/america/agencias/2026/10/01/carlos-sainz-seria-una-faena-que-no-hubiera-dakar-sobre-todo-para-mi-porque-ya-se-van-agotando-las-opciones/"
+    "text": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 1 de octubre? Metro activa marcha lenta en diversas líneas por presencia de lluvias",
+    "link": "https://www.infobae.com/mexico/2026/10/01/que-esta-pasando-en-el-metro-cdmx-y-metrobus-hoy-1-de-octubre/"
   },
   {
     "date": "2026-10-01",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/UGGGVHJTSFAD5PMSCBEZLMMFVI.jpg?auth=601c863a619ca143957d07beeb9a13eba7de677b36db12547ea58c5011d6ec39&smart=true&width=1920&height=1279",
     "category": null,
-    "text": "Madrid se compromete a que el estadio del Rayo siga siendo de titularidad pública",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/01/madrid-se-compromete-a-que-el-estadio-del-rayo-siga-siendo-de-titularidad-publica/"
+    "text": "EN VIVO| Bloqueos en carreteras, accidentes y manifestaciones hoy 1 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/01/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-1-de-octubre/"
   },
   {
     "date": "2026-10-01",
-    "image": "https://www.infobae.com/resizer/v2/5HZ3QISWO5FHPK4D5GFPJO4IAY.jpg?auth=14b2fdefbad9e98b332a3a1d27a2e84371c48bba66225b3cffa9082770da0393&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/QPPVRT5W5VCW5HI6IEQRT76J2Y.png?auth=3e1e1820806e2a6b820eec41f742717d59f4bc25010b55cf347eabdbd6299b17&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Arabia Saudí confirma el ataque del copiloto al capitán del vuelo Flydubai desviado al país",
-    "link": "https://www.infobae.com/america/agencias/2026/10/01/arabia-saudi-confirma-el-ataque-del-copiloto-al-capitan-del-vuelo-flydubai-desviado-al-pais/"
+    "text": "En video quedó la impactante avalancha de personas que ingresó sin pagar a una estación de TransMilenio en Bogotá",
+    "link": "https://www.infobae.com/colombia/2026/10/01/en-video-quedo-la-impactante-avalancha-de-personas-que-ingreso-sin-pagar-a-una-estacion-de-transmilenio-en-bogota/"
   },
   {
     "date": "2026-10-01",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/IQOUYN5IUJHGNHPEJCCLBW5SAU.jpg?auth=ae56234b5fd11ecbfaf50c29b2b2a535817c9b14ee0e18015b442e41aa947043&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Trump hace campaña en estados republicanos para animar a sus bases a votar",
-    "link": "https://www.infobae.com/america/agencias/2026/10/01/trump-hace-campana-en-estados-republicanos-para-animar-a-sus-bases-a-votar/"
+    "text": "Santiago González, enfocado en dos frentes con Sporting Cristal: “A pensar en la final de la Copa de la Liga y el Torneo Clausura 2026”",
+    "link": "https://www.infobae.com/peru/deportes/2026/10/01/santiago-gonzalez-enfocado-en-dos-frentes-con-sporting-cristal-a-pensar-en-la-final-de-la-copa-de-la-liga-y-el-torneo-clausura-2026/"
   },
   {
     "date": "2026-10-01",
-    "image": "https://www.infobae.com/resizer/v2/2NUCQGYZFNBHLLFQCMYV54RTNQ.jpg?auth=60c291bf889f5daa006928fdac170ba72bd8fb58dbf37724ebad490e19906fba&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/PMJTXOTXIZCFZMSRVW7TB364IU.jpg?auth=ca3244d9559829b6e19ab1d5b83e713e9e725f8de70acd332fccdd02ab44a2e7&smart=true&width=2090&height=1176",
     "category": null,
-    "text": "Así está la votación de los decretos de vivienda a esta hora, con todos pendientes de Junts: Coalición Canaria votará sí al primer texto",
-    "link": "https://www.infobae.com/espana/2026/10/01/asi-esta-la-votacion-de-los-decretos-de-vivienda-a-esta-hora-con-todos-pendientes-de-junts-las-claves-y-los-apoyos-confirmados/"
+    "text": "La carta que podrían usar Enzo Fernández, Haaland y las figuras del Manchester City para salir del club ante una sanción histórica",
+    "link": "https://www.infobae.com/deportes/2026/10/01/la-carta-que-podrian-usar-enzo-fernandez-haaland-y-las-figuras-del-manchester-city-para-salir-del-club-ante-una-sancion-historica/"
   },
   {
     "date": "2026-10-01",
-    "image": "https://www.infobae.com/resizer/v2/ZMJTQ6L5P5CN5FE4RORTCJTTUA.png?auth=57397f9ca0bfb3abc5ac2ff7db14719868ce38d491b33f1f885381e229bfb69f&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/3K2II6DKZFFJ7GGEM6P3GVDH2E.png?auth=30897f8fdc53d0dac67f8c6d7859fd6c21d06e64d063ac97bb0d70f88a23a785&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Morena respalda candidatura de Jasmine Bugarín a Nayarit pese a doble nacionalidad y abre puerta a excepciones “por lealtad a México”",
-    "link": "https://www.infobae.com/mexico/2026/10/01/morena-respalda-candidatura-de-jasmine-bugarin-a-nayarit-pese-a-doble-nacionalidad-y-abre-puerta-a-excepciones-por-amor-a-mexico/"
+    "text": "DNI exprés: Reniec activa nuevo trámite a días de las Elecciones Regionales y Municipales 2026",
+    "link": "https://www.infobae.com/peru/2026/10/01/dni-expres-reniec-activa-nuevo-tramite-a-dias-de-las-elecciones-regionales-y-municipales-2026/"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://www.infobae.com/resizer/v2/6HCWHRFZGRGUNFFL7CX3I2A26E.jpg?auth=290fdd151552aad2226fa89137c902b723968d13c63813e0281c74a14f7a2123&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Cayó el acusado por el femicidio de Aixa en Tigre: también detuvieron a la abuela acusada de encubrimiento",
+    "link": "https://www.infobae.com/sociedad/policiales/2026/10/01/detuvieron-al-acusado-por-el-femicidio-de-aixa-en-tigre-los-vecinos-quisieron-atacarlo/"
   },
   {
     "date": "2026-10-01",
@@ -229,6 +236,27 @@
     "category": "Rusia",
     "text": "Putin reitera su amenaza nuclear sobre Europa: “El punto de no retorno puede llegar de forma inesperada”",
     "link": "https://elpais.com/internacional/2026-10-01/putin-reitera-su-amenaza-sobre-europa-el-punto-de-no-retorno-puede-llegar-de-forma-inesperada.html"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://imagenes.elpais.com/resizer/v2/XSQCOMNN2BBJNAGIP5CJXOYZOM.jpg?auth=9da90ce4ebfefb8aa7fab35776d85bec407be14d0e6f2e643f79e8bf63b80022",
+    "category": "Gari Kasparov",
+    "text": "Kaspárov, amenazado de muerte por el entorno de Putin, liga su seguridad a la victoria de Ucrania",
+    "link": "https://elpais.com/internacional/2026-10-01/kasparov-amenazado-de-muerte-por-el-entorno-de-putin-liga-su-seguridad-a-la-victoria-de-ucrania.html"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://imagenes.elpais.com/resizer/v2/55A7CCLCCVN2HHP45U466ZJ3SM.jpg?auth=7447a2121b55d90af57cac3165b60f549babbd6e285deb4335dc0ed5ddea1f4f",
+    "category": "Francia",
+    "text": "El periódico ‘Mediapart’ publica las pruebas de los mensajes antisemitas atribuidos a Jordan Bardella",
+    "link": "https://elpais.com/internacional/2026-10-01/el-periodico-mediapart-publica-las-pruebas-de-los-mensajes-antisemitas-atribuidos-a-jordan-bardella.html"
+  },
+  {
+    "date": "2026-10-01",
+    "image": "https://imagenes.elpais.com/resizer/v2/37HGWWBXBBPNBKOCSADTQAYCIM.jpg?auth=f523a064200dc35207caa8b2404bf927ff89d288b3dadb312baf8eb7d1a0eca3",
+    "category": "Elecciones EE UU",
+    "text": "¿Se le acabó la suerte a Trump? Ahora, quién seduce al voto latino",
+    "link": "https://elpais.com/us/2026-10-01/se-le-acabo-la-suerte-a-trump-ahora-quien-seduce-al-voto-latino.html"
   },
   {
     "date": "2026-10-01",
@@ -246,27 +274,6 @@
   },
   {
     "date": "2026-10-01",
-    "image": "https://imagenes.elpais.com/resizer/v2/37HGWWBXBBPNBKOCSADTQAYCIM.jpg?auth=f523a064200dc35207caa8b2404bf927ff89d288b3dadb312baf8eb7d1a0eca3",
-    "category": "Elecciones EE UU",
-    "text": "¿Se le acabó la suerte a Trump? Ahora, quién seduce al voto latino",
-    "link": "https://elpais.com/us/2026-10-01/se-le-acabo-la-suerte-a-trump-ahora-quien-seduce-al-voto-latino.html"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://imagenes.elpais.com/resizer/v2/XSQCOMNN2BBJNAGIP5CJXOYZOM.jpg?auth=9da90ce4ebfefb8aa7fab35776d85bec407be14d0e6f2e643f79e8bf63b80022",
-    "category": "Gari Kasparov",
-    "text": "Kaspárov, amenazado de muerte por el entorno de Putin, liga su seguridad a la victoria de Ucrania",
-    "link": "https://elpais.com/internacional/2026-10-01/kasparov-amenazado-de-muerte-por-el-entorno-de-putin-liga-su-seguridad-a-la-victoria-de-ucrania.html"
-  },
-  {
-    "date": "2026-10-01",
-    "image": "https://imagenes.elpais.com/resizer/v2/55A7CCLCCVN2HHP45U466ZJ3SM.jpg?auth=7447a2121b55d90af57cac3165b60f549babbd6e285deb4335dc0ed5ddea1f4f",
-    "category": "Francia",
-    "text": "El periódico ‘Mediapart’ publica sus pruebas de los mensajes antisemitas atribuidos a Jordan Bardella",
-    "link": "https://elpais.com/internacional/2026-10-01/el-periodico-mediapart-publica-las-pruebas-de-los-mensajes-antisemitas-atribuidos-a-jordan-bardella.html"
-  },
-  {
-    "date": "2026-10-01",
     "image": "https://imagenes.elpais.com/resizer/v2/U2VY2Q7O4NMKLKBQN2QKZWZZWE.jpg?auth=03135b03a3d3dba2f6a03d354fed5238d85910b9c23dfa57122584ebf2a4d86c",
     "category": "Francia",
     "text": "Las protestas estudiantiles se extienden por Francia mientras el Gobierno acusa al partido de Mélenchon de alentar la violencia urbana",
@@ -281,73 +288,87 @@
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abeb10ae9ff71220e6a2973.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abedb21e9ff710c0c00941e.jpg",
     "category": null,
-    "text": "La defensa de Christa Pike revela qué salió mal tras las fallidas inyecciones letales",
-    "link": "https://actualidad-rt.com/actualidad/630403-defensa-christa-pike-revela-salir-mal?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Putin bromea sobre la restricción del acceso de los periodistas de CNN a la Casa Blanca",
+    "link": "https://actualidad-rt.com/actualidad/630417-putin-bromea-restriccion-acceso-periodistas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abea237e9ff71478b38ff48.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abee3a359bf5b270f470922.jpg",
     "category": null,
-    "text": "La doctrina nuclear de Rusia: ¿qué establece sobre las armas nucleares?",
-    "link": "https://actualidad-rt.com/actualidad/630322-doctrina-nuclear-rusia-puntos-clave?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un aspecto de las negociaciones sobre el conflicto ucraniano que Putin no había comentado públicamente antes",
+    "link": "https://actualidad-rt.com/actualidad/630427-aspecto-negociaciones-putin-no-habia-comentado?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abead3159bf5b59da02032e.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abecdc3e9ff7171c82a346b.jpg",
     "category": null,
-    "text": "Trump presume que eliminó la supuesta \"amenaza nuclear\" de Irán en \"una sola noche\"",
-    "link": "https://actualidad-rt.com/actualidad/630401-trump-presumir-logro-supuesta-amenaza-nuclear?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Kremlin señala una \"voz sensata\" en Europa",
+    "link": "https://actualidad-rt.com/actualidad/630410-kremlin-senala-voz-sensata-europa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abea8e159bf5b5a6d53b5f4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abee7ece9ff71220e6a2994.jpg",
     "category": null,
-    "text": "Putin: \"Cualquiera puede cometer un error. Solo un idiota se obstina en el error\"",
-    "link": "https://actualidad-rt.com/actualidad/630400-puede-cometer-error-idiota-obstina-error?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Putin tacha de \"sin duda un error\" el asesinato de este alto cargo iraní",
+    "link": "https://actualidad-rt.com/actualidad/630402-putin-afirma-muerte-ali-larijani-error?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abe64bf59bf5b42b7210d34.jpg",
+    "image": null,
     "category": null,
-    "text": "Estudiantes incendian Francia: ¿Qué hay detrás?",
-    "link": "https://actualidad-rt.com/actualidad/630340-estudiantes-incendiando-francia-rociando-personas-gasolina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump predice una \"depresión financiera\" para EE.UU. si esto ocurre",
+    "link": "https://actualidad-rt.com/actualidad/630422-trump-predice-depresion-financiera-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abe8680e9ff710b8e06d4af.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abee86d59bf5b6b7c2fb2be.jpg",
     "category": null,
-    "text": "De cerca y en plena acción: tropas rusas y aliadas ensayan un asalto con apoyo de drones (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/630366-primera-persona-militares-rusos-socios?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump pone a Irán ante una disyuntiva",
+    "link": "https://actualidad-rt.com/actualidad/630428-trump-poner-iran-disyuntiva?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abea5b2e9ff71226d7cc78e.jpg",
+    "image": null,
     "category": null,
-    "text": "VIDEO: Terminator' de Schwarzenegger regresa y ahora destruye robots reales",
-    "link": "https://actualidad-rt.com/viral/630398-video-terminator-schwarzenegger-regresa-destruye-robots-reales?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump asegura que \"los precios bajan rápidamente\" y carga contra los demócratas",
+    "link": "https://actualidad-rt.com/actualidad/630426-trump-asegura-precios-bajan-rapidamente?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abe703659bf5b799f10cc92.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abeda6059bf5b6c6b7fa0f1.jpg",
     "category": null,
-    "text": "\"Ser malvado no es malo\": Bizarras declaraciones del fundador de Palantir",
-    "link": "https://actualidad-rt.com/actualidad/630347-fundador-palantir-desatar-polemica-bizarras-declaraciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Un colosal árbol se desploma en segundos y hiere a varias personas",
+    "link": "https://actualidad-rt.com/actualidad/630420-colosal-arbol-desploma-segundos-hiere-personas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abe7ce159bf5b4f3a030d19.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abe6708e9ff7137436b14da.jpg",
     "category": null,
-    "text": "La subida del petróleo ruso hace añicos el techo de precios europeos",
-    "link": "https://actualidad-rt.com/actualidad/630344-subida-petroleo-ruso-hace-anicos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "¿Una nueva guerra a las puertas? El verdadero trasfondo de la histeria europea por la \"amenaza rusa\"",
+    "link": "https://actualidad-rt.com/actualidad/630192-nueva-guerra-puertas-verdadero-trasfondo-histeria-europea?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-01",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abea6b6e9ff713818349807.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6abed4e2e9ff71478b38ff67.jpg",
     "category": null,
-    "text": "Putin: \"Pronto todos conduciremos autos chinos\"",
-    "link": "https://actualidad-rt.com/actualidad/630399-putin-pronto-conduciremos-autos-chinos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Bolivia tiene nuevo fiscal general y el Gobierno denuncia \"usurpación de funciones\"",
+    "link": "https://actualidad-rt.com/actualidad/630414-bolivia-tener-nuevo-fiscal-general?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-01",
+    "image": null,
+    "category": null,
+    "text": "El huracán Rachel se fortalece a categoría 2 frente a la costa del Pacífico en México",
+    "link": "https://es.euronews.com/2026/10/01/el-huracan-rachel-se-fortalece-a-categoria-2-frente-a-la-costa-del-pacifico-en-mexico"
+  },
+  {
+    "date": "2026-10-01",
+    "image": null,
+    "category": null,
+    "text": "Ataque en una escuela en Torreón (México): 2 exalumnos matan a la subdirectora",
+    "link": "https://es.euronews.com/2026/10/01/dos-exalumnos-atacan-una-escuela-en-torreon-mexico-y-matan-a-la-subdirectora"
   },
   {
     "date": "2026-10-01",
@@ -397,26 +418,5 @@
     "category": null,
     "text": "Jóvenes artistas marciales se forman en las antiguas escuelas de montaña de China",
     "link": "https://es.euronews.com/video/2026/10/01/jovenes-artistas-marciales-se-forman-en-las-antiguas-escuelas-de-montana-de-china"
-  },
-  {
-    "date": "2026-10-01",
-    "image": null,
-    "category": null,
-    "text": "Rescatan a 4 marineros tras el hundimiento de su yate por un cachalote en el Pacífico Sur",
-    "link": "https://es.euronews.com/video/2026/10/01/rescatan-a-cuatro-marineros-tras-el-hundimiento-de-su-yate-por-un-cachalote-en-el-pacifico"
-  },
-  {
-    "date": "2026-10-01",
-    "image": null,
-    "category": null,
-    "text": "Bradley Whitford recibe una estrella en el Paseo de la Fama de Hollywood",
-    "link": "https://es.euronews.com/video/2026/10/01/bradley-whitford-recibe-una-estrella-en-el-paseo-de-la-fama-de-hollywood"
-  },
-  {
-    "date": "2026-10-01",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 01 octubre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/10/01/ultimas-noticias-01-octubre-2026-mediodia"
   }
 ]

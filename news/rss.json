@@ -1,6 +1,41 @@
 [
   {
     "date": "2026-10-03",
+    "image": "https://s.france24.com/media/display/d995bc2a-bf2e-11f1-8327-1ff0321dbbd3/w:1024/p:16x9/000-D22M8WE.jpg",
+    "category": "Medio Oriente",
+    "text": "Yemen: se escuchan fuertes explosiones en la capital, Saná, controlada por los hutíes",
+    "link": "https://www.france24.com/es/medio-oriente/20261003-yemen-se-escuchan-fuertes-explosiones-en-la-capital-san%C3%A1-controlada-por-los-hut%C3%ADes"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://s.france24.com/media/display/c7208d58-bf2a-11f1-9931-13e372f41e70/w:1024/p:16x9/2026-10-02T185108Z-1774286668-RC2RTNAN129Z-RTRMADP-3-ISRAEL-GULF-FLIGHT-Q-A.jpg",
+    "category": "Medio Oriente",
+    "text": "EAU concluye que el copiloto del vuelo de Flydubai intentó \"un ataque terrorista\"",
+    "link": "https://www.france24.com/es/medio-oriente/20261003-eau-concluye-que-el-copiloto-del-vuelo-de-flydubai-intent%C3%B3-un-ataque-terrorista"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://s.france24.com/media/display/84578946-be70-11f1-b317-1ff0321dbbd3/w:1024/p:16x9/IMG-0209.png",
+    "category": "Una Semana en el Mundo",
+    "text": "Brasil, Trump y el futuro geopolítico de América: ¿qué está en juego?",
+    "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261003-brasil-trump-y-el-futuro-geopol%C3%ADtico-de-am%C3%A9rica-qu%C3%A9-est%C3%A1-en-juego"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://s.france24.com/media/display/970b181a-bf3c-11f1-b1d2-13420ab900a2/w:1024/p:16x9/img-0209.jpg",
+    "category": null,
+    "text": "Brasil, Trump y el futuro geopolítico de América: ¿qué está en juego?",
+    "link": "https://www.france24.com/es/video/20261003-brasil-trump-y-el-futuro-geopol%C3%ADtico-de-am%C3%A9rica-qu%C3%A9-est%C3%A1-en-juego"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://s.france24.com/media/display/64630dc6-bf20-11f1-8088-13e372f41e70/w:1024/p:16x9/2026-10-03T111336Z-1311562056-RC2NVNADKVHT-RTRMADP-3-SPAIN-HOUSING-PROTEST.jpg",
+    "category": "Europa",
+    "text": "España vuelve a las calles por la vivienda con llamados a una huelga general",
+    "link": "https://www.france24.com/es/europa/20261003-espa%C3%B1a-vuelve-a-las-calles-por-la-vivienda-con-llamados-a-una-huelga-general"
+  },
+  {
+    "date": "2026-10-03",
     "image": "https://s.france24.com/media/display/e868f2a4-bece-11f1-8821-578a4b968fd6/w:1024/p:16x9/DES-INFORMANDO-2.png",
     "category": null,
     "text": "Brasil no ha dejado de apoyar la soberanía de las Malvinas",
@@ -50,38 +85,17 @@
   },
   {
     "date": "2026-10-03",
-    "image": "https://s.france24.com/media/display/36b2d99c-b0a2-11f1-a424-005056bf30b7/w:1024/p:16x9/000-76TX4G3.jpg",
-    "category": "América Latina",
-    "text": "La OEA reclama elecciones libres y la excarcelación de presos políticos en Nicaragua",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261003-la-oea-reclama-elecciones-libres-y-la-excarcelaci%C3%B3n-de-presos-pol%C3%ADticos-en-nicaragua"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://s.france24.com/media/display/6dfcbcfa-bec2-11f1-8ee4-578a4b968fd6/w:1024/p:16x9/Lo-que-sabemos-del-caso-de-los-siete-de-Cornell.png",
+    "image": null,
     "category": null,
-    "text": "Lo que sabemos del caso de 'los siete de Cornell' en Estados Unidos",
-    "link": "https://www.france24.com/es/lo-que-sabemos-del-caso-de-los-siete-de-cornell-en-estados-unidos"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://s.france24.com/media/display/b0887a84-b4e3-11f1-b8cd-0730212ba17f/w:1024/p:16x9/AP26263307182805.jpg",
-    "category": "Asia-Pacífico",
-    "text": "Corea del Norte lanza un misil balístico que recorrió más de 700 kilómetros; Seúl se pone en alerta",
-    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261003-corea-del-norte-lanza-un-misil-bal%C3%ADstico-que-recorri%C3%B3-m%C3%A1s-de-700-kil%C3%B3metros-se%C3%BAl-se-pone-en-alerta"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://s.france24.com/media/display/b2d91642-beaa-11f1-afbe-1ff0321dbbd3/w:1024/p:16x9/FORMATO-5.png",
-    "category": null,
-    "text": "Voto femenino, clave en la recta final de las elecciones en Brasil",
-    "link": "https://www.france24.com/es/voto-femenino-clave-en-la-recta-final-de-las-elecciones-en-brasil"
+    "text": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
+    "link": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-03",
     "image": null,
     "category": null,
-    "text": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
-    "link": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o?at_medium=RSS&at_campaign=rss"
+    "text": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
+    "link": "https://www.bbc.com/mundo/articles/cm89zwqvnj72o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-03",
@@ -99,87 +113,108 @@
   },
   {
     "date": "2026-10-03",
-    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Ñielol: calidad del aire este 3 de octubre de 2026",
-    "link": "https://www.infobae.com/noticias/2026/10/03/nielol-calidad-del-aire-este-3-de-octubre-de-2026/"
+    "text": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en EE.UU.",
+    "link": "https://www.bbc.com/mundo/articles/c3x2z2rq1759o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/CXYZALAIPNEGBFOPP2LQOFKDJU.png?auth=aa7557273dae66482916fbaee09eeedd5869c5a6621f75e7693f5b019eb6e862&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Las fotos de la majestuosa Ferrari de Michael Jordan que se vendió en casi 3 millones de dólares",
+    "link": "https://www.infobae.com/deportes/2026/10/03/las-fotos-de-la-majestuosa-ferrari-de-michael-jordan-que-se-vendio-en-27-millones-de-dolares/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/Q2I5STCECRDORJLZG2JRJERFXY.png?auth=99153b70c01df3ab3ba5fd71c8b89803b5208ee15100e8e76d1ebe640f31acb3&smart=true&width=517&height=322",
+    "category": null,
+    "text": "“Nos dijeron que había muerto”: el caso de un colombiano que viajó a Rusia y reapareció vivo en un video como preso en Ucrania",
+    "link": "https://www.infobae.com/colombia/2026/10/03/nos-dijeron-que-habia-muerto-el-caso-de-un-colombiano-que-viajo-a-rusia-y-reaparecio-vivo-en-un-video-como-preso-en-ucrania/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/67FOCWBPJJF3DIGCEYILMRRD6I.png?auth=434680ba8cf745fa3f581b721ec894e21d32b7272a41b91d8c3a745da8fdfc52&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Anthropic recurre a expertos religiosos para enseñar valores y principios a Claude",
+    "link": "https://www.infobae.com/tecno/2026/10/03/anthropic-recurre-a-expertos-religiosos-para-ensenar-valores-y-principios-a-claude/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/L6LS3ZX43RCGLPRPDQ7SEFANYM.JPG?auth=9be0e6979e51617431fb4173165eb3e2892b94f8efda56389ce00cd95602db1a&smart=true&width=5500&height=3668",
+    "category": null,
+    "text": "Última hora de las manifestaciones en toda España por la crisis de la vivienda, en directo | Decenas de miles de personas piden “la huelga general” en varias ciudades",
+    "link": "https://www.infobae.com/espana/2026/10/03/ultima-hora-de-las-manifestaciones-en-toda-espana-por-la-crisis-de-la-vivienda-en-directo/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/ZANDNYDK6JCC5CJOYAMNVJRP7M.jpg?auth=80de9a515bd79a3692c783dee31d49db3884518ed5ac29f25c95092c7a7fedd8&smart=true&width=1022&height=615",
+    "category": null,
+    "text": "Cae en EEUU “Prometeo”, presunto líder financiero del Tren de Aragua vinculado con empresas en México",
+    "link": "https://www.infobae.com/mexico/2026/10/03/cae-en-eeuu-prometeo-presunto-lider-financiero-del-tren-de-aragua-vinculado-con-empresas-en-mexico/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/6UNQEW6NNNHNRNQSB7562PYQXQ.png?auth=3b77ee97f034e30639f9ba6c8dfd4d8dbca81a564b6311c6b41b6b0b391399ec&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Da inicio el Tianguis del Pulque y la Cerveza en su edición de Día de Muertos: todo lo que habrá y cómo llegar",
+    "link": "https://www.infobae.com/mexico/2026/10/03/da-inicio-el-bazar-del-pulque-y-la-cerveza-en-su-edicion-de-dia-de-muertos-todo-lo-que-habra-y-como-llegar/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/5GQM6HGANNGCVOBJKAKCTAURWY.png?auth=99a977f2655aaf48ffcd198193cd44a27f2aa7c6a44353b34c52ee14a8ffd5d3&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "El FBI procesa en Estados Unidos a “Prometheus”, cibercriminal venezolano de los 10 más buscados que vaciaba cajeros para el Tren de Aragua",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/03/el-fbi-capturo-a-prometheus-cibercriminal-venezolano-de-los-10-mas-buscados-que-vaciaba-cajeros-para-el-tren-de-aragua/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/S3EZZATXNFBHTB47Y2LA5E243E.jpg?auth=abc6979640c6f44a09aeca5f897127b1afa856264479538f96001007742bedfa&smart=true&width=5500&height=3094",
+    "category": null,
+    "text": "Trump prometió USD 5.000 a los adultos de EEUU si los republicanos ganan las elecciones de medio término",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/03/trump-prometio-usd-5000-a-los-adultos-de-eeuu-si-los-republicanos-ganan-las-elecciones-de-medio-termino/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/KHUP2EG4WRG6VKH4KVX34JVR5Q.jpg?auth=a4712051a1a539cd40ae87124ae307a1040e25b00688e274856d4c8c124abb96&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "“Me gusta tener los pies en la tierra”, la reacción de Paco Hervás tras clasificación de Universitario a la final de la Copa Brasilia de vóley 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/10/03/me-gusta-tener-los-pies-en-la-tierra-la-reaccion-de-paco-hervas-tras-clasificacion-de-universitario-a-la-final-de-la-copa-brasilia-de-voley-2026/"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://www.infobae.com/resizer/v2/ZPMQ5O7MJNAQHFOUOXIJL3U7QU.png?auth=02d9121054e2e586afa537ba6cfdd2b08ac5b3a34482b9454e09d85ac26b36ff&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Mal aliento matutino: por qué aparece y qué hábitos ayudan a reducirlo",
+    "link": "https://www.infobae.com/salud/2026/10/03/mal-aliento-matutino-por-que-aparece-y-que-habitos-ayudan-a-reducirlo/"
   },
   {
     "date": "2026-10-03",
     "image": null,
     "category": null,
-    "text": "Piden reabrir denuncias por torturas a 29 detenidos por integrar Segi y absueltos en 2014",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/03/piden-reabrir-denuncias-por-torturas-a-29-detenidos-por-integrar-segi-y-absueltos-en-2014/"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Concón: calidad del aire este 3 de octubre de 2026",
-    "link": "https://www.infobae.com/noticias/2026/10/03/concon-calidad-del-aire-este-3-de-octubre-de-2026/"
+    "text": "PP lamenta altercados en València y que la izquierda \"siembre la violencia en las calles\"",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/03/pp-lamenta-altercados-en-valencia-y-que-la-izquierda-siembre-la-violencia-en-las-calles/"
   },
   {
     "date": "2026-10-03",
     "image": null,
     "category": null,
-    "text": "Montero cree \"fundamental\" acabar con el \"negocio de la vivienda\" con una huelga general",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/03/montero-cree-fundamental-acabar-con-el-negocio-de-la-vivienda-con-una-huelga-general/"
+    "text": "Un sondeo de intención de voto sitúa al grupo de Merz con su peor dato y al AfD en el 30 %",
+    "link": "https://www.infobae.com/america/agencias/2026/10/03/un-sondeo-de-intencion-de-voto-situa-al-grupo-de-merz-con-su-peor-dato-y-al-afd-en-el-30/"
   },
   {
     "date": "2026-10-03",
-    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Calidad del aire en Copiapó Sivica este 3 de octubre de 2026",
-    "link": "https://www.infobae.com/noticias/2026/10/03/calidad-del-aire-en-copiapo-sivica-este-3-de-octubre-de-2026/"
+    "image": "https://imagenes.elpais.com/resizer/v2/W5VJRATM5BCVVP2KUMDA7BGJTU.jpg?auth=ef427823875e185e865454874c620c4e59f1fe33ac9f1755adf77939850ee163",
+    "category": "Guerra",
+    "text": "Al menos cinco muertos por un ataque israelí en Ciudad de Gaza",
+    "link": "https://elpais.com/internacional/2026-10-03/varios-muertos-por-un-ataque-israeli-en-ciudad-de-gaza.html"
   },
   {
     "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "El jefe del Ejército de Uganda ofrece apoyo militar a Etiopía contra los rebeldes de Tigré",
-    "link": "https://www.infobae.com/america/agencias/2026/10/03/el-jefe-del-ejercito-de-uganda-ofrece-apoyo-militar-a-etiopia-contra-los-rebeldes-de-tigre/"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Valdivia: calidad del aire este 3 de octubre de 2026",
-    "link": "https://www.infobae.com/noticias/2026/10/03/valdivia-calidad-del-aire-este-3-de-octubre-de-2026/"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "Ataques aéreos atribuidos a la coalición liderada por Riad sacuden la capital yemení",
-    "link": "https://www.infobae.com/america/agencias/2026/10/03/ataques-aereos-atribuidos-a-la-coalicion-liderada-por-riad-sacuden-la-capital-yemeni/"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Cerro Merquín: calidad del aire este 3 de octubre de 2026",
-    "link": "https://www.infobae.com/noticias/2026/10/03/cerro-merquin-calidad-del-aire-este-3-de-octubre-de-2026/"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "Un detenido por presunto complot contra una base militar británica es liberado bajo fianza",
-    "link": "https://www.infobae.com/america/agencias/2026/10/03/un-detenido-por-presunto-complot-contra-una-base-militar-britanica-es-liberado-bajo-fianza/"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Estatus de la calidad del aire en Puente Alto este 3 de octubre de 2026",
-    "link": "https://www.infobae.com/noticias/2026/10/03/estatus-de-la-calidad-del-aire-en-puente-alto-este-3-de-octubre-de-2026/"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "Merz expresa su confianza en el futuro de Alemania en el Día de la Unidad de Alemania",
-    "link": "https://www.infobae.com/america/agencias/2026/10/03/merz-expresa-su-confianza-en-el-futuro-de-alemania-en-el-dia-de-la-unidad-de-alemania/"
+    "image": "https://imagenes.elpais.com/resizer/v2/7TK4UGVAXFISTGXLRXCU2EJ4GY.jpg?auth=7d9ea1e41071997f4c3d02755b470c7f728c0edb32adc787dcf2c65d5f5b4c37",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Rusia bombardea cuatro puentes clave en Kiev y siembra el caos",
+    "link": "https://elpais.com/internacional/2026-10-03/rusia-bombardea-cuatro-puentes-clave-en-kiev-y-siembra-el-caos.html"
   },
   {
     "date": "2026-10-03",
@@ -187,6 +222,13 @@
     "category": "Emiratos Árabes Unidos",
     "text": "Emiratos Árabes constata que el piloto del vuelo a Tel Aviv pretendía cometer una “acción terrorista”",
     "link": "https://elpais.com/internacional/2026-10-03/emiratos-arabes-constata-que-el-piloto-del-vuelo-a-tel-aviv-pretendia-cometer-un-acto-terrorista.html"
+  },
+  {
+    "date": "2026-10-03",
+    "image": "https://imagenes.elpais.com/resizer/v2/WG5KOTWE4JM3NHHRPO5PBAMMUA.jpg?auth=3597be7c7eb4939b70c42aaa8ce1f6f1dc3adb49740ec9111dfce04585debd6c",
+    "category": "Elecciones Brasil",
+    "text": "El trasfondo geopolítico de las elecciones brasileñas",
+    "link": "https://elpais.com/america/2026-10-03/el-trasfondo-geopolitico-de-las-elecciones-brasilenas.html"
   },
   {
     "date": "2026-10-03",
@@ -204,13 +246,6 @@
   },
   {
     "date": "2026-10-03",
-    "image": "https://imagenes.elpais.com/resizer/v2/WG5KOTWE4JM3NHHRPO5PBAMMUA.jpg?auth=3597be7c7eb4939b70c42aaa8ce1f6f1dc3adb49740ec9111dfce04585debd6c",
-    "category": "Elecciones Brasil",
-    "text": "El trasfondo geopolítico de las elecciones brasileñas",
-    "link": "https://elpais.com/america/2026-10-03/el-trasfondo-geopolitico-de-las-elecciones-brasilenas.html"
-  },
-  {
-    "date": "2026-10-03",
     "image": "https://imagenes.elpais.com/resizer/v2/7AR6SEV2MJPR5CTPO2GAUCN6CQ.jpg?auth=726155143604cfa6fa2f0451b977f8bab1d8dcede9aa85adbbbd0439af71d65d",
     "category": "OTAN",
     "text": "Lituania cierra durante una hora el aeropuerto de Vilnius y despliega aviones de la OTAN por la presencia de un dron",
@@ -218,87 +253,73 @@
   },
   {
     "date": "2026-10-03",
-    "image": "https://imagenes.elpais.com/resizer/v2/3XFRCLYCKBFQVO73HFR3AO4LEI.jpg?auth=a82e866e58b468ae314ebd64b6d3991e28c270f40c9d7111b8eefccae9ae6e4d",
-    "category": "Elecciones EE UU",
-    "text": "Elecciones de medio mandato en Estados Unidos: siete batallas que definirán el futuro post-Trump",
-    "link": "https://elpais.com/us/2026-10-03/elecciones-de-medio-mandato-en-estados-unidos-siete-batallas-que-definiran-el-futuro-post-trump.html"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://imagenes.elpais.com/resizer/v2/SWN7TOHYFBFD3J25PRQQBXFCZE.jpg?auth=94c1e178acf96b3591d41dfd109a8be19057d71ee7ef40cd6f4579101c8aaa15",
-    "category": "Marruecos",
-    "text": "Fátima Mansouri: una ‘dama de hierro’ bajo el trono de Mohamed VI",
-    "link": "https://elpais.com/internacional/2026-10-03/fatima-mansouri-una-dama-de-hierro-bajo-el-trono-de-mohamed-vi.html"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0cdc3e9ff712b2270c5a3.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac121c0e9ff71214538d22a.jpg",
     "category": null,
-    "text": "¿Volver a la UE?: Reino Unido reabre una herida que parecía cerrada",
-    "link": "https://actualidad-rt.com/actualidad/630538-volver-europa-reino-unido-reabre-herida?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Hegseth parodia a Trump",
+    "link": "https://actualidad-rt.com/actualidad/630683-video-hegseth-parodiar-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0e1cae9ff715e6d0fea34.jpg",
+    "image": null,
     "category": null,
-    "text": "Rusia advierte a los extranjeros de abstenerse a visitar Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/630655-rusia-advierte-extranjeros-abstenerse-viajes-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Madre de 4 hijos de Elon Musk anuncia el fin de su relación",
+    "link": "https://actualidad-rt.com/actualidad/630672-madre-cuatro-hijos-elon-musk-anuncia-fin-relacion?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0de8b59bf5b6b3954a4a2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac102cbe9ff715e6d0fea52.jpg",
     "category": null,
-    "text": "Rusia advierte de nuevos ataques masivos de represalia contra Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/630652-rusia-advierte-nuevos-masivos-ataques?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La perturbadora pregunta de Christa Pike tras sobrevivir a dos inyecciones letales",
+    "link": "https://actualidad-rt.com/actualidad/630666-perturbadora-pregunta-christa-pike?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0dd8059bf5b688908b8dd.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac11baee9ff715e6d0fea5a.jpg",
     "category": null,
-    "text": "Pionyang prueba un misil con IA cuyo ataque es \"imposible evitar\"",
-    "link": "https://actualidad-rt.com/actualidad/630651-pionyang-prueba-misil-ia-cuyo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO DE PRIMEROS INSTANTES del rescate del piloto herido en el vuelo de Flydubai",
+    "link": "https://actualidad-rt.com/actualidad/630678-video-primeros-instantes-rescate-piloto-herido-vuelo-flydubai?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0c4dde9ff71144d6d7cc7.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac11cff59bf5b7bb664ff78.jpg",
     "category": null,
-    "text": "VIDEO: Así fue liberada una nueva localidad por las tropas rusas",
-    "link": "https://actualidad-rt.com/actualidad/630642-video-liberar-nueva-localidad?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: El impecable rescate de un niño que quedó atrapado en una reja de metal",
+    "link": "https://actualidad-rt.com/viral/630684-video-impecable-rescate-nino-quedo-atrapado-reja-metal?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0c83259bf5b688908b8c9.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac110cae9ff7135f51dd686.jpg",
     "category": null,
-    "text": "Crean en Rusia un implante único para reparar huesos del cráneo",
-    "link": "https://actualidad-rt.com/actualidad/630638-crean-rusia-implante-unico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Drones rusos ubican y derriban un grupo de hexacópteros ucranianos",
+    "link": "https://actualidad-rt.com/actualidad/630675-drones-rusos-ubican-derriban-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0a26759bf5b127a264c47.jpg",
+    "image": null,
     "category": null,
-    "text": "Descubren más de 10.000 nuevos virus en una zona del Pacífico",
-    "link": "https://actualidad-rt.com/actualidad/630628-descubrir-10000-nuevos-virus-zona?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un directivo de seguridad de OpenAI deja su cargo",
+    "link": "https://actualidad-rt.com/actualidad/630676-directivos-seguridad-openai-dejar-cargo?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0d40059bf5b55082cbe82.jpg",
+    "image": null,
     "category": null,
-    "text": "VIDEO: El dramático rescate de un zorro que se estaba ahogando en un embalse",
-    "link": "https://actualidad-rt.com/viral/630646-video-dramatico-rescate-zorro-ahogando-embalse?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Las reservas de gas en el Báltico caen a mínimos históricos antes del invierno",
+    "link": "https://actualidad-rt.com/actualidad/630679-reservas-gas-baltico-minimos-historicos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0c95be9ff711fe848630c.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0f01859bf5b6b4b070306.jpg",
     "category": null,
-    "text": "Calles se convierten en ríos: Lluvias torrenciales causan fuerte inundación en España (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/630640-calles-convierten-rios-lluvias-torrenciales-espana?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Alemania se prepara para una guerra con un enemigo que espera que se contenga",
+    "link": "https://actualidad-rt.com/actualidad/630656-alemania-preparar-guerra-confiar-poder?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac0c0c859bf5b5e1a5487f6.png",
+    "image": null,
     "category": null,
-    "text": "VIDEO: Rusia ensaya asaltos combinados con artillería pesada",
-    "link": "https://actualidad-rt.com/actualidad/630639-video-rusia-ensayar-asaltos-combinados?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Rusia alcanza otro buque de carga con material militar ucraniano",
+    "link": "https://actualidad-rt.com/actualidad/630682-rusia-alcanza-buque-carga-material-militar-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-03",
@@ -346,29 +367,8 @@
     "date": "2026-10-02",
     "image": null,
     "category": null,
-    "text": "Etiopía vuelve a la guerra: ¿por qué el conflicto en Tigray amenaza con extenderse por la región?",
-    "link": "https://www.france24.com/es/%C3%A1frica/20261002-etiop%C3%ADa-vuelve-a-la-guerra-por-qu%C3%A9-el-conflicto-en-tigray-amenaza-con-extenderse-por-la-regi%C3%B3n"
-  },
-  {
-    "date": "2026-10-02",
-    "image": null,
-    "category": null,
-    "text": "\"Tenemos miedo a perder la vida aquí\": los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
-    "link": "https://www.bbc.com/mundo/articles/c8046w1kgpgwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-02",
-    "image": null,
-    "category": null,
     "text": "Christa Pike está inconsciente y conectada a un respirador tras su fallida ejecución, según sus abogados",
     "link": "https://www.bbc.com/mundo/articles/ckvg7382lrwvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-02",
-    "image": null,
-    "category": null,
-    "text": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos",
-    "link": "https://www.bbc.com/mundo/articles/cx7vp55l3rz2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-02",
@@ -381,8 +381,8 @@
     "date": "2026-10-02",
     "image": null,
     "category": null,
-    "text": "El Parlamento de España vota en contra de dos decretos sobre vivienda del gobierno de Pedro Sánchez tras la crisis por el desahucio de la anciana Maricarmen",
-    "link": "https://www.bbc.com/mundo/articles/cqj9klj2zy29o?at_medium=RSS&at_campaign=rss"
+    "text": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos",
+    "link": "https://www.bbc.com/mundo/articles/cx7vp55l3rz2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-02",
@@ -395,22 +395,22 @@
     "date": "2026-10-02",
     "image": null,
     "category": null,
+    "text": "\"Tenemos miedo a perder la vida aquí\": los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
+    "link": "https://www.bbc.com/mundo/articles/c8046w1kgpgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-02",
+    "image": null,
+    "category": null,
+    "text": "El Parlamento de España vota en contra de dos decretos sobre vivienda del gobierno de Pedro Sánchez tras la crisis por el desahucio de la anciana Maricarmen",
+    "link": "https://www.bbc.com/mundo/articles/cqj9klj2zy29o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-02",
+    "image": null,
+    "category": null,
     "text": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
     "link": "https://www.bbc.com/mundo/articles/cm62y33ynlqpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-02",
-    "image": null,
-    "category": null,
-    "text": "Por qué los católicos votan más a Lula, los evangélicos a Bolsonaro y cómo una polémica por una virgen influye en las elecciones de Brasil",
-    "link": "https://www.bbc.com/mundo/articles/cqr7d7xe1y9lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-02",
-    "image": null,
-    "category": null,
-    "text": "\"No iba a permitir que los demás murieran\": el capitán del vuelo de Dubái a Israel relata el ataque de su copiloto",
-    "link": "https://www.bbc.com/mundo/articles/c6eq8qqr7v89o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-02",

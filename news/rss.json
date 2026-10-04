@@ -1,6 +1,13 @@
 [
   {
     "date": "2026-10-04",
+    "image": "https://s.france24.com/media/display/d12d3d2a-be0b-11f1-9f3f-1ff0321dbbd3/w:1024/p:16x9/Brasil-9.jpeg",
+    "category": "América Latina",
+    "text": "En directo | elecciones en Brasil: comienza la votación para elegir presidente",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261004-en-directo-elecciones-en-brasil-comienza-la-votaci%C3%B3n-para-elegir-presidente"
+  },
+  {
+    "date": "2026-10-04",
     "image": "https://s.france24.com/media/display/32d4144a-bfa6-11f1-bb97-13e372f41e70/w:1024/p:16x9/AP26277077769741.jpg",
     "category": "EE. UU. y Canadá",
     "text": "Cheques de 5.000 dólares y un número personal filtrado: ¿un impulso electoral desesperado de Trump?",
@@ -45,92 +52,106 @@
     "date": "2026-10-04",
     "image": null,
     "category": null,
-    "text": "El presidente de Cornell dice que la universidad \"debe hacer más\" tras la denuncia de violación en grupo en una fraternidad",
-    "link": "https://www.bbc.com/mundo/articles/c3x2w89p72r4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/CPAW7IBTJZF37J3TSW25XW2FL4.png?auth=cc1f1a0423249ec3dda6efe3075c9de76e260dc95daf3f9c047d77a8a36d0dd6&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Él es Pablo Pérez Lombardini, director revelación en los Premios Ariel como ganador a Mejor Ópera Prima",
-    "link": "https://www.infobae.com/mexico/2026/10/04/el-es-pablo-perez-lombardi-director-revelacion-en-los-premios-ariel-como-ganador-a-mejor-opera-prima/"
-  },
-  {
-    "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/WDFEMG65XJDM5P5I3SB2VM6EAU.png?auth=e3cd6353d86eff1f0b8e441088c80695a2ce3044be4943cf0bd1da4c63b27fd8&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Mientras se espera una semana sin sol en el AMBA, siguen las alertas por tormentas, nevadas y viento en el interior",
-    "link": "https://www.infobae.com/sociedad/2026/10/04/mientras-se-espera-una-semana-sin-sol-en-el-amba-siguen-las-alertas-por-tormentas-nevadas-y-viento-en-el-interior/"
-  },
-  {
-    "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/G3MHE64GVBF2HGYNCNBYIOHVWE.JPG?auth=c28af875ad4317fd46a89e8bf46c389dcf7cb5e7b9731546f6ba244a7e38b884&smart=true&width=6000&height=4000",
-    "category": null,
-    "text": "Los nuevos bombardeos de Rusia sobre Ucrania tienen una lógica terrible",
-    "link": "https://www.infobae.com/economist/2026/10/04/los-nuevos-bombardeos-de-rusia-sobre-ucrania-tienen-una-logica-terrible/"
+    "text": "Spa, el antiguo balneario conocido desde la época de los romanos que dio origen a la industria global del autocuidado",
+    "link": "https://www.bbc.com/mundo/articles/cn4gzkkk7y1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-04",
     "image": null,
     "category": null,
-    "text": "Los Premios Ariel coronan a 'En el camino' y defienden el impulso del cine mexicano",
-    "link": "https://www.infobae.com/america/agencias/2026/10/04/los-premios-ariel-coronan-a-en-el-camino-y-defienden-el-impulso-del-cine-mexicano/"
+    "text": "Por qué cada vez que barajas cartas el resultado es un acontecimiento sin precedentes en la historia del universo",
+    "link": "https://www.bbc.com/mundo/articles/cwe875041vjjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/AKKZ5YQPYZANZJI75TPZ5LMD6A.jpg?auth=233179117d2cc761dd38941ce516c3f35bbaa3c148888ba544f0666088625033&smart=true&width=1920&height=1280",
+    "image": null,
     "category": null,
-    "text": "Japón presenta una protesta formal ante EEUU tras el arresto de un marine por asesinato en Okinawa",
-    "link": "https://www.infobae.com/america/agencias/2026/10/04/japon-presenta-una-protesta-formal-ante-eeuu-tras-el-arresto-de-un-marine-por-asesinato-en-okinawa/"
+    "text": "El presidente de Cornell dice que la universidad \"debe hacer más\" tras la denuncia de violación en grupo en una fraternidad",
+    "link": "https://www.bbc.com/mundo/articles/c3x2w89p72r4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/5RQPF3MP7JFSVBPFSMMUM6OAYU.jpg?auth=477bce62e4e41e6675bafd349d6d12c02c93097281102cbf4b58b3156a61a0a1&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/CZYAJXBKXRBTFJIDE4XWW5CAQE.png?auth=dcedfd17668f88a90e90887b97e28945c8ab4221c361c1df85bf9d33369b7079&smart=true&width=905&height=600",
     "category": null,
-    "text": "Estados Unidos instó a Etiopía y Eritrea a frenar la escalada con los rebeldes de Tigré y pidió retomar el diálogo",
-    "link": "https://www.infobae.com/america/mundo/2026/10/04/estados-unidos-insto-a-etiopia-y-eritrea-a-frenar-la-escalada-con-los-rebeldes-de-tigre-y-pidio-retomar-el-dialogo/"
+    "text": "Por qué recomiendan no caminar descalzo en una habitación de hotel",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/03/por-que-no-se-recomienda-caminar-descalzo-en-una-habitacion-de-hotel/"
   },
   {
     "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/5FQUTNPTTVHXBARPXKGQ4PUTRY.png?auth=5e542ce765760950c93f77fbd01163a5c73e808e31cafbb67610734518637cdb&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/HBZRSHESMFAILC3HIPXH5KIOZE.png?auth=41f0a817ffc2d8ce60737d4cbcc3c7070c2b1cd3a8f28ac2154feaa429ba79cd&smart=true&width=1536&height=1024",
     "category": null,
-    "text": "Lali Espósito tuvo su tercera despedida de soltera: del guiño a Leo Mattioli al inesperado show de Sandro",
-    "link": "https://www.infobae.com/teleshow/2026/10/04/lali-esposito-tuvo-su-tercera-despedida-de-soltera-del-guino-a-leo-mattioli-al-inesperado-show-de-sandro/"
+    "text": "Elecciones 2026 EN VIVO: últimas noticias, incidencias y resultados de las Municipales y Regionales hoy 4 de octubre",
+    "link": "https://www.infobae.com/peru/2026/10/04/elecciones-2026-en-vivo-ultimas-noticias-incidencias-y-resultados-de-las-municipales-y-regionales-hoy-4-de-octubre/"
   },
   {
     "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/KYHR6BW3AFETLDSUCNF5N2SDLE.jpg?auth=1db843c085baf8971487c5a0d88ba9a3ecea1e7e7d7077d960ad72b48e8c6ae5&smart=true&width=1920&height=1354",
+    "image": "https://www.infobae.com/resizer/v2/AOGOMRABJND7XAKOGPUPRZGPYU.png?auth=f13704787aabcd789354a56851d43126b45ca724c8df6e0e64bcaf51fc3f17af&smart=true&width=1536&height=1024",
     "category": null,
-    "text": "Nacha Guevara a los 86 años: la niña que soportó palizas por no comer carne, el exilio forzado y la promesa de llegar a Broadway",
-    "link": "https://www.infobae.com/sociedad/2026/10/04/nacha-guevara-a-los-86-anos-la-nina-que-soporto-palizas-por-no-comer-carne-el-exilio-forzado-y-la-promesa-de-llegar-a-broadway/"
+    "text": "¿No apareces en el padrón para emitir tu voto?: Conoce el procedimiento para pedir la exoneración de multa cuando no se puede sufragar",
+    "link": "https://www.infobae.com/peru/2026/10/04/no-apareces-en-el-padron-para-emitir-tu-voto-conoce-el-procedimiento-para-pedir-la-exoneracion-de-multa-cuando-no-se-puede-sufragar/"
   },
   {
     "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/765R5DERAVGMTJ2B77ZANUOFRM.jpg?auth=f2d4feea03ec928cc306a9c772c02d2a3f05566248455e06ab414a2287202c2c&smart=true&width=1390&height=721",
+    "image": "https://www.infobae.com/resizer/v2/EXX2JFRGN7AGL4MHOBZ3JSDP4A.jpg?auth=2f9a58c4c973481111c23ba890f5592c85aeeeaa14e3371a569badff5a3fd266&smart=true&width=2487&height=1701",
     "category": null,
-    "text": "La Conquista del Desierto: la campaña que tomó posesión de 500 mil kilómetros cuadrados y dejó 14 mil indígenas muertos",
-    "link": "https://www.infobae.com/historia/2026/10/04/la-conquista-del-desierto-la-campana-que-tomo-posesion-de-500-mil-kilometros-cuadrados-y-dejo-14-mil-indigenas-muertos/"
+    "text": "Una ex figura de la Premier reveló el nombre de la celebridad que lo agredió sexualmente: el crudo relato del momento que cambió su vida",
+    "link": "https://www.infobae.com/deportes/2026/10/04/una-ex-figura-de-la-premier-sorprendio-al-revelar-el-nombre-de-su-agresor-sexual-el-crudo-relato-del-momento-que-cambio-su-vida/"
   },
   {
     "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/DEE7M2NUIVDVPMCS5QSSKGHTT4.png?auth=ccab70895c54136109149ff05f18bbc111cbcda64eaf0e82f72f23d32d973177&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/W22F46X2FRFOHCDOYAWXRRNHW4.png?auth=b777fd9a80d9d9ee3856ba098764f5d2c2fda4926b7be2eb9e744dfb8dce3caa&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Un error fatal, una compulsión por el lujo y una pregunta extraña en el banco: los pecados de una banda que robó 17 millones de dólares",
-    "link": "https://www.infobae.com/historias/2026/10/04/un-error-fatal-una-compulsion-por-el-lujo-y-una-pregunta-extrana-en-el-banco-los-pecados-de-una-banda-que-robo-17-millones-de-dolares/"
+    "text": "Comercios minoristas japoneses usan inteligencia artificial para crear postres con sabores insólitos",
+    "link": "https://www.infobae.com/america/mundo/2026/10/04/comercios-minoristas-japoneses-usan-inteligencia-artificial-para-crear-postres-con-sabores-insolitos/"
   },
   {
     "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/PDZ6T4Z7QFBHTKY2CX55IE3IVU.jpg?auth=ef033d1955a3d7f681fd8a57efe446a753a56b1b2e03729472e33f5b4588ab9f&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "“No voy a confiar en un pervertido”: las hazañas de Ramsay, el espía al que Stalin no creyó y terminó necesitando para frenar a Hitler",
-    "link": "https://www.infobae.com/historias/2026/10/04/no-voy-a-confiar-en-un-pervertido-las-hazanas-de-ramsay-el-espia-al-que-stalin-no-creyo-y-termino-necesitando-para-frenar-a-hitler/"
+    "text": "Calidad del aire en Cuncumen este 4 de octubre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/10/04/calidad-del-aire-en-cuncumen-este-4-de-octubre-de-2026/"
   },
   {
     "date": "2026-10-04",
-    "image": "https://www.infobae.com/resizer/v2/J4GYMXPB4BFFRC56HCCZOVE3CE.jpg?auth=0120b976ceb023d82d15fd4d043195b011f72fb8f6c42a7b607483130557709b&smart=true&width=3344&height=2429",
+    "image": "https://www.infobae.com/resizer/v2/XGHMD33SHVDA5MFIGAEZ7QNZ7Q.jpg?auth=5185fe9148d2761807907e4beae758471032b83c47e161a616c75aecd9af5286&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Elecciones Brasil 2026, en vivo: El Tribunal Electoral de Brasil advirtió que actuará contra cualquier intento de amenaza o interferencia en las urnas",
-    "link": "https://www.infobae.com/america/america-latina/2026/10/03/en-vivo-elecciones-brasil-2026/"
+    "text": "Elecciones 2026: ¿Hasta qué hora se puede votar hoy 04 de octubre?",
+    "link": "https://www.infobae.com/peru/2026/10/04/elecciones-2026-hasta-que-hora-se-puede-votar-hoy-04-de-octubre/"
+  },
+  {
+    "date": "2026-10-04",
+    "image": "https://www.infobae.com/resizer/v2/ATAJOGDR6BB2LPOK46B35OJOOI.jpg?auth=ab2f38a10fc9fbb87936f16a311396c707c5d268b268f4f332d4b23a64c43e7c&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Maroto se avergüenza del alcalde Almeida, \"más preocupado por expulsar a los acampados de Sol que por escucharles\"",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/04/maroto-se-averguenza-del-alcalde-almeida-mas-preocupado-por-expulsar-a-los-acampados-de-sol-que-por-escucharles/"
+  },
+  {
+    "date": "2026-10-04",
+    "image": "https://www.infobae.com/resizer/v2/T7OBEJQPURALVCHTODKXVRS7PE.png?auth=8b7c105ed362f34e1deefe10af797f6a2c0f9823a496c9a1f8435e27bcfc354b&smart=true&width=1536&height=1024",
+    "category": null,
+    "text": "¿Hay valla electoral en las Elecciones Municipales y Regionales 2026? Qué dice la ley sobre los partidos y candidatos",
+    "link": "https://www.infobae.com/peru/2026/10/04/hay-valla-electoral-en-las-elecciones-municipales-y-regionales-2026-que-dice-la-ley-sobre-los-partidos-y-candidatos/"
+  },
+  {
+    "date": "2026-10-04",
+    "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Estatus de la calidad del aire en Quilicura este 4 de octubre de 2026",
+    "link": "https://www.infobae.com/noticias/2026/10/04/estatus-de-la-calidad-del-aire-en-quilicura-este-4-de-octubre-de-2026/"
+  },
+  {
+    "date": "2026-10-04",
+    "image": null,
+    "category": null,
+    "text": "El otoño pone voz al monte mediterráneo, con la berrea en el Parque Nacional de Cabañeros",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/04/el-otono-pone-voz-al-monte-mediterraneo-con-la-berrea-en-el-parque-nacional-de-cabaneros/"
+  },
+  {
+    "date": "2026-10-04",
+    "image": "https://www.infobae.com/resizer/v2/PL6A5BTSHFGRREJB7MDGAOVVO4.jpg?auth=fbae7be4b2564269d951bdb958b5e8ab9040ff076faab9f40f8912bb21e10000&smart=true&width=1920&height=1279",
+    "category": null,
+    "text": "Suspendido el Noia Portus Apostoli - Barça de fútbol sala por \"imposibilidad de desplazamiento\"",
+    "link": "https://www.infobae.com/america/agencias/2026/10/04/suspendido-el-noia-portus-apostoli-barca-de-futbol-sala-por-imposibilidad-de-desplazamiento/"
   },
   {
     "date": "2026-10-04",
@@ -183,6 +204,20 @@
   },
   {
     "date": "2026-10-04",
+    "image": "https://imagenes.elpais.com/resizer/v2/IU2DETDYNJNC3OMUCXYBPCKIQY.jpg?auth=1e8a3def4ada24bb96b070cac31900c9bc6afe771966953802e82879a67ffe92",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "La UE rechaza retirar a sus diplomáticos de Kiev tras las últimas amenazas de Putin",
+    "link": "https://elpais.com/internacional/2026-10-04/la-ue-rechaza-retirar-a-sus-diplomaticos-de-kiev-tras-las-ultimas-amenazas-de-putin.html"
+  },
+  {
+    "date": "2026-10-04",
+    "image": "https://imagenes.elpais.com/resizer/v2/U65SXMCCJVLITPYULAUIQ23GUY.jpg?auth=3117602e9ec43ea451d3aab10417d3a44af60484f116a6cd485722f83fc97131",
+    "category": "Letonia",
+    "text": "Lista Unida gana las elecciones en Letonia y apunta a una coalición favorable a Ucrania",
+    "link": "https://elpais.com/internacional/2026-10-03/el-partido-conservador-lista-unida-gana-las-generales-en-letonia-segun-los-sondeos.html"
+  },
+  {
+    "date": "2026-10-04",
     "image": "https://imagenes.elpais.com/resizer/v2/6QIUHD6FQFKFJPF5YV3R7CGMLM.jpg?auth=bd931c215f11d311c6cc026df1407f9c9a05f869c9a6881f1d9986beb565b173",
     "category": "Elecciones EE UU",
     "text": "El asalto de Trump al Supremo de Estados Unidos entra en un año decisivo",
@@ -197,87 +232,115 @@
   },
   {
     "date": "2026-10-04",
-    "image": "https://imagenes.elpais.com/resizer/v2/2BEBVANB3FCCLGZYM47TTB4ZGU.jpg?auth=404a5233af52c754d4200da461a009f14861cf2b4b58d0b22dbe2ab1b784607e",
-    "category": "Israel",
-    "text": "Luis Har, exrehén israelí: “Si hubiese sido solo por nuestro Gobierno, aún habría secuestrados en Gaza”",
-    "link": "https://elpais.com/internacional/2026-10-04/luis-har-exrehen-israeli-si-hubiese-sido-solo-por-nuestro-gobierno-aun-habria-secuestrados-en-gaza.html"
-  },
-  {
-    "date": "2026-10-04",
-    "image": "https://imagenes.elpais.com/resizer/v2/DYVGIGFL6FBVLC6WGNRIOWFR4Y.jpg?auth=85f97b17238faedfbe887a68822db2e021160f0ad8f805c2afc792040e2d1a56",
-    "category": "Alemania",
-    "text": "Dividida entre el miedo y la expectativa, Sajonia-Anhalt espera al primer Gobierno de extrema derecha de Alemania",
-    "link": "https://elpais.com/internacional/2026-10-04/dividida-entre-el-miedo-y-la-expectativa-sajonia-anhalt-espera-al-primer-gobierno-de-extrema-derecha-de-alemania.html"
-  },
-  {
-    "date": "2026-10-04",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac1cd8259bf5b045b4a0b23.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac22a4559bf5b7c074442a7.jpg",
     "category": null,
-    "text": "VIDEO: Drones rusos aniquilan a combatientes de Kiev en el frente",
-    "link": "https://actualidad-rt.com/actualidad/630741-drones-rusos-aniquilan-combatientes-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-04",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac1cadfe9ff7174fa7e0081.jpg",
-    "category": null,
-    "text": "FOTOS: La RPDC prueba un misil estratégico bajo supervisión de Kim Jong-un",
-    "link": "https://actualidad-rt.com/actualidad/630745-fotos-rpdc-prueba-misil-estrategico?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-04",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac1c44559bf5b78667e0ca9.jpg",
-    "category": null,
-    "text": "Enviado de Putin: \"Europa necesita la energía rusa para sobrevivir\"",
-    "link": "https://actualidad-rt.com/actualidad/630740-enviado-putin-europa-necesita-energia-rusa-sobrevivir?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-04",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac1c220e9ff7172cd129ebb.jpg",
-    "category": null,
-    "text": "Roban en Brasil una furgoneta con material radiactivo de uso médico",
-    "link": "https://actualidad-rt.com/actualidad/630738-roban-brasil-furgoneta-material-radiactivo-medico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La revolucionaria alternativa con residuos de acero que podría reducir la contaminación",
+    "link": "https://actualidad-rt.com/actualidad/630770-revolucionaria-alternativa-residuos-industriales-salvar-vidas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-04",
     "image": null,
     "category": null,
-    "text": "Irán exige que EE.UU. rinda cuentas por más de dos décadas de crímenes en Irak",
-    "link": "https://actualidad-rt.com/actualidad/630742-iran-exige-eeuu-rinda-cuentas-crimenes-irak?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Rusia destruye una estación de radar de las FF.AA. de Ucrania",
+    "link": "https://actualidad-rt.com/actualidad/630783-rusia-destruir-estacion-deteccion-objetivos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-04",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac20b8be9ff7172cd129ed4.jpg",
+    "category": null,
+    "text": "La irónica reacción del enviado de Putin a Merz por \"esconderse en el ático\" tras sus fracasos",
+    "link": "https://actualidad-rt.com/actualidad/630760-ironica-reaccion-enviado-putin-merz?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-04",
     "image": null,
     "category": null,
-    "text": "Irán asegura estar plenamente preparado para cualquier escenario en Oriente Medio",
-    "link": "https://actualidad-rt.com/actualidad/630743-iran-asegura-plenamente-preparado-escenario-oriente-medio?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ganador de concurso internacional de fotografía en el ojo del huracán por usar IA",
+    "link": "https://actualidad-rt.com/actualidad/630780-ganador-concurso-internacional-fotografia-ia-polemica?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-04",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac1ba64e9ff71734f47845d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac21bde59bf5b04b959f75d.jpg",
     "category": null,
-    "text": "Teherán mantiene intacta su producción de armas y puede luchar \"el tiempo que sea necesario\", según alto militar iraní",
-    "link": "https://actualidad-rt.com/actualidad/630734-aseguran-iran-mantiene-intacta-cadena-producion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán desmiente un reporte de EE.UU. y lo acusa de \"desespero y derrota\"",
+    "link": "https://actualidad-rt.com/actualidad/630767-iran-desmiente-eeuu-acusa-desespero?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-04",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac1ba2ae9ff711e717bd233.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac121b459bf5b55082cbeb9.jpg",
     "category": null,
-    "text": "Un país europeo investiga si fue legal que EE.UU. usara una base aérea para atacar Irán",
-    "link": "https://actualidad-rt.com/actualidad/630732-portugal-investiga-legalidad-uso-eeuu-base-atacar-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Brasil decide su futuro: todo sobre las elecciones generales del 2026",
+    "link": "https://actualidad-rt.com/actualidad/630668-brasil-decide-futuro-elecciones-generales?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-04",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac1a04759bf5b7d763c43b0.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac2133259bf5b78dc196582.jpg",
     "category": null,
-    "text": "Sufre dolor durante años y descubre que los médicos olvidaron algo dentro de ella durante una cirugía",
-    "link": "https://actualidad-rt.com/actualidad/630728-objeto-quirurgico-olvidado-abdomen-desata?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "EE.UU. crea la 'Fuerza de la Superinteligencia': ¿a qué se dedicará?",
+    "link": "https://actualidad-rt.com/actualidad/630764-eeuu-crea-fuerza-superinteligencia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-04",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac1a67de9ff715bbe1de5f2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac21c1359bf5b13ba3b1f27.jpg",
     "category": null,
-    "text": "Medvédev: \"Jamás sacrificaremos las relaciones con Irán, independientemente de quién nos lo pida\"",
-    "link": "https://actualidad-rt.com/actualidad/630729-medvedev-jamas-sacrificaremos-relaciones-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Dos aliados de Ucrania le dicen 'no'",
+    "link": "https://actualidad-rt.com/actualidad/630769-dos-aliados-ucrania-dicen-no?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-04",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac22913e9ff7146196172ea.jpg",
+    "category": null,
+    "text": "Moscú: Kiev lanzó un ataque terrorista contra barrios civiles en Rusia donde no hay objetivos militares",
+    "link": "https://actualidad-rt.com/actualidad/630776-moscu-kiev-lanzo-ataque-terrorista?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-04",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac225ece9ff71391f55453c.jpg",
+    "category": null,
+    "text": "Rusia intensificará sus ataques contra objetivos en Ucrania tras las nuevas amenazas de Zelenski",
+    "link": "https://actualidad-rt.com/actualidad/630773-rusia-intensificar-ataques-objetivos-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-04",
+    "image": null,
+    "category": null,
+    "text": "El capitán de FlyDubai asegura que le quedaba \"una última batalla\" y abrió la puerta de cabina",
+    "link": "https://es.euronews.com/2026/10/04/el-capitan-de-flydubai-asegura-que-le-quedaba-una-ultima-batalla-y-abrio-la-puerta-de-cabi"
+  },
+  {
+    "date": "2026-10-04",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 04 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/04/ultimas-noticias-04-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-04",
+    "image": null,
+    "category": null,
+    "text": "Portugal ya está votando para las elecciones presidenciales de Brasil",
+    "link": "https://es.euronews.com/2026/10/04/portugal-ya-esta-votando-para-las-elecciones-presidenciales-de-brasil"
+  },
+  {
+    "date": "2026-10-04",
+    "image": null,
+    "category": null,
+    "text": "Corea del Norte lanza un misil balístico de alcance medio y presume maniobras evasivas e IA",
+    "link": "https://es.euronews.com/2026/10/04/corea-del-norte-lanza-un-misil-balistico-de-alcance-medio-y-presume-maniobras-evasivas-e-i"
+  },
+  {
+    "date": "2026-10-04",
+    "image": null,
+    "category": null,
+    "text": "Bosnia vota mientras un político prorruso y la candidatura estancada a la UE dominan el relalto electoral",
+    "link": "https://es.euronews.com/2026/10/04/bosnia-vota-mientras-un-politico-prorruso-y-la-candidatura-estancada-a-la-ue-dominan-el-re"
+  },
+  {
+    "date": "2026-10-04",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 04 octubre 2026 - Mañana",
+    "link": "https://es.euronews.com/video/2026/10/04/ultimas-noticias-04-octubre-2026-manana"
   },
   {
     "date": "2026-10-03",
@@ -325,13 +388,6 @@
     "date": "2026-10-03",
     "image": null,
     "category": null,
-    "text": "En imágenes: el cierre de campaña en Brasil en la víspera del duelo Lula - Bolsonaro",
-    "link": "https://www.france24.com/es/diaporama/20261003-en-im%C3%A1genes-el-cierre-de-campa%C3%B1a-en-brasil-en-la-v%C3%ADspera-del-duelo-lula-bolsonaro"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
     "text": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en EE.UU.",
     "link": "https://www.bbc.com/mundo/articles/c3x2z2rq1759o?at_medium=RSS&at_campaign=rss"
   },
@@ -346,22 +402,8 @@
     "date": "2026-10-03",
     "image": null,
     "category": null,
-    "text": "Su esposa fue arrastrada por un tsunami y él lleva años buceando para sentirse cerca de ella",
-    "link": "https://www.bbc.com/mundo/articles/cm5ydnne3e01o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "Por qué hay más de un Polo Norte (y lo difícil que es definir cuántos son en total)",
-    "link": "https://www.bbc.com/mundo/articles/cqp8d8n66g34o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "Renuncia el jefe de las prisiones de Tennessee tras el fallido intento de ejecutar a Christa Pike",
-    "link": "https://www.bbc.com/mundo/articles/c6073eyg5rzdo?at_medium=RSS&at_campaign=rss"
+    "text": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
+    "link": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-03",
@@ -374,49 +416,7 @@
     "date": "2026-10-03",
     "image": null,
     "category": null,
-    "text": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
-    "link": "https://www.bbc.com/mundo/articles/cw8r6rdyz2p0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-03",
-    "image": "https://imagenes.elpais.com/resizer/v2/WG5KOTWE4JM3NHHRPO5PBAMMUA.jpg?auth=3597be7c7eb4939b70c42aaa8ce1f6f1dc3adb49740ec9111dfce04585debd6c",
-    "category": "Elecciones Brasil",
-    "text": "El trasfondo geopolítico de las elecciones brasileñas",
-    "link": "https://elpais.com/america/2026-10-03/el-trasfondo-geopolitico-de-las-elecciones-brasilenas.html"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "Decenas de miles salen a las calles de Madrid para exigir medidas de vivienda",
-    "link": "https://es.euronews.com/video/2026/10/03/decenas-de-miles-salen-a-las-calles-de-madrid-para-exigir-medidas-de-vivienda"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "Lula y Flávio Bolsonaro cierran sus campañas en la víspera de unas elecciones muy igualadas",
-    "link": "https://es.euronews.com/2026/10/03/lula-y-flavio-bolsonaro-cierran-sus-campanas-en-la-vispera-de-unas-elecciones-muy-igualada"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "La AIE dice que ha liberado 325 millones de barriles de petróleo y que aún faltan 75 millones",
-    "link": "https://es.euronews.com/2026/10/03/la-aie-dice-que-ha-liberado-325-millones-de-barriles-de-petroleo-y-que-aun-faltan-75-millo"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 03 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/03/ultimas-noticias-03-octubre-2026-tarde"
-  },
-  {
-    "date": "2026-10-03",
-    "image": null,
-    "category": null,
-    "text": "China abre una investigación antidumping a la UE días antes de las conversaciones en Pekín",
-    "link": "https://es.euronews.com/2026/10/03/china-abre-una-investigacion-antidumping-a-la-ue-dias-antes-de-las-conversaciones-en-pekin"
+    "text": "Renuncia el jefe de las prisiones de Tennessee tras el fallido intento de ejecutar a Christa Pike",
+    "link": "https://www.bbc.com/mundo/articles/c6073eyg5rzdo?at_medium=RSS&at_campaign=rss"
   }
 ]

@@ -1,59 +1,115 @@
 [
   {
     "date": "2026-10-06",
-    "image": "https://s.france24.com/media/display/d598e28a-bdaa-11f1-98ee-69fad0a7cb9f/w:1024/p:16x9/eb3ac6419936c07652fa906420c2f4dce1ecb82a.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Sarampión: Nueva York declara emergencia y Pensilvania supera los 1.000 casos, su peor brote en décadas",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261006-sarampi%C3%B3n-nueva-york-declara-emergencia-y-pensilvania-supera-los-1-000-casos-su-peor-brote-en-d%C3%A9cadas"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://s.france24.com/media/display/372447ce-c12f-11f1-a3f0-69fad0a7cb9f/w:1024/p:16x9/ES-20261005-153647-153843-CS.jpg",
-    "category": null,
-    "text": "Francia: exposición rinde homenaje a periodistas; France 24 participa con reportaje de Irán",
-    "link": "https://www.france24.com/es/video/20261006-francia-exposici%C3%B3n-rinde-homenaje-a-periodistas-france-24-participa-con-reportaje-de-ir%C3%A1n"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://s.france24.com/media/display/f4e67c6c-c12c-11f1-afd2-1ff0321dbbd3/w:1024/p:16x9/ES-20261005-153424-153613-CS.jpg",
-    "category": null,
-    "text": "Arabia Saudita y Gobierno yemení avanzan operación contra rebeldes hutíes",
-    "link": "https://www.france24.com/es/video/20261006-arabia-saudita-y-gobierno-yemen%C3%AD-avanzan-operaci%C3%B3n-contra-rebeldes-hut%C3%ADes"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://s.france24.com/media/display/5f7539f6-c11e-11f1-8ab3-13e372f41e70/w:1024/p:16x9/AP19170445594638.jpg",
-    "category": "Economía",
-    "text": "Medio Oriente recupera sus exportaciones de crudo pese a que los ataques siguen",
-    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261006-medio-oriente-recupera-sus-exportaciones-de-crudo-pese-a-que-los-ataques-siguen"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://s.france24.com/media/display/c704a256-c127-11f1-abca-13420ab900a2/w:1024/p:16x9/ES-20261005-153151-153358-CS.jpg",
-    "category": null,
-    "text": "Elecciones Brasil: votantes están divididos tras resultados de primera vuelta presidencial",
-    "link": "https://www.france24.com/es/video/20261006-elecciones-brasil-votantes-est%C3%A1n-divididos-tras-resultados-de-primera-vuelta-presidencial"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://s.france24.com/media/display/631741ea-c11d-11f1-a7f1-1ff0321dbbd3/w:1024/p:16x9/ES-20261005-131632-132828-CS.jpg",
-    "category": null,
-    "text": "¿Operación militar en Yemen, liderada por Arabia Saudita, es una escalada contra los hutíes?",
-    "link": "https://www.france24.com/es/video/20261006-operaci%C3%B3n-militar-en-yemen-liderada-por-arabia-saudita-es-una-escalada-contra-los-hut%C3%ADes"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://s.france24.com/media/display/86a754be-c119-11f1-b90e-dd51fcab6130/w:1024/p:16x9/2026-10-06T000135Z-745552494-RC29XNALIUCE-RTRMADP-3-USA-CRIME-CORNELL.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Audios, pintadas y protestas: crece el enojo ante el caso de presunta violación de los 'siete de Cornell'",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261006-audios-pintadas-y-protestas-crece-el-enojo-ante-el-caso-de-presunta-violaci%C3%B3n-de-los-siete-de-cornell"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://s.france24.com/media/display/8d57872a-c10f-11f1-be83-69fad0a7cb9f/w:1024/p:16x9/FOTO-PORTADA-BRASIL-BOLSONAROS-SENADO.jpg",
+    "image": "https://s.france24.com/media/display/e23d7b6a-a705-11f1-9869-005056a90284/w:1024/p:16x9/2-Mercado-de-Mare-Rouge.jpg",
     "category": "América Latina",
-    "text": "No es solo la Presidencia: la derecha se consolida en el Congreso de Brasil y potencia a Bolsonaro",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261006-no-es-solo-la-presidencia-la-derecha-se-consolida-en-el-congreso-de-brasil-y-potencia-a-bolsonaro"
+    "text": "Haití aplaza sin nueva fecha las elecciones presidenciales y legislativas",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261006-hait%C3%AD-aplaza-sin-nueva-fecha-las-elecciones-presidenciales-y-legislativas"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/d893afca-c17d-11f1-b681-73f176a2394c/w:1024/p:16x9/43ae9fbf7051ae5414b09cb315dad48550aabe4f.jpg",
+    "category": "Europa",
+    "text": "Sánchez recupera los decretos de vivienda rechazados por el Congreso tras adelantar las elecciones",
+    "link": "https://www.france24.com/es/europa/20261006-s%C3%A1nchez-recupera-los-decretos-de-vivienda-rechazados-por-el-congreso-tras-adelantar-las-elecciones"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/70e9f32a-c164-11f1-8354-ff8cff4603f0/w:1024/p:16x9/2026-10-06T081123Z-896518657-RC2KXNAC97D0-RTRMADP-3-FRANCE-POLITICS-LEPEN.jpg",
+    "category": "Francia",
+    "text": "Marine Le Pen promete ahorrar 140.000 millones de euros y pide una \"ruptura política\" en Francia",
+    "link": "https://www.france24.com/es/francia/20261006-marine-le-pen-promete-ahorrar-140-000-millones-de-euros-y-pide-una-ruptura-pol%C3%ADtica-en-francia"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "El belga Francis Halzen gana el Nobel de Física por detectar partículas subatómicas en el Polo Sur",
+    "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261006-el-belga-francis-halzen-gana-el-nobel-de-f%C3%ADsica-por-detectar-part%C3%ADculas-subat%C3%B3micas-en-en-el-polo-sur"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/9fe623a8-c158-11f1-ab65-69fad0a7cb9f/w:1024/p:16x9/AP26278512155571.jpg",
+    "category": "Medio Oriente",
+    "text": "Israel advierte que Gaza pagará un \"alto precio\" si sus tropas son atacadas el 7 de octubre",
+    "link": "https://www.france24.com/es/medio-oriente/20261006-israel-advierte-que-gaza-pagar%C3%A1-un-alto-precio-si-sus-tropas-son-atacadas-el-7-de-octubre"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/ee67e000-c12d-11f1-869f-1ff0321dbbd3/w:1024/p:16x9/6b830d89698e660c56483528be3b402dbf9d4724.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "Separatistas de Quebec prometen un referendo de independencia tras su victoria electoral",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261006-los-separatistas-de-quebec-prometen-un-referendo-de-independencia-tras-ganar-las-elecciones-provinciales"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/134bdbba-c174-11f1-ac66-73f176a2394c/w:1024/p:16x9/2026-10-06T104149Z-952498446-RC2MXNAHIM6Q-RTRMADP-3-FRANCE-PROTEST.jpg",
+    "category": "Francia",
+    "text": "En directo: miles de estudiantes marchan en Francia; se reportan enfrentamientos en Lyon y Estrasburgo",
+    "link": "https://www.france24.com/es/francia/20261006-en-directo-sindicatos-se-suman-a-protestas-estudiantiles-en-francia-convocan-a-agricultores"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/702c83f6-c13e-11f1-bde5-13e372f41e70/w:1024/p:16x9/ES-20261005-203745-204220-CS.jpg",
+    "category": null,
+    "text": "Brote de sarampión en Nueva York: gobernadora declara estado de emergencia",
+    "link": "https://www.france24.com/es/video/20261006-brote-de-sarampi%C3%B3n-en-nueva-york-gobernadora-declara-estado-de-emergencia"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/2a2a7f8e-c139-11f1-a1c8-13e372f41e70/w:1024/p:16x9/ES-20261005-191749-191942-CS.jpg",
+    "category": null,
+    "text": "Dos alemanes y un estadounidense ganan premio Nobel de Medicina por su trabajo en optogenética",
+    "link": "https://www.france24.com/es/video/20261006-dos-alemanes-y-un-estadounidense-ganan-premio-nobel-de-medicina-por-su-trabajo-en-optogen%C3%A9tica"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/99e2a5c0-c136-11f1-8e0a-13e372f41e70/w:1024/p:16x9/ES-20261005-191050-191254-CS.jpg",
+    "category": null,
+    "text": "Cuba: Gobierno estaría retirando sistema de cartillas de abastecimiento",
+    "link": "https://www.france24.com/es/video/20261006-cuba-gobierno-estar%C3%ADa-retirando-sistema-de-cartillas-de-abastecimiento"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://s.france24.com/media/display/a640f4b8-c134-11f1-8f75-69fad0a7cb9f/w:1024/p:16x9/ES-20261005-190614-190817-CS.jpg",
+    "category": null,
+    "text": "Trump celebra resultado de primera vuelta en Brasil; Lula insiste en riesgo de injerencia extranjera",
+    "link": "https://www.france24.com/es/video/20261006-trump-celebra-resultado-de-primera-vuelta-en-brasil-lula-insiste-en-riesgo-de-injerencia-extranjera"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "Cómo se transforman las escuelas militarizadas en México, prohibidas tras la muerte de una joven de 13 años",
+    "link": "https://www.bbc.com/mundo/articles/cmrergdzpqgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "Qué se sabe del caso de la científica rusa que falleció en un centro de investigación de la peste en Siberia y que preocupa a EE.UU. y otros países",
+    "link": "https://www.bbc.com/mundo/articles/cx5yn8y1yg2qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "Qué tiene Chapinero Alto en Bogotá para que lo hayan elegido como el barrio más cool de América Latina",
+    "link": "https://www.bbc.com/mundo/articles/c60qxqeyx8xjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "5 ejercicios para proteger tu cuello del estrés y la mala postura",
+    "link": "https://www.bbc.com/mundo/articles/c6x2w5kel5edo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "Qué son los neutrinos, las \"partículas fantasma\" del universo por las que el belga Francis Halzen ganó el Nobel de Física",
+    "link": "https://www.bbc.com/mundo/articles/ckpdgvzn0v51o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-06",
@@ -64,87 +120,101 @@
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/5VU537QMYZEBLI4LXFDOKKIQFI.jpg?auth=5c255d8a28492a41fb2c1d9c2706ab3b9eb61da06e773e1e787c9bbb03524aa2&smart=true&width=2033&height=1143",
+    "image": null,
     "category": null,
-    "text": "Una experta en marca, sobre Nuria Roca y Juan del Val: “Ninguno necesita hacerse pequeño para que el otro pueda crecer”",
-    "link": "https://www.infobae.com/espana/2026/10/06/una-experta-en-marca-sobre-nuria-roca-y-juan-del-val-ninguno-necesita-hacerse-pequeno-para-que-el-otro-pueda-crecer/"
+    "text": "Purina Institute lleva la ciencia de la nutrición al escenario veterinario mundial en el World Small Animal Veterinary Association Congress 2026",
+    "link": "https://www.infobae.com/america/agencias/2026/10/06/purina-institute-lleva-la-ciencia-de-la-nutricion-al-escenario-veterinario-mundial-en-el-world-small-animal-veterinary-association-congress-2026/"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/63NWIYJWXZCYJLRUA6O4UV4ISY.png?auth=e4262f76adb0b456dc540ba85d9e39cc8bafbc1f661de9f54fd7b2a5fb0cf48d&smart=true&width=1456&height=816",
+    "image": "https://www.infobae.com/resizer/v2/FGE7HSJFP5BMBJV2O7D3MMKXFE.jpg?auth=9baaa37abcddc4afe81b0c9169111df9b842fcc5699c49b4d957c20b269a8d71&smart=true&width=1280&height=591",
     "category": null,
-    "text": "Precio del aceite de oliva en España 2026: últimas variaciones y tendencias del mercado",
-    "link": "https://www.infobae.com/espana/2026/10/06/precio-del-aceite-de-oliva-en-espana-2026-ultimas-variaciones-y-tendencias-del-mercado/"
+    "text": "Cae “El Tanque”, cofundador del CJNG y jefe de plaza en Veracruz, Oaxaca, Tabasco y Puebla: es vinculado a los hijos de AMLO",
+    "link": "https://www.infobae.com/mexico/2026/10/06/cae-el-tanque-cofundador-del-cjng-y-jefe-de-plaza-en-veracruz-oaxaca-tabasco-y-puebla-es-vinculado-a-los-hijos-de-amlo/"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://www.infobae.com/resizer/v2/GURPGZYNLNBFZIFXP5DTIG5D5Y.jpg?auth=ec6f543ff545322a573d63f6c39d6cd05d1058d1cb6c48320dceb98fdc3d9ca7&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Malasia sitúa en más de 10.000 los ciudadanos birmanos deportados desde enero",
+    "link": "https://www.infobae.com/america/agencias/2026/10/06/malasia-situa-en-mas-de-10000-los-ciudadanos-birmanos-deportados-desde-enero/"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://www.infobae.com/resizer/v2/T4DPRRUFTJERTPGXLSWW2ATMH4.jpg?auth=4019e47c0034f247250b371c3f1262b14b091c7d27b8bc7efe61428b158d70f8&smart=true&width=1472&height=832",
+    "category": null,
+    "text": "Trebol y Vainsa vencen a China ante Indecopi y bloquean el ingreso de inodoros asiáticos al Perú: ¿subirán los precios?",
+    "link": "https://www.infobae.com/peru/2026/10/06/trebol-y-vainsa-vencen-a-china-ante-indecopi-y-bloquean-el-ingreso-de-inodoros-asiaticos-al-peru-subiran-los-precios/"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://www.infobae.com/resizer/v2/EZVJAZYMBRBQFKCKPYL3KDMZI4.jpg?auth=e0119c579bb66953e6ed4e96f427e8d6e94c1cc1e31290549befe246b64703c9&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Gilberto Mora a nada de ser vendido a un club grande del futbol europeo",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/06/gilberto-mora-a-nada-de-ser-vendido-a-un-club-grande-del-futbol-europeo/"
   },
   {
     "date": "2026-10-06",
     "image": null,
     "category": null,
-    "text": "China redujo \"drásticamente\" la ventaja de EE.UU. en IA, según un análisis de Bloomberg",
-    "link": "https://www.infobae.com/america/agencias/2026/10/06/china-redujo-drasticamente-la-ventaja-de-eeuu-en-ia-segun-un-analisis-de-bloomberg/"
+    "text": "Aguirre prepara su debut con Tárrega, Diakahaby y Copete y sin Danjuma ni Rioja",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/06/aguirre-prepara-su-debut-con-tarrega-diakahaby-y-copete-y-sin-danjuma-ni-rioja/"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/WJOHJY3AYVDCFBVSIATAP377LE.jpg?auth=d803c9eea5e5671fd7329c6587d6fd23f4f4a3b760126feb42ed97aa10583c5c&smart=true&width=1920&height=1061",
+    "image": "https://www.infobae.com/resizer/v2/FWMGEKUNMZG6NHPVOMUIEVFOSA.jpg?auth=03b9045ffb4befda34f277537495647471febb9825caf31c2b1278e4ed7bcf0a&smart=true&width=1920&height=1280",
     "category": null,
-    "text": "La reflexión de Patti Smith, cantante estadounidense, sobre la incertidumbre: “En el arte y en los sueños, déjate llevar. En la vida, avanza con equilibrio y cautela”",
-    "link": "https://www.infobae.com/espana/cultura/2026/10/06/la-reflexion-de-patti-smith-cantante-estadounidense-sobre-la-incertidumbre-en-el-arte-y-en-los-suenos-dejate-llevar-en-la-vida-avanza-con-equilibrio-y-cautela/"
+    "text": "Unión de Actores se adhiere a la huelga general: \"Todas llevamos años sufriendo unos precios de la vivienda imposibles\"",
+    "link": "https://www.infobae.com/america/agencias/2026/10/06/union-de-actores-se-adhiere-a-la-huelga-general-todas-llevamos-anos-sufriendo-unos-precios-de-la-vivienda-imposibles/"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/DLT7T2SLAJE2HN2PKWEZNDTWTM.jpg?auth=0e92670c50ebbf89cf361c378a515734811da4daf8e9ca783958355130ec2b86&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Séneca, filósofo romano: “No es pobre el que tiene poco, sino el que mucho desea”",
-    "link": "https://www.infobae.com/espana/cultura/2026/10/06/seneca-filosofo-romano-no-es-pobre-el-que-tiene-poco-sino-el-que-mucho-desea/"
+    "text": "Jordi Xammar y Marta Cardona se entrenaran durante cuatro meses en Motril (Granada)",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/06/jordi-xammar-y-marta-cardona-se-entrenaran-durante-cuatro-meses-en-motril-granada/"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/P6R3MBMO6FCXBE7ZSAW3G5YV4U.jpg?auth=82c951195f36b686e2fb7b115582c0fd8398164ea5587fddce4a3b27e419542f&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/YB654QWBXJHSPK5KEMX2ISMK2M.jpg?auth=61d7de3cd0f057610bf43a4057fc88bc0d5111ca8b025dac4bc269a80edf701a&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Padres de niños con cáncer denunciarán ante la FGR a Andy López Beltrán y Amílcar Olán: acusan genocidio",
-    "link": "https://www.infobae.com/mexico/2026/10/06/padres-de-ninos-con-cancer-denunciaran-ante-la-fgr-a-andy-lopez-beltran-y-amilcar-olan-acusan-genocidio/"
+    "text": "Campaña de DNI electrónico gratuito hasta el 11 de octubre: ¿Dónde y quiénes son los beneficiarios?",
+    "link": "https://www.infobae.com/peru/2026/10/06/campana-de-dni-electronico-gratuito-hasta-el-11-de-octubre-donde-y-quienes-son-los-beneficiarios/"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/JDG57SD2ZJB6BGEULLZLOHBJNU.jpg?auth=82d5abfc179aed49c01ff4481e66319635ca31dfa4ade290f663c9b549302345&smart=true&width=1920&height=1022",
+    "image": "https://www.infobae.com/resizer/v2/RNR74GXHURAXTBYJQ6PYSB33CU.png?auth=f72af01fca1622dcd95083d138929324a1f724723fef823d2c862d6bfbe31adb&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "A qué hora juega Perú vs Colombia HOY: partido amistoso en Miami por fecha FIFA 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/10/05/a-que-hora-juega-peru-vs-colombia-partido-amistoso-miami-fecha-fifa-2026-horario/"
+    "text": "Él es Luis Guillermo Quintero, el nuevo gerente general de la compañía cafetera Juan Valdez: viene de liderar el Movistar Arena en Bogotá",
+    "link": "https://www.infobae.com/colombia/2026/10/06/el-es-luis-guillermo-quintero-el-nuevo-gerente-general-de-la-compania-cafetera-juan-valdez-viene-de-liderar-el-movistar-arena/"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/CXCY6JYTJRE2ZPTXHFPOPLSK34.jpeg?auth=95045027e98bcb93a23da638170d17febace46cd4e2ca9835431e1e7534a9b07&smart=true&width=1600&height=1066",
+    "image": "https://www.infobae.com/resizer/v2/FYF4NIDXIBBWVCSD6TPPYHFYVU.jpg?auth=8cfabd3aee27b5abc13b68810d0265456d85426dcd50dcd232e53117cedce0cf&smart=true&width=1920&height=1440",
     "category": null,
-    "text": "Pablo Quirno celebró el resultado electoral en Brasil y habló de las sanciones por Malvinas frente al embajador británico",
-    "link": "https://www.infobae.com/politica/2026/10/06/pablo-quirno-celebro-el-resultado-electoral-en-brasil-y-hablo-de-las-sanciones-por-malvinas-frente-al-embajador-britanico/"
+    "text": "Más de 50 menores inmigrantes solos esperan bajo la lluvia en el Guano (Ceuta) su traslado a un centro de acogida",
+    "link": "https://www.infobae.com/america/agencias/2026/10/06/mas-de-50-menores-inmigrantes-solos-esperan-bajo-la-lluvia-en-el-guano-ceuta-su-traslado-a-un-centro-de-acogida/"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/JPKO34HOUJB7XEBPILFE4I6N7I.jpg?auth=a9332be3c9155d985689bc4d9dc953ff6631c780661395444abc4502a7774417&smart=true&width=1200&height=800",
+    "image": "https://www.infobae.com/resizer/v2/3AY5X44ALRBN3PZJNBVTBTRBPQ.jpg?auth=ebe085d7aec55c156387f7feb254c62b005f6b05d675e4ae9d4c8bcfd972bf72&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Primeras críticas de ‘Artificial’, la película de Luca Guadagnino sobre OpenIA por la que fue despedido de Amazon: “Una comedia oscura e incómoda”",
-    "link": "https://www.infobae.com/espana/cultura/2026/10/06/primeras-criticas-de-artificial-la-pelicula-de-luca-guadagnino-sobre-openia-por-la-que-fue-despedido-de-amazon-una-comedia-oscura-e-incomoda/"
+    "text": "Disputa entre Jennifer Pedraza y activista del Centro Democrático por acusaciones de supuestos vínculos con el ELN: Juez tendrá la última palabra",
+    "link": "https://www.infobae.com/colombia/2026/10/06/disputa-entre-jennifer-pedraza-y-activista-del-centro-democratico-por-acusaciones-de-supuestos-vinculos-con-el-eln-juez-tendra-la-ultima-palabra/"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/PG4CJ7RYW5CMXESI3JNWGCCJOY.png?auth=668b2775bcbdd42bdf01549f33c99cb1f8a4aaaf2142740ae1af6178675840dc&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "A qué hora juega Sport Boys vs Alianza Atlético HOY: partido por semifinales vuelta de Copa de la Liga 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/10/05/a-que-hora-juega-sport-boys-vs-alianza-atletico-partido-sullana-semifinales-vuelta-copa-de-la-liga-2026-horario/"
+    "image": "https://imagenes.elpais.com/resizer/v2/3EAJL3HAKRLQ3OS4LMQHIHYM6Y.jpg?auth=91b8684e62a9f0f4c2d910a42c46145a4232f35bd22e89e741c7be98032dd0fa",
+    "category": "Elecciones Alemania",
+    "text": "La extrema derecha consigue la primera presidencia de un Parlamento en Alemania: “Terminó la idiotez del cordón sanitario”",
+    "link": "https://elpais.com/internacional/2026-10-06/la-extrema-derecha-consigue-la-primera-presidencia-de-un-parlamento-en-alemania-termino-la-idiotez-del-cordon-sanitario.html"
   },
   {
     "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/5PZQA7QOHNCPVKTCRQUSPNPVLE.png?auth=2f7c430dfa7d2e86aecb0a332f615ad7fb3c3d7c16d6229bf30a3656e8583bc4&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "A qué hora juega Argentina vs Benín en Perú HOY: partido de despedida de Lionel Messi con su selección por fecha FIFA 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/10/06/a-que-hora-juega-argentina-vs-benin-partido-despedida-lionel-messi-seleccion-amistoso-fecha-fifa-2026-horario/"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://www.infobae.com/resizer/v2/75VAB2GOENFL5KMWT2P6X6ZPAM.png?auth=ae8d5f9f7af7d55d6ab7455e6524b5870e04c3f3deb2772bfdf55b94fee03dfd&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "A qué hora juega Regatas Lima vs Alianza Lima HOY: partido amistoso de presentación por la ‘Noche Regatas’ 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/10/05/a-que-hora-juega-regatas-lima-vs-alianza-lima-partido-presentacion-noche-regatas-2026-horario/"
+    "image": "https://imagenes.elpais.com/resizer/v2/7HXSU2DSN5LTLIAT44KINEBOBQ.jpg?auth=d9db512c94bb439964b076294f1934a493d68b5a57023b9808d9bb54c46111af",
+    "category": "Alemania",
+    "text": "Alemania arresta al exjefe de su servicio de inteligencia en el exterior acusado de alta traición",
+    "link": "https://elpais.com/internacional/2026-10-06/alemania-arresta-al-exjefe-de-su-servicio-de-inteligencia-en-el-exterior-acusado-de-alta-traicion.html"
   },
   {
     "date": "2026-10-06",
@@ -155,6 +225,20 @@
   },
   {
     "date": "2026-10-06",
+    "image": "https://imagenes.elpais.com/resizer/v2/FM2PLJWAS5A7FMUUXXY7D77CZQ.jpg?auth=6f564b0b3697fbeba96881236fc8f4832841aa06cc69242bc8608b69dd7e6fb6",
+    "category": "Elecciones Brasil",
+    "text": "Lula pretende movilizar a los abstencionistas para consumar el milagro y vencer a Bolsonaro en Brasil",
+    "link": "https://elpais.com/america/2026-10-06/el-presidente-lula-pretende-movilizar-a-los-abstencionistas-para-consumar-el-milagro-y-vencer-a-bolsonaro-en-brasil.html"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://imagenes.elpais.com/resizer/v2/XVISK3CAZNGCPJNUTIN7YLB63Q.jpg?auth=1fa554bbc50b01e4a6e822f65521ac2e5e4a6686fba44829702a6cb6e3c1ddf4",
+    "category": "Elecciones Brasil",
+    "text": "El clan Bolsonaro, un presidenciable, cuatro nuevos parlamentarios y un sinfín de tensiones internas",
+    "link": "https://elpais.com/america/2026-10-06/el-clan-bolsonaro-un-presidenciable-cuatro-nuevos-parlamentarios-y-un-sinfin-de-tensiones-internas.html"
+  },
+  {
+    "date": "2026-10-06",
     "image": "https://imagenes.elpais.com/resizer/v2/UWPF4VJOOJGFZK5YMMJM2L3AZI.JPG?auth=8789d96f451b1b175d179d524ac80e1c71f9f5c9cd7c17691f295d90c927ad7f",
     "category": "Guerra de Rusia en Ucrania",
     "text": "La incertidumbre de las familias de los 280.000 desaparecidos en la guerra de Rusia contra Ucrania: “Tienen que vivir con el silencio”",
@@ -162,80 +246,129 @@
   },
   {
     "date": "2026-10-06",
-    "image": "https://imagenes.elpais.com/resizer/v2/GCHQY4PIVVHOHK7JEH2EC5KP7A.JPG?auth=8bdaf1d0799593f4317c3b1ed6784d9a95f0ab06ca87eec7ac3d47a12beb60c5",
-    "category": "Bosnia Herzegovina",
-    "text": "Milorad Dodik, aliado de Putin en los Balcanes y vencedor de las elecciones de Bosnia-Herzegovina sin figurar en las papeletas",
-    "link": "https://elpais.com/internacional/2026-10-06/milorad-dodik-el-gran-aliado-de-putin-en-los-balcanes-vence-en-las-elecciones-de-bosnia-herzegovina-sin-presentarse-en-las-papeletas.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4dc69e9ff71563158bd49.jpg",
+    "category": null,
+    "text": "¿Qué les espera a los kurdos tras la retirada de EE.UU. de Irak?",
+    "link": "https://actualidad-rt.com/actualidad/631165-que-les-espera-kurdos-retirada-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac47fe6e9ff71364e27cdbb.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4d17a59bf5b218317c4c9.jpg",
     "category": null,
-    "text": "\"Fondos ilimitados para la corrupta camarilla de Zelenski?\": destrozan a Merz tras su visita a Kiev",
-    "link": "https://actualidad-rt.com/actualidad/631126-mejor-canciller-tenido-jamas-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-06",
-    "image": null,
-    "category": null,
-    "text": "Asesino que masacró a militares en una base de EE.UU. será ejecutado por un pelotón de fusilamiento",
-    "link": "https://actualidad-rt.com/actualidad/631125-trump-aprueba-ejecucion-peloton-fusilamiento-asesino-masa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Mínimo histórico de la moneda ucraniana evoca fanfarronadas de Zelenski de hace años",
+    "link": "https://actualidad-rt.com/actualidad/631158-minimo-historico-moneda-ucrania-evocar-fanfarronada-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-06",
     "image": null,
     "category": null,
-    "text": "Salvan al insecto más pesado del mundo: ¿cómo es? (FOTOS)",
-    "link": "https://actualidad-rt.com/actualidad/631124-salvar-insecto-pesado-mundo-ver?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Proponen a un ruso como posible Óscar al mejor actor",
+    "link": "https://actualidad-rt.com/actualidad/631171-yura-borisov-oscar-actor-artificial?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4dfeae9ff710b9c3fb770.jpg",
+    "category": null,
+    "text": "Un comentario en redes lleva a la pena de muerte a un hombre en Arabia Saudita",
+    "link": "https://actualidad-rt.com/actualidad/631162-comentario-redes-llevar-hombre-pena-muerte?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4cbaf59bf5b62e61c5a26.jpg",
+    "category": null,
+    "text": "'Influencer' mexicana mata a sus hijos, a su pareja y después se quita la vida: ¿qué se sabe?",
+    "link": "https://actualidad-rt.com/actualidad/631145-fallecimiento-influencer-adultos-noah-segsy-chipre-piscina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4e073e9ff716a1909908c.jpg",
+    "category": null,
+    "text": "Europa eleva la tensión en la frontera con Rusia: ¿qué hay realmente detrás?",
+    "link": "https://actualidad-rt.com/actualidad/631154-europa-eleva-tension-frontera-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4dc3a59bf5b600d5f841c.jpg",
+    "category": null,
+    "text": "\"Un gran arsenal\": Irán anuncia la producción acelerada de nuevos misiles y drones",
+    "link": "https://actualidad-rt.com/actualidad/631166-gran-arsenal-ejercito-irani-anuncia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4d50459bf5b218317c4cc.jpg",
+    "category": null,
+    "text": "Pesa como un ratón y sus patas se extienden hasta 20 cm: el insecto gigante que regresa de la 'extinción'",
+    "link": "https://actualidad-rt.com/actualidad/631160-especie-extincion-nueva-zelanda-insecto-gigante?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4e367e9ff7148a1791e1a.jpg",
+    "category": null,
+    "text": "Enviado de Putin nombra a los responsables de los precios altos de la energía en Europa",
+    "link": "https://actualidad-rt.com/actualidad/631169-enviado-putin-responsables-precios-altos-energia-europa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-06",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac4c86e59bf5b62781dab46.jpg",
+    "category": null,
+    "text": "Soldado ruso portó casi 10 kilómetros a un compañero herido para salvarle la vida",
+    "link": "https://actualidad-rt.com/actualidad/631149-soldado-kilometros-companero-vida?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-06",
     "image": null,
     "category": null,
-    "text": "Este país europeo vive su peor crisis laboral en 25 años",
-    "link": "https://actualidad-rt.com/actualidad/631123-pais-europeo-vive-peor-crisis?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Detienen al exjefe de inteligencia alemán por comerciar con secretos de Estado",
+    "link": "https://es.euronews.com/2026/10/06/detienen-al-exjefe-de-inteligencia-aleman-por-comerciar-con-secretos-de-estado"
   },
   {
     "date": "2026-10-06",
     "image": null,
     "category": null,
-    "text": "¿Liberar a Bolsonaro?: reportan que un juez clave sopesa dar ese paso tras el balotaje en Brasil",
-    "link": "https://actualidad-rt.com/actualidad/631121-ministro-supremo-brasileno-jair-bolsonaro?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac459bf59bf5b30c0493c95.jpg",
-    "category": null,
-    "text": "VIDEOS: El festejo de una chiva termina mal",
-    "link": "https://actualidad-rt.com/actualidad/631117-video-chiva-fiestera-decenas-estudiantes?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac445d559bf5b662161c2c5.png",
-    "category": null,
-    "text": "La dura realidad con la que se topó un latinoamericano al llegar a Europa: \"Vendí todo para venir\"",
-    "link": "https://actualidad-rt.com/actualidad/631105-dura-realidad-topo-latinoamericano-llegar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Turquía, Pakistán y Arabia Saudí deciden desplegar fuerzas militares",
+    "link": "https://es.euronews.com/2026/10/06/turquia-pakistan-y-arabia-saudi-deciden-desplegar-fuerzas-militares"
   },
   {
     "date": "2026-10-06",
     "image": null,
     "category": null,
-    "text": "Un líder occidental pone fecha a un posible nuevo orden mundial",
-    "link": "https://actualidad-rt.com/actualidad/631119-presidente-finlandia-pone-fecha-nuevo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 06 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/06/ultimas-noticias-06-octubre-2026-mediodia"
   },
   {
     "date": "2026-10-06",
     "image": null,
     "category": null,
-    "text": "Peligrosa enfermedad en EE.UU. registra su peor año desde 1991",
-    "link": "https://actualidad-rt.com/actualidad/631120-peligrosa-enfermedad-eeuu-registrar-peor-ano-1991?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Las sirenas compiten en la piscina más profunda de Varsovia",
+    "link": "https://es.euronews.com/video/2026/10/06/las-sirenas-compiten-en-la-piscina-mas-profunda-de-varsovia"
   },
   {
     "date": "2026-10-06",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac45092e9ff714d0e2a5262.png",
+    "image": null,
     "category": null,
-    "text": "La histeria antirrusa no cesa: Polonia refuerza la presencia militar cerca de sus fronteras con Bielorrusia y Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/631114-histeria-antirrusa-polonia-brigadas-militares-bielorrusia-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Yemen lanza una gran ofensiva militar en el estrecho de Bab el Mandeb mientras los hutíes atacan Arabia Saudí",
+    "link": "https://es.euronews.com/2026/10/06/las-fuerzas-del-gobierno-de-yemen-avanzan-hacia-bab-el-mandeb-en-su-ofensiva-contra-los-hu"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "Un cineasta letón gana el Gran Premio de 400.000€ en el festival de cine de IA de Kazajistán",
+    "link": "https://es.euronews.com/2026/10/06/un-cineasta-leton-gana-el-gran-premio-de-400000-en-el-festival-de-cine-de-ia-de-kazajistan"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "Gases lacrimógenos y cañones de agua en Pristina mientras manifestantes se enfrentan con la Policía",
+    "link": "https://es.euronews.com/video/2026/10/06/gases-lacrimogenos-y-canones-de-agua-en-pristina-mientras-manifestantes-se-enfrentan-con-l"
+  },
+  {
+    "date": "2026-10-06",
+    "image": null,
+    "category": null,
+    "text": "La protesta por la vivienda se torna violenta en Barcelona con incendios y detenciones",
+    "link": "https://es.euronews.com/video/2026/10/06/la-protesta-por-la-vivienda-se-torna-violenta-en-barcelona-con-incendios-y-detenciones"
   },
   {
     "date": "2026-10-06",
@@ -260,31 +393,10 @@
   },
   {
     "date": "2026-10-05",
-    "image": "https://s.france24.com/media/display/236707c6-c10c-11f1-8a31-578a4b968fd6/w:1024/p:16x9/ES-20261005-133234-133631-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Informe desde Río de Janeiro: el peso de los evangélicos y los católicos en las elecciones",
-    "link": "https://www.france24.com/es/video/20261005-informe-desde-r%C3%ADo-de-janeiro-el-peso-de-los-evang%C3%A9licos-y-los-cat%C3%B3licos-en-las-elecciones"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://s.france24.com/media/display/3df66fda-c091-11f1-a1a7-578a4b968fd6/w:1024/p:16x9/AP26265728988880.jpg",
-    "category": "Medio Oriente",
-    "text": "Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí?",
-    "link": "https://www.france24.com/es/medio-oriente/20261005-arabia-saudita-turqu%C3%ADa-y-pakist%C3%A1n-activan-su-alianza-militar-qu%C3%A9-implica-ante-la-amenaza-hut%C3%AD"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://s.france24.com/media/display/f17c3cf2-c0fe-11f1-81ae-69fad0a7cb9f/w:1024/p:16x9/ES-20261005-124621-125242-CS.jpg",
-    "category": null,
-    "text": "Directo a... Madrid y el adelanto de las elecciones en España en medio de la crisis de vivienda",
-    "link": "https://www.france24.com/es/video/20261005-directo-a-madrid-y-el-adelanto-de-las-elecciones-en-espa%C3%B1a-en-medio-de-la-crisis-de-vivienda"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://s.france24.com/media/display/dd86b1bc-c06f-11f1-895a-13420ab900a2/w:1024/p:16x9/367a2e7e8c45b7aad98eb7662c5e00faf17b3d39w.jpg",
-    "category": "En Contexto",
-    "text": "¿Cómo queda el balance de poder en Brasil?",
-    "link": "https://www.france24.com/es/programas/en-contexto/20261005-c%C3%B3mo-queda-el-balance-de-poder-en-brasil"
+    "text": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
+    "link": "https://www.bbc.com/mundo/articles/c6pwg8rxyq7go?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-05",
@@ -297,48 +409,6 @@
     "date": "2026-10-05",
     "image": null,
     "category": null,
-    "text": "\"Estamos listos para ir de inmediato\": los millonarios de origen cubano que se están preparando en Miami para cuando caiga el gobierno de la isla",
-    "link": "https://www.bbc.com/mundo/articles/cq8jzlyz7yrpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-05",
-    "image": null,
-    "category": null,
-    "text": "EE.UU. \"sigue de cerca\" el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia",
-    "link": "https://www.bbc.com/mundo/articles/cx5yn8y1yg2qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-05",
-    "image": null,
-    "category": null,
-    "text": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
-    "link": "https://www.bbc.com/mundo/articles/c6pwg8rxyq7go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-05",
-    "image": null,
-    "category": null,
-    "text": "Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España",
-    "link": "https://www.bbc.com/mundo/articles/crgj9408el84o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-05",
-    "image": null,
-    "category": null,
-    "text": "Quiénes son Lucas Pavanato y Nikolas Ferreira, los jóvenes influencers de derecha que lograron las mayores votaciones en la historia de la Cámara de Diputados de Brasil",
-    "link": "https://www.bbc.com/mundo/articles/cw80zr20gk9mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-05",
-    "image": null,
-    "category": null,
-    "text": "El \"interruptor de luz\" para neuronas por el que 3 científicos ganaron el Nobel de Medicina y que ayuda a descifrar los misterios del cerebro",
-    "link": "https://www.bbc.com/mundo/articles/cx7vp6974q15o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-05",
-    "image": null,
-    "category": null,
     "text": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
     "link": "https://www.bbc.com/mundo/articles/c5398l9rzj3jo?at_medium=RSS&at_campaign=rss"
   },
@@ -346,77 +416,7 @@
     "date": "2026-10-05",
     "image": null,
     "category": null,
-    "text": "Identifican una nueva especie de pingüino por primera vez en más de 100 años",
-    "link": "https://www.bbc.com/mundo/articles/cm5yn3n66rr0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/S2OAJPSL35MNZM6JTODKIGQ3ZI.jpg?auth=7a0beebc8781d6ac1f4749b09797eff0114e7752f07a91cc462f70b8aeca0d29",
-    "category": "Elecciones Brasil",
-    "text": "La victoria en primera vuelta de Bolsonaro impulsa a la ola ultra de América Latina",
-    "link": "https://elpais.com/america/2026-10-05/la-victoria-en-primera-vuelta-de-bolsonaro-impulsa-a-la-ola-ultra-de-america-latina.html"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/FA4PNHYCZRDW5BFMU7A4ZUXY6A.jpg?auth=4e1afa33bb1c49e616329fc46d33bc5dd10923d57912791410fbaf63aa27ae70",
-    "category": "Elecciones Brasil",
-    "text": "La ola conservadora de América Latina llega a Brasil",
-    "link": "https://elpais.com/america/2026-10-05/la-ola-conservadora-de-america-latina-llega-a-brasil.html"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/6BBQ3PER4JLVHGTRR4UT7GZGMQ.jpg?auth=9dfe745cbc3798674c2109bb3a02a7e9356ab31819ea0563e77173a200e28893",
-    "category": "Elecciones Brasil",
-    "text": "El lulismo cruje ante la ofensiva ultra",
-    "link": "https://elpais.com/america/2026-10-05/el-lulismo-cruje-ante-la-ofensiva-ultra.html"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/EYX7YHRT5NAJ7JZXPTLG6ORM7U.jpg?auth=4ff1c5ba21488ab2e40a0a611dc9d45ee41a80e46fa882927e6597e345ab3407",
-    "category": "América",
-    "text": "El apellido Bolsonaro gana desde la cárcel",
-    "link": "https://elpais.com/america/2026-10-05/el-apellido-bolsonaro-gana-desde-la-carcel.html"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/HNSLATLT3VPKFGQSV75B24USIE.jpg?auth=5a9c46d7f07687f70d83d0745de1171a4b211ad1b04205f9c1c4b902a328f418",
-    "category": "América",
-    "text": "Arrasadora victoria de la derecha en Brasil",
-    "link": "https://elpais.com/america/2026-10-05/arrasadora-victoria-de-la-derecha-en-brasil.html"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/6JKVSKSAVFM43NNB2E4RPXQ3T4.jpg?auth=7e4ff31cc62f7b403848f0d558ca72c632c5aa12bbb756b18d8e0de104730266",
-    "category": "Ataque contra Irán",
-    "text": "El Gobierno de Yemen asegura haber arrebatado el control del estrecho de Bab el Mandeb a los hutíes",
-    "link": "https://elpais.com/internacional/2026-10-05/el-gobierno-yemeni-asegura-haber-arrebatado-el-control-del-estrecho-de-bab-el-manded-a-los-huties.html"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/3QP4N7RDNFHBHHT7L2AEP64DCU.jpg?auth=3f9bd09933de7988976a582b50a7cfa7139889c1c8b63a5dd8c194f7a603d031",
-    "category": "Unión Europea",
-    "text": "Pedro Sánchez, único líder socialdemócrata en una UE derechizada, activa el súper año electoral en Europa",
-    "link": "https://elpais.com/internacional/2026-10-05/pedro-sanchez-unico-lider-socialdemocrata-en-una-ue-derechizada-activa-el-super-ano-electoral-en-europa.html"
-  },
-  {
-    "date": "2026-10-05",
-    "image": "https://imagenes.elpais.com/resizer/v2/IU3VECMUIBPMBJCA6YJF4SWBDA.jpg?auth=64d5dc61f6c91adfd8e17b3011d090da6a08511a675077a3b2513c23760905f4",
-    "category": "Francia",
-    "text": "Francia encara una nueva semana de protestas estudiantiles, las mayores en décadas",
-    "link": "https://elpais.com/internacional/2026-10-05/francia-encara-una-nueva-semana-de-protestas-estudiantiles-las-mayores-en-decadas.html"
-  },
-  {
-    "date": "2026-10-05",
-    "image": null,
-    "category": null,
-    "text": "México despliega 500 soldados en la frontera con Texas tras un tiroteo denunciado por EE.UU.",
-    "link": "https://es.euronews.com/2026/10/05/mexico-despliega-500-soldados-en-la-frontera-con-texas"
-  },
-  {
-    "date": "2026-10-05",
-    "image": null,
-    "category": null,
-    "text": "El copiloto de FlyDubai planeaba estrellar el avión contra el aeropuerto Ben Gurion de Tel Aviv",
-    "link": "https://es.euronews.com/2026/10/05/el-copiloto-de-flydubai-planeo-estrellar-el-avion-en-el-aeropuerto-de-tel-aviv"
+    "text": "Quiénes son Lucas Pavanato y Nikolas Ferreira, los jóvenes influencers de derecha que lograron las mayores votaciones en la historia de la Cámara de Diputados de Brasil",
+    "link": "https://www.bbc.com/mundo/articles/cw80zr20gk9mo?at_medium=RSS&at_campaign=rss"
   }
 ]

@@ -1,6 +1,48 @@
 [
   {
     "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/078bac4c-c3d6-11f1-8762-ef6152f87623/w:1024/p:16x9/474a9d702a7b3c3c08648691cf009f532cae9097.jpg",
+    "category": "Medio Oriente",
+    "text": "Navi Pillay, Nobel de la Paz 2026 por su defensa del derecho internacional",
+    "link": "https://www.france24.com/es/medio-oriente/20261009-navi-pillay-nobel-de-la-paz-2026-por-su-defensa-del-derecho-internacional"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/5b289f02-c397-11f1-9acf-f50f6d982dc3/w:1024/p:16x9/ES-20261008-203633-203813-CS.jpg",
+    "category": null,
+    "text": "Estados Unidos: Florida se prepara para la llegada del huracán Isaías",
+    "link": "https://www.france24.com/es/video/20261009-estados-unidos-florida-se-prepara-para-la-llegada-del-hurac%C3%A1n-isa%C3%ADas"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/a998fa94-c395-11f1-b831-4b195755b8ed/w:1024/p:16x9/ES-20261008-191513-191646-CS.jpg",
+    "category": null,
+    "text": "Francia: segundo días de manifestaciones estudiantiles masivas en una sola semana",
+    "link": "https://www.france24.com/es/video/20261009-francia-segundo-d%C3%ADas-de-manifestaciones-estudiantiles-masivas-en-una-sola-semana"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/6db7374c-c391-11f1-911d-ef6152f87623/w:1024/p:16x9/ES-20261008-190518-190940-CS.jpg",
+    "category": null,
+    "text": "Albert Martínez: \"Desde 1905 no tenemos un huracán tan tardío en la cuenca atlántica\"",
+    "link": "https://www.france24.com/es/video/20261009-albert-mart%C3%ADnez-desde-1905-no-tenemos-un-hurac%C3%A1n-tan-tard%C3%ADo-en-la-cuenca-atl%C3%A1ntica"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/a8bd7c08-c390-11f1-a41b-c55799ef8309/w:1024/p:16x9/ES-20261008-131730-132742-CS-01.jpg",
+    "category": null,
+    "text": "Caso Christa Pike: ¿Cuáles son los derechos de los condenados a muerte en EE. UU.?",
+    "link": "https://www.france24.com/es/video/20261009-caso-christa-pike-cu%C3%A1les-son-los-derechos-de-los-condenados-a-muerte-en-ee-uu"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/8ca5fbea-c38f-11f1-a149-f50f6d982dc3/w:1024/p:16x9/ES-20261008-183505-183700-CS.jpg",
+    "category": null,
+    "text": "Maduro y Flores son acusados por EE. UU. de conspiración para cometer torturas",
+    "link": "https://www.france24.com/es/video/20261009-maduro-y-flores-son-acusados-por-ee-uu-de-conspiraci%C3%B3n-para-cometer-torturas"
+  },
+  {
+    "date": "2026-10-09",
     "image": "https://s.france24.com/media/display/b04095c0-c38e-11f1-9ea9-ef6152f87623/w:1024/p:16x9/ES-20261008-183154-183335-CS.jpg",
     "category": null,
     "text": "USS Abraham Lincoln regresa a EE. UU. tras alarmas por la salud mental de la tripulación",
@@ -38,8 +80,15 @@
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Los niños que desafían a francotiradores y morteros para ir a la escuela cerca del frente de guerra en Yemen",
-    "link": "https://www.bbc.com/mundo/articles/c6y8l759mdl4o?at_medium=RSS&at_campaign=rss"
+    "text": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos",
+    "link": "https://www.bbc.com/mundo/articles/cr86zqyy4eg3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "La jurista sudafricana Navi Pillay, quien \"ha hecho rendir cuentas a los Estados y ha llevado esperanza a las víctimas\", gana el premio Nobel de la Paz 2026",
+    "link": "https://www.bbc.com/mundo/articles/cm78pw5qwy38o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-09",
@@ -52,169 +101,316 @@
     "date": "2026-10-09",
     "image": null,
     "category": null,
+    "text": "Congelaron tejido de mis óvulos por un cáncer cuando tenía 17 años y ahora con 44 soy madre de un hermoso bebé",
+    "link": "https://www.bbc.com/mundo/articles/c617kddd8dpdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Qué supone el fin de la nieve eterna de Papúa, el último hielo tropical entre los Andes y el Himalaya",
+    "link": "https://www.bbc.com/mundo/articles/cxnvlv956rjjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Los niños que desafían a francotiradores y morteros para ir a la escuela cerca del frente de guerra en Yemen",
+    "link": "https://www.bbc.com/mundo/articles/c6y8l759mdl4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
     "text": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
     "link": "https://www.bbc.com/mundo/articles/cmx2q7jx3jn8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/5P4BKO4WWVHZTIYLKLHPTGGYU4.jpg?auth=265101858b4800f6c06df7687d25bf3026435e7faf4ab7ca55222ddb627e282e&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/37LQWHUCBBD27KLBCC2GBE2FAM.jpg?auth=ef06b667ef8706ba7e5d2a4e5dc1f802a74a9a364d661734a8c5d932f36e6d3d&smart=true&width=1920&height=1280",
     "category": null,
-    "text": "Bolsonaro lidera el primer sondeo para el balotaje en Brasil con cuatro puntos de ventaja sobre Lula, según Datafolha",
-    "link": "https://www.infobae.com/america/america-latina/2026/10/09/bolsonaro-lidera-el-primer-sondeo-para-el-balotaje-en-brasil-con-cuatro-puntos-de-ventaja-sobre-lula-segun-datafolha/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/EEJVL2RJ6VDHXOSEO6OT35BM6A.png?auth=832f781395bddac244dde3a5886b789187bf62ffd5f8ca4324d9c929e0a51fb6&smart=true&width=3543&height=2362",
-    "category": null,
-    "text": "Cuanta agua hay en los embalses de España este viernes 9 de octubre",
-    "link": "https://www.infobae.com/espana/2026/10/09/cuanta-agua-hay-en-los-embalses-de-espana-este-viernes-9-de-octubre/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/7NQ2VALWDVEYBPUCGC3LFFUW3E.jpg?auth=1ddd663cca1fb0ddc1f77c839ac455899f847a00183cabd975f8de77b179ef6b&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Cómo está el euro frente al dólar este 9 de octubre",
-    "link": "https://www.infobae.com/espana/2026/10/09/como-esta-el-euro-frente-al-dolar-este-9-de-octubre/"
+    "text": "BME está \"preparada\" para facilitar la conexión de la cotización en España y EEUU, pero sin plazos concretos",
+    "link": "https://www.infobae.com/america/agencias/2026/10/09/bme-esta-preparada-para-facilitar-la-conexion-de-la-cotizacion-en-espana-y-eeuu-pero-sin-plazos-concretos/"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Ecuador incauta 1,6 toneladas de cocaína ocultas en un contenedor con destino a México",
-    "link": "https://www.infobae.com/america/agencias/2026/10/09/ecuador-incauta-16-toneladas-de-cocaina-ocultas-en-un-contenedor-con-destino-a-mexico/"
+    "text": "Muere un piloto y el copiloto herido grave al caer por un barranco en un rally en Mallorca",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/09/muere-un-piloto-y-el-copiloto-herido-grave-al-caer-por-un-barranco-en-un-rally-en-mallorca/"
   },
   {
     "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/JX7XLDZF45CCFIQ4I34PVPOZBI.jpeg?auth=0ba76da5b5ed63118ee04eb22b2660c3f4058b407be88390b6fb7ed567ac4fcd&smart=true&width=1080&height=624",
+    "image": "https://www.infobae.com/resizer/v2/TMX4XJEB4JFVTMAMSM7ITXQQJA.jpg?auth=b68f3fc350706df1d306369f00faa12a38697b5073d37448d8da78a86f67c768&smart=true&width=1920&height=1280",
     "category": null,
-    "text": "Piden informe oficial sobre investigaciones y señalamientos contra el concejal de Cúcuta Leonardo Jácome",
-    "link": "https://www.infobae.com/colombia/2026/10/09/piden-informe-oficial-sobre-investigaciones-y-senalamientos-contra-el-concejal-de-cucuta-leonardo-jacome/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/7VDVCSHKFNGFRBGWEHTOBC4VWY.png?auth=aa9c9a9c2c12c9362a998b1fc6f191e11153c545deccd7fc55b71e902dd2f7aa&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Del furor con Las Primas al éxito de “Endúlzame que soy café” y su romance con Milei: la historia de Daniela",
-    "link": "https://www.infobae.com/reportajes/2026/10/09/del-furor-con-las-primas-al-exito-de-endulzame-que-soy-cafe-y-su-romance-con-milei-la-historia-de-daniela/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/MDYWU3J2BBDE5AJVRULZCPAWPY.jpg?auth=cc2d94b18d97cf445389d5bf9e94ee46ece532a101cc593a90e4fa2c01271917&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Las historias de las vírgenes juradas de los Balcanes: las mujeres que viven como hombres para conservar las tierras familiares",
-    "link": "https://www.infobae.com/historias/2026/10/09/las-historias-de-las-virgenes-juradas-de-los-balcanes-las-mujeres-que-viven-como-hombres-para-conservar-las-tierras-familiares/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/RRENMHIWMZALHGKILJOSFI67ZM.jpg?auth=4904236dfa923a316aef22fb8adb8c5a2cc6f1422560e5e935955be24257fc5b&smart=true&width=1920&height=1440",
-    "category": null,
-    "text": "El reportero que fotografió los horrores de las guerras y las hambrunas, pero no pudo cubrir Malvinas por decisión de Thatcher",
-    "link": "https://www.infobae.com/historias/2026/10/09/el-reportero-que-fotografio-los-horrores-de-las-guerras-y-las-hambrunas-pero-no-pudo-cubrir-malvinas-por-decision-de-thatcher/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/5V2Z2FQM6FDL7LX43I4AUUO7RQ.jpg?auth=df5ee9dd14b13cfe8fa0334e97611f911076ceef141a1339ec5eedbad3bd8235&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "El escándalo de abuso que destruyó a una universidad de EEUU: un entrenador destituido y 109 millones de dólares en indemnizaciones",
-    "link": "https://www.infobae.com/historias/2026/10/09/el-escandalo-de-abuso-que-destruyo-a-una-universidad-de-eeuu-un-entrenador-destituido-y-109-millones-de-dolares-en-indemnizaciones/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/AIPI3AKCA5AO3GCZZ4P5DJQB3I.jpg?auth=55b1e0fa3e0efa3db64a36b563e34a8826dbaf594fa73e6f34a4854050d2321e&smart=true&width=2873&height=1616",
-    "category": null,
-    "text": "“Odio la vida humana y mataría de nuevo”: la siniestra historia de la asesina que veía a su abuelo en el rostro de sus víctimas",
-    "link": "https://www.infobae.com/historias/2026/10/09/odio-la-vida-humana-y-mataria-de-nuevo-la-siniestra-historia-de-la-asesina-que-veia-a-su-abuelo-en-el-rostro-de-sus-victimas/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/S6LIJWLAVRFN5JY43M26HIMWFU.jpg?auth=222174507a63fecc2d405f0d56123a0647f797118497467b96496be4de3075df&smart=true&width=1920&height=1089",
-    "category": null,
-    "text": "El fusilamiento del Che Guevara: un sargento que tardó 40 minutos en disparar, un código secreto y un cadáver escondido",
-    "link": "https://www.infobae.com/sociedad/2026/10/09/el-fusilamiento-del-che-guevara-un-sargento-que-tardo-40-minutos-en-disparar-un-codigo-secreto-y-un-cadaver-escondido/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/ISLYEY2TEZAY5GUAHUNFQ7YYX4.jpg?auth=3497a8fb49df32b81181e975f3a6cb5c1c0d1ca35f03bb9cac580ad913cc8a29&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Pornoextorsión: el calvario de la mujer policía que dejó a su ex por infiel y ahora lo denuncia por viralizar sus fotos íntimas",
-    "link": "https://www.infobae.com/sociedad/2026/10/09/pornoextorsion-el-calvario-de-la-mujer-policia-que-dejo-a-su-ex-por-infiel-y-ahora-lo-denuncia-por-viralizar-sus-fotos-intimas/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8715ee9ff711687305c94.jpg",
-    "category": null,
-    "text": "Hitler Mussolini gana elección municipal en Perú",
-    "link": "https://actualidad-rt.com/actualidad/631646-hitler-mussolini-ganar-eleccion-municipal?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac85705e9ff715dbe3278c1.jpg",
-    "category": null,
-    "text": "¿Cuánto petróleo exporta Venezuela a EE.UU.?: esto dicen las estadísticas de Washington",
-    "link": "https://actualidad-rt.com/actualidad/631634-petroleo-exporta-venezuela-eeuu-dicen?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El piloto francés Sébastien Loeb estará en el XVII Rally de Asturias Histórico tributo a Carlos Sainz",
+    "link": "https://www.infobae.com/america/agencias/2026/10/09/el-piloto-frances-sebastien-loeb-estara-en-el-xvii-rally-de-asturias-historico-tributo-a-carlos-sainz/"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Fijan fecha que marcará el giro de Colombia en sus relaciones con Israel",
-    "link": "https://actualidad-rt.com/actualidad/631643-colombia-inaugurara-embajada-jerusalen-miercoles?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "China y UE acercan posturas sobre híbridos y tierras raras durante visita de comisario UE",
+    "link": "https://www.infobae.com/america/agencias/2026/10/09/china-y-ue-acercan-posturas-sobre-hibridos-y-tierras-raras-durante-visita-de-comisario-ue/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/5MDJDWJIL5CIFMCCCHGFP47WZA.jpg?auth=0699851c2647ad5755be1d195836052696e5e9d8b4ea45bba5fc1924d1292379&smart=true&width=695&height=425",
+    "category": null,
+    "text": "Aerocivil investiga presunta pérdida de avioneta en Cundinamarca: esto se sabe",
+    "link": "https://www.infobae.com/colombia/2026/10/09/avioneta-habria-desaparecido-mientras-sobrevolaba-el-departamento-de-cundinamarca-aerocivil-comanda-la-busqueda/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/GLTAGX67VBA5VPRHKD7ELQF32A.jpg?auth=130be35e5420fd707809988bf3cc801e7e1adb5940ff76903976fa89a3f04c94&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Adiós al alza de salarios, bonos y nombramientos del sector público: Congreso archiva estas autógrafas",
+    "link": "https://www.infobae.com/peru/2026/10/08/adios-a-aumentos-de-salarios-bonos-y-nombramientos-del-sector-publico-congreso-archiva-estas-autografas/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/HBBAHN5VHFHC3DKNUFKECA2GGE.JPG?auth=b4a709c91003d914106adc35812eef4c0a912177ae7b4a7fa8193fca92821091&smart=true&width=4713&height=2651",
+    "category": null,
+    "text": "Franco Colapinto afronta la clasificación de la Sprint del Gran Premio de Singapur de la F1: la actividad se detuvo por un accidente de Checo Pérez",
+    "link": "https://www.infobae.com/deportes/2026/10/09/franco-colapinto-afronta-la-unica-practica-antes-de-la-clasificacion-de-la-sprint-del-gp-de-singapur-de-la-f1/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/PDL655P3U5HCNGQQ5LPK6NYQEQ.jpg?auth=e7ccd7d578efbe5e16eb6cb6bb543066a99f570dedc7c83391f19afe6656665a&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "El mejor parrillero de España se llama Mohammed El Hamdy y sirve carnes a la brasa en un restaurante murciano de 1936",
+    "link": "https://www.infobae.com/espana/2026/10/09/el-mejor-parrillero-de-espana-se-llama-mohammed-el-hamdy-y-sirve-carnes-a-la-brasa-en-un-restaurante-murciano-de-1936/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/VHJR5IDENBFE3ORO62NF5AY6NU.jpg?auth=8dd985d916ba2804e36bbce263e174e9bc7b79e7e2dde5d89b466bdb87c6d0a2&smart=true&width=3000&height=2001",
+    "category": null,
+    "text": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy viernes 9 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/09/en-vivo-la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-viernes-9-de-octubre/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/FYH57YN52JDYBDW6FWBAHKNVCY.jpg?auth=e9746624cea8b229eed5569443e21627a7e3739225d9f7416a9ba54f42df6fd4&smart=true&width=1920&height=947",
+    "category": null,
+    "text": "En medio de la tensión por Malvinas, Argentina busca liderar la logística antártica regional mientras avanza el proyecto portuario de las islas",
+    "link": "https://www.infobae.com/politica/2026/10/09/en-medio-de-la-tension-por-malvinas-argentina-busca-liderar-la-logistica-antartica-regional-mientras-avanza-el-proyecto-portuario-de-las-islas/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/3KQHJP3RQZGY3DOPQ2LKP2GDXM.jpg?auth=ae488ca5a73fdd9c50e7e997c20ac4a0ec5354d79f2d1b68b07e1ef489b39428&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Comisión de Constitución del Senado inicia hoy debate sobre facultades: Luis Galarreta y ministros fueron citados",
+    "link": "https://www.infobae.com/peru/2026/10/09/comision-de-constitucion-del-senado-inicia-hoy-debate-sobre-facultades-luis-galarreta-y-ministros-fueron-citados/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/APYU2POHEZE6HLOVD766O2A2H4.JPG?auth=55c173b330a17ebf447fa372ba3572c03b9745f893056252621c54c781fe0e25&smart=true&width=3596&height=2028",
+    "category": null,
+    "text": "Huracán Isaias EN VIVO: el ciclón se intensifica y avanza hacia los Estados Unidos",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/08/huracan-isaias-en-vivo-el-ciclon-se-intensifica-y-avanza-hacia-los-estados-unidos/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261009/1223522_055550_video_1800.mp4",
+    "category": "Estados Unidos",
+    "text": "Mamdani exige a Trump el fin del ICE en Nueva York: “No me quedaré de brazos cruzados”",
+    "link": "https://elpais.com/us/migracion/2026-10-09/mamdani-exige-a-trump-el-fin-del-ice-en-nueva-york-no-me-quedare-de-brazos-cruzados.html"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://imagenes.elpais.com/resizer/v2/WG52A4LROJMIZNT77ZTRBO5R2E.jpg?auth=306daead88f0421b0581aa7177c5d5f2b306325f69800071eac9e1bd052db875",
+    "category": "Estados Unidos",
+    "text": "De Minneapolis a Nueva York: agentes del ICE han estado involucrados al menos en siete tiroteos en 2026",
+    "link": "https://elpais.com/us/migracion/2026-10-09/de-minneapolis-a-nueva-york-agentes-del-ice-han-estado-involucrados-al-menos-en-siete-tiroteos-en-2026.html"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://imagenes.elpais.com/resizer/v2/MNT2ZPGYDVOI3EWH3VRTHJNBBI.jpg?auth=0be3f046b575ff0f2883e6517aada11b558429d81400c5eb6fd9367c1e755369",
+    "category": "Nobel de la Paz",
+    "text": "Navi Pillay, la Nobel de la Paz que ha dedicado su vida a luchar contra los genocidios",
+    "link": "https://elpais.com/internacional/2026-10-09/navi-pillay-la-nobel-de-la-paz-que-ha-dedicado-su-vida-a-luchar-contra-los-genocidios.html"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261009/1223546_071658_video_1800.mp4",
+    "category": "Estados Unidos",
+    "text": "Un agente del ICE dispara y hiere en Nueva York a un hombre acompañado por un niño de cinco años",
+    "link": "https://elpais.com/us/migracion/2026-10-08/un-agente-del-ice-dispara-y-hiere-a-una-persona-en-la-ciudad-de-nueva-york.html"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://imagenes.elpais.com/resizer/v2/56652EGXBFNFLPOEONVFFHB7SY.jpg?auth=71f8a0f0a7e97789bb6ceedcca0037c02b0fe44a74283fc666aff1dc74e4848a",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Ucrania apunta sus armas contra Yandex, el “Google ruso”",
+    "link": "https://elpais.com/internacional/2026-10-09/ucrania-apunta-sus-armas-contra-yandex-el-google-ruso.html"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://imagenes.elpais.com/resizer/v2/I3T2JR2IXRA6RPJKGRVHKJTM7Y.jpg?auth=b9c6998bad842e66447320e12d58d0a77a27e76020839b45d28973b03822626a",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Kiev sufre apagones, interrupciones en el transporte público y cortes de agua por la ofensiva rusa",
+    "link": "https://elpais.com/internacional/2026-10-09/kiev-sufre-apagones-interrupciones-en-el-transporte-publico-y-cortes-de-agua-por-la-ofensiva-rusa.html"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://imagenes.elpais.com/resizer/v2/FGP4M5HEQZI35K67QUJUSKDXLY.jpg?auth=1349840949606501585d5c4a40557b06dae62209bc21ad163d7dc614ccae6499",
+    "category": "Polonia",
+    "text": "Viernes de caos y miedo en las escuelas en Polonia: la policía detiene a varios adolescentes ante nuevas amenazas de ataques",
+    "link": "https://elpais.com/internacional/2026-10-09/la-policia-detiene-a-varios-adolescentes-en-polonia-ante-nuevas-amenazas-de-ataques-a-escuelas.html"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8cd2ee9ff713ebd414db1.jpeg",
+    "category": null,
+    "text": "Millonaria extorsión a políticos con IA: el 'modus operandi' de una familia detenida en México",
+    "link": "https://actualidad-rt.com/actualidad/631678-extorsion-funcionarios-ia-modus-operandi-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8d99ee9ff712cbb20bd37.jpg",
+    "category": null,
+    "text": "Musk señala a un multimillonario indio como responsable de los problemas de Starlink",
+    "link": "https://actualidad-rt.com/actualidad/631683-jefe-india-musk-ambani-starlink?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8b853e9ff711638423b37.jpg",
+    "category": null,
+    "text": "El oscuro secreto de la muerte de Bandera: un informe secreto de la CIA pone en duda la versión de Kiev",
+    "link": "https://actualidad-rt.com/a-fondo/631661-enterraron-oscuros-secretos-bandera-construir?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8c56c59bf5b0e8a0aa46e.jpg",
+    "category": null,
+    "text": "Presidente finlandés bromea de manera peculiar con el rey de España",
+    "link": "https://actualidad-rt.com/actualidad/631675-presidente-finlandes-bromea-manera-peculiar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8d05f59bf5b0da6518a35.jpg",
+    "category": null,
+    "text": "Hallan un efecto inesperado entre los que toman fármacos para adelgazar como Ozempic",
+    "link": "https://actualidad-rt.com/actualidad/631680-farmacos-adelgazar-cuadruplicar-riesgo-problemas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8cabb59bf5b7eac4c0e1a.jpg",
+    "category": null,
+    "text": "\"Profundamente ofensivo\": India reacciona con dureza a palabras de Vance sobre trabajadores migrantes",
+    "link": "https://actualidad-rt.com/actualidad/631665-india-respuesta-trabajadores-inmigrantes-microsoft-vance?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8cd5be9ff71161c7b0a68.png",
+    "category": null,
+    "text": "China acusa a Japón de abusar de la IA para \"blanquear\" su historia",
+    "link": "https://actualidad-rt.com/actualidad/631677-china-japon-ia-blanquear-historia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8d52959bf5b2dec453a52.jpg",
+    "category": null,
+    "text": "VIDEOS: Las apocalípticas imágenes que deja un aluvión en Chile",
+    "link": "https://actualidad-rt.com/actualidad/631682-videos-apocalipticas-imagenes-deja-aluvion-chile?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8c9d259bf5b687f6cfd97.jpg",
+    "category": null,
+    "text": "La campaña de Lula sufre un revés judicial: ¿qué hay detrás?",
+    "link": "https://actualidad-rt.com/actualidad/631679-campana-lula-sufre-reves-judicial-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac8c055e9ff711638423b42.jpg",
+    "category": null,
+    "text": "Desgaste, escasez y crisis moral: el USS Lincoln regresa a EE.UU. desde Oriente Medio",
+    "link": "https://actualidad-rt.com/actualidad/631672-desgaste-escasez-crisis-moral-uss?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "El destino de más de 100.000 ucranianos que huyeron del conflicto a EE.UU. depende de esta decisión",
-    "link": "https://actualidad-rt.com/actualidad/631641-100000-ucranianos-podrian-perder-estatus?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac851dc59bf5b527927dbbd.jpg",
-    "category": null,
-    "text": "FOTOS: Imágenes por satélite muestran daños en instalación petrolera saudita",
-    "link": "https://actualidad-rt.com/actualidad/631640-fotos-imagenes-satelitales-muestran-danos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Focas y leones marinos se someten a pruebas de audición en investigación australiana",
+    "link": "https://es.euronews.com/video/2026/10/09/focas-y-leones-marinos-se-someten-a-pruebas-de-audicion-en-investigacion-australiana"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Mangueras contra drones: la insólita defensa de los submarinos nucleares británicos",
-    "link": "https://actualidad-rt.com/actualidad/631642-mangueras-drones-defensa-submarinos-britanicos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac84dc459bf5b5d6f2edf36.jpg",
-    "category": null,
-    "text": "Politico: la OTAN busca reducir la tensión con Rusia antes de sus ejercicios nucleares",
-    "link": "https://actualidad-rt.com/actualidad/631637-otan-buscar-rebajar-tension-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac841c459bf5b057112026f.png",
-    "category": null,
-    "text": "La nueva 'hazaña diplomática' de Kiev: anatomía de una insólita crisis diplomática con Seúl",
-    "link": "https://actualidad-rt.com/actualidad/631633-hazana-diplomatica-kiev-crisis-seul?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac84c39e9ff716b035913f9.jpg",
-    "category": null,
-    "text": "Parece magia pero es real: torre china deslumbra con cascada de fuegos artificiales (VIDEO)",
-    "link": "https://actualidad-rt.com/viral/631639-torre-china-cascada-fuegos-artificiales?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac84cb9e9ff712cbb20bcda.jpg",
-    "category": null,
-    "text": "VIDEO: Atropella brutalmente a un hombre en silla de ruedas y huye del lugar",
-    "link": "https://actualidad-rt.com/actualidad/631638-video-atropella-brutalmente-hombre-silla?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "España: manifestantes en Madrid lloran a la jubilada desahuciada Maricarmen Abascal",
+    "link": "https://es.euronews.com/video/2026/10/09/espana-manifestantes-en-madrid-lloran-a-la-jubilada-desahuciada-maricarmen-abascal"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Corea del Sur retira a su embajador en Kiev tras revelar Zelenski el traslado de prisioneros norcoreanos",
-    "link": "https://es.euronews.com/2026/10/09/corea-del-sur-retira-embajador-kiev-tras-revelar-zelenski-traslado-prisioneros-norcoreanos"
+    "text": "Registro de teléfonos móviles con CURP: ¿qué pasa con WhatsApp y las redes si suspenden tu línea?",
+    "link": "https://es.euronews.com/2026/10/09/registro-telefonos-moviles-con-curp-que-pasa-con-whatsapp-redes-suspenden-linea"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "La UE prorroga las sanciones a Nicaragua hasta octubre de 2027 y pide diálogo con la oposición",
+    "link": "https://es.euronews.com/2026/10/09/ue-prorroga-sanciones-nicaragua-hasta-octubre-2027-pide-dialogo-con-oposicion"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Estados Unidos retransmitirá en directo la ejecución por fusilamiento del tirador de Fort Hood",
+    "link": "https://es.euronews.com/2026/10/09/estados-unidos-retransmitira-directo-ejecucion-por-fusilamiento-del-tirador-fort-hood"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Un ataque con misiles de las milicias hutíes deja 3 muertos en el aeropuerto de Riad",
+    "link": "https://es.euronews.com/2026/10/09/ataques-con-misiles-huties-en-el-aeropuerto-de-riad-dejan-3-muertos-entre-ellos-un-capitan"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 09 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/09/ultimas-noticias-09-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "El candidato de izquierda Hitler Mussolini gana unas elecciones locales en Perú",
+    "link": "https://es.euronews.com/2026/10/09/el-candidato-de-izquierda-hitler-mussolini-gana-eleccion-local-en-peru"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "El cáncer, a la cola del presupuesto ruso: recortes drásticos a la oncología en Rusia",
+    "link": "https://es.euronews.com/2026/10/09/el-cancer-a-la-cola-del-presupuesto-ruso-recortes-drasticos-a-la-oncologia-en-rusia"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Los marineros de EE.UU. se reúnen con sus familias al volver el USS Abraham Lincoln",
+    "link": "https://es.euronews.com/2026/10/09/los-marineros-de-eeuu-se-reunen-con-sus-familias-al-volver-el-uss-abraham-lincoln"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Coches incendiados y tiendas saqueadas en protestas antiinmigración en Sudáfrica",
+    "link": "https://es.euronews.com/video/2026/10/09/coches-incendiados-y-tiendas-saqueadas-en-protestas-antiinmigracion-en-sudafrica"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Chile: inundaciones en Santiago convierten calles en ríos y Kast decreta estado de catástrofe",
+    "link": "https://es.euronews.com/video/2026/10/09/chile-inundaciones-en-santiago-convierten-calles-en-rios-y-kast-decreta-estado-de-catastro"
   },
   {
     "date": "2026-10-08",
@@ -222,201 +418,5 @@
     "category": "Francia",
     "text": "Protestas estudiantiles: cinco claves de una crisis que tiene en jaque a Francia",
     "link": "https://www.france24.com/es/francia/20261008-protestas-estudiantiles-cinco-claves-de-una-crisis-que-tiene-en-jaque-a-francia"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://s.france24.com/media/display/09a7f11e-c35b-11f1-a17b-4b195755b8ed/w:1024/p:16x9/ES-20261008-143158-143328-CS.jpg",
-    "category": null,
-    "text": "Informe desde París: sindicatos y universitarios se unen a manifestaciones de estudiantes",
-    "link": "https://www.france24.com/es/video/20261008-informe-desde-par%C3%ADs-sindicatos-y-universitarios-se-unen-a-manifestaciones-de-estudiantes"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://s.france24.com/media/display/e569e536-c35b-11f1-b89a-4b195755b8ed/w:1024/p:16x9/2026-10-08T194237Z-902823934-RC27ZNAEHPW8-RTRMADP-3-USA-TRUMP.jpg",
-    "category": "En Contexto",
-    "text": "California vota por un impuesto a las grandes fortunas: ¿fuga de millonarios?",
-    "link": "https://www.france24.com/es/programas/en-contexto/20261008-california-vota-por-un-impuesto-a-las-grandes-fortunas-fuga-de-millonarios"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://s.france24.com/media/display/bd431fd4-c359-11f1-9b38-4b195755b8ed/w:1024/p:16x9/capture-4442335956ac801d1aa6982-74108889.jpg",
-    "category": null,
-    "text": "Con avances de las tropas oficialistas, se intensifica la guerra en Yemen",
-    "link": "https://www.france24.com/es/video/20261008-con-avances-de-las-tropas-oficialistas-se-intensifica-la-guerra-en-yemen"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://s.france24.com/media/display/0482ed1c-c34f-11f1-a15a-27c2853ad5a5/w:1024/p:16x9/ES-20261008-122148-122920-CS.jpg",
-    "category": "Revista de prensa",
-    "text": "Reclutamiento de menores incluso por videojuegos: informes de Ecuador y Colombia",
-    "link": "https://www.france24.com/es/programas/revista-de-prensa/20261008-reclutamiento-de-menores-incluso-por-videojuegos-informes-de-ecuador-y-colombia"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://s.france24.com/media/display/c8910638-c351-11f1-af61-f50f6d982dc3/w:1024/p:16x9/ES-20261008-111138-111343-CS.jpg",
-    "category": null,
-    "text": "Hutíes de Yemen atacan aeropuertos de Arabia Saudita",
-    "link": "https://www.france24.com/es/video/20261008-hut%C3%ADes-de-yemen-atacan-aeropuertos-de-arabia-saudita"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://s.france24.com/media/display/8db80898-c33a-11f1-938f-27c2853ad5a5/w:1024/p:16x9/2ecde146766bb66fced1be8af2bb85db962fc7a8.jpg",
-    "category": "Economía",
-    "text": "¿Por qué la guerra en Medio Oriente sigue disparando la inflación en países de América Latina?",
-    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261008-por-qu%C3%A9-la-guerra-en-medio-oriente-sigue-disparando-la-inflaci%C3%B3n-en-pa%C3%ADses-de-am%C3%A9rica-latina"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Cómo llegó Colombia a tener una deuda pública tan alta (y por qué De la Espriella tendrá que aumentarla)",
-    "link": "https://www.bbc.com/mundo/articles/c3n04dydq1lxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "\"Si heredamos los mismos genes y crecimos en el mismo ambiente, ¿por qué mi hermana tiene esquizofrenia y yo no?\": la científica mexicana que lleva más de 20 años buscando una respuesta",
-    "link": "https://www.bbc.com/mundo/articles/c977px05e64yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "\"Bluetoothing\": la peligrosa práctica de inyectarse sangre ajena para drogarse que podría estar alimentando una crisis de VIH",
-    "link": "https://www.bbc.com/mundo/articles/cqj34mz5dkr6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Quién es Anne Carson, la poeta canadiense que obtuvo el Nobel de Literatura 2026 \"por su obra audaz e inventiva\"",
-    "link": "https://www.bbc.com/mundo/articles/ckm23l8gpvr2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Presentan nuevos cargos en Nueva York contra Maduro y su esposa por presuntas torturas a ciudadanos de EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/cx7vpe0q7jnyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Cuáles son los reclamos de los estudiantes que están participando en las violentas protestas que sacuden a Francia",
-    "link": "https://www.bbc.com/mundo/articles/cj3vqre7rqp3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Isaías: el primer huracán de la temporada en el Atlántico se fortalece y pone en alerta al golfo de México",
-    "link": "https://www.bbc.com/mundo/articles/c3x2wy1zw515o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "\"Está enojada y confundida\": por qué Christa Pike sobrevivió a su ejecución, según su defensa (y qué ocurrirá ahora)",
-    "link": "https://www.bbc.com/mundo/articles/cmrlynleyze7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Muere Margaret Hamilton, la científica que desarrolló el software que fue clave para que la misión Apolo 11 llegara a la Luna",
-    "link": "https://www.bbc.com/mundo/articles/ckj0lrd9dn19o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223370_173207_video_1800.mp4",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Rusia mata al menos a 30 personas en la ciudad de Kramatorsk en su segundo día de ataques masivos contra civiles",
-    "link": "https://elpais.com/internacional/2026-10-08/rusia-mata-a-decenas-de-personas-en-un-ataque-contra-la-ciudad-ucrania-de-kramatorsk.html"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://imagenes.elpais.com/resizer/v2/2OLV5FPVKROMDFAYCNORIYJCFI.jpg?auth=262f746470c109091c091aa24886986ce4108ea6c76ec43fabfe803615b91b9e",
-    "category": "Italia",
-    "text": "Italia aprueba la controvertida reforma electoral de Meloni y se acerca a las urnas",
-    "link": "https://elpais.com/internacional/2026-10-08/italia-aprueba-la-controvertida-reforma-electoral-de-meloni-y-se-acerca-a-unas-elecciones-anticipadas.html"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223253_134803_video_1800.mp4",
-    "category": "Francia",
-    "text": "Los estudiantes franceses ‘toman’ la Bastilla en un nuevo día de protestas",
-    "link": "https://elpais.com/internacional/2026-10-08/los-estudiantes-de-francia-presentan-10-reivindicaciones-para-detener-sus-protestas.html"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223433_203611_video_1800.mp4",
-    "category": "Estados Unidos",
-    "text": "Nicolás Maduro y Cilia Flores, acusados en EE UU de nuevos cargos de tortura y represión",
-    "link": "https://elpais.com/us/2026-10-08/nicolas-maduro-y-cilia-flores-son-acusados-en-ee-uu-de-nuevos-cargos-de-tortura-y-represion.html"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://imagenes.elpais.com/resizer/v2/KZY36LNFIFFQLHDZKVUYYW4O7I.jpg?auth=67aa882c059cbd5f0bb54c738ceed084d5f25d6e9e84de9ee47211d866ca449d",
-    "category": "Reino Unido",
-    "text": "El Reino Unido acusa a un militar de la Royal Navy de espiar para un país extranjero",
-    "link": "https://elpais.com/internacional/2026-10-08/el-reino-unido-acusa-a-un-militar-de-la-royal-navy-de-espiar-para-un-pais-extranjero.html"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://imagenes.elpais.com/resizer/v2/7VVOAIRAQVM7DMFK75TEOPWMHI.jpg?auth=d1b1abc4b6b351323149bd24c605c1241342474e0a9be2cd83a5ad482b38ae7c",
-    "category": "Israel",
-    "text": "Israel cierra el Consulado británico en Jerusalén pero acepta dejarle una pequeña presencia diplomática",
-    "link": "https://elpais.com/internacional/2026-10-08/el-consulado-britanico-en-jerusalen-rebaja-su-estatus-a-mision-para-evitar-que-israel-lo-cierre.html"
-  },
-  {
-    "date": "2026-10-08",
-    "image": "https://imagenes.elpais.com/resizer/v2/O22QH6G6ONBRVLIMS4R7AIVWRA.jpg?auth=a8a2e00b9bdd7ee894b3533e9fc81cb78a1ab5d78d1d85d85d55b10b8b0c0076",
-    "category": "Bosnia Herzegovina",
-    "text": "Dos asesores de Trump viajaron a Bosnia-Herzegovina para ayudar al partido del prorruso Milorad Dodik a ganar las elecciones",
-    "link": "https://elpais.com/internacional/2026-10-08/dos-asesores-de-trump-viajaron-a-bosnia-herzegovina-para-ayudar-al-prorruso-milorad-dodik-a-ganar-las-elecciones.html"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Inundaciones mortales arrasan Albania y Montenegro al desbordarse los ríos",
-    "link": "https://es.euronews.com/video/2026/10/09/inundaciones-mortales-arrasan-albania-y-montenegro-al-desbordarse-los-rios"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Cientos de agricultores protestan en París contra el pacto UE-Mercosur y por las importaciones",
-    "link": "https://es.euronews.com/video/2026/10/08/cientos-de-agricultores-protestan-en-paris-contra-el-pacto-ue-mercosur-y-por-las-importaci"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Incendio en un centro de datos de Yandex tras un ataque de dron ucraniano",
-    "link": "https://es.euronews.com/video/2026/10/08/incendio-en-un-centro-de-datos-de-yandex-tras-un-ataque-de-dron-ucraniano"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "La Fiscalía argentina pide penas de prisión para los responsables médicos de Maradona durante sus días finales",
-    "link": "https://es.euronews.com/2026/10/08/la-fiscalia-argentina-pide-penas-de-prision-para-los-responsables-medicos-de-maradona-dura"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "Las pequeñas tortugas dan sus primeros pasos hacia el mar",
-    "link": "https://es.euronews.com/video/2026/10/08/las-pequenas-tortugas-dan-sus-primeros-pasos-hacia-el-mar"
-  },
-  {
-    "date": "2026-10-08",
-    "image": null,
-    "category": null,
-    "text": "EE.UU. acusa de tortura al expresidente venezolano Nicolás Maduro",
-    "link": "https://es.euronews.com/2026/10/08/eeuu-acusa-de-tortura-al-expresidente-venezolano-nicolas-maduro"
   }
 ]

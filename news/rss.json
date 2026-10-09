@@ -1,73 +1,94 @@
 [
   {
     "date": "2026-10-09",
-    "image": "https://s.france24.com/media/display/d83af702-1a77-11f1-b45e-005056bfb2b6/w:1024/p:16x9/AP26056083276151.jpg",
-    "category": "Escala en París",
-    "text": "La periodista Zorayda Gallegos destapa la impunidad de la violencia sexual en el Ejército mexicano",
-    "link": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261009-la-periodista-zorayda-gallegos-destapa-la-impunidad-de-la-violencia-sexual-en-el-ej%C3%A9rcito-mexicano"
+    "image": "https://s.france24.com/media/display/7e64c41e-c3f6-11f1-af52-e362370cce2e/w:1024/p:16x9/HegsethLive2.png",
+    "category": "EE. UU. y Canadá",
+    "text": "Una ejecución en directo: cuando Hegseth parece inspirarse en Irán y Corea del Norte",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261009-una-ejecuci%C3%B3n-en-directo-cuando-hegseth-parece-inspirarse-en-ir%C3%A1n-y-corea-del-norte"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/24ad22c2-c40f-11f1-afd3-77317c09f325/w:1024/p:16x9/FOTO-PORTADA-EEUU-TRUMP-FRAUDE.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "Trump reaviva el fantasma del fraude electoral antes de las midterms: ¿estrategia o desesperación?",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261009-trump-reaviva-el-fantasma-del-fraude-electoral-antes-de-las-midterms-estrategia-o-desesperaci%C3%B3n"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/818adc56-c404-11f1-b977-53993c5f1f18/w:1024/p:16x9/ac06c05e43a2314cdd59e01faa0cd762140c5700.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "Isaías avanza como huracán de categoría 3 hacia la costa sur de EE. UU., que se mantiene en alerta",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261009-isa%C3%ADas-avanza-como-hurac%C3%A1n-de-categor%C3%ADa-3-hacia-la-costa-sur-de-ee-uu-que-se-mantiene-en-alerta"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/0bd4425e-c427-11f1-b1d9-77317c09f325/w:1024/p:16x9/Policia-de-Brasil.jpg",
+    "category": "América Latina",
+    "text": "La Policía rescata a 13 niños y mata al hombre que los tenía como rehenes en una escuela de Brasil",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261009-hombre-armado-toma-como-rehenes-a-los-ni%C3%B1os-de-una-escuela-del-sur-de-brasil"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/48284574-c41e-11f1-a8d8-77317c09f325/w:1024/p:16x9/AP25345600749550.jpg",
+    "category": "En Contexto",
+    "text": "La pena de muerte en EE. UU.: ¿una medida \"popular\"?",
+    "link": "https://www.france24.com/es/programas/en-contexto/20261009-la-pena-de-muerte-en-ee-uu-una-medida-popular"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/8c1a67de-c429-11f1-96e7-3774aeac812a/w:1024/p:16x9/6a6ea4dab503448e5bed66c640891702bb0682dfw.jpg",
+    "category": "América Latina",
+    "text": "En directo: el presidente de Panamá viaja a Penonomé, donde se registran graves daños por el terremoto",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261009-en-directo-el-fuerte-terremoto-en-panam%C3%A1-causa-da%C3%B1os-en-edificaciones-el-canal-no-se-vio-afectado"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/1fd1977c-c41b-11f1-b5e7-77317c09f325/w:1024/p:16x9/ES-20261009-124714-125210-CS.jpg",
+    "category": null,
+    "text": "Directo a... Washington y las críticas a la decisión de retransmitir el fusilamiento de Hasan",
+    "link": "https://www.france24.com/es/video/20261009-directo-a-washington-y-las-cr%C3%ADticas-a-la-decisi%C3%B3n-de-retransmitir-el-fusilamiento-de-hasan"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/5b7bb75c-b7ec-11f1-99dc-833f01c30b8b/w:1024/p:16x9/AP26037827736376.jpg",
+    "category": "Enlace",
+    "text": "Doral, Florida, resiente el endurecimiento de la política migratoria de Trump",
+    "link": "https://www.france24.com/es/programas/enlace/20261009-doral-florida-bajo-el-impacto-de-la-pol%C3%ADtica-migratoria-de-trump"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/864bc156-c418-11f1-af0d-e362370cce2e/w:1024/p:16x9/ES-20261009-124232-124440-CS.jpg",
+    "category": null,
+    "text": "Críticas al Pentágono por decisión de transmitir en vivo fusilamiento de Nidal Hasan",
+    "link": "https://www.france24.com/es/video/20261009-cr%C3%ADticas-al-pent%C3%A1gono-por-decisi%C3%B3n-de-transmitir-en-vivo-fusilamiento-de-nidal-hasan"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/a766c020-c418-11f1-adc0-53993c5f1f18/w:1024/p:16x9/ES-20261009-140134-140449-CS.jpg",
+    "category": null,
+    "text": "Informe desde Ciudad de Panamá: sismo de 7,6 sacude la costa sur de Panamá",
+    "link": "https://www.france24.com/es/video/20261009-informe-desde-ciudad-de-panam%C3%A1-sismo-de-7-6-sacude-a-panam%C3%A1-y-enciende-alertas-de-tsunami"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://s.france24.com/media/display/81891426-c417-11f1-9ff0-e362370cce2e/w:1024/p:16x9/ES-20261009-124034-124201-CS.jpg",
+    "category": null,
+    "text": "Estudiantes y docentes se suman en Bruselas a la protesta sindical contra los recortes",
+    "link": "https://www.france24.com/es/video/20261009-estudiantes-y-docentes-se-suman-en-bruselas-a-la-protesta-sindical-contra-los-recortes"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Fuerte sismo de magnitud preliminar de 7,6 sacude Panamá (Reuters, USGS)",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261009-un-terremoto-de-magnitud-7-6-sacude-panam%C3%A1-y-activa-una-alerta-de-tsunami-para-nueve-pa%C3%ADses"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://s.france24.com/media/display/277fa400-c402-11f1-a1d2-e362370cce2e/w:1024/p:16x9/AP26273581638886-1.jpg",
-    "category": "Medio Oriente",
-    "text": "Emiratos afirma que el copiloto de un vuelo de Flydubai planeaba estrellarlo contra el aeropuerto de Tel Aviv",
-    "link": "https://www.france24.com/es/medio-oriente/20261009-emiratos-afirma-que-el-copiloto-de-un-vuelo-de-flydubai-planeaba-estrellarlo-contra-el-aeropuerto-de-tel-aviv"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://s.france24.com/media/display/a9388b70-c40b-11f1-9528-53993c5f1f18/w:1024/p:16x9/capture-5360157626ac92c52745e79-94400366.jpg",
-    "category": null,
-    "text": "Datafolha ubica a Bolsonaro por encima de Lula, pero mantiene el empate técnico en Brasil",
-    "link": "https://www.france24.com/es/video/20261009-datafolha-ubica-a-bolsonaro-por-encima-de-lula-pero-mantiene-el-empate-t%C3%A9cnico-en-brasil"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://s.france24.com/media/display/7a1d86aa-c402-11f1-923e-29a2e29ae696/w:1024/p:16x9/ES-20261009-071026-071231-CS.jpg",
-    "category": null,
-    "text": "ICE hiere de bala a un hombre que estaba en un vehículo estacionado con su hijo",
-    "link": "https://www.france24.com/es/video/20261009-ice-hiere-de-bala-a-un-hombre-que-estaba-en-un-veh%C3%ADculo-estacionado-con-su-hijo"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://s.france24.com/media/display/99b25f88-c400-11f1-8148-53993c5f1f18/w:1024/p:16x9/ES-20261009-070709-070904-CS.jpg",
-    "category": null,
-    "text": "Turquía prepara un memorando para frenar los ataques de Rusia y Ucrania en el mar Negro",
-    "link": "https://www.france24.com/es/video/20261009-turqu%C3%ADa-prepara-un-memorando-para-frenar-los-ataques-de-rusia-y-ucrania-en-el-mar-negro"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://s.france24.com/media/display/6b82a2ba-c407-11f1-bcc1-3774aeac812a/w:1024/p:16x9/WEB-PORTADA-08OCT-CUL.png",
-    "category": "Cultura",
-    "text": "Los Mirlos: la cumbia amazónica psicodélica que conquistó el mundo",
-    "link": "https://www.france24.com/es/programas/cultura/20261009-los-mirlos-la-cumbia-amaz%C3%B3nica-psicod%C3%A9lica-que-conquist%C3%B3-el-mundo"
+    "text": "Trump afirma que Rusia acordó suministrar diésel al mercado mundial tras hablar con Putin",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261009-trump-afirma-que-rusia-acord%C3%B3-suministrar-di%C3%A9sel-al-mercado-mundial-tras-hablar-con-putin"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Las buscadoras: el rostro de los desaparecidos en México",
-    "link": "https://www.france24.com/es/programas/la-entrevista/20261009-las-buscadoras-el-rostro-de-los-desaparecidos-en-m%C3%A9xico"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://s.france24.com/media/display/bccc7d38-c3f5-11f1-8bf2-e362370cce2e/w:1024/p:16x9/Gaza-Mexico.jpg",
-    "category": null,
-    "text": "México: una familia gazatí forja una nueva vida en su país de acogida gracias a la cocina",
-    "link": "https://www.france24.com/es/video/20261009-m%C3%A9xico-una-familia-gazat%C3%AD-forja-una-nueva-vida-en-su-pa%C3%ADs-de-acogida-gracias-a-la-cocina"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://s.france24.com/media/display/a4d53528-c3fd-11f1-8f45-3774aeac812a/w:1024/p:16x9/AP26282459763051.jpg",
-    "category": null,
-    "text": "Del apartheid a los tribunales internacionales: Navi Pillay, Nobel de la Paz 2026",
-    "link": "https://www.france24.com/es/video/20261009-del-apartheid-a-los-tribunales-internacionales-navi-pillay-nobel-de-la-paz-2026"
+    "text": "Un fuerte terremoto de magnitud 7,7 sacude Panamá",
+    "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-09",
@@ -80,15 +101,29 @@
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Un fuerte terremoto de magnitud 7,6 sacude Panamá, desatando una alerta de tsunami",
-    "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss"
+    "text": "Quién es Navi Pillay, la jurista sudafricana ganadora del Nobel de la Paz: \"Lo dedico a los sobrevivientes del crimen internacional\"",
+    "link": "https://www.bbc.com/mundo/articles/cm78pw5qwy38o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Quién es Navi Pillay, la jurista sudafricana ganadora del Nobel de la Paz: \"Lo dedico a los sobrevivientes del crimen internacional\"",
-    "link": "https://www.bbc.com/mundo/articles/cm78pw5qwy38o?at_medium=RSS&at_campaign=rss"
+    "text": "EE.UU. impone fuertes sanciones a la Corte Penal Internacional horas después de que una de sus exjuezas ganara el Nobel de la Paz",
+    "link": "https://www.bbc.com/mundo/articles/cq3981jym2rvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Simon se fortalece en el Pacífico y se prevé que toque tierra en las costas de México como potente huracán durante el fin de semana",
+    "link": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial",
+    "link": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-09",
@@ -101,6 +136,13 @@
     "date": "2026-10-09",
     "image": null,
     "category": null,
+    "text": "Declaran culpables a 3 hombres por el asesinato de dos hermanos surfistas australianos y su amigo estadounidense en México",
+    "link": "https://www.bbc.com/mundo/articles/ck1wve08vzyro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
     "text": "Congelaron tejido de mis óvulos por un cáncer cuando tenía 17 años y ahora con 44 soy madre de un hermoso bebé",
     "link": "https://www.bbc.com/mundo/articles/c617kddd8dpdo?at_medium=RSS&at_campaign=rss"
   },
@@ -108,15 +150,8 @@
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "El sobreviviente del ataque de Fort Hood que defiende la ejecución de Nidal Hasan pero critica la transmisión en vivo del fusilamiento",
-    "link": "https://www.bbc.com/mundo/articles/cm5yneeryrxno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "La indignación en Nueva York por el caso del dominicano que recibió un disparo de ICE en su auto con su hijo de 5 años en el asiento trasero",
-    "link": "https://www.bbc.com/mundo/articles/c3dxwnn9w5rqo?at_medium=RSS&at_campaign=rss"
+    "text": "Documental BBC Mundo: la historia de violencia que esconde Isla Coiba, un paraíso natural en Panamá",
+    "link": "https://www.bbc.com/mundo/articles/ck62y7gl1868o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-09",
@@ -129,99 +164,92 @@
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Qué supone el fin de la nieve eterna de Papúa, el último hielo tropical entre los Andes y el Himalaya",
-    "link": "https://www.bbc.com/mundo/articles/cxnvlv956rjjo?at_medium=RSS&at_campaign=rss"
+    "text": "El sobreviviente del ataque de Fort Hood que defiende la ejecución de Nidal Hasan pero critica la transmisión en vivo del fusilamiento",
+    "link": "https://www.bbc.com/mundo/articles/cm5yneeryrxno?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-09",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/KT6YW2GQBFFWZMHYNHTN6BE5YE.png?auth=85206822cce5bd91fddad0f9ccc6aac75f684c8b75d9c6a1ee5d9b0c8bb91ece&smart=true&width=1817&height=1011",
     "category": null,
-    "text": "Los niños que desafían a francotiradores y morteros para ir a la escuela cerca del frente de guerra en Yemen",
-    "link": "https://www.bbc.com/mundo/articles/c6y8l759mdl4o?at_medium=RSS&at_campaign=rss"
+    "text": "EN VIVO | Bloqueos, accidentes y manifestaciones hoy 9 de octubre: trabajadores del IMSS mantienen cierre vial en Calzada de Tlalpan",
+    "link": "https://www.infobae.com/mexico/2026/10/09/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-viernes-9-de-octubre/"
   },
   {
     "date": "2026-10-09",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/XGP6ZI2OWBCQPOQ5ATGF6SSYL4.jpg?auth=148539295c419772e3f2e015f2c0b386645bfd31e01d256e6ab13b36408bffa1&smart=true&width=2994&height=1684",
     "category": null,
-    "text": "Temas del día de EFE España del sábado 10 de octubre de 2026",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/09/temas-del-dia-de-efe-espana-del-sabado-10-de-octubre-de-2026/"
+    "text": "Con el ingreso de Paredes, Boca Juniors pierde contra Instituto en un duelo clave por la cima de su zona y la Tabla Anual",
+    "link": "https://www.infobae.com/deportes/2026/10/09/boca-juniors-visitara-a-instituto-en-un-duelo-clave-por-la-cima-de-su-zona-y-la-tabla-anual-hora-tv-y-probables-formaciones/"
   },
   {
     "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/TGRPXVNMSNEV6QYZBN5ATEWJ4U.jpg?auth=2c51e3eb477efdd8f8aab86e23d78bcf6e409d40505201c7328f6d1dfe50c27a&smart=true&width=800&height=576",
+    "image": "https://www.infobae.com/resizer/v2/XERHH2EDINDPLOVK36B2SZKCIM.jpg?auth=6b47a24b8b1f58151e45b300da9d152a98044fb68cb1a271e00f55252a3af796&smart=true&width=6000&height=4000",
     "category": null,
-    "text": "Más de dos millones de usuarios de Rappi recibieron una notificación: la empresa aclaró de qué se trata",
-    "link": "https://www.infobae.com/colombia/2026/10/09/mas-de-dos-millones-de-usuarios-de-rappi-recibieron-una-notificacion-la-empresa-aclaro-de-que-se-trata/"
+    "text": "Pacientes de hospital en Panamá son atendidos en la calle tras fuerte terremoto que generó daños estructurales",
+    "link": "https://www.infobae.com/panama/2026/10/09/pacientes-de-hospital-en-panama-son-atendidos-en-la-calle-tras-fuerte-terremoto-que-genero-danos-estructurales/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/C3HF7S3JOVCNRPD46YG2YOQNSY.png?auth=c19cf87da91af552dca028176cb928861d50668a60840ad01fe70c9621e7e1d7&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "El blooper del arquero de Instituto que terminó con el inesperado gol de Enner Valencia para Boca Juniors",
+    "link": "https://www.infobae.com/deportes/2026/10/09/el-blooper-del-arquero-de-instituto-que-termino-con-el-inesperado-gol-de-enner-valencia-para-boca-juniors/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/TUIRDIQJ4ZGVFNEHSW4W5MLIH4.jpg?auth=399e27bfd52fe21faa89d78096d381542e20591c85f5b2d8bded81567108f468&smart=true&width=2834&height=1472",
+    "category": null,
+    "text": "Rebelión en la coalición de la 4T: dirigente del Verde en Colima renuncia en rechazo a alianza con Morena y Rosi Bayardo",
+    "link": "https://www.infobae.com/mexico/2026/10/09/rebelion-en-la-coalicion-de-la-4t-dirigente-del-verde-en-colima-renuncia-en-rechazo-a-alianza-con-morena-y-rosi-bayardo/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/AABLOBQSCVFTXPC5HYK347L7EA.jpg?auth=b199a7c4e4963d537c78de00ed4b5f3cbca701564824608825f408fd4bed660d&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Abatido un hombre tras secuestrar a 13 niños en un centro escolar de Curitiba (Brasil)",
+    "link": "https://www.infobae.com/america/agencias/2026/10/09/abatido-un-hombre-tras-secuestrar-a-13-ninos-en-un-centro-escolar-de-curitiba-brasil/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/MK4VDUTHMVAEZME4ONV6VCCKFE.JPG?auth=a24a75f3be13dd1f512219dec3603fcd072048d44831f57e5c6958abf938121c&smart=true&width=5553&height=3124",
+    "category": null,
+    "text": "Huracán Isaias: qué hacer si se corta la luz por varios días y cómo evitar intoxicaciones, incendios y alimentos en mal estado",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/09/huracan-isaias-que-hacer-si-se-corta-la-luz-por-varios-dias-y-como-evitar-intoxicaciones-incendios-y-alimentos-en-mal-estado/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/ZXQBCXJ2MNES5PLOM4LUDM75UQ.jpg?auth=6a4264815a52c3a9f7603acf27dec8f12725a54b207bfcff3c92edf62873f28c&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Murió a los 86 años Mike Ditka, el hombre que llevó a los Chicago Bears a su único Super Bowl",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/09/murio-a-los-86-anos-mike-ditka-el-hombre-que-llevo-a-los-chicago-bears-a-su-unico-super-bowl/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/KM3ILWV5MFGOBKUP7R5FA4PNTI.png?auth=29dd923b1541bf562e38b2a5e695ea77d7341093f9e49f5d43bf2b863d54a82f&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Caos vehicular por concierto de BTS: estas avenidas son las más caóticas y con demoras de hasta dos horas",
+    "link": "https://www.infobae.com/peru/2026/10/09/caos-vehicular-por-concierto-de-bts-estas-avenidas-son-las-mas-caoticas-y-con-demoras-de-hasta-dos-horas/"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://www.infobae.com/resizer/v2/4NCXKBWGVFEKDFJXHC2ON2W244.png?auth=742bf5b7d6386615a3cfc550c98f8e1ab1219ad7943e8a3c7bb25420f7546a05&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Quienes serán los invitados de “las mesazas”, PH y la Peña, que llega al fin de semana con una sorpresa en la conducción",
+    "link": "https://www.infobae.com/teleshow/2026/10/09/quienes-seran-los-invitados-de-las-mesazas-ph-y-la-pena-que-llega-al-fin-de-semana-con-una-sorpresa-en-la-conduccion/"
   },
   {
     "date": "2026-10-09",
     "image": "https://www.infobae.com/resizer/v2/A4FIUIIU4ZH6BC5DUWKZ3YAGPU.jpg?auth=e70ea8dfcda42c7fcf49a22db34042e88b56fd4b8ef3eb4b34fc7762d1e49b2c&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Alerta de tsunami en México por sismo de 7.6 en Panamá: Gobierno expresa solidaridad con el país centroamericano",
-    "link": "https://www.infobae.com/mexico/2026/10/09/alerta-de-tsunami-en-mexico-por-sismo-de-76-en-panama-gobierno-expresa-solidaridad-con-el-pais-centroamericano/"
+    "text": "Terremoto en Panamá deja al menos 15 estudiantes lesionados y daños en edificios públicos y viviendas",
+    "link": "https://www.infobae.com/panama/2026/10/09/terremoto-en-panama-deja-al-menos-15-estudiantes-lesionados-y-danos-en-edificios-publicos-y-viviendas/"
   },
   {
     "date": "2026-10-09",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/APYU2POHEZE6HLOVD766O2A2H4.JPG?auth=55c173b330a17ebf447fa372ba3572c03b9745f893056252621c54c781fe0e25&smart=true&width=3596&height=2028",
     "category": null,
-    "text": "Sánchez lamenta el crimen machista de Cuenca y pide no resignarse ante la violencia",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/09/sanchez-lamenta-el-crimen-machista-de-cuenca-y-pide-no-resignarse-ante-la-violencia/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/AG4WH5Y3SZCZ7JTEOVUXQBCKUE.png?auth=630f00f52e644964e64c1f3434ef669d218890df1503f6ea318ecf69a2b27af4&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "El aeropuerto de Tocumen suspende temporalmente los vuelos y evacúa a los pasajeros tras terremoto en Panamá",
-    "link": "https://www.infobae.com/panama/2026/10/09/el-aeropuerto-de-tocumen-suspende-temporalmente-los-vuelos-y-evacua-a-los-pasajeros-tras-terremoto-en-panama/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/CUY3EERIGJGY7BXD3U7LX2VWKE.jpg?auth=83bd1be4f1b6750e0bbfb16cc3c5f93371158ec2d77b5b4bd21272568c12a73c&smart=true&width=2048&height=1152",
-    "category": null,
-    "text": "Sarmiento de Junín vence 2-1 a Aldosivi en Mar del Plata y lo complica con el descenso: cómo sigue la agenda del viernes",
-    "link": "https://www.infobae.com/deportes/2026/10/09/con-partidos-clave-para-el-descenso-y-las-copas-comienza-la-fecha-12-del-torneo-clausura-hora-tv-y-formaciones/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "Chile reporta amenaza de tsunami en la Isla de Pascua tras el terremoto en Panamá",
-    "link": "https://www.infobae.com/america/agencias/2026/10/09/chile-reporta-amenaza-de-tsunami-en-la-isla-de-pascua-tras-el-terremoto-en-panama/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "La pesca industrial en Perú no se contrapone con zonas marinas protegidas, afirma ministro",
-    "link": "https://www.infobae.com/america/agencias/2026/10/09/la-pesca-industrial-en-peru-no-se-contrapone-con-zonas-marinas-protegidas-afirma-ministro/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/ISJYMBXAL5C5FNF5GBWK26DSII.jpg?auth=7afa2c90866c35764f85b23ea631782c3f954fce812fcb5b375547f557d87152&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Perú vs Uruguay EN VIVO HOY: punto a punto del partido por el Campeonato Sudamericano Sub 19 de Vóley 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/10/09/peru-vs-uruguay-en-vivo-hoy-punto-a-punto-partido-fecha-3-campeonato-sudamericano-sub-19-voley-2026-resumen-resultado/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "México construirá una nueva cárcel en Sinaloa tras enfrentamientos que dejan 12 muertos",
-    "link": "https://www.infobae.com/america/agencias/2026/10/09/mexico-construira-una-nueva-carcel-en-sinaloa-tras-enfrentamientos-que-dejan-12-muertos/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://www.infobae.com/resizer/v2/ERBLW5LTXJEQBFCUIROX6DDH5U.jpg?auth=27a1d44b1e00593056d3abfddba35ca0f361aee91d4efb1c8c71cb42d3e7a83d&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Euro hoy en Bolivia: cotización de cierre del 9 de octubre",
-    "link": "https://www.infobae.com/noticias/2026/10/09/euro-hoy-en-bolivia-cotizacion-de-cierre-del-9-de-octubre/"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "El Salvador emite aviso de amenaza de tsunami tras terremoto de magnitud 7,7 en Panamá",
-    "link": "https://www.infobae.com/america/agencias/2026/10/09/el-salvador-emite-aviso-de-amenaza-de-tsunami-tras-terremoto-de-magnitud-77-en-panama/"
+    "text": "Huracán Isaias EN VIVO: el ciclón se intensifica y avanza hacia los Estados Unidos",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/08/huracan-isaias-en-vivo-el-ciclon-se-intensifica-y-avanza-hacia-los-estados-unidos/"
   },
   {
     "date": "2026-10-09",
@@ -274,73 +302,94 @@
   },
   {
     "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac973e6e9ff710a0d592dd7.jpg",
     "category": null,
-    "text": "Cierran el principal aeropuerto de Panamá tras fuerte sismo",
-    "link": "https://actualidad-rt.com/actualidad/631748-cierran-principal-aeropuerto-panama-sismo?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac932d8e9ff710b8e04cae0.jpeg",
-    "category": null,
-    "text": "Comerciantes 'juegan a la piñata' con un delincuente en Colombia (VIDEO)",
-    "link": "https://actualidad-rt.com/viral/631742-comerciantes-pinata-delincuente-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac93ae359bf5b15641222a3.jpg",
-    "category": null,
-    "text": "Trump anuncia un acuerdo con Putin para suministrar millones de toneladas de diésel y bajar los precios",
-    "link": "https://actualidad-rt.com/actualidad/631745-trump-anuncia-acuerdo-putin-suministrar?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac6879a59bf5b080905313a.jpg",
-    "category": null,
-    "text": "Putin y Trump hablan por teléfono y acuerdan un millonario suministro de diésel ruso",
-    "link": "https://actualidad-rt.com/actualidad/631415-putin-trump-hablar-telefono?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac937cae9ff71755246bfcc.jpg",
-    "category": null,
-    "text": "PRIMERAS IMÁGENES: así se vivió el potente terremoto en Panamá",
-    "link": "https://actualidad-rt.com/actualidad/631744-primeras-imagenes-potente-terremoto-panama?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac91d9659bf5b47a3288f0a.jpg",
-    "category": null,
-    "text": "¿Qué está pasando en Francia? Arden escuelas y la ONU expresa su preocupación (VIDEOS)",
-    "link": "https://actualidad-rt.com/actualidad/631729-policia-fuego-miles-revuelta-estudiantil-francia-videos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac933d3e9ff71755246bfc9.jpg",
-    "category": null,
-    "text": "Amenaza de tsunami tras terremoto de magnitud 7,2 en Panamá",
-    "link": "https://actualidad-rt.com/actualidad/631743-amenaza-tsunami-terremoto-panama?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Cascada con agua de piscinas cae de un rascacielos en Panamá en pleno terremoto",
+    "link": "https://actualidad-rt.com/actualidad/631780-agua-piscinas-rascacielos-panama-cae-terremoto?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Irán a EE.UU.: \"Prepárense para que se repitan las derrotas históricas\"",
-    "link": "https://actualidad-rt.com/actualidad/631736-iran-eeuu-preparense-repetir-historicas-derrotas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un hombre toma 13 niños como rehenes en una escuela de Brasil y es abatido por la Policía (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/631775-hombre-tomo-ninos-rehenes-escuela-abatido?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-09",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac92a3f59bf5b745c0a60d5.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac959d5e9ff71469217dcca.jpg",
     "category": null,
-    "text": "Hombre 'vuelve a la vida' en pleno sepelio",
-    "link": "https://actualidad-rt.com/actualidad/631732-hombre-volver-vida-pleno-sepelio-india?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "¿Quién es Katie Zacharia, la nueva portavoz de la Casa Blanca?",
+    "link": "https://actualidad-rt.com/actualidad/631764-quien-es-katie-zacharia-nueva-portavoz-casa-blanca?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-09",
     "image": null,
     "category": null,
-    "text": "Chevron evacúa personal y ajusta producción en el golfo de México por el huracán Isaías",
-    "link": "https://actualidad-rt.com/actualidad/631740-chevron-evacuar-personal-ajustar-produccion-huracan?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "EE.UU. moviliza recursos y personal para asistir a Panamá tras el fuerte terremoto",
+    "link": "https://actualidad-rt.com/actualidad/631776-eeuu-moviliza-recursos-personal-asistir?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac96edbe9ff717f5316a906.png",
+    "category": null,
+    "text": "\"Una decisión débil de socios fuertes\": Zelenski estalla tras el acuerdo energético entre Putin y Trump",
+    "link": "https://actualidad-rt.com/actualidad/631760-decision-debil-zelenski-acuerdo-trump-putin?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Kremlin sobre la llamada entre Putin y Trump: \"Nadie quería ser el primero en colgar\"",
+    "link": "https://actualidad-rt.com/actualidad/631777-kremlin-llamada-putin-trump-nadie?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac912e859bf5b156412228d.jpg",
+    "category": null,
+    "text": "Petróleo a 104 dólares: ¿quién gana y quién pierde en América Latina?",
+    "link": "https://actualidad-rt.com/actualidad/631722-petroleo-104-dolares-gana-pierde-america-latina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac9683be9ff7149ea35e6da.png",
+    "category": null,
+    "text": "El Kremlin explica en qué ha cambiado su enfoque sobre el conflicto ucraniano",
+    "link": "https://actualidad-rt.com/actualidad/631774-kremlin-cambiado-enfoque-conflicto-ucraniano?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac9550a59bf5b3d1608be8c.jpg",
+    "category": null,
+    "text": "Rusia anuncia el levantamiento inmediato de las restricciones a la exportación de diésel",
+    "link": "https://actualidad-rt.com/actualidad/631763-rusia-anuncia-levantamiento-inmediato-restricciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac92b19e9ff71684c1bf651.jpg",
+    "category": null,
+    "text": "La gira de Petro en México choca con el fuerte reproche de una diputada venezolana",
+    "link": "https://actualidad-rt.com/actualidad/631735-gira-petro-mexico-reproches-diputada-venezuela?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Choques entre policía y manifestantes en Bruselas contra los recortes",
+    "link": "https://es.euronews.com/video/2026/10/10/choques-entre-policia-y-manifestantes-en-bruselas-contra-los-recortes"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Al menos 12 muertos en 24 horas tras un motín y una segunda pelea en la misma cárcel de Sinaloa, México",
+    "link": "https://es.euronews.com/2026/10/09/al-menos-12-muertos-en-24-horas-tras-un-motin-y-una-segunda-pelea-en-la-misma-carcel-de-si"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
+    "text": "Trump anuncia que EE.UU. importará diésel ruso para abaratar los precios",
+    "link": "https://es.euronews.com/2026/10/09/trump-anuncia-que-eeuu-importara-diesel-ruso-para-abaratar-los-precios"
   },
   {
     "date": "2026-10-09",
@@ -360,63 +409,14 @@
     "date": "2026-10-09",
     "image": null,
     "category": null,
+    "text": "Un terremoto de magnitud 7,6 sacude Panamá y activa una alerta por riesgo de tsunami",
+    "link": "https://es.euronews.com/2026/10/09/un-terremoto-de-magnitud-76-sacude-panama-y-provoca-evacuaciones-en-la-capital"
+  },
+  {
+    "date": "2026-10-09",
+    "image": null,
+    "category": null,
     "text": "Inusuales mangas marinas golpean el oeste de Sicilia y arrasan casas y un colegio",
     "link": "https://es.euronews.com/video/2026/10/09/inusuales-mangas-marinas-golpean-el-oeste-de-sicilia-y-arrasan-casas-y-un-colegio"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "EURONEWS HOY | Las noticias del 9 de octubre de 2026: España guarda un minuto de silencio por Maricarmen",
-    "link": "https://es.euronews.com/2026/10/09/euronews-hoy-las-noticias-del-9-de-octubre-de-2026-espana-guarda-un-minuto-de-silencio-por"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 09 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/09/ultimas-noticias-09-octubre-2026-tarde"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "Varios tornados arrasan Sicilia y dejan coches volcados y edificios dañados",
-    "link": "https://es.euronews.com/2026/10/09/varios-tornados-arrasan-sicilia-y-dejan-coches-volcados-y-edificios-danados"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "Indonesia: rescatan cría de orangután de incendios en Borneo con el hábitat cada vez más amenazado",
-    "link": "https://es.euronews.com/video/2026/10/09/indonesia-rescatan-cria-de-orangutan-de-incendios-en-borneo-con-el-habitat-cada-vez-mas-am"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "Focas y leones marinos se someten a pruebas de audición en investigación australiana",
-    "link": "https://es.euronews.com/video/2026/10/09/focas-y-leones-marinos-se-someten-a-pruebas-de-audicion-en-investigacion-australiana"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "España: Manifestantes en Madrid lloran a la jubilada desahuciada Maricarmen Abascal",
-    "link": "https://es.euronews.com/video/2026/10/09/espana-manifestantes-en-madrid-lloran-a-la-jubilada-desahuciada-maricarmen-abascal"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "Registro de teléfonos móviles con CURP: ¿Qué pasa con WhatsApp y las redes si suspenden tu línea?",
-    "link": "https://es.euronews.com/2026/10/09/registro-telefonos-moviles-con-curp-que-pasa-con-whatsapp-redes-suspenden-linea"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "La UE prorroga las sanciones a Nicaragua hasta octubre de 2027 y pide diálogo con la oposición",
-    "link": "https://es.euronews.com/2026/10/09/ue-prorroga-sanciones-nicaragua-hasta-octubre-2027-pide-dialogo-con-oposicion"
   }
 ]

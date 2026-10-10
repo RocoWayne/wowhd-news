@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-10-10",
+    "image": "https://s.france24.com/media/display/394b24b4-c4f9-11f1-b963-3774aeac812a/w:1024/p:16x9/000-D2TV7BJ.jpg",
+    "category": "América Latina",
+    "text": "Panamá declara el estado de emergencia ante los daños por el terremoto de magnitud 7,7",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261010-panam%C3%A1-declara-el-estado-de-emergencia-ante-los-da%C3%B1os-por-el-terremoto-de-magnitud-7-7"
+  },
+  {
+    "date": "2026-10-10",
+    "image": "https://s.france24.com/media/display/20fe20ac-c4f7-11f1-82fc-3774aeac812a/w:1024/p:16x9/ES-20261010-161333-161502-CS.jpg",
+    "category": null,
+    "text": "Informe desde Ciudad de Panamá: declaran estado de emergencia tras el terremoto",
+    "link": "https://www.france24.com/es/video/20261010-informe-desde-ciudad-de-panam%C3%A1-declaran-estado-de-emergencia-tras-el-terremoto"
+  },
+  {
+    "date": "2026-10-10",
+    "image": "https://s.france24.com/media/display/2e8798d6-c4f0-11f1-ad46-53993c5f1f18/w:1024/p:16x9/ES-20261010-150715-150914-CS.jpg",
+    "category": null,
+    "text": "Tres años de guerra en el sur de Líbano: el drama de quienes aún no pueden regresar a sus casas",
+    "link": "https://www.france24.com/es/video/20261010-tres-a%C3%B1os-de-guerra-en-el-sur-de-l%C3%ADbano-el-drama-de-quienes-a%C3%BAn-no-pueden-regresar-a-sus-casas"
+  },
+  {
+    "date": "2026-10-10",
+    "image": "https://s.france24.com/media/display/e578e90c-c4e4-11f1-afa5-77317c09f325/w:1024/p:16x9/ES-20261010-130501-131116-CS.jpg",
+    "category": null,
+    "text": "¿Cómo configuran las alianzas políticas previo a las elecciones anticipadas en España?",
+    "link": "https://www.france24.com/es/video/20261010-c%C3%B3mo-configuran-las-alianzas-pol%C3%ADticas-previo-a-las-elecciones-anticipadas-en-espa%C3%B1a"
+  },
+  {
+    "date": "2026-10-10",
+    "image": "https://s.france24.com/media/display/0a863e9c-c4f5-11f1-9cc1-77317c09f325/w:1024/p:16x9/AP26279574730123.jpg",
+    "category": "Medio Oriente",
+    "text": "A un año del alto el fuego mediado por EE. UU. en Gaza, el enclave sigue desangrado",
+    "link": "https://www.france24.com/es/medio-oriente/20261010-a-un-a%C3%B1o-del-alto-el-fuego-mediado-por-ee-uu-en-gaza-el-enclave-sigue-desangrado"
+  },
+  {
+    "date": "2026-10-10",
+    "image": "https://s.france24.com/media/display/a3556cb4-c4d3-11f1-90a7-53993c5f1f18/w:1024/p:16x9/AP314998123886.jpg",
+    "category": "Medio Oriente",
+    "text": "Un nuevo ataque atribuido a los rebeldes hutíes contra el aeropuerto de Riad deja varios heridos",
+    "link": "https://www.france24.com/es/medio-oriente/20261010-un-nuevo-ataque-atribuido-a-los-rebeldes-hut%C3%ADes-contra-el-aeropuerto-de-riad-deja-varios-heridos"
+  },
+  {
+    "date": "2026-10-10",
+    "image": "https://s.france24.com/media/display/8fc50584-c4cd-11f1-bae9-e362370cce2e/w:1024/p:16x9/2026-10-06T220818Z-71220444-RC2PTNAKF4UE-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "Christa Pike, condenada por asesinato, sale del hospital y regresa a prisión tras una ejecución fallida",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261010-christa-pike-condenada-por-asesinato-sale-del-hospital-y-regresa-a-prisi%C3%B3n-tras-una-ejecuci%C3%B3n-fallida"
+  },
+  {
+    "date": "2026-10-10",
+    "image": null,
+    "category": null,
+    "text": "La Autoridad Palestina unifica elecciones: pospone las legislativas y convoca a presidenciales para 2027",
+    "link": "https://www.france24.com/es/medio-oriente/20261010-la-autoridad-palestina-unifica-elecciones-pospone-las-legislativas-y-convoca-a-presidenciales-para-2027"
+  },
+  {
+    "date": "2026-10-10",
     "image": "https://s.france24.com/media/display/bcf47164-c4cf-11f1-944f-e362370cce2e/w:1024/p:16x9/ES-20261010-121253-121426-CS.jpg",
     "category": null,
     "text": "La astronauta francesa Sophie Adenot regresa a la Tierra tras casi ocho meses en la EEI",
@@ -22,59 +78,10 @@
   },
   {
     "date": "2026-10-10",
-    "image": "https://s.france24.com/media/display/6999f624-c4ca-11f1-847d-29a2e29ae696/w:1024/p:16x9/ES-20261010-100209-100803-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "¿Qué significa la detención del fundador del movimiento de las \"cucarachas\" en India?",
-    "link": "https://www.france24.com/es/video/20261010-qu%C3%A9-significa-la-detenci%C3%B3n-del-fundador-del-movimiento-de-las-cucarachas-en-india"
-  },
-  {
-    "date": "2026-10-10",
-    "image": "https://s.france24.com/media/display/48a8f4b4-c4c6-11f1-ade3-77317c09f325/w:1024/p:16x9/ES-20261010-080918-081106-CS.jpg",
-    "category": null,
-    "text": "Brasil: Lula subsidia combustibles y Flávio Bolsonaro promete un ministerio de la Prosperidad",
-    "link": "https://www.france24.com/es/video/20261010-brasil-lula-recorta-impuestos-a-combustibles-y-bolsonaro-promete-ministerio-de-la-prosperidad"
-  },
-  {
-    "date": "2026-10-10",
-    "image": "https://s.france24.com/media/display/7e3b65be-c4c4-11f1-aa86-53993c5f1f18/w:1024/p:16x9/ES-20261010-080524-080720-CS.jpg",
-    "category": null,
-    "text": "Un año de alto el fuego en Gaza, con un acuerdo vulnerado y casi 1.480 palestinos muertos por Israel",
-    "link": "https://www.france24.com/es/video/20261010-un-a%C3%B1o-de-alto-el-fuego-en-gaza-con-un-acuerdo-vulnerado-y-casi-1-480-palestinos-muertos-por-israel"
-  },
-  {
-    "date": "2026-10-10",
-    "image": "https://s.france24.com/media/display/74540bec-c4c3-11f1-8ea2-53993c5f1f18/w:1024/p:16x9/ES-20261010-080153-080338-CS.jpg",
-    "category": null,
-    "text": "Policía detiene al líder del movimiento de las \"cucarachas\" antes de una protesta en Nueva Delhi",
-    "link": "https://www.france24.com/es/video/20261010-polic%C3%ADa-detiene-al-l%C3%ADder-del-movimiento-de-las-cucarachas-antes-de-una-protesta-en-nueva-delhi"
-  },
-  {
-    "date": "2026-10-10",
-    "image": "https://s.france24.com/media/display/a783687e-c4b8-11f1-8cf9-e362370cce2e/w:1024/p:16x9/ES-20261010-070529-070727-CS.jpg",
-    "category": null,
-    "text": "Un año después del alto el fuego en Gaza persisten el hambre, restricciones a la ayuda y los ataques",
-    "link": "https://www.france24.com/es/video/20261010-un-a%C3%B1o-despu%C3%A9s-del-alto-el-fuego-en-gaza-ayuda-parcial-hambre-y-ataques-que-no-cesan"
-  },
-  {
-    "date": "2026-10-10",
-    "image": "https://s.france24.com/media/display/f933dfc6-c4bf-11f1-bf1a-e362370cce2e/w:1024/p:16x9/3db193cff10827e6bb5dd38d07b4cb6830172ebd.jpg",
-    "category": "Deportes",
-    "text": "El francés Paul Seixas gana el Giro de Lombardía y se convierte en su vencedor más joven",
-    "link": "https://www.france24.com/es/deportes/20261010-el-franc%C3%A9s-paul-seixas-gana-el-giro-de-lombard%C3%ADa-y-se-convierte-en-su-vencedor-m%C3%A1s-joven"
-  },
-  {
-    "date": "2026-10-10",
-    "image": "https://s.france24.com/media/display/a4fc9ba0-c4b5-11f1-9a9d-53993c5f1f18/w:1024/p:16x9/FOTO-PORTADA-INDIA-PROTESTA-ELECTORAL.jpg",
-    "category": "Asia-Pacífico",
-    "text": "India sofoca las protestas de las \"cucarachas\" con miles de arrestos, incluidos sus líderes",
-    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261010-india-sofoca-las-protestas-de-las-cucarachas-con-miles-de-arrestos-incluidos-sus-l%C3%ADderes"
-  },
-  {
-    "date": "2026-10-10",
-    "image": "https://s.france24.com/media/display/37526fc0-c4a2-11f1-9260-77317c09f325/w:1024/p:16x9/2026-10-10T044727Z-1880955772-RC240OAN3W3N-RTRMADP-3-STORM-ISAIAS.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "EE. UU.: Isaías se convierte en ciclón postropical tras causar al menos dos muertes y apagones en EE. UU.",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261010-ee-uu-isa%C3%ADas-se-convierte-en-cicl%C3%B3n-postropical-tras-azotar-florida-pero-mantiene-la-amenaza-de-inundaciones"
+    "text": "Hiroo Kanamori, el científico japonés que creó la escala que reemplazó a la de Richter (y por qué es mejor para medir terremotos de gran magnitud)",
+    "link": "https://www.bbc.com/mundo/articles/c6dj4ne2p0njo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-10",
@@ -82,6 +89,13 @@
     "category": null,
     "text": "Quién es James Chambers, el millonario \"comunista\" detenido en España a petición de EE.UU.",
     "link": "https://www.bbc.com/mundo/articles/cwzrzr40ky1ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-10",
+    "image": null,
+    "category": null,
+    "text": "Christa Pike sale del hospital y regresa a prisión 10 días después de sobrevivir a su fallida ejecución",
+    "link": "https://www.bbc.com/mundo/articles/cmp3gw02q56do?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-10",
@@ -101,13 +115,6 @@
     "date": "2026-10-10",
     "image": null,
     "category": null,
-    "text": "Hiroo Kanamori, el científico japonés que creó la escala que reemplazó a la de Richter (y por qué es mejor para medir terremotos de gran magnitud)",
-    "link": "https://www.bbc.com/mundo/articles/c6dj4ne2p0njo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-10",
-    "image": null,
-    "category": null,
     "text": "Simon se convierte en huracán de categoría 4 en el Pacífico y se prevé que toque tierra en las costas de México durante el fin de semana",
     "link": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss"
   },
@@ -115,8 +122,22 @@
     "date": "2026-10-10",
     "image": null,
     "category": null,
-    "text": "Un fuerte terremoto de magnitud 7,7 sacude Panamá y deja cientos de edificaciones destruidas o dañadas",
+    "text": "Trump dice que \"es hora de que Ucrania tenga un nuevo presidente\", tras las críticas de Zelensky al acuerdo sobre el diésel entre EE.UU. y Rusia",
+    "link": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-10",
+    "image": null,
+    "category": null,
+    "text": "Panamá declara el estado de emergencia tras un fuerte terremoto de magnitud 7,7 que deja cientos de edificaciones destruidas o dañadas",
     "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-10",
+    "image": null,
+    "category": null,
+    "text": "Muere un hombre tras ser atacado por un tigre en un parque zoológico de Inglaterra",
+    "link": "https://www.bbc.com/mundo/articles/c8vgx9x4r9nko?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-10",
@@ -127,87 +148,87 @@
   },
   {
     "date": "2026-10-10",
-    "image": "https://www.infobae.com/resizer/v2/SUQSUN5HLFHQDFPHIX2QTHR6WY.JPG?auth=2eb0ff3aed45580107326c70b4bab17c2cf9597ca923141665fb1def0f767c0b&smart=true&width=2736&height=1539",
+    "image": "https://www.infobae.com/resizer/v2/2GXHPT5ULJCEBBBOFRKUWUVGKI.png?auth=ff0f271626cf19bce86c11af56b885da14c65d6cecb19f5befba02aa0b762a71&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Trump crea un comité para investigar a Lisa Cook por presunto fraude hipotecario y busca destituirla de la Reserva Federal",
-    "link": "https://www.infobae.com/estados-unidos/2026/10/10/trump-investiga-a-lisa-cook-por-presunto-fraude-hipotecario-y-busca-destituirla-de-la-reserva-federal/"
+    "text": "Así fue la llegada de David Bisbal a la Argentina: banderas, globos y un reencuentro único con sus fans",
+    "link": "https://www.infobae.com/teleshow/2026/10/10/asi-fue-la-llegada-de-david-bisbal-a-la-argentina-banderas-globos-y-un-reencuentro-unico-con-sus-fans/"
   },
   {
     "date": "2026-10-10",
-    "image": "https://www.infobae.com/resizer/v2/AUIG4FU2TFFQVBVCRC6FD2YD7I.jpg?auth=1c7e75ca09c5014f4f4628d7f3af2533f20bf1bb6a6ad171c85f42599a7e8085&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/FZBTSIFGBNDX3JZ5RKRWZSP34Q.png?auth=fb0e1097ad4ef93e77461b1e8936b349cfe81b349f5a3b0342a24000498d4d24&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "“Plata o plomo”: la amenaza con una bala que llevó a ‘La Secre’ ante la justicia en Veracruz",
-    "link": "https://www.infobae.com/mexico/2026/10/10/plata-o-plomo-la-amenaza-con-una-bala-que-llevo-a-la-secre-ante-la-justicia-en-veracruz/"
+    "text": "Perú vs Brasil EN VIVO HOY: punto a punto del partido por semifinales del Campeonato Sudamericano Sub 19 de Vóley 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/10/10/peru-vs-brasil-en-vivo-hoy-punto-a-punto-partido-semifinales-campeonato-sudamericano-sub-19-voley-2026-resumen-resultado/"
   },
   {
     "date": "2026-10-10",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/MHUS53UABFELVIBPV2DCZU7GIU.jpg?auth=99aa5a46b65c2922122bae0d9cf193146baac4e9251857065e561bf047860e36&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "ONG de Túnez denuncia la vigencia de la pena de muerte en la legislación del país",
-    "link": "https://www.infobae.com/america/agencias/2026/10/10/ong-de-tunez-denuncia-la-vigencia-de-la-pena-de-muerte-en-la-legislacion-del-pais/"
+    "text": "Influencer regala entrada para concierto de BTS y le terminan robando su Army boom antes de entrar a Estadio San Marcos",
+    "link": "https://www.infobae.com/peru/2026/10/10/influencer-regala-entrada-para-concierto-de-bts-y-le-terminan-robando-su-army-boom-antes-de-entrar-a-estadio-san-marcos/"
   },
   {
     "date": "2026-10-10",
-    "image": "https://www.infobae.com/resizer/v2/BLF23O4VMREXBJJSKVLOTMMWTU.png?auth=5cb472e9d951b40fd86611cbf9ce879d19d10e9c46b48fb776e2ef1ccaadb04e&smart=true&width=1536&height=1024",
+    "image": "https://www.infobae.com/resizer/v2/U35MXW7DVJEMLJMP5Y5HI3PDUQ.JPG?auth=fd8180dcf597516bdb461811b52df79e13b76416564b582d1a0decb16bc4bda2&smart=true&width=5500&height=3667",
     "category": null,
-    "text": "Día de Muertos 2026: Catedral Metropolitana inicia recorridos nocturnos para descubrir sus secretos más profundos",
-    "link": "https://www.infobae.com/mexico/2026/10/10/dia-de-muertos-2026-catedral-metropolitana-inicia-recorridos-nocturnos-para-descubrir-sus-secretos/"
+    "text": "“Fue una liberación de energía súbita”: la explicación de un experto sobre el terremoto que sacudió Panamá y dejó más de 100 réplicas",
+    "link": "https://www.infobae.com/america/ciencia-america/2026/10/10/fue-una-liberacion-de-energia-subita-la-explicacion-de-un-experto-sobre-el-terremoto-que-sacudio-panama-y-dejo-mas-de-100-replicas/"
   },
   {
     "date": "2026-10-10",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/3D7WMR7P2FG7HNHUJNHD566HXA.png?auth=3c45d8314529d9b5478ff490d1290f956ef2afc6bab8eb746311d49737b392c6&smart=true&width=1536&height=1024",
     "category": null,
-    "text": "Colonos israelíes perpetraron hoy 18 ataques en Cisjordania en plena cosecha de aceituna",
-    "link": "https://www.infobae.com/america/agencias/2026/10/10/colonos-israelies-perpetraron-hoy-18-ataques-en-cisjordania-en-plena-cosecha-de-aceituna/"
+    "text": "Temblor hoy en Perú EN VIVO: últimos sismos, epicentro y reporte del IGP del 10 de octubre de 2026",
+    "link": "https://www.infobae.com/peru/2026/10/10/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-10-de-octubre-de-2026/"
   },
   {
     "date": "2026-10-10",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/3PCM2JIJXZBMXHPEYZB2ODIAEM.jpg?auth=998e8d286591bbc638d8ee9749e87a826f3098a6425ff69e2b99d3c9d564cf3d&smart=true&width=3264&height=1836",
     "category": null,
-    "text": "Cuba sufre una desconexión parcial del sistema eléctrico en la zona oriental del país",
-    "link": "https://www.infobae.com/america/agencias/2026/10/10/cuba-sufre-una-desconexion-parcial-del-sistema-electrico-en-la-zona-oriental-del-pais/"
+    "text": "Junior vs. Inter Bogotá - en vivo Liga BetPlay: siga el minuto a minuto en el estadio Romelio Martínez",
+    "link": "https://www.infobae.com/colombia/deportes/2026/10/10/junior-de-barranquilla-vs-inter-bogota-en-vivo-liga-betplay-siga-el-minuto-a-minuto-en-el-estadio-romelio-martinez/"
   },
   {
     "date": "2026-10-10",
-    "image": "https://www.infobae.com/resizer/v2/YOLPPPIOHFBVBB2KNMRMBFMIIM.png?auth=b272bd2bdb67aea6fe5abd34f6454c2d205a668a9706c3f1cd1a4f9ef0e09d5d&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/NYHOVBSHLBEXZGFSPJWYU2KNDE.png?auth=7dad0b9766a3ed6855fe5c80a41e3c3cfb1d85960b2f4d94576065164c00a06c&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Chontico Día resultados de hoy sábado 10 de octubre, esta fue la jugada ganadora",
-    "link": "https://www.infobae.com/colombia/2026/10/10/chontico-dia-resultados-de-hoy-sabado-10-de-octubre-esta-fue-la-jugada-ganadora/"
+    "text": "Keiko Fujimori respalda a César Astudillo tras la gresca con el senador Iber Maraví durante debate de facultades: “Los perros ladran”",
+    "link": "https://www.infobae.com/peru/2026/10/10/keiko-fujimori-respalda-a-cesar-astudillo-tras-la-gresca-con-el-senador-iber-maravi-durante-debate-de-facultades-los-perros-ladran/"
   },
   {
     "date": "2026-10-10",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/USZQ6IWGNVBOJCUCPJX5A3XP3Y.jpg?auth=6580dbac514640ad28415f820e34fc4cb180c9d107f823860832f3ec8059b3ec&smart=true&width=3264&height=1836",
     "category": null,
-    "text": "Nicolas Pepe es baja ante el Real Madrid tras ser sometido a una cirugía ocular",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/10/nicolas-pepe-es-baja-ante-el-real-madrid-tras-ser-sometido-a-una-cirugia-ocular/"
+    "text": "América de Cali vs. Medellín: hora y canal de televisión para ver el clásico de rojos por la Liga BetPlay",
+    "link": "https://www.infobae.com/colombia/deportes/2026/10/10/america-de-cali-vs-medellin-hora-y-canal-de-television-para-ver-el-clasico-de-rojos-por-la-liga-betplay/"
   },
   {
     "date": "2026-10-10",
-    "image": "https://www.infobae.com/resizer/v2/XONALP4LNNHOBHFDKU6JEIYRDM.png?auth=304079ca323304f380777ee0a59f76f0e2bbac47ac179c485ed897bacf65bfdc&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/BIBA3OUPCFGBRN4UHLO7QEGYUE.jpg?auth=599e3da358b8d3c355a331f08933403a2e63f8cfd9d162bbaa44844c7827fbeb&smart=true&width=1201&height=629",
     "category": null,
-    "text": "La receta de tacos al pastor que combina el sabor mexicano con un toque peruano",
-    "link": "https://www.infobae.com/mexico/2026/10/10/la-receta-de-tacos-al-pastor-que-combina-el-sabor-mexicano-con-un-toque-peruano/"
+    "text": "Universitario vs Melgar EN VIVO HOY: minuto a minuto del partido clave por Torneo Clausura de Liga 1 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/10/10/universitario-vs-melgar-en-vivo-hoy-minuto-a-minuto-partido-torneo-clausura-liga-1-2026-goles-resumen-resultado/"
   },
   {
     "date": "2026-10-10",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/RNHC7D27TVDNLJQWDAYPL2P4I4.jpg?auth=c17180856ed3fe17b0572ab69ded772aef6d50d696990732c88a200e3d3f06c4&smart=true&width=2048&height=1380",
     "category": null,
-    "text": "3-0. El Inter sentencia al Parma en media hora pese a reservar a Lautaro",
-    "link": "https://www.infobae.com/america/agencias/2026/10/10/3-0-el-inter-sentencia-al-parma-en-media-hora-pese-a-reservar-a-lautaro/"
+    "text": "Temblor hoy en México 10 de octubre de 2026: se registra sismo de magnitud 4.2 en Tabasco",
+    "link": "https://www.infobae.com/mexico/2026/10/10/temblor-hoy-en-mexico-noticias-actividad-sismica-10-de-octubre-de-2026/"
   },
   {
     "date": "2026-10-10",
-    "image": "https://www.infobae.com/resizer/v2/EF4NEGUNYFEZXALYDQQQNXRSA4.jpg?auth=754a87801e8ab087cb4258888ce4c4cd045ff3d336c0ca768b0a6578d3a618fc&smart=true&width=1400&height=932",
+    "image": "https://www.infobae.com/resizer/v2/5TQHL6VSHRHZTOU7U3XWYJMDKE.jpg?auth=54a1084c0422a970c2905ffc35241590a592ddd9e523eee1d266b65da63fd504&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Habrá proyección gratis de película del mundo del Señor de los Anillos en CDMX este fin de semana: dónde y a qué hora será",
-    "link": "https://www.infobae.com/mexico/2026/10/10/habra-proyeccion-gratis-de-pelicula-del-mundo-del-senor-de-los-anillos-en-cdmx-este-fin-de-semana-donde-y-a-que-hora-sera/"
+    "text": "Conocida pollería imprime boleta con mensaje con connotación sexual a un grupo de chicas: “No era para usted”",
+    "link": "https://www.infobae.com/peru/2026/10/10/conocida-polleria-imprime-boleta-con-mensaje-con-connotacion-sexual-a-un-grupo-de-chicas-el-mensaje-no-era-para-usted/"
   },
   {
     "date": "2026-10-10",
-    "image": "https://www.infobae.com/resizer/v2/ICO7AM2MB5BWLBRY7KNOTWMLSE.JPG?auth=1cfdf3dc0792f8a620784640701d232f1aed2635fe8fee0ae650436cfa8079e2&smart=true&width=6500&height=4336",
+    "image": "https://www.infobae.com/resizer/v2/NRA53GJXQ5AWFE5FP4C46YONXA.png?auth=83f2f101fdce0a953efc453b05242217e29fca49e77140a51fc9a8ef986a6cf6&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Antonio Sanguino cuestionó a la ministra de Trabajo quién negó una supuesta reducción del salario mínimo para 2027: \" Embustera\"",
-    "link": "https://www.infobae.com/colombia/2026/10/10/antonio-sanguino-cuestiono-a-la-ministra-de-trabajo-quien-nego-una-supuesta-reduccion-del-salario-minimo-para-2027-embustera/"
+    "text": "Atlas vs Chivas, EN VIVO: cuándo y dónde ver el Clásico Tapatío del Apertura 2026",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/10/atlas-vs-chivas-en-vivo-cuando-y-donde-ver-el-clasico-tapatio-del-apertura-2026/"
   },
   {
     "date": "2026-10-10",
@@ -246,73 +267,73 @@
   },
   {
     "date": "2026-10-10",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acac189e9ff713289171d88.jpg",
     "category": null,
-    "text": "Judoca ruso Inal Tasóyev se hace tricampeón del mundo (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/631867-judoca-ruso-inal-tasoyev-tricampeon?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Musk: \"Zelenski ha ido demasiado lejos\"",
+    "link": "https://actualidad-rt.com/actualidad/631902-musk-zelenski-ido-demasiado-lejos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
     "image": null,
     "category": null,
-    "text": "Suspenden operaciones del aeropuerto de Riad tras un ataque",
-    "link": "https://actualidad-rt.com/actualidad/631874-regulador-saudi-suspender-operaciones-aeropuerto-riad?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Lula elimina los impuestos federales a la gasolina durante 30 días antes de la segunda vuelta",
+    "link": "https://actualidad-rt.com/actualidad/631896-lula-elimina-impuestos-federales-gasolina?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca6590e9ff713e313210b4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acab1ef59bf5b01bf5050cf.jpg",
     "category": null,
-    "text": "\"¡Ningún disparo más contra los rusos!\": Marcha por la paz y anti-Gobierno de Merz atraviesa Berlín (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/631864-marcha-paz-gobierno-merz-berlin?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump a sus simpatizantes: \"Podría decir las cosas más estúpidas y ustedes aplaudirían\" (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/631897-trump-simpatizantes-podria-decir-cosas-estupidas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca32d859bf5b0ac027de4d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acabc36e9ff715edb7b24f0.jpg",
     "category": null,
-    "text": "¿Qué dice el Vaticano sobre el fusilamiento sin precedentes que se emitirá en vivo en EE.UU.?",
-    "link": "https://actualidad-rt.com/actualidad/631840-vaticano-pronunciar-fusilamiento-precedentes-emitir?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad",
+    "link": "https://actualidad-rt.com/actualidad/631901-heridos-ataque-misil-aeropuerto-riad?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca54ade9ff7149ea35e764.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acaa4a959bf5b22162408e4.jpg",
     "category": null,
-    "text": "\"Arrastrarlos a la carnicería\": ¿cómo Rusia combate el reclutamiento de mercenarios para Kiev?",
-    "link": "https://actualidad-rt.com/actualidad/631855-carniceria-rusia-reclutamiento-mercenarios-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump responde a si EE.UU. se sumará a los ataques saudíes contra los hutíes en Yemen",
+    "link": "https://actualidad-rt.com/actualidad/631892-trump-responde-eeuu-sumara-ataques-saudies-huties?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca6f7d59bf5b6c78644f43.jpg",
+    "image": null,
     "category": null,
-    "text": "Trump sobre ganadora del Nobel de la Paz: Todo lo que sabemos de ella es que es muy anti-Israel",
-    "link": "https://actualidad-rt.com/actualidad/631873-trump-ganadora-nobel-paz-israel?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump: Firmaremos una ley que prohíba a cualquier presidente abrir las fronteras a \"migrantes ilegales\"",
+    "link": "https://actualidad-rt.com/actualidad/631900-trump-ley-prohiba-presidente-abrir-fronteras?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca7309e9ff716cad67802c.jpg",
+    "image": null,
     "category": null,
-    "text": "Trump: Sugiero que Ucrania tenga un nuevo líder que sea capaz de llegar a un acuerdo",
-    "link": "https://actualidad-rt.com/actualidad/631872-trump-sugiero-ucrania-tenga-lider?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Flávio Bolsonaro promete que su padre le pondrá la banda presidencial si gana las elecciones",
+    "link": "https://actualidad-rt.com/actualidad/631890-flavio-bolsonaro-prometer-padre-pondra-banda-presidencial?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca73e8e9ff7132e610a0e2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acaa65de9ff7155c62db575.jpg",
     "category": null,
-    "text": "Trump: Zelenski podría haber puesto fin a esta guerra muchas veces y optó por no hacerlo",
-    "link": "https://actualidad-rt.com/actualidad/631869-trump-zelenski-podria-haber-puesto-fin-guerra?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump se mofa de Irán: \"Alabado sea Alá\" (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/631893-trump-mofa-iran-alabado-ala?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca6d4c59bf5b6cd665a64a.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ac98ee259bf5b138516b2ef.jpg",
     "category": null,
-    "text": "Trump critica a Zelenski: \"Quiere causar problemas para el mundo\"",
-    "link": "https://actualidad-rt.com/actualidad/631870-trump-critica-zelenski-quiere-causar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El Pentágono actualiza discretamente las cifras de bajas en su guerra contra Irán",
+    "link": "https://actualidad-rt.com/actualidad/631782-pentagono-actualizar-discretamente-cifras-bajas-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6aca543de9ff7149ea35e761.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acaad15e9ff713cb50e6b4a.jpg",
     "category": null,
-    "text": "Revelan la reacción de Kiev al acuerdo de Trump y Putin",
-    "link": "https://actualidad-rt.com/actualidad/631852-revelan-reaccion-kiev-acuerdo-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump: \"Vamos a cerrar un nuevo acuerdo con México\"",
+    "link": "https://actualidad-rt.com/actualidad/631895-trump-vamos-firmar-nuevo-acuerdo-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-10",
@@ -397,26 +418,5 @@
     "category": null,
     "text": "Últimas noticias | 10 octubre 2026 - Mañana",
     "link": "https://es.euronews.com/video/2026/10/10/ultimas-noticias-10-octubre-2026-manana"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "EE.UU. impone fuertes sanciones a la Corte Penal Internacional horas después de que una de sus exjuezas ganara el Nobel de la Paz",
-    "link": "https://www.bbc.com/mundo/articles/cq3981jym2rvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos",
-    "link": "https://www.bbc.com/mundo/articles/cr86zqyy4eg3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-09",
-    "image": null,
-    "category": null,
-    "text": "Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial",
-    "link": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss"
   }
 ]

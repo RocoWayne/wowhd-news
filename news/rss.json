@@ -1,6 +1,55 @@
 [
   {
     "date": "2026-10-11",
+    "image": "https://s.france24.com/media/display/6baf6522-c5c7-11f1-b283-3774aeac812a/w:1024/p:16x9/4bbb3c7501a876dd30244f346b06c6d9122077b3w.jpg",
+    "category": "América Latina",
+    "text": "¿Por qué el diario Expreso dejó de circular en papel en Ecuador después de 53 años?",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261011-por-qu%C3%A9-el-diario-expreso-dej%C3%B3-de-circular-en-papel-en-ecuador-despu%C3%A9s-de-53-a%C3%B1os"
+  },
+  {
+    "date": "2026-10-11",
+    "image": null,
+    "category": null,
+    "text": "Crecen las críticas a Trump por su acuerdo para comprar diésel ruso: senadores advierten que podría violar la ley",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261011-crecen-las-cr%C3%ADticas-a-trump-por-su-acuerdo-para-comprar-di%C3%A9sel-ruso-senadores-advierten-que-podr%C3%ADa-violar-la-ley"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://s.france24.com/media/display/b2ef101c-c5af-11f1-aa57-29a2e29ae696/w:1024/p:16x9/AP26282444160007.jpg",
+    "category": "Europa",
+    "text": "Primer ministro Andy Burnham asegura que Rusia estuvo detrás del Brexit y pide a Europa estar alerta",
+    "link": "https://www.france24.com/es/europa/20261011-primer-ministro-andy-burnham-asegura-que-rusia-estuvo-detr%C3%A1s-del-brexit-y-pide-a-europa-estar-alerta"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://s.france24.com/media/display/cca2e794-c5b0-11f1-bfd7-53993c5f1f18/w:1024/p:16x9/ES-20261011-131258-131454-CS.jpg",
+    "category": null,
+    "text": "El huracán Simón se acerca con fuerza a México: lluvias y deslizamientos en Acapulco",
+    "link": "https://www.france24.com/es/video/20261011-el-hurac%C3%A1n-sim%C3%B3n-se-acerca-con-fuerza-a-m%C3%A9xico-acapulco-sufre-los-primeros-estragos"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://s.france24.com/media/display/4b4bfb5c-c5ad-11f1-9034-e362370cce2e/w:1024/p:16x9/ES-20261011-140812-141215-CS.jpg",
+    "category": null,
+    "text": "¿Qué implica el nódulo pulmonar detectado al papa León XIV y qué riesgos hay en su operación?",
+    "link": "https://www.france24.com/es/video/20261011-qu%C3%A9-implica-el-n%C3%B3dulo-pulmonar-detectado-al-papa-le%C3%B3n-xiv-y-qu%C3%A9-riesgos-hay-en-su-operaci%C3%B3n"
+  },
+  {
+    "date": "2026-10-11",
+    "image": null,
+    "category": null,
+    "text": "Al menos 139 muertos y 84 desaparecidos por el naufragio de un barco frente a las costas de Yibuti",
+    "link": "https://www.france24.com/es/%C3%A1frica/20261011-al-menos-139-muertos-y-84-desaparecidos-por-el-naufragio-de-un-barco-frente-a-las-costas-de-yibuti"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://s.france24.com/media/display/0f97a012-c5a7-11f1-9ae1-e362370cce2e/w:1024/p:16x9/ES-20261011-123847-124038-CS.jpg",
+    "category": null,
+    "text": "Liberan a los tres líderes del movimiento de las \"cucarachas\" en India tras casi un día detenidos",
+    "link": "https://www.france24.com/es/video/20261011-liberan-a-los-tres-l%C3%ADderes-del-movimiento-de-las-cucarachas-en-india-tras-casi-un-d%C3%ADa-detenidos"
+  },
+  {
+    "date": "2026-10-11",
     "image": null,
     "category": null,
     "text": "Raphaël Glucksmann gana las primarias socialdemócratas en Francia con el 66 % de los votos",
@@ -12,55 +61,6 @@
     "category": null,
     "text": "Ucranianos cierran filas con Zelenski tras el pedido de Trump de un nuevo presidente",
     "link": "https://www.france24.com/es/video/20261011-ucranianos-cierran-filas-con-zelenski-tras-el-pedido-de-trump-de-un-nuevo-presidente"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://s.france24.com/media/display/f9db48ae-c593-11f1-a6f9-e362370cce2e/w:1024/p:16x9/ES-20261011-100407-101058-CS.jpg",
-    "category": null,
-    "text": "¿Qué tan sostenible es el \"alto el fuego energético\" entre Rusia y Ucrania anunciado por Trump?",
-    "link": "https://www.france24.com/es/video/20261011-qu%C3%A9-tan-sostenible-es-el-alto-el-fuego-energ%C3%A9tico-entre-rusia-y-ucrania-anunciado-por-trump"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "🔴 En directo: los hutíes reivindican ataque contra aeropuerto de Riad mientras se registran nuevas explosiones",
-    "link": "https://www.france24.com/es/medio-oriente/20261011-en-directo-tras-el-ataque-en-riad-los-hut%C3%ADes-vuelven-a-amenazar-con-atacar-los-aeropuertos-sauditas"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://s.france24.com/media/display/96b168b8-c579-11f1-bd92-53993c5f1f18/w:1024/p:16x9/ES-20261011-073831-074025-CS.jpg",
-    "category": null,
-    "text": "Elecciones Brasil: Flávio promete liberar a su padre; Lula alerta del regreso de la familia al poder",
-    "link": "https://www.france24.com/es/video/20261011-elecciones-brasil-fl%C3%A1vio-promete-liberar-a-su-padre-lula-alerta-del-regreso-de-la-familia-al-poder"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://s.france24.com/media/display/99072b72-c577-11f1-a050-3774aeac812a/w:1024/p:16x9/ES-20261011-073232-073413-CS.jpg",
-    "category": null,
-    "text": "Un misil golpeó el aeropuerto de Riad el sábado y dejó al menos 12 muertos",
-    "link": "https://www.france24.com/es/video/20261011-un-misil-hut%C3%AD-golpea-el-aeropuerto-de-riad-y-deja-al-menos-12-muertos"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Trump anuncia un \"cese al fuego energético inmediato\" entre Rusia y Ucrania",
-    "link": "https://www.france24.com/es/europa/20261011-trump-anuncia-un-cese-al-fuego-energ%C3%A9tico-inmediato-entre-rusia-y-ucrania"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://s.france24.com/media/display/d80c366e-c536-11f1-8938-29a2e29ae696/w:1024/p:16x9/000-D22W7VJ.jpg",
-    "category": "Asia-Pacífico",
-    "text": "India: liberan a los líderes de las \"cucarachas\" y convocan nuevas manifestaciones",
-    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261011-india-liberan-a-los-l%C3%ADderes-de-las-cucarachas-y-convocan-nuevas-manifestaciones"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "El papa León XIV será operado de un nódulo pulmonar \"en los próximos días\"",
-    "link": "https://www.france24.com/es/europa/20261011-el-papa-le%C3%B3n-xiv-ser%C3%A1-operado-de-un-n%C3%B3dulo-pulmonar-en-los-pr%C3%B3ximos-d%C3%ADas"
   },
   {
     "date": "2026-10-11",
@@ -94,99 +94,106 @@
     "date": "2026-10-11",
     "image": null,
     "category": null,
-    "text": "Al menos 13 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, que fue golpeado de nuevo el domingo",
+    "text": "Cómo la antigua diosa griega Afrodita se convirtió en un símbolo controvertido del amor y el sexo",
+    "link": "https://www.bbc.com/mundo/articles/cmd93xpykj1qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-11",
+    "image": null,
+    "category": null,
+    "text": "Dos ataques contra el aeropuerto internacional de Riad el fin de semana dejan al menos 14 muertos y más de 300 heridos",
     "link": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-11",
     "image": null,
     "category": null,
-    "text": "La costa del Pacífico de México se prepara para la llegada del poderoso huracán Simon",
+    "text": "La costa del Pacífico de México se enfrenta a los efectos del poderoso huracán Simon",
     "link": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/ZD4MGCGFDRHMHPSQQ3D5BGAPLQ.jpg?auth=31fb718cb6fb2b3f8acc2a8963a0963bef9bc4c94f4c088c948eb1c4dfe52b07&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/D2XFQDH5MFCAPNDMU2DXYDQTPU.jpeg?auth=9d4477976f101cd771a6fe59d003c157df51e5acda64df7bba88e2c550c6bda1&smart=true&width=1593&height=1063",
     "category": null,
-    "text": "Vox empieza la precampaña electoral desde Estepona y Abascal anuncia que pasará el 12 de octubre en “nuestro territorio invadido, en Ceuta, que es España desde hace siglos”",
-    "link": "https://www.infobae.com/espana/2026/10/11/vox-empieza-la-precampana-electoral-desde-estepona-y-abascal-anuncia-que-pasara-el-12-de-octubre-en-nuestro-territorio-invadido-en-ceuta-que-es-espana-desde-hace-siglos/"
+    "text": "Hallaron en Las Toninas el cuerpo de uno de los dos kayakistas desaparecidos hace 20 días",
+    "link": "https://www.infobae.com/sociedad/2026/10/11/hallaron-en-las-toninas-el-cuerpo-de-uno-de-los-dos-kayakistas-desaparecidos-hace-20-dias/"
   },
   {
     "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/NZTMGODDBRDN5I2BZRX5PE6TL4.jpg?auth=5354bff02212986c4e4dbdc745b98a18d3205ff65b598783a895a1a9b1d38cd3&smart=true&width=1488&height=863",
+    "image": "https://www.infobae.com/resizer/v2/4VOITJAZE5D33LB32YFAJU2A4U.jpg?auth=203845eadff4e96f7a6befb3a7582837d3cd4629d5fb29a025eb274905e80a25&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "América de Cali vs. Independiente Medellín - en vivo HOY: siga aquí el partido donde los ‘Diablos Rojos’ pueden clasificar a las finales",
+    "text": "El Andariego sufrió un accidente de tránsito cuando viajaba a un concierto en Antioquia: esto se sabe",
+    "link": "https://www.infobae.com/colombia/2026/10/11/el-andariego-sufrio-un-accidente-de-transito-cuando-viajaba-a-un-concierto-en-antioquia-esto-se-sabe/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/7DTDI6IUOJFQFIU54NBXIXCKSU.jpeg?auth=79e43b35fdf8ceeb0b7bbdceba4327f7a5e0d68d6e3108fc043e66a0d6cf34ba&smart=true&width=1280&height=720",
+    "category": null,
+    "text": "Honduras mantiene alerta amarilla  verde en otras regiones por lluvias",
+    "link": "https://www.infobae.com/honduras/2026/10/11/honduras-mantiene-alerta-amarilla-verde-en-otras-regiones-por-lluvias/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/A444GWVAEBFCLOC66BYZMB2JQQ.jpg?auth=1cef5223f3f56cd45e55ac70a72059ac779b4526674ef5320444ba5d3bb141a6&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Sobreajuste, anemia de inversión, lagunas financieras: Cavallo consideró “excelente” un informe con duras críticas al plan económico",
+    "link": "https://www.infobae.com/economia/2026/10/11/excelente-sobreajuste-anemia-de-inversion-lagunas-financieras-y-otras-criticas-al-plan-economico-en-un-informe-que-elogio-cavallo/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/BGPTUXYO4JGBXOJJOIYOOWJ2HY.png?auth=8f87f41c3cb51af5f3129d07dd32b318bfa37e5b1a4f92a3c5c4966f7b37e05a&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Perú vs Argentina EN VIVO HOY: punto a punto del partido por final del Campeonato Sudamericano Sub 19 de Vóley 2026",
+    "link": "https://www.infobae.com/peru/deportes/2026/10/11/peru-vs-argentina-en-vivo-hoy-punto-a-punto-final-campeonato-sudamericano-sub-19-voley-2026-resumen-resultado-campeon/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/MM7H2YVSCFEDHE446PVTODN4RA.jpg?auth=20bb89087561d51f0b729ef6e6a56aa24462fa5c8a6a122fc2824bd55b96d049&smart=true&width=280&height=305",
+    "category": null,
+    "text": "Accidente en la vía Villavicencio - Puerto López deja un muerto y al menos 12 heridos: hay niños involucrados en el siniestro",
+    "link": "https://www.infobae.com/colombia/2026/10/11/accidente-en-la-via-villavicencio-puerto-lopez-deja-un-muerto-y-al-menos-12-heridos-hay-ninos-involucrados-en-el-siniestro/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/YQIH5ONOP5F3ZL27GQ5OKHERUA.jpg?auth=6a9b59f5ff25cc2544622a4a257197815c549989882b3840ab72c1706e731978&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Qué lesión tiene Gilberto Mora: Loco Abreu explica cuál es la situación del delantero de Xolos",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/11/que-lesion-tiene-gilberto-mora-loco-abreu-explica-cual-es-la-situacion-del-delantero-de-xolos/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/JGDUJGKBZVG6ZNCMSSKP6IG3WY.jpg?auth=3077dc479afa542c5ce4a286d174d04d31b41f10a1d91ed69130afbe70695a17&smart=true&width=4032&height=3024",
+    "category": null,
+    "text": "Conciertos de BTS en Lima provocaron 35 toneladas de residuos y activó un operativo con más de mil agentes",
+    "link": "https://www.infobae.com/peru/2026/10/11/conciertos-de-bts-en-lima-provocaron-35-toneladas-de-residuos-y-activo-un-operativo-con-mas-de-mil-agentes/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/D6ZF2AKXOBF2VPM4JX4NJ2PV6I.JPG?auth=4cb7416c677011418baa7b79c483f97153237b2fcd608cbc090cabf89ae22354&smart=true&width=5424&height=3616",
+    "category": null,
+    "text": "Francia, Reino Unido y Canadá respaldaron la iniciativa de Trump de un alto el fuego energético entre Rusia y Ucrania",
+    "link": "https://www.infobae.com/america/mundo/2026/10/11/francia-reino-unido-y-canada-respaldaron-la-iniciativa-de-trump-de-un-alto-el-fuego-energetico-entre-rusia-y-ucrania/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/L6S5OAOT3FEX7F2PCLLJCMFNY4.jpg?auth=997571e50d49cdd2f657b0178e482fa32dac873e399a61cdcd6129f7e0963085&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Minería ilegal en Chocó habría financiado campañas políticas con oro en 2026: Gobierno alerta por próximas elecciones regionales",
+    "link": "https://www.infobae.com/colombia/2026/10/11/mineria-ilegal-en-choco-habria-financiado-campanas-politicas-con-oro-en-2026-gobierno-alerta-por-proximas-elecciones-regionales/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": null,
+    "category": null,
+    "text": "Miles de mexicanos marchan contra el aborto y piden mayor apoyo a mujeres embarazadas",
+    "link": "https://www.infobae.com/america/agencias/2026/10/11/miles-de-mexicanos-marchan-contra-el-aborto-y-piden-mayor-apoyo-a-mujeres-embarazadas/"
+  },
+  {
+    "date": "2026-10-11",
+    "image": "https://www.infobae.com/resizer/v2/YNLCEPD7UFG6XD7QW6ZXJ4QD4E.jpg?auth=ebcd3d05c9dc6c923da60fa982d5a42544381b4a79155c8f58f140850a468c49&smart=true&width=2367&height=1578",
+    "category": null,
+    "text": "América vs. Medellín - en vivo HOY: falta poco para el partido donde los ‘Diablos Rojos’ pueden clasificar a las finales",
     "link": "https://www.infobae.com/colombia/deportes/2026/10/11/america-de-cali-vs-independiente-medellin-en-vivo-hoy-siga-aqui-el-partido-de-la-fecha-14-de-la-liga-betplay-en-el-estadio-pascual-guerrero/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/JKSHPA24QBB7TJ5SAP5SXBPHH4.jpg?auth=b9a28e0606a59074004cda0944d27f8619f3e71349449ca10c9d4b0eb834d30d&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Un soldado del Ejército murió en ataque con drones explosivos en el sur del Cauca: ELN sería el responsable",
-    "link": "https://www.infobae.com/colombia/2026/10/11/un-soldado-del-ejercito-murio-en-ataque-con-drones-explosivos-en-el-sur-del-cauca-eln-seria-el-responsable/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/GQAGXA4H3RBZ5P3UC4FKHXF6GY.jpg?auth=5a9b6a4c5c063ab5a18b7246f488529f9c07871eb12ff2a38e0c9bea3c97dcd8&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Zelensky denunció que Rusia atacó una planta energética ucraniana después de que Trump anunciara un cese al fuego",
-    "link": "https://www.infobae.com/america/mundo/2026/10/11/zelensky-denuncio-que-rusia-ataco-una-planta-energetica-ucraniana-despues-de-que-trump-anunciara-un-cese-al-fuego/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/QJ75XC56XFACHC3OYNZHNCATMY.jpg?auth=b8fbd0a06db11784363eaa2e189b729dff9baf033194429667c0aaec3c56a1b2&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Sporting Cristal vs UTC EN VIVO HOY: minuto a minuto del partido por Torneo Clausura de Liga 1 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/10/11/sporting-cristal-vs-utc-en-vivo-hoy-minuto-a-minuto-partido-cajamarca-fecha-11-torneo-clausura-liga-1-2026-goles-resumen-resultado/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/UHCVG4IZVVA6TNQ4WE75UC2YQE.png?auth=9643e4e53bae604f9293f27c99e1c13d070f473327dcd1fa7d8241e36cf8174c&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Lee Krasner: la artista que vivió a la sombra de Pollock y trabajó en su granero tras su muerte, al fin tiene su muestra en el Met",
-    "link": "https://www.infobae.com/cultura/2026/10/11/lee-krasner-la-artista-que-vivio-a-la-sombra-de-pollock-y-trabajo-en-su-granero-tras-su-muerte-al-fin-tiene-su-muestra-en-el-met/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/G3FFUBKBZFFM5JWQMVAOTBAVWU.JPG?auth=6980a8c24ce8f3cc1b0d7bc889fda956c599c629670ea6cd8a22e87c059303e1&smart=true&width=2926&height=1646",
-    "category": null,
-    "text": "San Lorenzo recibe a Deportivo Riestra por la fecha 12 del Torneo Clausura: la agenda completa del domingo",
-    "link": "https://www.infobae.com/deportes/2026/10/11/con-la-presentacion-de-san-lorenzo-se-abrira-la-jornada-de-domingo-por-la-fecha-12-del-torneo-clausura-la-agenda-completa/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/YQAGOS5U55E77EK7SCWCVPZQQU.jpeg?auth=188c8e6caf6d637f07006dc269da7dbf65b4273cd9636f90da714f3bf4b4efa1&smart=true&width=640&height=360",
-    "category": null,
-    "text": "Yuridia en Chiapas: qué pasó en su concierto y por qué dijo que estaba “muy peda”",
-    "link": "https://www.infobae.com/mexico/2026/10/11/yuridia-en-chiapas-que-paso-en-su-concierto-y-por-que-dijo-que-estaba-muy-peda/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Los acampados en Sol, entre la resistencia y la desescalada",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/11/los-acampados-en-sol-entre-la-resistencia-y-la-desescalada/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Milei expresa su deseo de que León XIV tenga una \"pronta\" recuperación",
-    "link": "https://www.infobae.com/america/agencias/2026/10/11/milei-expresa-su-deseo-de-que-leon-xiv-tenga-una-pronta-recuperacion/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://www.infobae.com/resizer/v2/GE4EY62UA5DRNBOW7CLOZ6K3KA.jpg?auth=2ca64fcd6b7271216e600d82aca5c37767aeaf8d03a2aeb7e20d2ce9aed7873f&smart=true&width=1920&height=1278",
-    "category": null,
-    "text": "Burnham asegura que \"hubo interferencia rusa\" en el referéndum del Brexit",
-    "link": "https://www.infobae.com/america/agencias/2026/10/11/burnham-asegura-que-hubo-interferencia-rusa-en-el-referendum-del-brexit/"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "México pide a sus ciudadanos en Arabia Saudí evitar aeropuertos ante escalada de violencia",
-    "link": "https://www.infobae.com/america/agencias/2026/10/11/mexico-pide-a-sus-ciudadanos-en-arabia-saudi-evitar-aeropuertos-ante-escalada-de-violencia/"
   },
   {
     "date": "2026-10-11",
@@ -246,73 +253,80 @@
   },
   {
     "date": "2026-10-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbd0eb59bf5b735a5f4de8.jpg",
+    "image": null,
     "category": null,
-    "text": "CGRI anuncia nueva explosión de supertanquero infractor en Ormuz y lanza una advertencia (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/631996-segundo-petrolero-cgri-advertencia-sistemas-navegacion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán advierte a Occidente sobre \"la batalla final\"",
+    "link": "https://actualidad-rt.com/actualidad/632020-iran-advierte-occidente-batalla-final?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbcd0f59bf5b459849077a.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc0228e9ff7103c7201da4.jpg",
     "category": null,
-    "text": "VIDEOS: Lula llega corriendo y muestra vigor en su último acto de campaña",
-    "link": "https://actualidad-rt.com/actualidad/631999-videos-lula-correr-ultimo-evento-campana?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Casi incalculables\": Irán lanza advertencia sobre los activos tecnológicos en Oriente Medio",
+    "link": "https://actualidad-rt.com/actualidad/632017-iran-advertir-activos-tecnologicos-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
     "image": null,
     "category": null,
-    "text": "Drones rusos impactan un centro logístico y un carguero utilizados por los militares ucranianos",
-    "link": "https://actualidad-rt.com/actualidad/631995-drones-impactar-centro-carguero-militares?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El crudo Brent supera los 105 dólares por barril en medio de conflicto en Oriente Medio",
+    "link": "https://actualidad-rt.com/actualidad/632029-crudo-brent-superar-105-dolares?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbc30159bf5b4522711f6c.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc134d59bf5b74c6446c29.jpg",
     "category": null,
-    "text": "VIDEO: Niña iraní manipula un fusil Kaláshnikov como si fuera un cubo Rubik",
-    "link": "https://actualidad-rt.com/viral/631991-video-nina-irani-manipular-fusil-kalashnikov?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un muerto y 11 heridos en un nuevo ataque contra el aeropuerto de la capital saudita",
+    "link": "https://actualidad-rt.com/actualidad/632025-muerto-heridos-nuevo-ataque-aeropuerto-riad?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
     "image": null,
     "category": null,
-    "text": "Trump celebra el Día de Colón: \"Las estatuas vuelven más magníficas que nunca\"",
-    "link": "https://actualidad-rt.com/actualidad/631989-trump-estadounidenses-italianos-dia-colon?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Bruselas al rescate: la UE promete más dinero a Kiev para armas",
+    "link": "https://actualidad-rt.com/actualidad/632008-bruselas-rescate-ue-drones-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbcb8959bf5b521f2b83dc.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbfb9759bf5b7f6956dffb.png",
     "category": null,
-    "text": "Zajárova responde a Zelenski sobre las elecciones: \"El régimen de Kiev arrastra a la gente al abismo del paganismo\"",
-    "link": "https://actualidad-rt.com/actualidad/631990-zajarova-zelenski-elecciones-regimen-kiev-abismo-paganismo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Petrolero en llamas tras impactar contra una mina iraní",
+    "link": "https://actualidad-rt.com/actualidad/632016-petrolero-llamas-impactar-mina-irani?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbcb57e9ff7157f06454c1.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbf65ae9ff716069436db5.jpg",
     "category": null,
-    "text": "Zelenski, cuyo mandato 'caducó' hace 2 años: Es la gente la que debe escoger a su líder",
-    "link": "https://actualidad-rt.com/actualidad/631985-zelenski-mandato-anos-gente-lider?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Enviado de Putin pide acabar con la \"picadora de corrupción\" de Zelenski",
+    "link": "https://actualidad-rt.com/actualidad/632004-enviado-kremlin-pide-acabar-picadora?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbbc0c59bf5b4699260dc9.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbf86b59bf5b4522711f8c.png",
     "category": null,
-    "text": "De la Espriella interrumpe su discurso tras desmayo de un hombre (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/631982-espriella-interrumpir-discurso-desmayo-hombre?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEOS FUERTES: Momento en que un ataque hutí impacta el aeropuerto internacional de Riad",
+    "link": "https://actualidad-rt.com/actualidad/632014-momento-ataque-huti-impacta-aeropuerto-riad?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbbc86e9ff71568c521b85.jpg",
+    "image": null,
     "category": null,
-    "text": "Atrapado por una cámara: cae hombre acusado de asesinar a su pareja",
-    "link": "https://actualidad-rt.com/actualidad/631975-atrapado-camara-caer-senalado-asesinar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Dos empleados de Pemex heridos en un ataque armado en una refinería en México",
+    "link": "https://actualidad-rt.com/actualidad/632011-dos-heridos-ataque-refineria-pemex-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-11",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbba51e9ff7103ce5b2e8e.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acbfcade9ff7157454dd657.jpg",
     "category": null,
-    "text": "\"Escalada por escalada\": Hutíes revelan detalles de ataques contra Arabia Saudita y prometen intensificarlos",
-    "link": "https://actualidad-rt.com/actualidad/631988-escalada-escalada-huties-revelan-detalles-ataques-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Inadecauda\": Irán comenta la respuesta de EE.UU. a sus condiciones de diálogo",
+    "link": "https://actualidad-rt.com/actualidad/632015-inadecauda-iran-comenta-respuesta-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-11",
+    "image": null,
+    "category": null,
+    "text": "Al menos 139 migrantes muertos y 84 desaparecidos tras un naufragio frente a las costas de Yibuti",
+    "link": "https://es.euronews.com/2026/10/11/al-menos-139-migrantes-muertos-y-84-desaparecidos-yibuti"
   },
   {
     "date": "2026-10-11",
@@ -388,13 +402,6 @@
     "date": "2026-10-10",
     "image": null,
     "category": null,
-    "text": "Christa Pike sale del hospital y regresa a prisión 10 días después de sobrevivir a su fallida ejecución",
-    "link": "https://www.bbc.com/mundo/articles/cmp3gw02q56do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-10",
-    "image": null,
-    "category": null,
     "text": "Hiroo Kanamori, el científico japonés que creó la escala que reemplazó a la de Richter (y por qué es mejor para medir terremotos de gran magnitud)",
     "link": "https://www.bbc.com/mundo/articles/c6dj4ne2p0njo?at_medium=RSS&at_campaign=rss"
   },
@@ -402,21 +409,14 @@
     "date": "2026-10-10",
     "image": null,
     "category": null,
+    "text": "Christa Pike sale del hospital y regresa a prisión 10 días después de sobrevivir a su fallida ejecución",
+    "link": "https://www.bbc.com/mundo/articles/cmp3gw02q56do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-10",
+    "image": null,
+    "category": null,
     "text": "Quién es James Chambers, el millonario \"comunista\" detenido en España a petición de EE.UU.",
     "link": "https://www.bbc.com/mundo/articles/cwzrzr40ky1ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-10",
-    "image": null,
-    "category": null,
-    "text": "Panamá declara el estado de emergencia tras un fuerte terremoto de magnitud 7,7 que deja cientos de edificaciones destruidas o dañadas",
-    "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-10",
-    "image": null,
-    "category": null,
-    "text": "Muere un hombre tras ser atacado por un tigre en un parque zoológico de Inglaterra",
-    "link": "https://www.bbc.com/mundo/articles/c8vgx9x4r9nko?at_medium=RSS&at_campaign=rss"
   }
 ]

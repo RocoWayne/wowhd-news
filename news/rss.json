@@ -1,6 +1,48 @@
 [
   {
     "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/51bdcc86-5b72-11f1-ad4e-005056a97e36/w:1024/p:16x9/IA-Dieu1.png",
+    "category": "En Primera Plana",
+    "text": "¿Están justificadas las alarmas de una IA descontrolada?",
+    "link": "https://www.france24.com/es/programas/en-primera-plana/20261012-est%C3%A1n-justificadas-las-alarmas-de-una-ia-descontrolada"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/dd06a708-c5f9-11f1-960a-3774aeac812a/w:1024/p:16x9/AP26284505371633.jpg",
+    "category": "Europa",
+    "text": "Un ataque ruso contra Naftogaz desafía el anuncio de Trump sobre \"un alto el fuego energético\" en Ucrania",
+    "link": "https://www.france24.com/es/europa/20261012-un-ataque-ruso-contra-naftogaz-desaf%C3%ADa-el-anuncio-de-trump-sobre-un-alto-el-fuego-energ%C3%A9tico-en-ucrania"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/862718ce-c3fa-11f1-a7d2-3774aeac812a/w:1024/p:16x9/IVS-DESINFO-PORTADA-WEB-00623-5.png",
+    "category": "Des-informando",
+    "text": "¿Lula dijo que dará un golpe de Estado si gana Bolsonaro en las elecciones de Brasil?",
+    "link": "https://www.france24.com/es/programas/des-informando/20261012-lula-dijo-que-dar%C3%A1-un-golpe-de-estado-si-gana-bolsonaro-en-las-elecciones-de-brasil"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/1a1d2648-c641-11f1-b0d8-29a2e29ae696/w:1024/p:16x9/000-D2YX79E.jpg",
+    "category": "Medio Oriente",
+    "text": "En directo: Arabia Saudita extiende suspensión de operaciones en aeropuerto de Riad tras mortales ataques hutíes",
+    "link": "https://www.france24.com/es/medio-oriente/20261012-en-directo-arabia-saudita-extiende-suspensi%C3%B3n-de-operaciones-en-aeropuerto-de-riad-tras-mortales-ataques-hut%C3%ADes"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/a2f7c8b6-c622-11f1-bac3-3774aeac812a/w:1024/p:16x9/Nobel-Eco.jpg",
+    "category": "Economía",
+    "text": "Robert E. Hall y Michael Woodford ganan el Nobel de Economía por sus aportes a la estabilización económica",
+    "link": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261012-robert-e-hall-y-michael-woodford-ganan-el-nobel-de-econom%C3%ADa-por-sus-aportes-a-la-estabilizaci%C3%B3n-econ%C3%B3mica"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/8db2b926-c635-11f1-82d9-e362370cce2e/w:1024/p:16x9/2026-10-12T113135Z-1360955452-RC2N1OAYTTQ1-RTRMADP-3-UKRAINE-CRISIS-POLAND-SECURITY-FORUM.jpg",
+    "category": "Europa",
+    "text": "En directo I Un ataque ruso sería “totalmente inútil”: OTAN; Rusia ataca Ucrania tras \"alto el fuego energético\" anunciado por Trump",
+    "link": "https://www.france24.com/es/europa/20261012-en-directo-comandante-de-la-otan-advierte-que-un-ataque-ruso-en-territorio-de-la-alianza-ser%C3%ADa-totalmente-in%C3%BAtil"
+  },
+  {
+    "date": "2026-10-12",
     "image": "https://s.france24.com/media/display/e90dcb9c-c5e2-11f1-a0cc-77317c09f325/w:1024/p:16x9/2026-10-12T021327Z-880833918-RC2D1OAGE251-RTRMADP-3-NORTHKOREA-MISSILES.jpg",
     "category": "Asia-Pacífico",
     "text": "Escala la tensión en la península coreana: Pyongyang lanza varios misiles balísticos",
@@ -45,8 +87,36 @@
     "date": "2026-10-12",
     "image": null,
     "category": null,
-    "text": "Arrecia el asedio de Netanyahu contra ‘Naza’: fuentes del documental serán investigadas y procesadas",
-    "link": "https://www.france24.com/es/medio-oriente/20261012-arrecia-el-asedio-de-netanyahu-contra-naza-fuentes-del-documental-ser%C3%A1n-investigadas-y-procesadas"
+    "text": "\"Si tienen tanta tecnología, por qué nos atacaron\": los pescadores ecuatorianos que fueron bombardeados en una operación por la que se señala a la CIA",
+    "link": "https://www.bbc.com/mundo/articles/cvp8g7enyl2wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "\"Un salvavidas financiero para Rusia mientras mata civiles en Ucrania\": las críticas contra Trump por su plan de importar diésel ruso",
+    "link": "https://www.bbc.com/mundo/articles/cw98z4vm9mg4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Cómo es Yandex, el \"Google de Rusia\" que se ha convertido en blanco de ataques de Ucrania",
+    "link": "https://www.bbc.com/mundo/articles/c670pwl08kgeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Dos estadounidenses ganan el Nobel de Economía por su innovador modelo que ayuda a gobiernos y bancos centrales de todo el mundo a estabilizar la economía",
+    "link": "https://www.bbc.com/mundo/articles/cr78pegge239o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Qué es la \"depresión sonriente\" y cómo puedes identificarla",
+    "link": "https://www.bbc.com/mundo/articles/cmwyvd29kgkyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-12",
@@ -57,185 +127,234 @@
   },
   {
     "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/Z2LCZAHC2VDM7IKCD324OYCH7Y.png?auth=d4d6954bba898fe3732ad0da53268c75832f0b4712e037f690cda704880d0513&smart=true&width=1408&height=768",
-    "category": null,
-    "text": "Sérum o aceite para el cabello: cuál elegir según tu tipo de pelo y cómo aplicarlo",
-    "link": "https://www.infobae.com/tendencias/2026/10/12/serum-o-aceite-para-el-cabello-cual-elegir-segun-tu-tipo-de-pelo-y-como-aplicarlo/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/V36RS6TYK5D3LM5H6XKUSGZNVE.jpg?auth=f915a39c2b6a1a3f4524a8ebc0247e9a0e68d07d856f17f6206efc69c6baec26&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Artritis reumatoidea y remisión: cuándo el alivio de los síntomas no es suficiente",
-    "link": "https://www.infobae.com/salud/ciencia/2026/10/12/artritis-reumatoidea-y-remision-cuando-el-alivio-de-los-sintomas-no-es-suficiente/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/HMSMIZHT5VD3LNHAPQBQ5E43D4.png?auth=b0299ed3ae1c3c7594cb856317549625c4902b9384e7d0fddc9f3ce18080b51a&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Qué hacer cuando un estudio de cáncer de mama llega al celular y dispara falsas alarmas: “Falta una curación científica”",
-    "link": "https://www.infobae.com/salud/ciencia/2026/10/12/que-hacer-cuando-un-estudio-de-cancer-de-mama-llega-al-celular-y-dispara-falsas-alarmas-falta-una-curacion-cientifica/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/SOO2URZQXNHCBMD3VFVIIVUUJI.jpg?auth=1e6c466da47289f0d51511176e1d2edb60e7c1ea132a64377f11b3b30454ce95&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Carito Müller, antes de su debut en Dale Match con Marcelo Tinelli: “Esto va a ser muy grande”",
-    "link": "https://www.infobae.com/teleshow/2026/10/12/carito-muller-antes-de-su-debut-en-dalematch-con-marcelo-tinelli-esto-va-a-ser-muy-grande/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/N22ZR7NN5FGDLFFYQC6D6UT2SA.png?auth=0a282b1a130d6a9cd7b32a7998925a655f266495a6d6ec36248a5c61f9c0f8a9&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Adolescentes en riesgo: alertan por la difusión de imágenes íntimas y relatos de violencia sexual en plataformas web",
-    "link": "https://www.infobae.com/salud/2026/10/12/adolescentes-en-riesgo-alertan-por-plataformas-web-que-exponen-imagenes-intimas-y-relatos-de-violencia-sexual/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/JY3RCNJVTJHZ5PRQGUOVIAORUU.JPG?auth=6cb21aedcb5aff9123a59aa75eb3b525c932e7793b6b9b3a195947daa731ebb2&smart=true&width=3088&height=2316",
-    "category": null,
-    "text": "“Fue más asombroso de lo esperado\": las nuevas revelaciones de los astronautas de Artemis II sobre su viaje alrededor de la Luna",
-    "link": "https://www.infobae.com/america/ciencia-america/2026/10/12/fue-mas-asombroso-de-lo-esperado-las-nuevas-revelaciones-de-los-astronautas-de-artemis-ii-sobre-su-viaje-alrededor-de-la-luna/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/WVXDC3FI7FEPHAZ2JVBTI3SAOA.png?auth=55596661eb11c54920d37026f9f909ce70d28a7850eef67220c92007f4c506b9&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Alerta por sarampión en las Américas: piden reforzar la vacunación ante la amenaza de nuevos brotes",
-    "link": "https://www.infobae.com/salud/2026/10/12/alerta-por-sarampion-en-las-americas-piden-reforzar-la-vacunacion-ante-la-amenaza-de-nuevos-brotes/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/CKJWSWU5D5AOREV2PL5SBSHVSQ.JPG?auth=502afe0d6cfacd7e6db7ff1cf175751e980ee26900fd335b65f0801378dee002&smart=true&width=4124&height=2750",
-    "category": null,
-    "text": "El régimen chino sancionó a dos funcionarios de Paraguay y Belice por respaldar los vínculos diplomáticos con Taiwán",
-    "link": "https://www.infobae.com/america/mundo/2026/10/12/el-regimen-chino-sanciono-a-dos-funcionarios-de-paraguay-y-belice-por-respaldar-los-vinculos-diplomaticos-con-taiwan/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/MPOXFBK6GRESVJYCQKFWBIBUJA.jpg?auth=82e07e3a50ec85de1063214c5a5efcd12f0f8027c8525600da8e3e8a2e0bfbde&smart=true&width=1600&height=1057",
-    "category": null,
-    "text": "Desfile del 12 de octubre, en directo: última hora de la celebración de la Fiesta Nacional en Madrid",
-    "link": "https://www.infobae.com/espana/2026/10/12/desfile-del-12-de-octubre-en-directo-ultima-hora-de-la-celebracion-de-la-fiesta-nacional-en-madrid/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/CAKTGA5SZ5HZHLLMSIFOMVBU5I.jpg?auth=435b9c9a125d7dc69250139464d783dc99e7020907f29712e48081c45adc7629&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Eduin Caz regala 1 millón de pesos a Ese Pérez tras perder LCDLF: “El verdadero ganador”",
-    "link": "https://www.infobae.com/mexico/2026/10/12/eduin-caz-regala-1-millon-de-pesos-a-ese-perez-tras-perder-lcdlf-el-verdadero-ganador/"
-  },
-  {
-    "date": "2026-10-12",
     "image": null,
     "category": null,
-    "text": "Los reyes presiden el desfile de la Fiesta Nacional en el que marcharán 4.400 militares",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/12/los-reyes-presiden-el-desfile-de-la-fiesta-nacional-en-el-que-marcharan-4400-militares/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/RY2GCE6IXFEGFJ3A7BPUQ2ADS4.jpg?auth=b4b69a0dc93ceb4e49880d9e37d8fe27997b81906d4d4367278994286b9d35eb&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Las autoridades de Japón y Corea del Sur alertan del lanzamiento de misiles balísticos norcoreanos",
-    "link": "https://www.infobae.com/america/agencias/2026/10/12/las-autoridades-de-japon-y-corea-del-sur-alertan-del-lanzamiento-de-misiles-balisticos-norcoreanos/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc3da7e9ff7177190a500e.png",
-    "category": null,
-    "text": "'Tu mejor amigo, tu peor pesadilla': crecen los destrozos y 'meteduras de pata' en casa de las mascotas",
-    "link": "https://actualidad-rt.com/actualidad/632049-inundaciones-destrozos-facturas-dejar-mascotas?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "Niño de 4 años muere tras ser atacado por un pitbull en Argentina",
-    "link": "https://actualidad-rt.com/actualidad/632055-nino-muere-atacado-perro-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc5095e9ff7157f0645516.png",
-    "category": null,
-    "text": "El Kremlin comenta la sugerencia de Trump sobre un cambio de líder en Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/632054-kremlin-sugerencia-trump-cambio-lider-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc462859bf5b4bc83bcb95.jpg",
-    "category": null,
-    "text": "\"Cada día más aislado\": Irán se burla con un mural de la soledad de Netanyahu en la ONU (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/632052-dia-aislado-iran-burla-aislamiento-netanyahu-onu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc388559bf5b4bf67b8755.jpg",
-    "category": null,
-    "text": "El proyecto que impulsa Argentina con ayuda de EE.UU. sobre su 'tesoro energético'",
-    "link": "https://actualidad-rt.com/actualidad/632037-proyecto-impulsa-argentina-ayuda-eeuu-tesoro-energetico?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc4a7de9ff71568c521bf4.png",
-    "category": null,
-    "text": "La tecnología china sobre ruedas que nunca deja de sorprender (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/632050-video-tiendas-autonomas-ruedas-sorprenden?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc3548e9ff7157f0645509.png",
-    "category": null,
-    "text": "\"No estamos haciendo lo suficiente\": el sombrío pronóstico de Bill Gates sobre la IA",
-    "link": "https://actualidad-rt.com/actualidad/632047-sombrio-pronostico-bill-gates-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc2cc259bf5b7f6956e00f.jpg",
-    "category": null,
-    "text": "El 'pupitre volador' de los pilotos militares rusos avanza en su conquista de los cielos",
-    "link": "https://actualidad-rt.com/actualidad/632039-pupitre-volador-pilotos-militares-rusos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acc23b059bf5b735a5f4e0e.jpg",
-    "category": null,
-    "text": "El dilema ante los golpes hutíes que paraliza a Washington",
-    "link": "https://actualidad-rt.com/actualidad/632035-dilema-huties-sacude-washington?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "El Kremlin comenta el llamado de Trump a cambiar al líder de Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/632048-kremlin-comenta-llamado-trump-cambiar?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://s.france24.com/media/display/fbef1824-c51f-11f1-ad95-29a2e29ae696/w:1024/p:16x9/AP24296558359074.jpg",
-    "category": "Aquí América",
-    "text": "¿Castigo latino a Trump en las 'midterms'?",
-    "link": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261011-castigo-latino-a-trump-en-las-midterms"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://s.france24.com/media/display/6b021120-c19d-11f1-9085-b942c38e4bd7/w:1024/p:16x9/WEB-PORTADA-MIG-06OCT.png",
-    "category": null,
-    "text": "¿Castigo latino a Trump en las 'midterms'?",
-    "link": "https://www.france24.com/es/video/20261011-castigo-latino-a-trump-en-las-midterms"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "¿Por qué el diario Expreso dejó de circular en papel en Ecuador después de 53 años?",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261011-por-qu%C3%A9-el-diario-expreso-dej%C3%B3-de-circular-en-papel-en-ecuador-despu%C3%A9s-de-53-a%C3%B1os"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Trump anuncia un alto el fuego energético inmediato entre Rusia y Ucrania",
+    "text": "Trump anuncia un alto el fuego energético inmediato entre Rusia y Ucrania pero los ataques continúan",
     "link": "https://www.bbc.com/mundo/articles/c6y43v0m3xv3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://www.infobae.com/resizer/v2/KPV37N7UTJC5LMYBKQBTXBOMFE.png?auth=49863656555ff728b09b823aa6a3d99ade49f65e99b86713f5cbc18344ce02a2&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Conciertos de Edén Muñoz en La México: fecha, horario, invitados y su contundente advertencia tras el caso Ramón Ayala",
+    "link": "https://www.infobae.com/mexico/2026/10/12/conciertos-de-eden-munoz-en-la-mexico-fecha-horario-invitados-y-su-contundente-advertencia-tras-el-caso-ramon-ayala/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://www.infobae.com/resizer/v2/6CJPCQ7SAFFTVP2QKMPGEJI3LM.JPG?auth=1ded985a2e4f82e6377fb0202a238da5facc9c0114058ccc8b8882bc45202f24&smart=true&width=7087&height=4721",
+    "category": null,
+    "text": "Diocesis de Chiclayo anuncia misa por la salud del papa: mañana será hospitalizado para su cirugía",
+    "link": "https://www.infobae.com/peru/2026/10/12/diocesis-de-chiclayo-anuncia-misa-por-la-salud-del-papa-manana-sera-hospitalizado-para-su-cirugia/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://www.infobae.com/resizer/v2/6V6NG76VCNGUFHC7KHZKUPVHCY.jpeg?auth=320ee72fdc500b0cedb830bf49ae8a5d8bde1467bb328cb621dca680c2400e93&smart=true&width=1600&height=1200",
+    "category": null,
+    "text": "Unas 305 réplicas se registraron en Panamá durante las primeras 56 horas del terremoto de 7.5 grados que el viernes azotó al país",
+    "link": "https://www.infobae.com/panama/2026/10/12/unas-305-replicas-se-registraron-en-panama-durante-las-primeras-56-horas-del-terremoto-de-75-grados-que-el-viernes-azoto-al-pais/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://www.infobae.com/resizer/v2/X2RGUC2U5FHBLE7VVWND6AD4DM.jpg?auth=26e049c2a97ee75d1439167f51f2b4e0f2647753500832f08b8ae11a3e5b9b0a&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy lunes 12 de octubre: Pablo Lemus debe explicar el uso de agua y gas lacrimógeno en protesta de ayer, afirma la mandataria",
+    "link": "https://www.infobae.com/mexico/2026/10/12/la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-lunes-12-de-octubre/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Vox cree que el Supremo ha hecho justicia en la ley de nietos para unas elecciones limpias",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/12/vox-cree-que-el-supremo-ha-hecho-justicia-en-la-ley-de-nietos-para-unas-elecciones-limpias/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Este martes, tiempo estable con lluvias débiles en Baleares, Canarias y el Cantábrico",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/12/este-martes-tiempo-estable-con-lluvias-debiles-en-baleares-canarias-y-el-cantabrico/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://www.infobae.com/resizer/v2/AN5V2MS7GNE4RMV3EK4427LHHU.png?auth=318357237529dd956326ab19b4dba5d69db39306653c09ae6423ab76978acb48&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Keiko Fujimori confirma el regreso de las expulsiones en los colegios: “Los más malcriados no van a estar en las aulas”",
+    "link": "https://www.infobae.com/peru/2026/10/12/keiko-fujimori-confirma-el-regreso-de-las-expulsiones-en-los-colegios-los-mas-malcriados-no-van-a-estar-en-las-aulas/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Madise asume la Presidencia de Estonia y apela a la participación ciudadana",
+    "link": "https://www.infobae.com/america/agencias/2026/10/12/madise-asume-la-presidencia-de-estonia-y-apela-a-la-participacion-ciudadana/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Reform UK suspendería el sistema de asilo británico durante cinco años si llega al poder",
+    "link": "https://www.infobae.com/america/agencias/2026/10/12/reform-uk-suspenderia-el-sistema-de-asilo-britanico-durante-cinco-anos-si-llega-al-poder/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "El Supremo de Brasil relaja su cerco al bolsonarismo en plena campaña electoral",
+    "link": "https://www.infobae.com/america/agencias/2026/10/12/el-supremo-de-brasil-relaja-su-cerco-al-bolsonarismo-en-plena-campana-electoral/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Atentado con carro bomba deja tres heridos y obliga a cerrar vía Panamericana en Colombia",
+    "link": "https://www.infobae.com/america/agencias/2026/10/12/atentado-con-carro-bomba-deja-tres-heridos-y-obliga-a-cerrar-via-panamericana-en-colombia/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://www.infobae.com/resizer/v2/EWX3QCZHLJH2DGVJCQDSZ5TF7M.jpg?auth=f825a1d8dba479e3215aef5800ecb4eec250429cae0636129a15b173b487e1a4&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Beca Rita Cetina: quiénes reciben su pago mañana martes 13 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/12/beca-rita-cetina-quienes-reciben-su-pago-manana-martes-13-de-octubre/"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://imagenes.elpais.com/resizer/v2/EKRLY357GVMP7FELXHSWVD33OE.jpg?auth=b584e75878b04811554e1af56743cd1574300b0953ca51bad6e4cf6ca7c63767",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Ucrania evita dar por rota la tregua energética pero acusa a Rusia de vulnerarla con ataques contra su infraestructura",
+    "link": "https://elpais.com/internacional/2026-10-12/ucrania-no-da-por-rota-la-tregua-energetica-pero-acusa-a-rusia-de-romperla-con-ataques-contra-su-infraestructura.html"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://imagenes.elpais.com/resizer/v2/BYAX2HIEABKVVMXNTP6DCOQNEU.jpg?auth=4b3fe56ad80066a1151c99e35a79796cbf1fe8d9597426a9ed6e2a9a97881292",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Europa eleva la presión sobre Rusia mientras arrecian las amenazas de Trump contra Ucrania",
+    "link": "https://elpais.com/internacional/2026-10-12/europa-eleva-la-presion-sobre-rusia-mientras-arrecian-las-amenazas-de-trump-contra-ucrania.html"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://imagenes.elpais.com/resizer/v2/773NK4J6ONMQJBMDUHZPSBGZBY.jpg?auth=a6546b7997214e445bd7d48c3ffd902cb4b7c01f64a151cc3b11f1bcf7a1be38",
+    "category": "Elecciones EE UU",
+    "text": "Trump: a la defensiva en las encuestas, desatado en los mítines",
+    "link": "https://elpais.com/us/2026-10-12/trump-a-la-defensiva-en-las-encuestas-desatado-en-los-mitines.html"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://imagenes.elpais.com/resizer/v2/6EO3P5DMZRDYFFAGY3TF7QDIEU.jpg?auth=bbdfc5ae31a3a67511caf4e0b95ddcb3a0892eb8b6e36925e550ff2daf8b620d",
+    "category": "Benjamin Netanyahu",
+    "text": "Netanyahu ordena identificar y juzgar a los 24 militares que dan testimonio anónimo en el documental ‘NAZA’",
+    "link": "https://elpais.com/internacional/2026-10-12/netanyahu-ordena-identificar-y-juzgar-a-los-24-militares-que-dan-testimonio-anonimo-en-el-documental-naza.html"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://imagenes.elpais.com/resizer/v2/EMHZZXNHXNBORFSDGT6HSKVYDU.jpg?auth=4412b32608bbc2f5d548ecfc55ca82ca7ad401b4056bcbb73d1708104e055d6d",
+    "category": "Papa León XIV",
+    "text": "El Papa será ingresado el martes para la extirpación de un nódulo pulmonar",
+    "link": "https://elpais.com/internacional/2026-10-12/el-papa-sera-ingresado-el-martes-para-la-operacion-de-extirpacion-de-un-nodulo-pulmonar.html"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://imagenes.elpais.com/resizer/v2/73PQLKS6LRLOZBYPT73IPJPMMY.jpg?auth=8cd350c653de6ad04dac2ad0b7d4e3922faddb7da893de32f28f1f3a0ec80021",
+    "category": "Riada Nepal 2026",
+    "text": "Una nueva riada agrava la crisis de Nepal tras la catástrofe de agosto",
+    "link": "https://elpais.com/internacional/2026-10-12/una-nueva-riada-agrava-la-crisis-de-nepal-tras-la-catastrofe-de-agosto.html"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://imagenes.elpais.com/resizer/v2/7H7AP4CBD5G3RAIWGB5NML74IY.jpg?auth=9cc3d046767774e8020f9dd82394a89de6251f0a04528c1f51e04d96705a2638",
+    "category": "Estados Unidos",
+    "text": "Cómo California se convirtió en cuna y refugio de los hijos de los narcos más temidos de México",
+    "link": "https://elpais.com/us/2026-10-12/como-california-se-convirtio-en-cuna-y-refugio-de-los-hijos-de-los-narcos-mas-temidos-de-mexico.html"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Un gran incendio nocturno arrasa el mercado cubierto más antiguo de París",
+    "link": "https://es.euronews.com/video/2026/10/12/un-gran-incendio-nocturno-arrasa-el-mercado-cubierto-mas-antiguo-de-paris"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Un vídeo muestra el gran incendio que devasta un mercado gastronómico de 400 años en París",
+    "link": "https://es.euronews.com/2026/10/12/un-video-muestra-el-gran-incendio-que-devasta-un-mercado-gastronomico-de-400-anos-en-paris"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Citroën revive su clásico 2CV con un nuevo prototipo eléctrico",
+    "link": "https://es.euronews.com/2026/10/12/citroen-revive-su-clasico-2cv-con-un-nuevo-prototipo-electrico"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "El cine español brilla en Sitges 2026: premios para Amenábar, Bárbara Rey y Marc Martínez Jordán",
+    "link": "https://es.euronews.com/2026/10/12/sitges-2026-premios-alejandro-amenabar-barbara-rey-marc-martinez-jordan"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "La Policía india blinda Nueva Delhi ante las masivas protestas por sospechas de fraude en el censo electoral",
+    "link": "https://es.euronews.com/2026/10/12/policia-india-blinda-nueva-delhi-ante-masivas-protestas-sospechas-fraude-censo-electoral"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 12 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/12/ultimas-noticias-12-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Una juez prohíbe al Gobierno de Trump emitir anuncios pagados con fondos públicos ante las legislativas",
+    "link": "https://es.euronews.com/2026/10/12/una-jueza-prohibe-al-gobierno-de-trump-emitir-anuncios-pagados-con-fondos-publicos-ante-la"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Cámaras de seguridad captan el impacto en el aeropuerto Rey Khalid de Riad",
+    "link": "https://es.euronews.com/2026/10/12/camaras-de-seguridad-captan-el-impacto-en-el-aeropuerto-rey-khalid-de-riad"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Decenas de miles marchan en Bruselas para exigir una acción climática urgente",
+    "link": "https://es.euronews.com/video/2026/10/12/decenas-de-miles-marchan-en-bruselas-para-exigir-accion-climatica-urgente"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "El huracán Simon cambia de rumbo, pero mantiene en vilo a la costa de México con olas de 9 metros",
+    "link": "https://es.euronews.com/2026/10/12/huracan-simon-cambia-rumbo-amenaza-mexico-olas-9-metros"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Corea del Norte lanza misiles balísticos al mar de Japón en plena tensión con Seúl",
+    "link": "https://es.euronews.com/2026/10/12/corea-del-norte-lanza-misiles-balisticos-tension-corea-del-sur"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "Europe Today: Trump presume de una tregua energética entre Ucrania y Rusia; los Bálticos, en alerta",
+    "link": "https://es.euronews.com/2026/10/12/europe-today-trump-presume-de-una-tregua-energetica-entre-ucrania-y-rusia-balticos-en-aler"
+  },
+  {
+    "date": "2026-10-11",
+    "image": null,
+    "category": null,
+    "text": "Dos ataques contra el aeropuerto internacional de Riad el fin de semana dejan al menos 14 muertos y más de 300 heridos",
+    "link": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-11",
@@ -260,157 +379,10 @@
   },
   {
     "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Cómo la antigua diosa griega Afrodita se convirtió en un símbolo controvertido del amor y el sexo",
-    "link": "https://www.bbc.com/mundo/articles/cmd93xpykj1qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Dos ataques contra el aeropuerto internacional de Riad el fin de semana dejan al menos 14 muertos y más de 300 heridos",
-    "link": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "La costa del Pacífico de México se enfrenta a los efectos del poderoso huracán Simon",
-    "link": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://imagenes.elpais.com/resizer/v2/NAIVZ5H6SNG6XERQUCGWWQMC5U.jpg?auth=d216862bea43b42963e3a258854fcc222816120bbbe762add46180c9785b8efc",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Trump anuncia una tregua energética de carácter “inmediato” entre Rusia y Ucrania",
-    "link": "https://elpais.com/internacional/2026-10-11/zelenski-ofrece-a-putin-una-tregua-energetica-en-plena-escalada-verbal-con-trump.html"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261011/1224229_082918_video_1800.mp4",
-    "category": "Arabia Saudí",
-    "text": "Una docena de muertos y más de 300 heridos en un ataque hutí contra el aeropuerto de Riad, la capital de Arabia Saudí",
-    "link": "https://elpais.com/internacional/2026-10-10/un-ataque-de-los-huties-contra-el-aeropuerto-de-la-capital-de-arabia-saudi-causa-al-menos-12-muertos.html"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://imagenes.elpais.com/resizer/v2/DQ7LB3PO3JBGDHN5VRFT3IQGLQ.jpg?auth=23db0da242a7ac5b85c6e758b37fdbcc195eef5c582809ee599a4de6f8484751",
-    "category": "Israel",
-    "text": "Las familias israelíes buscan descendencia en el esperma extraído de los cadáveres de sus hijos",
-    "link": "https://elpais.com/internacional/2026-10-11/las-familias-israelies-buscan-descendencia-en-el-esperma-extraido-de-los-cadaveres-de-sus-hijos.html"
-  },
-  {
-    "date": "2026-10-11",
     "image": "https://imagenes.elpais.com/resizer/v2/R34ETEPX4NE3VEA654LOM4WK74.jpg?auth=45631c161fb6e7e0f3cfdb4a017d43289bcf9de09105475347045187947d40bb",
     "category": "Franja Gaza",
     "text": "Un cataclismo geopolítico empezó en Gaza hace tres años",
     "link": "https://elpais.com/internacional/2026-10-11/un-cataclismo-geopolitico-empezo-en-gaza-hace-tres-anos.html"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261011/1224254_111056_video_1800.mp4",
-    "category": "Papa León XIV",
-    "text": "El Papa anuncia que tiene un nódulo en un pulmón y va a ser operado",
-    "link": "https://elpais.com/internacional/2026-10-11/el-papa-anuncia-que-tiene-un-nodulo-en-un-pulmon-y-va-a-ser-operado.html"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261011/1224366_230900_video_1800.mp4",
-    "category": "Elecciones Brasil",
-    "text": "Lula saca a la calle una marea roja para emprender la remontada y ganar las elecciones",
-    "link": "https://elpais.com/america/2026-10-11/lula-saca-a-la-calle-una-marea-roja-para-emprender-la-remontada-y-ganar-las-elecciones.html"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://imagenes.elpais.com/resizer/v2/6XABH6CMBFL3PFAE4AXRVJ7YAI.jpg?auth=8b0b51a734ca19126f3ae5f1ed5fd845fab83b5b8bb797505064665baefc0c6b",
-    "category": "Francia",
-    "text": "El eurodiputado Raphaël Glucksmann gana las primarias socialistas en Francia",
-    "link": "https://elpais.com/internacional/2026-10-11/el-eurodiputado-raphael-glucksmann-gana-las-primarias-socialistas-en-francia.html"
-  },
-  {
-    "date": "2026-10-11",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261011/1224229_082918_video_1800.mp4",
-    "category": "Ataque contra Irán",
-    "text": "La oleada de ataques hutíes contra aeropuertos de Arabia Saudí impulsa otra escalada que puede arrastrar a Trump",
-    "link": "https://elpais.com/internacional/2026-10-11/la-oleada-de-ataques-huties-contra-aeropuertos-de-arabia-saudi-impulsa-otra-escalada-que-puede-arrastrar-a-trump.html"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Al menos 139 migrantes muertos y 84 desaparecidos tras un naufragio frente a las costas de Yibuti",
-    "link": "https://es.euronews.com/2026/10/11/al-menos-139-migrantes-muertos-y-84-desaparecidos-yibuti"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Nepal ordena evacuaciones tras corrimiento de tierras que desata riada en el Budhi Gandaki",
-    "link": "https://es.euronews.com/video/2026/10/11/nepal-ordena-evacuaciones-tras-corrimiento-de-tierras-que-desata-riada-en-el-budhi-gandaki"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 11 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/11/ultimas-noticias-11-octubre-2026-tarde"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "El aeropuerto de Riad cierra tras el ataque y Trump ve posible el apoyo de EE.UU. a Arabia Saudí en Yemen",
-    "link": "https://es.euronews.com/2026/10/11/el-aeropuerto-riad-cierra-tras-el-ataque-y-trump-ve-posible-apoyo-de-eeuu-a-arabia-saudi-e"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Dinamarca prueba robots humanoides en supermercados para aliviar la carga nocturna del personal",
-    "link": "https://es.euronews.com/video/2026/10/11/dinamarca-prueba-robots-humanoides-en-supermercados-para-aliviar-la-carga-nocturna-del-per"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Bombardeos en Zaporiyia dejan 17 muertos mientras Rusia recrudece sus ataques en Ucrania",
-    "link": "https://es.euronews.com/video/2026/10/11/bombardeos-en-zaporiyia-dejan-17-muertos-mientras-rusia-recrudece-sus-ataques-en-ucrania"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 11 octubre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/10/11/ultimas-noticias-11-octubre-2026-mediodia"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Cuatro muertos en Florida por el paso del huracán Isaias que continúa con fuertes vientos y lluvias intensas",
-    "link": "https://es.euronews.com/2026/10/11/cuatro-muertos-en-florida-por-el-paso-del-huracan-isaias-que-continua-con-fuertes-vientos-"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Evacuaciones y heridos en el aeropuerto de Riad tras otro presunto ataque hutí",
-    "link": "https://es.euronews.com/2026/10/11/evacuaciones-y-heridos-en-el-aeropuerto-de-riad-tras-otro-presunto-ataque-huti"
-  },
-  {
-    "date": "2026-10-11",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 11 octubre 2026 - Mañana",
-    "link": "https://es.euronews.com/video/2026/10/11/ultimas-noticias-11-octubre-2026-manana"
-  },
-  {
-    "date": "2026-10-10",
-    "image": null,
-    "category": null,
-    "text": "Jonas I, el autoproclamado rey de Suiza que ha creado un polémico \"imperio\" al apropiarse de terrenos sin dueño",
-    "link": "https://www.bbc.com/mundo/articles/cxyvzg95el1mo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-10",
@@ -418,5 +390,33 @@
     "category": null,
     "text": "Hiroo Kanamori, el científico japonés que creó la escala que reemplazó a la de Richter (y por qué es mejor para medir terremotos de gran magnitud)",
     "link": "https://www.bbc.com/mundo/articles/c6dj4ne2p0njo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/FA4PNHYCZRDW5BFMU7A4ZUXY6A.jpg?auth=4e1afa33bb1c49e616329fc46d33bc5dd10923d57912791410fbaf63aa27ae70",
+    "category": "Elecciones Brasil",
+    "text": "La ola conservadora de América Latina llega a Brasil",
+    "link": "https://elpais.com/america/2026-10-05/la-ola-conservadora-de-america-latina-llega-a-brasil.html"
+  },
+  {
+    "date": "2026-10-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/6BBQ3PER4JLVHGTRR4UT7GZGMQ.jpg?auth=9dfe745cbc3798674c2109bb3a02a7e9356ab31819ea0563e77173a200e28893",
+    "category": "Elecciones Brasil",
+    "text": "El lulismo cruje ante la ofensiva ultra",
+    "link": "https://elpais.com/america/2026-10-05/el-lulismo-cruje-ante-la-ofensiva-ultra.html"
+  },
+  {
+    "date": "2026-10-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/EYX7YHRT5NAJ7JZXPTLG6ORM7U.jpg?auth=4ff1c5ba21488ab2e40a0a611dc9d45ee41a80e46fa882927e6597e345ab3407",
+    "category": "América",
+    "text": "El apellido Bolsonaro gana desde la cárcel",
+    "link": "https://elpais.com/america/2026-10-05/el-apellido-bolsonaro-gana-desde-la-carcel.html"
+  },
+  {
+    "date": "2026-10-05",
+    "image": "https://imagenes.elpais.com/resizer/v2/HNSLATLT3VPKFGQSV75B24USIE.jpg?auth=5a9c46d7f07687f70d83d0745de1171a4b211ad1b04205f9c1c4b902a328f418",
+    "category": "América",
+    "text": "Arrasadora victoria de la derecha en Brasil",
+    "link": "https://elpais.com/america/2026-10-05/arrasadora-victoria-de-la-derecha-en-brasil.html"
   }
 ]

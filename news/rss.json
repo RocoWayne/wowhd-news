@@ -1,5 +1,250 @@
 [
   {
+    "date": "2026-10-13",
+    "image": "https://s.france24.com/media/display/f14eb2ea-c686-11f1-83a4-e362370cce2e/w:1024/p:16x9/AP26285775804154.jpg",
+    "category": "África",
+    "text": "El expresidente congoleño Kabila liderará una alianza con los rebeldes del M23",
+    "link": "https://www.france24.com/es/%C3%A1frica/20261013-el-expresidente-congole%C3%B1o-kabila-liderar%C3%A1-una-alianza-con-los-rebeldes-del-m23"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://s.france24.com/media/display/baba2626-ae9d-11f0-a30d-005056a97e36/w:1024/p:16x9/AP25289541118340.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "El acuerdo del diésel de Trump y Putin: ¿qué hay detrás?",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261013-el-acuerdo-del-di%C3%A9sel-de-trump-y-putin-qu%C3%A9-hay-detr%C3%A1s"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://s.france24.com/media/display/3ae51ebe-c69e-11f1-8ce7-29a2e29ae696/w:1024/p:16x9/AP25157102255151.jpg",
+    "category": "Cultura",
+    "text": "Muere RJ Mitte, actor de 'Breaking Bad', a los 34 años",
+    "link": "https://www.france24.com/es/cultura/20261013-muere-rj-mitte-actor-de-breaking-bad-a-los-34-a%C3%B1os"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://s.france24.com/media/display/7545f030-c6a1-11f1-bb69-77317c09f325/w:1024/p:16x9/AP26285614577788.jpg",
+    "category": null,
+    "text": "¿Quién conquista el voto religioso? Lula da Silva y Bolsonaro se disputan el apoyo católico",
+    "link": "https://www.france24.com/es/video/20261013-qui%C3%A9n-conquista-el-voto-religioso-lula-da-silva-y-bolsonaro-se-disputan-el-apoyo-cat%C3%B3lico"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://s.france24.com/media/display/67a4963c-c69e-11f1-994e-29a2e29ae696/w:1024/p:16x9/ES-20261012-180325-180525-CS.jpg",
+    "category": null,
+    "text": "¿Podrá Trump conservar el Congreso? Las midterms ponen a prueba su liderazgo en EE. UU.",
+    "link": "https://www.france24.com/es/video/20261013-podr%C3%A1-trump-conservar-el-congreso-las-midterms-ponen-a-prueba-su-liderazgo-en-ee-uu"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Especial BBC: el desértico campo de batalla donde se libra una guerra con consecuencias globales",
+    "link": "https://www.bbc.com/mundo/articles/cmg471q9wrd4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Muere a los 34 años RJ Mitte, el actor que daba vida al hijo de Walter White en la mítica serie \"Breaking Bad\"",
+    "link": "https://www.bbc.com/mundo/articles/cm4g1r51eex1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://www.infobae.com/resizer/v2/M6AR6NIKPJHNNKMWISRTNI32LQ.jpg?auth=b6afaba4638c5c015c37559803c6dda59a95dbcc940a966dc346b3ac8c961191&smart=true&width=4500&height=3000",
+    "category": null,
+    "text": "Un agujero en las elecciones generales a cuenta del Supremo y la ley de nietos: españoles que votaron en 2023 no podrán hacerlo en 2026",
+    "link": "https://www.infobae.com/espana/2026/10/13/un-agujero-en-las-elecciones-generales-a-cuenta-del-supremo-y-la-ley-de-nietos-espanoles-que-votaron-en-2023-no-podran-hacerlo-en-2026/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Continúan los retrasos en salidas de la alta velocidad Madrid-Barcelona tras el incendio",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/13/continuan-los-retrasos-en-salidas-de-la-alta-velocidad-madrid-barcelona-tras-el-incendio/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://www.infobae.com/resizer/v2/OXZZ2ZR46BG4DBB3KDF4W7I5ZY.jpg?auth=332687ff9cab7813638626be52ee0ba1e53e08f00e99d8b7a7dc582d16790c12&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "La Audiencia Nacional arranca el juicio a Ignacio González por adjudicaciones del campo de golf del Canal de Isabel II",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/13/la-audiencia-nacional-arranca-el-juicio-a-ignacio-gonzalez-por-adjudicaciones-del-campo-de-golf-del-canal-de-isabel-ii/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "FMI: la IA no ha jugado hasta ahora un papel importante en la economía de Latinoamérica",
+    "link": "https://www.infobae.com/america/agencias/2026/10/13/fmi-la-ia-no-ha-jugado-hasta-ahora-un-papel-importante-en-la-economia-de-latinoamerica/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://www.infobae.com/resizer/v2/7W63YBA4FVEADAG25LPIUHUWUE.jpg?auth=48a64caaa8d8007a977cd6d43526f64b9a93315b38bcf148d48c8717c8ab9f16&smart=true&width=1920&height=1278",
+    "category": null,
+    "text": "Se fugan más de 40 personas de un centro de detención en el norte de Colombia",
+    "link": "https://www.infobae.com/america/agencias/2026/10/13/se-fugan-mas-de-40-personas-de-un-centro-de-detencion-en-el-norte-de-colombia/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "La actriz Selma Blair arrestada tras protagonizar un presunto incidente en un vuelo",
+    "link": "https://www.infobae.com/america/agencias/2026/10/13/la-actriz-selma-blair-arrestada-tras-protagonizar-un-presunto-incidente-en-un-vuelo/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://www.infobae.com/resizer/v2/CGCJ62R4MBALFJ3WVYE6PTXQC4.jpg?auth=4cdb3e72011b91b8d1b68121f0e636f6500e5e217f541a06e8e0c16ec7c4e46c&smart=true&width=1920&height=1282",
+    "category": null,
+    "text": "El Plan de Restauración de la Sierra Oeste será a 10 años vista, con especies autóctonas y gestión de montes privados",
+    "link": "https://www.infobae.com/america/agencias/2026/10/13/el-plan-de-restauracion-de-la-sierra-oeste-sera-a-10-anos-vista-con-especies-autoctonas-y-gestion-de-montes-privados/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Trump dice que puede haber ido \"demasiado lejos\" y ya no sabe con quién negociar en Irán",
+    "link": "https://www.infobae.com/america/agencias/2026/10/13/trump-dice-que-puede-haber-ido-demasiado-lejos-y-ya-no-sabe-con-quien-negociar-en-iran/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://www.infobae.com/resizer/v2/3DRFFCYKXJEQRD3TAGJQ6XMGNM.png?auth=4feac38e063b441ea65fd45ef4a85439b6492ee990d79117e6f1aa69e4a6c586&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Gana Diario: resultados del 12 de octubre del último sorteo",
+    "link": "https://www.infobae.com/peru/2026/10/13/gana-diario-resultados-del-12-de-octubre-del-ultimo-sorteo/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://www.infobae.com/resizer/v2/743JQBVUARD4DGIZ3RFWYL5W4M.jpg?auth=4b2f4ecd05c3a1f2c3630cd346c0497da79326ea1bb862ed0014aa773db72cdd&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Interceptada una patera con 19 migrantes de origen magrebí a 19 millas de Formentera",
+    "link": "https://www.infobae.com/america/agencias/2026/10/13/interceptada-una-patera-con-19-migrantes-de-origen-magrebi-a-19-millas-de-formentera/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://www.infobae.com/resizer/v2/LJBWE2KSHNDMFHGMKYSW6VBIWA.jpg?auth=57bd05da2b4e7d0254f5ba14c268ee6941c1d34e279976eb7671874405824e4b&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Fiscalía de Morelos detiene y libera a “El Güero Gym”: lo “canjeó” por 3 agentes retenidos en Totolapan",
+    "link": "https://www.infobae.com/mexico/2026/10/13/fiscalia-de-morelos-detiene-y-libera-a-el-guero-gym-lo-canjeo-por-3-agentes-retenidos-en-totolapan/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://www.infobae.com/resizer/v2/SPAISWKMIJFUDANLLJE3MXKEUM.jpg?auth=1a8532c6de09b571ad1e266aca818cf5a7e0d883be5b9adfc9d250ae623e3c1c&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Detienen en Chiapas a presunto asesino de empresario dueño de Chachitos",
+    "link": "https://www.infobae.com/mexico/2026/10/13/detienen-en-chiapas-a-presunto-asesino-de-empresario-dueno-de-chachitos/"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acdbfa0e9ff712f457f86fc.jpg",
+    "category": null,
+    "text": "Una nueva IA de Google resuelve problemas matemáticos que llevaban décadas sin solución",
+    "link": "https://actualidad-rt.com/actualidad/632217-nueva-ia-google-resuelve-problemas-matematicos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Un tren de pasajeros descarrila en Pakistán y deja muertos y heridos (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/632220-tren-pasajeros-descarrila-pakistan-deja-cuatro-muertos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Le Pen se perfila como ganadora de las elecciones presidenciales francesas, según una encuesta",
+    "link": "https://actualidad-rt.com/actualidad/632215-le-pen-perfila-ganadora-elecciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Moscú repele un masivo ataque de más de 400 drones",
+    "link": "https://actualidad-rt.com/actualidad/632218-moscu-repele-masivo-ataque-400-drones?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acdb25459bf5b5a3d3df1fd.png",
+    "category": null,
+    "text": "VIDEO: Artillería rusa destroza bastiones ucranianos",
+    "link": "https://actualidad-rt.com/actualidad/632216-video-artilleria-rusa-destroza-bastiones-ucranianos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acda3b659bf5b44d1211ae0.jpg",
+    "category": null,
+    "text": "Grupo de expertos simula negociaciones entre países para salvar al mundo y así terminan",
+    "link": "https://actualidad-rt.com/actualidad/632211-expertos-simula-negociaciones-paises-salvar-mundo-termina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acda74459bf5b0fbf60382a.jpg",
+    "category": null,
+    "text": "VIDEO: Mujer se arroja desde un taxi en movimiento para escapar de un asalto",
+    "link": "https://actualidad-rt.com/viral/632213-mujer-arrojarse-taxi-movimiento-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Trump rechaza las acusaciones de que Rusia y China ayuden a Irán",
+    "link": "https://actualidad-rt.com/actualidad/632212-trump-rechaza-acusaciones-rusia-china?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Subastan camiseta de Michael Jordan y se convierte en el artículo más caro de la historia del baloncesto",
+    "link": "https://actualidad-rt.com/actualidad/632209-camiseta-michael-jordan-subastar-articulo-caro-baloncesto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd960ee9ff7134a96d72c4.jpg",
+    "category": null,
+    "text": "Merz rechaza el acuerdo entre EE.UU. y Rusia sobre diésel en plena crisis energética: \"Para Europa es impensable\"",
+    "link": "https://actualidad-rt.com/actualidad/632206-merz-rechaza-acuerdo-diesel-eeuu-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Bélgica: detienen a 9 menores en disturbios cerca de Bruselas-Midi",
+    "link": "https://es.euronews.com/video/2026/10/13/belgica-detienen-a-9-menores-en-disturbios-cerca-de-bruselas-midi"
+  },
+  {
+    "date": "2026-10-13",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 13 octubre 2026 - Mañana",
+    "link": "https://es.euronews.com/video/2026/10/13/ultimas-noticias-13-octubre-2026-manana"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/5311f5d6-c688-11f1-a8cf-29a2e29ae696/w:1024/p:16x9/000-D3247KH.jpg",
+    "category": "Europa",
+    "text": "Ciberataques a supermercados europeos: incendios, comida descompuesta y servicios fuera de línea",
+    "link": "https://www.france24.com/es/europa/20261012-ciberataques-a-supermercados-europeos-incendios-comida-descompuesta-y-servicios-fuera-de-l%C3%ADnea"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/07a40784-c68c-11f1-8f27-3774aeac812a/w:1024/p:16x9/WhatsApp-Image-2026-10-12-at-4-42-57-PM.jpeg",
+    "category": null,
+    "text": "Rusia no confirma el alto el fuego energético con Ucrania anunciado por Trump",
+    "link": "https://www.france24.com/es/video/20261012-rusia-no-confirma-el-alto-el-fuego-energ%C3%A9tico-con-ucrania-anunciado-por-trump-1"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/079d169a-c64b-11f1-b93c-77317c09f325/w:1024/p:16x9/AP26285444534618.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "\"No me silenciarán\": Ilhan Omar denuncia \"intimidación política\" de Trump tras allanamiento a su casa",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261012-no-me-silenciar%C3%A1n-ilhan-omar-denuncia-intimidaci%C3%B3n-pol%C3%ADtica-de-trump-tras-allanamiento-a-su-casa"
+  },
+  {
+    "date": "2026-10-12",
+    "image": "https://s.france24.com/media/display/67cfae58-c68a-11f1-9f96-29a2e29ae696/w:1024/p:16x9/FORMATO-1-51.png",
+    "category": null,
+    "text": "India: miles de manifestantes marchan en Nueva Delhi hacia la Corte Suprema",
+    "link": "https://www.france24.com/es/video/20261012-india-miles-de-manifestantes-marchan-en-nueva-delhi-hacia-la-corte-suprema"
+  },
+  {
     "date": "2026-10-12",
     "image": "https://s.france24.com/media/display/0d54fd78-c67d-11f1-87e3-77317c09f325/w:1024/p:16x9/5e6f47c38f421eaaa83f548e7b56456f0680bd54.jpg",
     "category": "América Latina",
@@ -22,69 +267,6 @@
   },
   {
     "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/115523d0-c67d-11f1-9219-77317c09f325/w:1024/p:16x9/ES-20261012-131518-132729-CS.jpg",
-    "category": null,
-    "text": "¿Cómo llega el Partido Republicano encabezado por Trump a las midterms?",
-    "link": "https://www.france24.com/es/video/20261012-c%C3%B3mo-llega-el-partido-republicano-encabezado-por-trump-a-las-midterms"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/c97166ba-c676-11f1-9e69-3774aeac812a/w:1024/p:16x9/ES-20261012-124716-125206-CS.jpg",
-    "category": null,
-    "text": "Directo a... Londres y la insistencia de Burnham por un acuerdo con la Unión Europea",
-    "link": "https://www.france24.com/es/video/20261012-directo-a-londres-y-la-insistencia-de-burnham-por-un-acuerdo-con-la-uni%C3%B3n-europea"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/bd29cf00-b488-11f1-8c4e-9f514b90f153/w:1024/p:16x9/WEB-IVS-CUL-19SEP-PORTADA-WEB-00899.png",
-    "category": "En Contexto",
-    "text": "El documental 'Naza': ¿por qué Israel arremete contra sus creadores y sus fuentes?",
-    "link": "https://www.france24.com/es/programas/en-contexto/20261012-el-documental-naza-por-qu%C3%A9-israel-arremete-contra-sus-creadores-y-sus-fuentes"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/f84884ca-c660-11f1-a1aa-3774aeac812a/w:1024/p:16x9/ES-20261012-081327-082108-CS.jpg",
-    "category": "Revista de prensa",
-    "text": "\"Las cámaras de video están por todas partes; ahora las piratean para la guerra\": 'The Wall Street Journal'",
-    "link": "https://www.france24.com/es/programas/revista-de-prensa/20261012-las-c%C3%A1maras-de-video-est%C3%A1n-por-todas-partes-ahora-las-piratean-para-la-guerra-the-wall-street-journal"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/e7673cae-c66b-11f1-affc-e362370cce2e/w:1024/p:16x9/000-Was3545141.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Mientras Trump duda, ¿hay vías legales para evitar el primer fusilamiento público en EE. UU. en 90 años?",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261012-mientras-trump-duda-hay-v%C3%ADas-legales-para-evitar-el-primer-fusilamiento-p%C3%BAblico-en-ee-uu-en-90-a%C3%B1os"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/8057bcae-c667-11f1-9935-53993c5f1f18/w:1024/p:16x9/ES-20261012-111121-111314-CS.jpg",
-    "category": null,
-    "text": "Miles de manifestantes marchan en Nueva Delhi hacia la Corte Suprema",
-    "link": "https://www.france24.com/es/video/20261012-miles-de-manifestantes-marchan-en-nueva-delhi-hacia-la-corte-suprema"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/c4b0a93e-c666-11f1-8175-53993c5f1f18/w:1024/p:16x9/ES-20261012-074542-075122-CS.jpg",
-    "category": null,
-    "text": "Directo Latam y las consecuencias para el turismo tras el paso del huracán Simón por México",
-    "link": "https://www.france24.com/es/video/20261012-directo-latam-y-las-consecuencias-para-el-turismo-tras-el-paso-del-hurac%C3%A1n-sim%C3%B3n-por-m%C3%A9xico"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/3fdc0e4e-c664-11f1-beb1-3774aeac812a/w:1024/p:16x9/ES-20261012-072602-073012-CS.jpg",
-    "category": null,
-    "text": "Directo París y los desafíos de Glucksmann tras ganas las primarias socialdemócratas",
-    "link": "https://www.france24.com/es/video/20261012-directo-par%C3%ADs-y-los-desaf%C3%ADos-de-glucksmann-tras-ganas-las-primarias-socialdem%C3%B3cratas"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://s.france24.com/media/display/555fca24-c648-11f1-b4ac-29a2e29ae696/w:1024/p:16x9/000-C9NF78R.jpg",
-    "category": "Europa",
-    "text": "Los reyes de España visitan Ceuta por primera vez: ABC de un viaje altamente sensible",
-    "link": "https://www.france24.com/es/europa/20261012-por-qu%C3%A9-los-reyes-de-espa%C3%B1a-protagonizan-una-visita-altamente-sensible-a-ceuta"
-  },
-  {
-    "date": "2026-10-12",
     "image": null,
     "category": null,
     "text": "Qué pasó con el experimento de Bukele de convertir a El Salvador en el \"país del bitcoin\"",
@@ -94,22 +276,8 @@
     "date": "2026-10-12",
     "image": null,
     "category": null,
-    "text": "\"Si tienen tanta tecnología, ¿por qué nos atacaron?\": los pescadores ecuatorianos bombardeados en una operación por la que se señala a la CIA",
-    "link": "https://www.bbc.com/mundo/articles/cvp8g7enyl2wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "La \"historia olvidada\" de los vikingos que llegaron a América 500 años antes que Colón",
-    "link": "https://www.bbc.com/mundo/articles/c95ynr1886vmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "Muere a los 34 años RJ Mitte, el actor que daba vida al hijo de Walter White en la mítica serie \"Breaking Bad\"",
-    "link": "https://www.bbc.com/mundo/articles/cm4g1r51eex1o?at_medium=RSS&at_campaign=rss"
+    "text": "Un ciberataque contra neveras y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
+    "link": "https://www.bbc.com/mundo/articles/c6wydn1pvznqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-12",
@@ -122,8 +290,15 @@
     "date": "2026-10-12",
     "image": null,
     "category": null,
-    "text": "\"Un salvavidas financiero para Rusia mientras mata civiles en Ucrania\": las críticas contra Trump por su plan de importar diésel ruso",
-    "link": "https://www.bbc.com/mundo/articles/cw98z4vm9mg4o?at_medium=RSS&at_campaign=rss"
+    "text": "La \"historia olvidada\" de los vikingos que llegaron a América 500 años antes que Colón",
+    "link": "https://www.bbc.com/mundo/articles/c95ynr1886vmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-12",
+    "image": null,
+    "category": null,
+    "text": "\"Si tienen tanta tecnología, ¿por qué nos atacaron?\": los pescadores ecuatorianos bombardeados en una operación por la que se señala a la CIA",
+    "link": "https://www.bbc.com/mundo/articles/cvp8g7enyl2wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-12",
@@ -150,99 +325,15 @@
     "date": "2026-10-12",
     "image": null,
     "category": null,
-    "text": "\"Cada día muere gente\": las familias en Gaza que siguen bajo los ataques israelíes pese al alto el fuego, mientras el acuerdo de paz se estanca",
-    "link": "https://www.bbc.com/mundo/articles/c95ynxjmp253o?at_medium=RSS&at_campaign=rss"
+    "text": "\"Un salvavidas financiero para Rusia mientras mata civiles en Ucrania\": las críticas contra Trump por su plan de importar diésel ruso",
+    "link": "https://www.bbc.com/mundo/articles/cw98z4vm9mg4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-12",
     "image": null,
     "category": null,
-    "text": "Cómo es Yandex, el \"Google de Rusia\" que se ha convertido en blanco de ataques de Ucrania",
-    "link": "https://www.bbc.com/mundo/articles/c670pwl08kgeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/4FABYNVZJZGVPAY3HO6YCR4G6M.png?auth=8a98a11d0ba8a0cc17a7d7a8d71d25e8371f72eeb8248888c65e11f5b9aaa241&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy lunes 12 de octubre: Cerrada la circulación de Av. Insurgentes",
-    "link": "https://www.infobae.com/mexico/2026/10/12/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-lunes-12-de-octubre/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/6SYOGC5GORHP7AL6A5M4TWDP2I.jpg?auth=665d7b9919b406052d79637cd10a6f46367ab29ba7c1c579e35e62c5bc69135d&smart=true&width=1980&height=1090",
-    "category": null,
-    "text": "Wanda Nara publicó una foto desnuda para promocionarse en una plataforma para adultos y dividió las opiniones",
-    "link": "https://www.infobae.com/teleshow/2026/10/12/wanda-nara-publico-una-foto-desnuda-para-promocionarse-en-una-plataforma-para-adultos-y-dividio-las-opiniones/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/ABBMGUZ4JVHI7F5WBD2MNVYV6I.png?auth=54db93566b134e1f29b7a0cc262d4d277dcc87c61b16bb93cebc68337da85c46&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Logran ejecutar juegos de Windows y la plataforma de Xbox en PlayStation 5 con ‘jailbreak’",
-    "link": "https://www.infobae.com/tecno/2026/10/12/logran-ejecutar-juegos-de-windows-y-la-plataforma-de-xbox-en-playstation-5-con-jailbreak/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/3RNQYKLFT5EZ5PJ6O6XOPWBX74.JPG?auth=9c62b5df1259d934dc54659d4f5aca20a828aa12b36bdcb97ee204353662d2b1&smart=true&width=5898&height=3927",
-    "category": null,
-    "text": "María Camila Osorio enfrentará a Ann Li en el WTA 1000 de Wuhan: programación y por dónde ver a la tenista colombiana",
-    "link": "https://www.infobae.com/colombia/deportes/2026/10/12/maria-camila-osorio-enfrentara-a-ann-li-en-el-wta-1000-de-wuhan-programacion-y-por-donde-ver-a-la-tenista-colombiana/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/EBG4SK7RDFB5TA4CPYNV7IUNKQ.png?auth=b55a7c86d971eec0787c113e9bc93e5fd25f6d9e7ff6a4a341b742f0308f1b62&smart=true&width=1596&height=1132",
-    "category": null,
-    "text": "Gobierno de Laura Fernández suma dos nuevas bajas: renuncian vicecanciller y viceministro de Economía de Costa Rica",
-    "link": "https://www.infobae.com/costa-rica/2026/10/12/gobierno-de-laura-fernandez-suma-dos-nuevas-bajas-renuncian-vicecanciller-y-viceministro-de-economia-de-costa-rica/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/GUN33REF4JFCFNJYWOWAUGETWM.png?auth=825208c8273268219e6bdac9ac0d9f83e6ce5618435382fa084c438edac24f16&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Pánico en Merlo: un joven de 20 años roció con nafta un auto e intentó prender fuego una estación de servicio",
-    "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/panico-en-merlo-un-joven-de-20-anos-rocio-con-nafta-un-auto-e-intento-prender-fuego-una-estacion-de-servicio/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/FG3MUFNYZZH7BNEFVHOKZSUSBM.jpg?auth=578efe8f9f45860ebbc17721614126ce70e01fac82c594aa37d033fbc6da8455&smart=true&width=3269&height=1839",
-    "category": null,
-    "text": "La representante demócrata Ilhan Omar respondió al allanamiento de su casa: “No me van a silenciar”",
-    "link": "https://www.infobae.com/estados-unidos/2026/10/12/la-representante-democrata-ilhan-omar-respondio-al-allanamiento-de-su-casa-no-me-van-a-silenciar/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/B6QIK5CX3VEKTGIQZBZHKVKTTQ.png?auth=534c45f5e0920c79c47e0bd4c714dd6993faea47faf3f29665050509f1c52117&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Hermano mayor del papa León XIV será operado por cáncer en medio de la preocupación por la salud del pontífice",
-    "link": "https://www.infobae.com/peru/2026/10/12/hermano-mayor-del-papa-leon-xiv-sera-operado-por-cancer-en-medio-de-la-preocupacion-por-la-salud-del-pontifice/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/M4GW2LUZAZBDTKZGF2ZJGP6TGQ.jpg?auth=a2a7a52b298d5d45538daa842233eae769dcbfb9ce5f89f41167e4ad074c981d&smart=true&width=4088&height=2300",
-    "category": null,
-    "text": "Cámara de Comercio e Industria de El Salvador proyecta conectar a más de 70 empresas en más de 300 citas de negocios internacionales",
-    "link": "https://www.infobae.com/el-salvador/2026/10/12/camara-de-comercio-e-industria-de-el-salvador-proyecta-conectar-a-mas-de-70-empresas-en-mas-de-300-citas-de-negocios-internacionales/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/XC7PNIEJCZEJ3NDWM4UU3H76VA.JPG?auth=999e30ef16288854d94e4a77a4cf9981c9f1fed478ef0807a2394244eb2fddcf&smart=true&width=2945&height=1991",
-    "category": null,
-    "text": "Piero Maza dirigirá por tercera vez consecutiva a Boca en la Sudamericana: será el árbitro de la ida ante Vasco da Gama",
-    "link": "https://www.infobae.com/deportes/2026/10/12/piero-maza-dirigira-por-tercera-vez-consecutiva-a-boca-en-la-sudamericana-sera-el-arbitro-de-la-ida-ante-vasco-da-gama/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/4W5FDGI6X5DM5C3V5DI3UEGC7E.jpg?auth=b783a2d6c8096ebf84b78e717fba66dc633bd9beef6e8d0996f44c8c82970e0a&smart=true&width=900&height=601",
-    "category": null,
-    "text": "Las deudas de los hogares colombianos son cada vez mayores e informe confirma que la riqueza del país se concentra en el 10% de la población",
-    "link": "https://www.infobae.com/colombia/2026/10/12/las-deudas-de-los-hogares-colombianos-son-cada-vez-mayores-e-informe-confirma-que-la-riqueza-del-pais-se-concentra-en-el-10-de-la-poblacion/"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://www.infobae.com/resizer/v2/IGS6RJ56VVG7HBC4UQIL2ZQUOI.jpg?auth=b903a736c3cda921b44a8d0bdad6c9eaa84f9d63a13d37c965767d29fd2a1f95&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Ricardo Bettocchi defiende a Miguel Rondelli y arremete contra L1MAX: “¿Es el canal del fútbol peruano o es el canal del fútbol menos FBC Melgar?”",
-    "link": "https://www.infobae.com/peru/deportes/2026/10/12/ricardo-bettocchi-defiende-a-miguel-rondelli-y-arremete-contra-l1max-es-el-canal-del-futbol-peruano-o-es-el-canal-del-futbol-menos-fbc-melgar/"
+    "text": "\"Cada día muere gente\": las familias en Gaza que siguen bajo los ataques israelíes pese al alto el fuego, mientras el acuerdo de paz se estanca",
+    "link": "https://www.bbc.com/mundo/articles/c95ynxjmp253o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-12",
@@ -295,79 +386,9 @@
   },
   {
     "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd43ed59bf5b5a3d3df1c6.jpg",
-    "category": null,
-    "text": "Ministro israelí quiere \"acabar con Gaza\" y sostiene que es \"hogar de 1,8 millones de nazis\"",
-    "link": "https://actualidad-rt.com/actualidad/632173-ministro-israeli-franja-gaza-nazis?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd43d459bf5b3ad10d010c.jpg",
-    "category": null,
-    "text": "Rusia revela la astronómica suma que la UE pagó por sus recursos energéticos",
-    "link": "https://actualidad-rt.com/actualidad/632179-rusia-revela-astronomica-suma-ue-pagar-recursos-energeticos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
     "image": null,
     "category": null,
-    "text": "México y EE.UU. incautan embarcación con una tonelada de cocaína en el Pacífico (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/632189-mexico-eeuu-incautar-tonelada-cocaina-pacifico?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd31be59bf5b654b64fe22.jpg",
-    "category": null,
-    "text": "VIDEO: Oso 'pirata de carretera' paraliza el tráfico en Siberia",
-    "link": "https://actualidad-rt.com/viral/632171-siberia-oso-pirata-paraliza-carretera?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd5b2559bf5b6ed078d9d5.jpg",
-    "category": null,
-    "text": "Trump responde para quién es el acuerdo de diésel con Rusia",
-    "link": "https://actualidad-rt.com/actualidad/632190-trump-responde-quien-acuerdo-diesel-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd5f94e9ff715d6b786df0.jpg",
-    "category": null,
-    "text": "Pionyang prueba un misil balístico táctico",
-    "link": "https://actualidad-rt.com/actualidad/632192-pionyang-probar-misil-balistico-tactico?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "Alto cargo de Palantir revela la inesperada razón por la que los investigadores de IA empiezan a fumar",
-    "link": "https://actualidad-rt.com/actualidad/632160-alto-cargo-palantir-revelar-inesperada-razon-fumar?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd5841e9ff717eda510bd8.jpg",
-    "category": null,
-    "text": "Trump comenta la tregua energética que anunció entre Ucrania y Rusia",
-    "link": "https://actualidad-rt.com/actualidad/632188-trump-comenta-tregua-energetica-anuncio?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd489c59bf5b650b78adbd.jpg",
-    "category": null,
-    "text": "La contundente advertencia de los hutíes a EE.UU. si interviene en el conflicto con Arabia Saudita",
-    "link": "https://actualidad-rt.com/actualidad/632180-advertencia-huties-eeuu-interviene-conflicto-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acd536ee9ff712d450ad6a2.jpg",
-    "category": null,
-    "text": "Trump no descarta una próxima reunión con Kim Jong-un",
-    "link": "https://actualidad-rt.com/actualidad/632187-trump-proxima-reunion-kim-jong-un?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "El huracán Simon deja 1 muerto en México y provoca inundaciones en la costa del Pacífico",
+    "text": "Los ciclones Simon y Rachel dejan 5 muertos e inundaciones en México",
     "link": "https://es.euronews.com/2026/10/12/el-huracan-simon-deja-1-muerto-en-mexico"
   },
   {
@@ -397,26 +418,5 @@
     "category": null,
     "text": "Un gran incendio nocturno arrasa el mercado cubierto más antiguo de París",
     "link": "https://es.euronews.com/video/2026/10/12/un-gran-incendio-nocturno-arrasa-el-mercado-cubierto-mas-antiguo-de-paris"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "Un vídeo muestra el gran incendio que devasta un mercado gastronómico de 400 años en París",
-    "link": "https://es.euronews.com/2026/10/12/un-video-muestra-el-gran-incendio-que-devasta-un-mercado-gastronomico-de-400-anos-en-paris"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "Citroën revive su clásico 2CV con un nuevo prototipo eléctrico",
-    "link": "https://es.euronews.com/2026/10/12/citroen-revive-su-clasico-2cv-con-un-nuevo-prototipo-electrico"
-  },
-  {
-    "date": "2026-10-12",
-    "image": null,
-    "category": null,
-    "text": "El cine español brilla en Sitges 2026: premios para Amenábar, Bárbara Rey y Marc Martínez Jordán",
-    "link": "https://es.euronews.com/2026/10/12/sitges-2026-premios-alejandro-amenabar-barbara-rey-marc-martinez-jordan"
   }
 ]

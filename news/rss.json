@@ -1,6 +1,83 @@
 [
   {
     "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/d6d59c4e-c807-11f1-a293-4dd8ac2cf3bf/w:1024/p:16x9/Starshield.jpg",
+    "category": "Europa",
+    "text": "¿Qué es Starshield, la versión militar de la red satelital de Musk restringida en Ucrania?",
+    "link": "https://www.france24.com/es/europa/20261014-qu%C3%A9-es-starshield-la-versi%C3%B3n-militar-de-la-red-satelital-de-musk-restringida-en-ucrania"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/a7dc726a-c801-11f1-8e4d-4dd8ac2cf3bf/w:1024/p:16x9/FORMATO-1-copia-2.png",
+    "category": null,
+    "text": "Colombia: así avanzan las marchas en rechazo al Gobierno de Abelardo De la Espriella",
+    "link": "https://www.france24.com/es/video/20261014-colombia-as%C3%AD-avanzan-las-marchas-en-rechazo-al-gobierno-de-abelardo-de-la-espriella"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/7c785400-c805-11f1-b774-6313a763b466/w:1024/p:16x9/ES-20261014-131557-132644-CS.jpg",
+    "category": null,
+    "text": "Trump anuncia explotación en Groenlandia: ¿en qué momento cedió la isla?",
+    "link": "https://www.france24.com/es/video/20261014-trump-anuncia-explotaci%C3%B3n-groenlandia-en-qu%C3%A9-momento-cedi%C3%B3-la-isla"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/062015b8-c80f-11f1-aa57-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-14T172725Z-2103245849-RC253OAM1VJO-RTRMADP-3-ALBANIA-PROTEST.jpg",
+    "category": "Europa",
+    "text": "¿Qué está pasando en Albania y por qué se radicalizaron las protestas estudiantiles?",
+    "link": "https://www.france24.com/es/europa/20261014-qu%C3%A9-est%C3%A1-pasando-en-albania-y-por-qu%C3%A9-se-radicalizaron-las-protestas-estudiantiles"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/b280d8a6-c80f-11f1-af8c-6313a763b466/w:1024/p:16x9/ES-20261014-074514-075219-CS.jpg",
+    "category": null,
+    "text": "Directo a... Ciudad de Panamá y el reporte oficial de los daños dejados por el terremoto",
+    "link": "https://www.france24.com/es/video/20261014-directo-a-ciudad-de-panam%C3%A1-y-el-reporte-oficial-de-los-da%C3%B1os-dejados-por-el-terremoto"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/7bf8c420-c804-11f1-a0f9-d1d2c32ebb87/w:1024/p:16x9/ES-20261014-074254-074511-CS.jpg",
+    "category": null,
+    "text": "Colombia, anfitrión de simposio de expertos en búsqueda de desaparecidos",
+    "link": "https://www.france24.com/es/video/20261014-colombia-anfitri%C3%B3n-de-simposio-de-expertos-en-b%C3%BAsqueda-de-desaparecidos"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/ce8cbd40-c7ff-11f1-a983-6313a763b466/w:1024/p:16x9/ES-20261014-074037-074217-CS.jpg",
+    "category": null,
+    "text": "Oposición y oficialismo se miden en protestas en las calles de Venezuela",
+    "link": "https://www.france24.com/es/video/20261014-oposici%C3%B3n-y-oficialismo-se-miden-en-protestas-en-las-calles-de-venezuela"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/4d4178b0-c805-11f1-980b-638c1c1f5fd6/w:1024/p:16x9/AP26280825710431.jpg",
+    "category": "En Contexto",
+    "text": "Pelo corto y faldas largas, las medidas estrictas de Keiko Fujimori en las escuelas de Perú",
+    "link": "https://www.france24.com/es/programas/en-contexto/20261014-pelo-corto-y-faldas-largas-las-medidas-estrictas-de-keiko-fujimori-en-las-escuelas-de-per%C3%BA"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/c86ce8c6-c7fb-11f1-bf06-d1d2c32ebb87/w:1024/p:16x9/ES-20261014-073731-073929-CS.jpg",
+    "category": null,
+    "text": "De la Espriella se pliega a Israel: convierte a Colombia en el décimo país con embajada en Jerusalén",
+    "link": "https://www.france24.com/es/video/20261014-de-la-espriella-se-pliega-a-israel-convierte-a-colombia-en-el-d%C3%A9cimo-pa%C3%ADs-con-embajada-en-jerusal%C3%A9n"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/175e0d72-c7ff-11f1-b7c5-638c1c1f5fd6/w:1024/p:16x9/FOTO-PORTADA-ARABIA-SAUDITA-FRAGMENTO-MISIL.jpg",
+    "category": "Medio Oriente",
+    "text": "Cinco heridos y daños en una planta de Aramco tras nuevos ataques de los hutíes a Arabia Saudita",
+    "link": "https://www.france24.com/es/medio-oriente/20261014-cinco-heridos-y-da%C3%B1os-en-una-planta-de-aramco-tras-nuevos-ataques-de-los-hut%C3%ADes-a-arabia-saudita"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/1a3d6b22-c7fb-11f1-97b0-d1d2c32ebb87/w:1024/p:16x9/ES-20261014-073454-073643-CS.jpg",
+    "category": null,
+    "text": "Ucrania ataca instalaciones de Yandex, el Google ruso, y afecta varios sectores tecnológicos",
+    "link": "https://www.france24.com/es/video/20261014-ucrania-ataca-instalaciones-de-yandex-el-google-ruso-y-afecta-varios-sectores-tecnol%C3%B3gicos"
+  },
+  {
+    "date": "2026-10-14",
     "image": "https://s.france24.com/media/display/3f451afe-c7fc-11f1-ad55-2d1c143cdef3/w:1024/p:16x9/capture-f1d18439.jpg",
     "category": "Invitad@ del día",
     "text": "¿Qué implica para Colombia el acercamiento de De la Espriella con Israel?",
@@ -8,80 +85,17 @@
   },
   {
     "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/0e46f126-c7f6-11f1-8b83-2d1c143cdef3/w:1024/p:16x9/ES-20261014-073209-073355-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Guerra en Ucrania: Zelenski denuncia restricciones de Starlink en el frente de batalla",
-    "link": "https://www.france24.com/es/video/20261014-guerra-en-ucrania-zelenski-denuncia-restricciones-de-starlink-en-el-frente-de-batalla"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/5e10c160-c7f5-11f1-8203-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-14T082619Z-1595207447-RC2W2OAOCFTF-RTRMADP-3-BRITAIN-COURT-BRAND.jpg",
-    "category": "Europa",
-    "text": "Juicio contra el actor Russell Brand por violación: Fiscalía lo acusa de ser un “depredador sexual implacable”",
-    "link": "https://www.france24.com/es/europa/20261014-juicio-contra-el-actor-russell-brand-por-violaci%C3%B3n-fiscal%C3%ADa-lo-acusa-de-ser-un-depredador-sexual-implacable"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/c3d240ca-c7ee-11f1-b2e2-638c1c1f5fd6/w:1024/p:16x9/2026-10-13T112755Z-1086216303-RC2B2OAXK0I5-RTRMADP-3-POPE-HEALTH.jpg",
-    "category": "Europa",
-    "text": "La recuperación de León XIV \"avanza según lo previsto\" tras extirpación de un tumor maligno, según parte médico",
-    "link": "https://www.france24.com/es/europa/20261014-la-recuperaci%C3%B3n-de-le%C3%B3n-xiv-avanza-seg%C3%BAn-lo-previsto-tras-extirpaci%C3%B3n-de-un-tumor-maligno-seg%C3%BAn-parte-m%C3%A9dico"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/fa357b98-c0e4-11f1-9aa2-1ff0321dbbd3/w:1024/p:16x9/FR-NW-OOV-ECRAN-FOCUS-MEXIQUE-FRACKING-GOUGEON-Guillaume.jpg",
-    "category": "En Foco",
-    "text": "Fracking: ¿a qué precio busca México su independencia energética?",
-    "link": "https://www.france24.com/es/programas/en-foco/20261014-fracking-a-qu%C3%A9-precio-busca-m%C3%A9xico-su-independencia-energ%C3%A9tica"
+    "text": "El enfado de Ucrania con Starlink, la compañía de Elon Musk, por las restricciones a la velocidad de internet que afectan a su ejército en el campo de batalla",
+    "link": "https://www.bbc.com/mundo/articles/cq62yn458211o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-14",
     "image": null,
     "category": null,
-    "text": "EE. UU. levanta las sanciones al presidente del Legislativo venezolano Jorge Rodríguez",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261014-estados-unidos-levanta-las-sanciones-al-presidente-del-legislativo-venezolano-jorge-rodr%C3%ADguez"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/bbb14c68-c72d-11f1-ac3d-77317c09f325/w:1024/p:16x9/WEB-PORTADA-13OCT-ELL.png",
-    "category": "Ellas hoy",
-    "text": "México: ¿cómo se propaga la misoginia entre los jóvenes?",
-    "link": "https://www.france24.com/es/programas/ellas-hoy/20261014-m%C3%A9xico-c%C3%B3mo-se-propaga-la-misoginia-entre-los-j%C3%B3venes"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/d4613758-c7d9-11f1-9d58-2d1c143cdef3/w:1024/p:16x9/ES-20261014-081159-081855-CS.jpg",
-    "category": "Revista de prensa",
-    "text": "\"El exjefe del Shin Bet demanda a Netanyahu por difamación\": 'Haaretz'",
-    "link": "https://www.france24.com/es/programas/revista-de-prensa/20261014-el-exjefe-del-shin-bet-demanda-a-netanyahu-por-difamaci%C3%B3n-haaretz"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/e0c850bc-c7f2-11f1-a8d2-2d1c143cdef3/w:1024/p:16x9/2026-10-14T165607Z-2086553978-RC243OABEVTY-RTRMADP-3-COLOMBIA-POLITICS-PROTEST.jpg",
-    "category": "América Latina",
-    "text": "En directo: Colombia vive una jornada de movilización social y protestas contra el Gobierno",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261014-en-directo-colombia-vive-una-jornada-de-movilizaci%C3%B3n-social-y-protestas-contra-el-gobierno"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/0526ba7e-c7e0-11f1-9930-4dd8ac2cf3bf/w:1024/p:16x9/WEB-PORTADA-14OCT-EXP.png",
-    "category": "Expreso de Oriente",
-    "text": "Arabia Saudita bajo ataque: ¿está en riesgo la seguridad del reino?",
-    "link": "https://www.france24.com/es/programas/expreso-de-oriente/20261014-arabia-saudita-bajo-ataque-est%C3%A1-en-riesgo-la-seguridad-del-reino"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/08b130e0-c7d9-11f1-9841-d1d2c32ebb87/w:1024/p:16x9/AP26033633830308.jpg",
-    "category": "Economía",
-    "text": "Estados Unidos abre la puerta al diésel ruso mientras Trump busca aliviar el repunte de combustibles",
-    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261014-estados-unidos-abre-la-puerta-al-di%C3%A9sel-ruso-mientras-trump-busca-aliviar-el-repunte-de-combustibles"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un récord mientras Trump ejerce máxima presión sobre la isla",
-    "link": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo?at_medium=RSS&at_campaign=rss"
+    "text": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón",
+    "link": "https://www.bbc.com/mundo/articles/cmvgxvdpwk30o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-14",
@@ -108,22 +122,22 @@
     "date": "2026-10-14",
     "image": null,
     "category": null,
-    "text": "Cómo un internet más lento afecta a Ucrania en el campo de batalla frente a Rusia",
-    "link": "https://www.bbc.com/mundo/articles/cq62yn458211o?at_medium=RSS&at_campaign=rss"
+    "text": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California",
+    "link": "https://www.bbc.com/mundo/articles/cwx28rg0z8pyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-14",
     "image": null,
     "category": null,
-    "text": "Las causas de la crisis de agua en Guadalajara que genera protestas (y por qué no tiene una solución rápida)",
-    "link": "https://www.bbc.com/mundo/articles/ck1wvdy0l3pdo?at_medium=RSS&at_campaign=rss"
+    "text": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla",
+    "link": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-14",
     "image": null,
     "category": null,
-    "text": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/cm20r9337vn8o?at_medium=RSS&at_campaign=rss"
+    "text": "La impactante imagen de un migrante cubano sobre una pequeña balsa improvisada frente a la costa de Florida",
+    "link": "https://www.bbc.com/mundo/articles/c6n8dzg33xz2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-14",
@@ -134,87 +148,94 @@
   },
   {
     "date": "2026-10-14",
-    "image": "https://www.infobae.com/resizer/v2/YADK5TZQV5EKFAFL6RB7DKHVKQ.png?auth=d00c51469f0978af452d3c3caf9dfd6874af555d3227d6633804a369ea4219c5&smart=true&width=1600&height=900",
-    "category": null,
-    "text": "Raúl Jiménez será operado de la rodilla y estaría fuera de las canchas hasta 2027",
-    "link": "https://www.infobae.com/mexico/2026/10/14/raul-jimenez-sera-operado-de-la-rodilla-y-estaria-fuera-de-las-canchas-hasta-enero/"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://www.infobae.com/resizer/v2/33UZMZRV55BLPHPK4JZN7X2COE.jpg?auth=4f9822911ac8f34f67f110bf5823021a879ad266392db2936cb92f25d81a69d9&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Salud mental: libertarios anunciaron un acuerdo con aliados y buscarán dictaminar mañana la nueva ley",
-    "link": "https://www.infobae.com/politica/2026/10/14/salud-mental-libertarios-anunciaron-un-acuerdo-con-aliados-y-buscaran-dictaminar-manana-la-nueva-ley/"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://www.infobae.com/resizer/v2/UVW52DONONB3PIQWFU7WRY2YSA.jpg?auth=14f0336ed4d8348d08f0c1653ce4896675241b96d96bedc3bdf346ca614a59d7&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Al ritmo de “Querida” de Juan Gabriel, Clara Brugada llega al Congreso de la CDMX para presentar su Segundo Informa de Gobierno",
-    "link": "https://www.infobae.com/mexico/2026/10/14/al-ritmo-de-querida-de-juan-gabriel-clara-brugada-llega-al-congreso-de-la-cdmx-para-presentar-su-segundo-informa-de-gobierno/"
-  },
-  {
-    "date": "2026-10-14",
     "image": null,
     "category": null,
-    "text": "Gómez de Celis encabezará la lista del PSOE al Congreso por Sevilla para el 29N",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/14/gomez-de-celis-encabezara-la-lista-del-psoe-al-congreso-por-sevilla-para-el-29n/"
+    "text": "Las causas de la crisis de agua en Guadalajara que genera protestas (y por qué no tiene una solución rápida)",
+    "link": "https://www.bbc.com/mundo/articles/ck1wvdy0l3pdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-14",
-    "image": "https://www.infobae.com/resizer/v2/4OJUIOW67NE5NFQHVXUDS7TTC4.jpg?auth=4cc4bea1f95c5f099b597fa569e68ec3fa9894cb8c204b891b74eb7738179cac&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/W7W2P2K3QRE4PIPJ27JOZVYLPU.jpg?auth=686169ea6df40ccdf70feb5551d6196df50e1679a1081a2ad09cf2c3dfdd0216&smart=true&width=5472&height=3648",
     "category": null,
-    "text": "La única queja de Paul McCartney sobre las próximas películas de los Beatles: \"¡No hagas esto!\"",
-    "link": "https://www.infobae.com/entretenimiento/2026/10/14/la-unica-queja-de-paul-mccartney-sobre-las-proximas-peliculas-de-los-beatles-no-hagas-esto/"
+    "text": "Marchas en Bogotá hoy, 14 de octubre EN VIVO: Transmilenio restablece operación en el Eje Ambiental tras las manifestaciones",
+    "link": "https://www.infobae.com/colombia/2026/10/14/marchas-hoy-14-de-octubre-siga-en-vivo-el-minuto-a-minuto-de-la-movilidad-y-el-estado-de-las-vias-en-bogota/"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://www.infobae.com/resizer/v2/4GEOMOND7BGSNGSYIU2HI4FTPA.jpg?auth=c867fa35db68c6b5989936dc1c0fcf9fbe1f9d82c6e5fb89921a602138429529&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Audiencia de Ovidio Guzmán López se pospone una vez más en EEUU: se presentará ante la Corte en abril de 2027",
+    "link": "https://www.infobae.com/mexico/2026/10/14/audiencia-de-ovidio-guzman-lopez-se-pospone-una-vez-mas-en-eeuu-se-presentara-ante-la-corte-en-abril-de-2027/"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://www.infobae.com/resizer/v2/33QSJZIQHFDM5DJKO3BHHDCJQ4.jpg?auth=b189ba83a51304d0861dcb68682b4917438d0f1c5b5e1713d4fc235aa07efe30&smart=true&width=1920&height=1079",
+    "category": null,
+    "text": "Machine Gun Kelly desmiente un post viral sobre Megan Fox y su ruptura",
+    "link": "https://www.infobae.com/entretenimiento/2026/10/14/machine-gun-kelly-desmiente-un-post-viral-sobre-megan-fox-y-su-ruptura/"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://www.infobae.com/resizer/v2/ICDUTBMXW5BA5PUL5UJLBKFBHU.JPG?auth=f6359d8068cc791f6d41da7358366cc2ba167dd9e47150cb06988e50258d0f33&smart=true&width=3820&height=2606",
+    "category": null,
+    "text": "Selección Mexicana esperará el regreso de Raúl Jiménez tras operación de rodilla: el mensaje de aliento que Duilio Davino dedicó al delantero",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/14/seleccion-mexicana-esperara-el-regreso-de-raul-jimenez-tras-operacion-de-rodilla-el-mensaje-de-aliento-que-duilio-davino-dedico-al-delantero/"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://www.infobae.com/resizer/v2/TR6KHBCPRFC4VPSJXLL73PQH2Y.jpg?auth=56a063a0e3d6bc629cf83ad8a9b69c3e6f1e11db3783c4d24e4eea802fbf1fcb&smart=true&width=6000&height=4000",
+    "category": null,
+    "text": "José Balcázar espera que la operación del papa León XIV no sea “tan perjudicial” y pueda visitar Perú en noviembre",
+    "link": "https://www.infobae.com/peru/2026/10/14/jose-balcazar-espera-que-la-operacion-del-papa-leon-xiv-no-sea-tan-perjudicial-y-pueda-visitar-peru-en-noviembre/"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://www.infobae.com/resizer/v2/TQCNLIUOM5DUXNYZIDAJUIC4DY.png?auth=93b375592aba212cf05e5afb62e65247b6a3ba015d81ac63af03897e9344909e&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "El dato revelador de las obras en el Autódromo de Buenos Aires y por qué el GP de Ruanda no afecta la posible vuelta de la F1",
+    "link": "https://www.infobae.com/deportes/2026/10/14/el-dato-revelador-de-las-obras-en-el-autodromo-de-buenos-aires-y-por-que-el-gp-de-ruanda-no-afecta-la-posible-vuelta-de-la-f1/"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://www.infobae.com/resizer/v2/KBNQ5QPJVZAQXK5VFQFRJMHS5U.jpg?auth=9eb2b34264dc71ce3efe1b933426414fce23e643c743e057714c686441664f44&smart=true&width=1920&height=967",
+    "category": null,
+    "text": "Lista de novedades para iPhone que llegarían con la actualización iOS 27.2",
+    "link": "https://www.infobae.com/tecno/2026/10/14/lista-de-novedades-para-iphone-que-llegarian-con-la-actualizacion-ios-272/"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://www.infobae.com/resizer/v2/JNPH6AKA5JH4ROYI7CSAYRPWHU.jpg?auth=83fa4eb1c9d4ca21fa9cbc2d3789ea029930ef4969182627f31c967bf96eeffe&smart=true&width=960&height=540",
+    "category": null,
+    "text": "Hay nuevos cuestionamientos por el ‘negocio’ del uso temporal del parque La Florida para suministrar césped a El Campín: “Qué gangazo”",
+    "link": "https://www.infobae.com/colombia/deportes/2026/10/14/hay-nuevos-cuestionamientos-por-el-negocio-del-uso-temporal-del-parque-la-florida-para-suministrar-cesped-a-el-campin-que-gangazo/"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://www.infobae.com/resizer/v2/DQJAXQRMAJGKNN2NO6HELCMI7I.jpg?auth=a242d9402acc13c7c1633dec789f82b03c8532750788286bd904107d01bb9865&smart=true&width=1000&height=666",
+    "category": null,
+    "text": "Museo de Tulum recibe 53 piezas arqueológicas de culturas olmeca, mexica y teotihuacana",
+    "link": "https://www.infobae.com/mexico/2026/10/14/museo-de-tulum-recibe-53-piezas-arqueologicas-de-culturas-olmeca-mexica-y-teotihuacana/"
   },
   {
     "date": "2026-10-14",
     "image": "https://www.infobae.com/resizer/v2/M34LVJT2TBEMDGFKSGQQK7ZDRY.jpg?auth=6b240cdfd238fd6760ab3b172fd55c2e45be04d87c16a2032e2012fe5a4e44bf&smart=true&width=2048&height=1152",
     "category": null,
-    "text": "Juicio por la muerte de Maradona, en vivo: otro abogado pidió la absolución del psicólogo y Gianinna se puso a llorar",
+    "text": "Juicio por la muerte de Maradona: con un fuerte alegato, Fernando Burlando hizo su solicitud de penas para los acusados",
     "link": "https://www.infobae.com/sociedad/policiales/2026/10/14/juicio-por-la-muerte-de-maradona-en-vivo-fernando-burlando-cierra-los-alegatos-y-adelanto-que-pedira-penas-altas/"
   },
   {
     "date": "2026-10-14",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/VAO6TLN73BAVHJJXGXUWBXULYQ.jpg?auth=8cec7de8baf214ad2afaeb2b6b48fe4c60bfe0c9687c20ea591d3b56506f38d3&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "La jueza cita al abogado Miquel Roca para que testifique sobre la herencia de Isak Andic",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/14/la-jueza-cita-al-abogado-miquel-roca-para-que-testifique-sobre-la-herencia-de-isak-andic/"
+    "text": "Temblor hoy 14 de octubre en México: se registró un sismo de magnitud 4.1 en Chiapas",
+    "link": "https://www.infobae.com/mexico/2026/10/14/temblor-hoy-en-mexico-noticias-actividad-sismica-14-de-octubre-de-2026/"
   },
   {
     "date": "2026-10-14",
-    "image": "https://www.infobae.com/resizer/v2/3AFHON36XZD2JHM53MSEEOQQYQ.jpg?auth=b7723601fed35cd821ecb3d0702f7717c80c0964460fcd6f808d76ba23d2668b&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/EFEI2YN7IVDIPPJ4WNGMJFRELM.jpg?auth=bacd78beb26eab02dacd0fbd90b0985ccf6020d4a949ead77244163c6b2f98dc&smart=true&width=900&height=556",
     "category": null,
-    "text": "Precio del euro hoy en Brasil: cotización de cierre del 14 de octubre",
-    "link": "https://www.infobae.com/noticias/2026/10/14/precio-del-euro-hoy-en-brasil-cotizacion-de-cierre-del-14-de-octubre/"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://www.infobae.com/resizer/v2/XL5A7YMONRFMLLEYG6AUITDCUM.jpeg?auth=ee610647d7d9287467a8d273c6e361c77929b079d3ff0e9683ad4168bc3058cd&smart=true&width=1439&height=731",
-    "category": null,
-    "text": "“No puedes pedir algo que tú no das”: la frase que marcó el debate sobre las mujeres en el podcast de Aldo de Nigris",
-    "link": "https://www.infobae.com/mexico/2026/10/14/no-puedes-pedir-algo-que-tu-no-das-la-frase-que-marco-el-debate-sobre-las-mujeres-en-el-podcast-de-aldo-de-nigris/"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Fujimori dice que los textos escolares en Perú \"saldrán sin ningún tipo de ideología\"",
-    "link": "https://www.infobae.com/america/agencias/2026/10/14/fujimori-dice-que-los-textos-escolares-en-peru-saldran-sin-ningun-tipo-de-ideologia/"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://www.infobae.com/resizer/v2/PLEOGB46LNB7PKX5QTMV7TSANY.jpg?auth=a72882081aa908e454fc3204137f68449355460fd880e8211015393062ec63df&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Euro hoy en Uruguay: cotización de cierre del 14 de octubre",
-    "link": "https://www.infobae.com/noticias/2026/10/14/euro-hoy-en-uruguay-cotizacion-de-cierre-del-14-de-octubre/"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Un tribunal de Kenia autoriza que Dangote reanude las obras de su proyecto petrolero",
-    "link": "https://www.infobae.com/america/agencias/2026/10/14/un-tribunal-de-kenia-autoriza-que-dangote-reanude-las-obras-de-su-proyecto-petrolero/"
+    "text": "Tribunal de Cundinamarca mantuvo la legalidad del Pico y placa solidario en Bogotá: concluyó que el cobro es un precio público y no un tributo",
+    "link": "https://www.infobae.com/colombia/2026/10/14/tribunal-de-cundinamarca-mantuvo-la-legalidad-del-pico-y-placa-solidario-en-bogota-concluyo-que-el-cobro-es-un-precio-publico-y-no-un-tributo/"
   },
   {
     "date": "2026-10-14",
@@ -225,17 +246,17 @@
   },
   {
     "date": "2026-10-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/TDATQK7O7VGMVJ2IKFSE3GMMSI.jpg?auth=15c08cfe3af867bcba440e2441ca093536ae3b588e18e725a1889576a87c8aea",
-    "category": "Papa León XIV",
-    "text": "Un nuevo parte médico del Vaticano informa de que el Papa se recupera favorablemente tras la extirpación de un tumor maligno",
-    "link": "https://elpais.com/internacional/2026-10-14/el-vaticano-informa-de-que-el-papa-ha-pasado-una-noche-tranquila-tras-la-extirpacion-de-un-tumor-maligno.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/AENZFXGIKVIXVKHYRAZNL3P27E.jpg?auth=c6ba2515caa63678fe33253d35f49d5f69b3f6be39f892cff449e6d2fe306df7",
+    "category": "Reino Unido",
+    "text": "El Reino Unido despliega la alfombra roja para arropar a Zelenski frente a Trump",
+    "link": "https://elpais.com/internacional/2026-10-14/el-reino-unido-despliega-la-alfombra-roja-para-arropar-a-zelenski-frente-a-trump.html"
   },
   {
     "date": "2026-10-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/P6FPERVUNFOSFJYBSDVYZDTSQM.jpg?auth=55d19f350d49e09d5e6de5afebfe405c0b63df0cf9e35b8d23b4b71a7373c641",
-    "category": "Donald Trump",
-    "text": "El “desastroso” estreno de la portavoz de la Casa Blanca provoca apuestas sobre su permanencia",
-    "link": "https://elpais.com/us/2026-10-14/el-desastroso-estreno-de-la-portavoz-de-la-casa-blanca-provoca-apuestas-sobre-su-permanencia.html"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225274_110915_video_1800.mp4",
+    "category": "Papa León XIV",
+    "text": "Un nuevo parte médico del Vaticano informa de que el Papa se recupera favorablemente tras la extirpación de un tumor maligno",
+    "link": "https://elpais.com/internacional/2026-10-14/el-vaticano-informa-de-que-el-papa-ha-pasado-una-noche-tranquila-tras-la-extirpacion-de-un-tumor-maligno.html"
   },
   {
     "date": "2026-10-14",
@@ -243,6 +264,13 @@
     "category": "Elecciones EE UU",
     "text": "Quien tiene la mayoría, tiene la chequera",
     "link": "https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261013/1224953_182510_video_1800.mp4",
+    "category": "Donald Trump",
+    "text": "El “desastroso” estreno de la portavoz de la Casa Blanca provoca apuestas sobre su permanencia",
+    "link": "https://elpais.com/us/2026-10-14/el-desastroso-estreno-de-la-portavoz-de-la-casa-blanca-provoca-apuestas-sobre-su-permanencia.html"
   },
   {
     "date": "2026-10-14",
@@ -267,80 +295,80 @@
   },
   {
     "date": "2026-10-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/27OVEOZV7RBSFNP4LL5MX77JWM.JPG?auth=2b8b3b25a64a408c47f2ddce79b124dff80e66287bf39dea1802585881b8af47",
-    "category": "Albania",
-    "text": "Enfrentamientos con la policía y el Ministerio de educación en llamas en el segundo día de protestas estudiantiles en Albania",
-    "link": "https://elpais.com/internacional/2026-10-14/enfrentamientos-con-la-policia-y-el-ministerio-de-educacion-en-llamas-en-el-segundo-dia-de-protestas-estudiantiles-en-albania.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "category": null,
+    "text": "Los hutíes afirman haber alcanzado un caza Typhoon saudí",
+    "link": "https://actualidad-rt.com/actualidad/632533-huties-afirman-haber-alcanzado-typhoon?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfb6e9e9ff7101f06483b3.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acff443e9ff71303c02d31b.jpg",
     "category": null,
-    "text": "Grababa bello atardecer, hasta que captó un choque entre cuatro vehículos (VIDEO)",
-    "link": "https://actualidad-rt.com/viral/632486-grabar-bello-atardecer-captar-choque?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfb43fe9ff71118e14a9fb.png",
-    "category": null,
-    "text": "Colombia vive la primera protesta masiva contra Abelardo de la Espriella (FOTOS, VIDEOS)",
-    "link": "https://actualidad-rt.com/actualidad/632480-colombia-primera-protesta-masiva-espriella?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfb2fb59bf5b780f776956.jpg",
-    "category": null,
-    "text": "Macron llevó a Francia \"al borde del abismo\", denuncia candidato presidencial",
-    "link": "https://actualidad-rt.com/actualidad/632477-macron-llevar-francia-borde-abismo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Fiscal alemán: \"La voladura del Nord Stream es un crimen de guerra contra objetivos civiles\"",
+    "link": "https://actualidad-rt.com/actualidad/632516-fiscal-aleman-voladura-nord-stream?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-14",
     "image": null,
     "category": null,
-    "text": "Fijan fecha para la comparecencia de Maduro y Cilia Flores por nuevos cargos",
-    "link": "https://actualidad-rt.com/actualidad/632485-fecha-comparecencia-maduro-cilia-cargos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un país centroamericano sigue los pasos de Trump y designa organizaciones narcoterroristas",
+    "link": "https://actualidad-rt.com/actualidad/632524-pais-centroamericano-sigue-pasos-trump-narcoterroristas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfa84259bf5b23ed5d0541.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acff32959bf5b663353ce0f.jpg",
     "category": null,
-    "text": "Discursos de odio, ciberacoso y violencia: Sheinbaum firma decreto para proteger a menores en Internet",
-    "link": "https://actualidad-rt.com/actualidad/632476-sheinbaum-decreto-plataformas-digitales-contenidos-violentos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Asaltante cae al piso al intentar robar a una mujer y huye sin nada",
+    "link": "https://actualidad-rt.com/viral/632519-asaltante-caer-piso-robar-mujer?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfb5ec59bf5b18c67c8a62.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfe9d8e9ff71118e14aa30.jpg",
     "category": null,
-    "text": "Zelenski se declara frustrado con EE.UU., luego de incumplir las exigencias de Trump",
-    "link": "https://actualidad-rt.com/actualidad/632484-zelenski-frustrado-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "'Hackean' Chrome con ayuda de la IA y Google los recompensa con 250.000 dólares",
+    "link": "https://actualidad-rt.com/actualidad/632512-hackear-chrome-ayudar-ia-google-recompensa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acf3b7ae9ff7145c1120222.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0096b59bf5b47ad52bd35.jpg",
     "category": null,
-    "text": "Londres gasta en combatir a Rusia cifras récord desde la Guerra Fría mientras se hunde en una profunda crisis",
-    "link": "https://actualidad-rt.com/actualidad/632371-londres-gasta-combatir-rusia-cifras-record?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Sao Paulo en alerta tras intensas lluvias que convirtieron calles en 'ríos' (VIDEOS)",
+    "link": "https://actualidad-rt.com/actualidad/632513-sao-paulo-alerta-intensas-lluvias?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acf932a59bf5b6dfc3bf580.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfefbb59bf5b48980cc037.jpg",
     "category": null,
-    "text": "¿Nuevo repunte de los precios? Los ataques entre Riad y hutíes encienden las alarmas en el mercado petrolero",
-    "link": "https://actualidad-rt.com/actualidad/632416-nuevo-disparo-precios-escalada-riad-huties-mercados-petroleros?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Tenemos que terminar el trabajo\": Netanyahu amenaza nuevamente a Irán",
+    "link": "https://actualidad-rt.com/actualidad/632514-tenemos-terminar-trabajo-netanyahu-amenazar-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfa86959bf5b6dfc3bf59d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acffb87e9ff7101f06483db.jpg",
     "category": null,
-    "text": "Con ayuda rusa, uno de los países más poblados del mundo entra en la era nuclear",
-    "link": "https://actualidad-rt.com/actualidad/632428-ayuda-rusa-paises-poblados-mundo-entra-era-nuclear?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump lanza una fuerte advertencia a Europa: \"Está siendo devorada viva\"",
+    "link": "https://actualidad-rt.com/actualidad/632522-trump-europa-esta-devorada-viva?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-14",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfa7de59bf5b48980cc00f.jpeg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfeb2759bf5b7c37024343.jpg",
     "category": null,
-    "text": "VIDEOS: Así fueron los ataques de los hutíes sobre la sede del gigante petrolero saudita",
-    "link": "https://actualidad-rt.com/actualidad/632457-videos-asi-ataques-huties-sede-gigante-petrolero?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Roba decenas de cajas de computadoras de Apple y se encuentra con una desagradable sorpresa",
+    "link": "https://actualidad-rt.com/viral/632503-ladron-robar-cajas-computadoras-sorpresa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acff832e9ff7106a5734c84.jpg",
+    "category": null,
+    "text": "La RPDC realiza lanzamientos de prueba de misiles crucero",
+    "link": "https://actualidad-rt.com/actualidad/632515-rpdc-realiza-lanzamiento-prueba-misiles-crucero?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-14",
+    "image": null,
+    "category": null,
+    "text": "Colombia vive su primera gran movilización contra las políticas de Abelardo De la Espriella",
+    "link": "https://es.euronews.com/2026/10/14/colombia-vive-su-primera-gran-movilizacion-contra-abelardo-de-la-espriella"
   },
   {
     "date": "2026-10-14",
@@ -381,7 +409,7 @@
     "date": "2026-10-14",
     "image": null,
     "category": null,
-    "text": "Alemania: concentración en Hamburgo por el juicio de las explosiones del Nord Stream",
+    "text": "Alemania: Concentración en Hamburgo por el juicio de las explosiones del Nord Stream",
     "link": "https://es.euronews.com/video/2026/10/14/alemania-concentracion-en-hamburgo-por-el-juicio-de-las-explosiones-del-nord-stream"
   },
   {
@@ -390,33 +418,5 @@
     "category": null,
     "text": "Comienza la cuenta atrás: qué viene tras la retirada de la Finul del sur del Líbano",
     "link": "https://es.euronews.com/2026/10/14/comienza-la-cuenta-atras-que-viene-tras-la-retirada-de-la-finul-del-sur-del-libano"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Rusia arresta al periodista japonés del diario 'Hokkaido Shimbun' acusado de espionaje",
-    "link": "https://es.euronews.com/2026/10/14/rusia-arresta-periodista-japones-diario-hokkaido-shimbun-acusado-espionaje"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Rusia destinará el 44% de su presupuesto a Defensa y seguridad mientras recorta las ayudas sociales",
-    "link": "https://es.euronews.com/2026/10/14/rusia-destina-casi-mitad-presupuesto-defensa-recorta-gasto-social"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 14 octubre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/10/14/ultimas-noticias-14-octubre-2026-mediodia"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Las redes estallan contra Trump por compartir un vídeo de un ataque mortal de un tigre: \"Enfermizo\"",
-    "link": "https://es.euronews.com/2026/10/14/criticas-donald-trump-difundir-redes-sociales-video-britanico-muerto-tigre"
   }
 ]

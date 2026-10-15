@@ -1,101 +1,80 @@
 [
   {
     "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/3ec22678-c84a-11f1-85e1-4dd8ac2cf3bf/w:1024/p:16x9/000-B6L73WH.jpg",
-    "category": "Europa",
-    "text": "Ataques con drones contra buques mercantes agravan la tensión en el mar Negro",
-    "link": "https://www.france24.com/es/europa/20261015-ataques-con-drones-contra-buques-mercantes-agravan-la-tensi%C3%B3n-en-el-mar-negro"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/f59fec58-c800-11f1-a83d-638c1c1f5fd6/w:1024/p:16x9/WEB-PORTADA-14OCT-AEA.png",
-    "category": "Así es Asia",
-    "text": "India: ¿puede el “Partido de las Cucarachas” erosionar el poder de Modi?",
-    "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261015-india-puede-el-partido-de-las-cucarachas-erosionar-el-poder-de-modi"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/fa134b50-c89f-11f1-b418-d1d2c32ebb87/w:1024/p:16x9/ES-20261015-071031-071219-CS.jpg",
-    "category": null,
-    "text": "El Mont Blanc gana casi dos metros y alcanza los 4.807 metros, pese al deshielo de los glaciares",
-    "link": "https://www.france24.com/es/video/20261015-el-mont-blanc-gana-casi-dos-metros-y-alcanza-los-4-807-metros-pese-al-deshielo-de-los-glaciares"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/7d752b74-c89d-11f1-8fa1-638c1c1f5fd6/w:1024/p:16x9/ES-20261015-070709-070852-CS.jpg",
-    "category": null,
-    "text": "Estudiantes en Albania denuncian corrupción en el tercer día consecutivo de protestas",
-    "link": "https://www.france24.com/es/video/20261015-estudiantes-en-albania-denuncian-corrupci%C3%B3n-en-el-tercer-d%C3%ADa-consecutivo-de-protestas"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/a1a1afe4-c89e-11f1-91ea-2d1c143cdef3/w:1024/p:16x9/ES-20261015-071223-072206-CS.jpg",
-    "category": null,
-    "text": "¿Hay una degradación real de la relación entre EE. UU. y Ucrania?",
-    "link": "https://www.france24.com/es/video/20261015-hay-una-degradaci%C3%B3n-real-de-la-relaci%C3%B3n-entre-ee-uu-y-ucrania"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/b478b8e4-c89c-11f1-850d-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261015-070334-070512-CS.jpg",
-    "category": null,
-    "text": "Ucrania denuncia restricciones a Starlink y Starshield que afectan a sus drones",
-    "link": "https://www.france24.com/es/video/20261015-ucrania-denuncia-restricciones-a-starlink-y-starshield-que-afectan-a-sus-drones"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/3112fa02-c804-11f1-ab3d-d1d2c32ebb87/w:1024/p:16x9/WEB-PORTADA-14OCT-CYT.png",
-    "category": "Ciencia y Tecnología",
-    "text": "¿Menos bots rusos? Ucrania golpea la infraestructura digital de Moscú",
-    "link": "https://www.france24.com/es/programas/ciencia-y-tecnolog%C3%ADa/20261015-menos-bots-rusos-ucrania-golpea-la-infraestructura-digital-de-mosc%C3%BA"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/fbf524c2-c820-11f1-9100-2d1c143cdef3/w:1024/p:16x9/2026-10-14T222222Z-1949817444-RC233OAJSBMG-RTRMADP-3-ALBANIA-PROTESTS.jpg",
-    "category": "Europa",
-    "text": "Albania: Rama descarta dimitir tras tres días de protestas estudiantiles y disturbios",
-    "link": "https://www.france24.com/es/europa/20261015-albania-rama-descarta-dimitir-tras-tres-d%C3%ADas-de-protestas-estudiantiles-y-disturbios"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/9c1a5104-c86f-11f1-8067-d1d2c32ebb87/w:1024/p:16x9/AP26281662471891.jpg",
-    "category": "EE. UU. y Canadá",
-    "text": "Elon Musk pide la salida de Zelenski en medio de las tensiones entre Kiev y Washington",
-    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-elon-musk-pide-la-salida-de-zelenski-en-medio-de-las-tensiones-entre-kiev-y-washington"
-  },
-  {
-    "date": "2026-10-15",
     "image": null,
     "category": null,
-    "text": "🔴 En directo: Zelenski pide a EE. UU. que no se ponga del lado del \"agresor\" y reclama \"honestidad\"",
-    "link": "https://www.france24.com/es/europa/20261015-en-directo-guerra-en-ucrania-rumania-investiga-un-posible-ataque-contra-un-buque-petrolero-en-el-mar-negro"
+    "text": "Aeropuertos, petróleo y religión: ¿cómo desafían los hutíes el poderío militar de Arabia Saudita?",
+    "link": "https://www.france24.com/es/medio-oriente/20261015-aeropuertos-petr%C3%B3leo-y-religi%C3%B3n-c%C3%B3mo-rompieron-los-hut%C3%ADes-el-poder%C3%ADo-militar-de-arabia-saudita"
   },
   {
     "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/aa866466-c86b-11f1-b34b-6313a763b466/w:1024/p:16x9/AP26288241083154.jpg",
-    "category": "Asia-Pacífico",
-    "text": "Pakistán: aumentan a 33 los muertos por el derrumbe del techo de una escuela",
-    "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261015-derrumbe-de-una-escuela-en-pakist%C3%A1n-deja-al-menos-28-muertos-y-decenas-de-heridos"
+    "image": "https://s.france24.com/media/display/c3dbded0-3e99-11eb-b244-005056a98db9/w:1024/p:16x9/000_8U47AU.jpg",
+    "category": "Carrusel de las Artes",
+    "text": "Festival Panorama, una ventana al cine colombiano en París",
+    "link": "https://www.france24.com/es/programas/carrusel-de-las-artes/20261015-festival-panorama-una-ventana-al-cine-colombiano-en-par%C3%ADs"
   },
   {
     "date": "2026-10-15",
-    "image": "https://s.france24.com/media/display/0aa7737e-c83c-11f1-af7d-638c1c1f5fd6/w:1024/p:16x9/90bd5f4c90f09eb957948de43a7ce1797745125f.jpg",
-    "category": "Europa",
-    "text": "Los líderes de la UE afrontan una decisiva batalla presupuestaria ante la proximidad de las elecciones",
-    "link": "https://www.france24.com/es/europa/20261015-los-l%C3%ADderes-de-la-ue-afrontan-una-decisiva-batalla-presupuestaria-ante-la-proximidad-de-las-elecciones"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
+    "image": "https://s.france24.com/media/display/c4d3e96c-c8b9-11f1-9ac2-6313a763b466/w:1024/p:16x9/ES-20261015-101054-101238-CS.jpg",
     "category": null,
-    "text": "Por qué decido regresar ahora a Venezuela tras haber estado preso en el Helicoide y pasar 12 años en el exilio",
-    "link": "https://www.bbc.com/mundo/articles/cqgk5k0znn0mo?at_medium=RSS&at_campaign=rss"
+    "text": "Costa Rica construye megacárcel inspirada en las prisiones de Bukele en El Salvador",
+    "link": "https://www.france24.com/es/video/20261015-costa-rica-construye-megac%C3%A1rcel-inspirada-en-las-prisiones-de-bukele-en-el-salvador"
   },
   {
     "date": "2026-10-15",
-    "image": null,
+    "image": "https://s.france24.com/media/display/c8753104-c8b7-11f1-bd43-6313a763b466/w:1024/p:16x9/ES-20261015-074201-075003-CS.jpg",
     "category": null,
-    "text": "Quién es Katie Zacharia y por qué su designación como secretaria de prensa de Trump ha generado controversia",
-    "link": "https://www.bbc.com/mundo/articles/c68jzgwd9m7go?at_medium=RSS&at_campaign=rss"
+    "text": "Directo Latam y la jornada de manifestaciones contra De la Espriella en Colombia",
+    "link": "https://www.france24.com/es/video/20261015-directo-latam-y-la-jornada-de-manifestaciones-contra-de-la-espriella-en-colombia"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/0cf79844-c8b8-11f1-a804-6313a763b466/w:1024/p:16x9/ES-20261015-084058-084254-CS.jpg",
+    "category": null,
+    "text": "La icónica Citroën 2CV regresa a Francia como un vehículo 100% eléctrico y de bajo costo",
+    "link": "https://www.france24.com/es/video/20261015-la-ic%C3%B3nica-citro%C3%ABn-2cv-regresa-a-francia-como-un-veh%C3%ADculo-100-el%C3%A9ctrico-y-de-bajo-costo"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/c904fe00-c8b8-11f1-86ee-2d1c143cdef3/w:1024/p:16x9/ES-20261015-100836-100957-CS.jpg",
+    "category": null,
+    "text": "Informe desde el Vaticano: la salud del papa León XIV evoluciona de manera \"positiva\"",
+    "link": "https://www.france24.com/es/video/20261015-informe-desde-el-vaticano-la-salud-del-papa-le%C3%B3n-xiv-evoluciona-de-manera-positiva"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/5b0931ec-c8b7-11f1-bd44-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261015-072225-072812-CS.jpg",
+    "category": null,
+    "text": "Directo París y el avance de la tercera reunión entre el Gobierno y líderes estudiantiles",
+    "link": "https://www.france24.com/es/video/20261015-directo-par%C3%ADs-y-el-avance-de-la-tercera-reuni%C3%B3n-entre-el-gobierno-y-l%C3%ADderes-estudiantiles"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/d498365a-b685-11f1-935e-e554abee39f5/w:1024/p:16x9/FRMG-CEF-EGLISE-260921-2027-Ep-3-transfer.jpg",
+    "category": "Francia en foco",
+    "text": "Francia registra un récord de bautizos: ¿vuelve la fe entre los jóvenes?",
+    "link": "https://www.france24.com/es/programas/francia-en-foco/20261015-francia-registra-un-r%C3%A9cord-de-bautizos-vuelve-la-fe-entre-los-j%C3%B3venes"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/c701a3c4-ae9b-11f1-9de8-005056a90284/w:1024/p:16x9/7baa3c9239941b06c9ab80735bec9754efb54687.jpg",
+    "category": "América Latina",
+    "text": "Maduro y Cilia Flores se declaran no culpables de nuevos cargos por conspiración para torturar opositores",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261015-maduro-y-cilia-flores-se-declaran-no-culpables-de-nuevos-cargos-por-conspiraci%C3%B3n-para-torturar-opositores"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/10e572be-c89a-11f1-83d6-6313a763b466/w:1024/p:16x9/AP26286557031206.jpg",
+    "category": "Economía",
+    "text": "Francia registra su mayor inflación en dos años, impulsada por el encarecimiento de la energía",
+    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261015-francia-registra-su-mayor-inflaci%C3%B3n-en-dos-a%C3%B1os-impulsada-por-el-encarecimiento-de-la-energ%C3%ADa"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/2df0e1f0-c83f-11f1-bad0-6313a763b466/w:1024/p:16x9/En-FOCO.jpeg",
+    "category": "En Foco",
+    "text": "China impulsa la cremación y choca con las tradiciones funerarias rurales",
+    "link": "https://www.france24.com/es/programas/en-foco/20261015-china-impulsa-la-cremaci%C3%B3n-y-choca-con-las-tradiciones-funerarias-rurales"
   },
   {
     "date": "2026-10-15",
@@ -108,8 +87,22 @@
     "date": "2026-10-15",
     "image": null,
     "category": null,
-    "text": "4 razones por las que la película española \"La Bola Negra\" podría ganarle el Oscar a \"La Odisea\"",
-    "link": "https://www.bbc.com/mundo/articles/cmqxnew29erno?at_medium=RSS&at_campaign=rss"
+    "text": "Quién es Katie Zacharia y por qué su designación como secretaria de prensa de Trump ha generado controversia",
+    "link": "https://www.bbc.com/mundo/articles/c68jzgwd9m7go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Las imágenes de la nueva cárcel de máxima seguridad de Costa Rica que imita al Cecot de Bukele",
+    "link": "https://www.bbc.com/mundo/articles/c5n49gplp8gmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Por qué decido regresar ahora a Venezuela tras haber estado preso en el Helicoide y pasar 12 años en el exilio",
+    "link": "https://www.bbc.com/mundo/articles/cqgk5k0znn0mo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-15",
@@ -122,7 +115,28 @@
     "date": "2026-10-15",
     "image": null,
     "category": null,
-    "text": "La nueva estrategia de Putin que busca que las ciudades de Ucrania sean invivibles",
+    "text": "\"Soy completamente inocente\": Nicolás Maduro y Cilia Flores se declaran no culpables de los nuevos cargos de tortura",
+    "link": "https://www.bbc.com/mundo/articles/cqzjx42ld8wpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Trump cancela la transmisión en vivo de la ejecución con pelotón de fusilamiento del exmilitar Nidal Hasan",
+    "link": "https://www.bbc.com/mundo/articles/cq99z15e1271o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "\"Denuncio que Russell Brand me violó\": el testimonio de una de las 6 mujeres que acusan al actor y exesposo de Katy Perry",
+    "link": "https://www.bbc.com/mundo/articles/cmy83d1lnyj7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "\"Ahora Kyiv es el frente de batalla\": la nueva estrategia de Putin de hacer invivibles las ciudades de Ucrania",
     "link": "https://www.bbc.com/mundo/articles/c3lyl1ykqjv4o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -136,99 +150,106 @@
     "date": "2026-10-15",
     "image": null,
     "category": null,
-    "text": "\"Historias fantasmales sin base científica\": Meredith Whittaker, la mujer más poderosa en el mundo de la IA, rechaza los peligros contra los humanos",
-    "link": "https://www.bbc.com/mundo/articles/cqe8lydy6rpyo?at_medium=RSS&at_campaign=rss"
+    "text": "4 razones por las que la épica historia gay de \"La Bola Negra\" podría ganarle el Oscar a \"La Odisea\"",
+    "link": "https://www.bbc.com/mundo/articles/cmqxnew29erno?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/NQNMDLAQMFABVJ26MQKZDKNATY.jpg?auth=7e6665b2e80bc73678fc9e12cda6e6a2762cf6567176598dccb67b10f8b4d220&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/XOM3JLOCORAOJKZU6QOHMGYIBA.jpg?auth=1e2c0a41f7c87339110eb77eab75a8ba492f130560789a1d18472c3ca0f2807e&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "El Sporting de Hortaleza-Sevilla FC de Copa del Rey se disputará en el Estadio El Val de Alcalá de Henares",
-    "link": "https://www.infobae.com/america/agencias/2026/10/15/el-sporting-de-hortaleza-sevilla-fc-de-copa-del-rey-se-disputara-en-el-estadio-el-val-de-alcala-de-henares/"
+    "text": "Garbage ofrecerá concierto gratuito en el Zócalo de la CDMX",
+    "link": "https://www.infobae.com/mexico/2026/10/15/garbage-ofrecera-un-concierto-gratuito-en-el-zocalo/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/KVUPN2N6ZBEVHOQQZSINTJOFDQ.jpg?auth=3bb079a78cd4aaf4cb5d79d360d0ca1ef2c7746af5b5c46ff551c042315cb29b&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/O6GCU6WJGNB75HLWEI2GW4ISII.jpg?auth=5295a347cf17151ecc261a01c0be1a2e4c6a27da54c18d30c73755f24b988dfb&smart=true&width=1920&height=1281",
     "category": null,
-    "text": "EN VIVO | Clima CDMX y resto de México hoy jueves 15 de octubre: Trudy amenaza Acapulco como huracán categoría 1",
-    "link": "https://www.infobae.com/mexico/2026/10/15/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-jueves-15-de-octubre-frente-frio-2-amenaza-con-lluvias-intensas-y-bajas-temperaturas/"
+    "text": "Estados Unidos sancionó al régimen cubano por sus vínculos con el banco iraní Karafarin",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/15/estados-unidos-sanciono-al-regimen-cubano-por-sus-vinculos-con-el-banco-irani-karafarin/"
   },
   {
     "date": "2026-10-15",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/ATNVSPQNA5H7LNS5STLOWCWUHA.png?auth=8404c00907042c7d521f9ee643ea0206681fef4e6d63e441ebd933d231d1f876&smart=true&width=1098&height=652",
     "category": null,
-    "text": "Trump descarta su plan de retransmitir en directo el fusilamiento de un exmilitar",
-    "link": "https://www.infobae.com/america/agencias/2026/10/15/trump-descarta-su-plan-de-retransmitir-en-directo-el-fusilamiento-de-un-exmilitar/"
+    "text": "Juicio de los Cuadernos: el reportero que fotografió los cuadernos originales ratificó que son los que tiene la Justicia",
+    "link": "https://www.infobae.com/judiciales/2026/10/15/juicio-de-los-cuadernos-se-reanudo-el-debate-con-testigos-sobre-los-cruces-de-llamadas/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/IXDEBIMGKBBAPEN6E5ADJ52O6Q.jpg?auth=5e6a58b2ec95274f8bca42ac1e23e26b1a5161720e8e3dd6e04e01bfa1998ab1&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/IXHWKXWA2ZEKJJWTFCMLQXWXXU.jpg?auth=66286275857097355cacd6900994c626dde3116d957faf748612d8c33560e0ce&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Quién es el colombiano hallado sin vida en el asiento trasero de un vehículo en California, Estados Unidos",
-    "link": "https://www.infobae.com/colombia/2026/10/15/quien-es-el-colombiano-hallado-sin-vida-en-el-asiento-trasero-de-un-vehiculo-en-california-estados-unidos/"
+    "text": "Benjamín Gil es nuevo entrenador de los Diablos Rojos del México",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/15/benjamin-gil-es-nuevo-entrenador-de-los-diablos-rojos-del-mexico/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/X2RGUC2U5FHBLE7VVWND6AD4DM.jpg?auth=26e049c2a97ee75d1439167f51f2b4e0f2647753500832f08b8ae11a3e5b9b0a&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/GBY257N53NAJLJLXW74UENN5OM.png?auth=0ec289f95991d163f06f63fecbd94c76e07b0460823d3fe51acaaf83a265aafe&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy 15 de octubre: CNDH comienza investigaciones de detenciones en marcha de Guadalajara",
-    "link": "https://www.infobae.com/mexico/2026/10/15/en-vivo-la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-15-de-octubre/"
+    "text": "Epic Games Store cambia | usaron inteligencia artificial y la biblioteca tiene nueva interfaz",
+    "link": "https://www.infobae.com/tecno/2026/10/15/epic-games-store-cambia-usaron-inteligencia-artificial-y-la-biblioteca-tiene-nueva-interfaz/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/3TD7KJJNXVEV7NK3O3DWUTJEJU.png?auth=93cf462ae5d643f7e672cbcb9d6053a6d7c3d82121cd483357fbcd0e0a10799b&smart=true&width=1408&height=768",
+    "image": "https://www.infobae.com/resizer/v2/HDYIPXWPXBDGDKCK4WZ5EJT6SA.png?auth=e442b42b5c451fa972aea0d446ed79c38a28ffb8e9af69d297b9da673769c7f6&smart=true&width=785&height=394",
     "category": null,
-    "text": "¿El descanso permite aprender más rápido? Científicos de Yale identificaron un mecanismo cerebral clave",
-    "link": "https://www.infobae.com/salud/ciencia/2026/10/15/el-descanso-permite-aprender-mas-rapido-cientificos-de-yale-identificaron-un-mecanismo-cerebral-clave/"
+    "text": "El Senado dictaminó el Tratado de Patentes con un guiño a favor de laboratorios locales",
+    "link": "https://www.infobae.com/politica/2026/10/15/el-senado-dictamino-el-tratado-de-patentes-con-un-guino-a-favor-de-laboratorios-locales/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/ADY5UY4BPRGT5ELM37PICB4A5A.JPG?auth=4fa1358f430c69c2dd49e663a492e5f875459c278aec5acb8fd67ee7088fb385&smart=true&width=637&height=424",
+    "image": "https://www.infobae.com/resizer/v2/GJGW7AIRNFBFVIFA4UDCDEKMDE.JPG?auth=acd4e0820ebec7dab0699a84bbcb26150444de819c2fdf6e3d6231bfd3c8c624&smart=true&width=5472&height=3648",
     "category": null,
-    "text": "Trump descartó que el Pentágono retransmita en directo el fusilamiento de Nidal Hasan, el autor de la masacre de Fort Hood",
-    "link": "https://www.infobae.com/estados-unidos/2026/10/15/trump-descarto-que-el-pentagono-retransmita-en-directo-el-fusilamiento-de-hasan-el-autor-de-la-masacre-de-fort-hood/"
+    "text": "Incidentes en el Congreso: tras la fallida sesión en Diputados, manifestantes tiraron piedras y Gendarmería respondió con gases",
+    "link": "https://www.infobae.com/politica/2026/10/15/incidentes-en-la-marcha-federal-universitaria-manifestantes-tiraron-piedras-y-gendarmeria-arrojo-gases/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/SH2DNRXFTJAVPJDSZSLYP4KZOQ.jpg?auth=a822acdf832f13bdf3c4bf8e5899fa2021d689ed876d66ce1ad4a1b79250541c&smart=true&width=1024&height=682",
+    "image": "https://www.infobae.com/resizer/v2/OH7X6X6FO5AYLP5DDUNEOSSUM4.jpg?auth=0c38e77f1ad7e0e93290ac809e8e911aee0c9927f35c659a26da54a5c24698c4&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Javier Milei retoma su agenda federal y planea visitar dos provincias antes de finales de octubre",
-    "link": "https://www.infobae.com/politica/2026/10/15/javier-milei-retoma-su-agenda-federal-y-planea-visitar-dos-provincias-antes-de-finales-de-octubre/"
+    "text": "Supuesto ex patrón encara a tamalera por abrir su propio negocio en Tijuana: “Eres una mala agradecida”",
+    "link": "https://www.infobae.com/mexico/2026/10/15/supuesto-ex-patron-encara-a-tamalera-por-abrir-su-propio-negocio-en-tijuana-eres-una-mala-agradecida/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/NIAOQJPZK5E75BZEFHD7G4F3NQ.png?auth=d5b95a32d135ce852c1eb0d22d2cfa24bc89140b43635339eeafe595fb6dbdef&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/HAEYZF7SHJE4ZCC5HXGXYK7JBU.png?auth=415ac7442339a68a8ca2f2c78aa9f29fd1fc6fe6e05778f6cf705828b7eadce8&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "El viaje internacional del Premio Planeta de Sonsoles Ónega: la serie de ‘Las hijas de la criada’ se emitirá en países como Finlandia o Rumanía",
-    "link": "https://www.infobae.com/espana/2026/10/15/el-viaje-internacional-del-premio-planeta-de-sonsoles-onega-la-serie-de-las-hijas-de-la-criada-se-emitira-en-paises-como-finlandia-o-rumania/"
+    "text": "Estas son las dos regiones más envejecidas del Perú: su población menor de 15 años no llega al 20%",
+    "link": "https://www.infobae.com/peru/2026/10/15/estas-son-las-dos-regiones-mas-envejecidas-del-peru-su-poblacion-menor-de-15-anos-no-llega-al-20/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/NORNVDGBEZBUFJXXG6L7Y4NWDA.png?auth=0449c5382ae588e96b3f58dbac564f95ab21fb219bf08744d8e6e485ab726037&smart=true&width=1536&height=1024",
+    "image": "https://www.infobae.com/resizer/v2/AM5SCCGFVVGYLD7GPIXREPFVWM.png?auth=226931a3e4504a23d6cb907b1bcc4a0adc75b4d5ce8b338c0d143bbd8a3e854c&smart=true&width=900&height=600",
     "category": null,
-    "text": "La Tinka: Este es el dinero que recibirá el ganador del Pozo Millonario de S/ 32 millones tras el descuento de impuestos",
-    "link": "https://www.infobae.com/peru/2026/10/14/la-tinka-cuanto-dinero-recibira-el-ganador-de-los-s-32-millones-del-pozo-millonario-tras-el-descuento-de-impuestos/"
+    "text": "Tras participar en ‘The People’s Court’, una mujer desapareció horas más tarde y casi 15 años después arrestaron a su exprometido",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/15/tras-participar-en-the-peoples-court-una-mujer-desaparecio-horas-mas-tarde-y-casi-15-anos-despues-arrestaron-a-su-exprometido/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/GSBBUDOLDJC2RLLYPYAZ72SE6E.png?auth=a4782aa58ffc813d8c7e54919b5ee37a8e8b243c73995ab5f7694f930048fcd2&smart=true&width=1366&height=768",
+    "image": "https://www.infobae.com/resizer/v2/RU7ZWCDLVZHCNBBUOEOYMIQSVU.png?auth=681e6022bceb581f4c0234f8c51cab9209ced6f176b35c583523689d825322f2&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Expo de carteles sobre salud mental en el Museo Nacional de la Estampa: cómo llegar en Metro o Metrobús y hasta cuándo estará",
-    "link": "https://www.infobae.com/mexico/2026/10/15/expo-de-carteles-sobre-salud-mental-en-el-museo-nacional-de-la-estampa-como-llegar-en-metro-o-metrobus-y-hasta-cuando-estara/"
+    "text": "Ivana Figueiras mostró el anillo de compromiso que le dio Darío Cvitanich: “Ahora sí”",
+    "link": "https://www.infobae.com/teleshow/2026/10/15/ivana-figueiras-mostro-el-anillo-de-compromiso-que-le-dio-dario-cvitanich-ahora-si/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/EJ2MYKECNBGAJNEPVG2RMFSXAA.JPG?auth=ddec5b71a1e42c1bbcbb2e1272a7e2d7c311d1262df452ef16829a0a8681c825&smart=true&width=2635&height=1785",
+    "image": "https://www.infobae.com/resizer/v2/2JNQFUL335EF5JTN3NNKBRJGBI.jpg?auth=da4b0b4aedb2f9e7067d3bee78752128a16e7840c863646c7ea3198393d70709&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Estudiantes abre su llave de semifinales de Copa Libertadores ante Flamengo en La Plata: hora, TV y probables formaciones",
-    "link": "https://www.infobae.com/deportes/2026/10/15/estudiantes-abre-su-llave-de-semifinales-de-copa-libertadores-ante-flamengo-en-la-plata-hora-tv-y-probables-formaciones/"
+    "text": "“Refuerza techos y ventanas”: Senamhi advierte por ráfagas de vientos que afectarán Lima y Callao este 17 de octubre",
+    "link": "https://www.infobae.com/peru/2026/10/15/senamhi-advierte-por-incremento-de-viento-que-afectaran-lima-y-callao-el-17-de-octubre/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://imagenes.elpais.com/resizer/v2/L3ZGUAEROZPEJAGD77BVLOTOEQ.jpg?auth=7961015a501e7700dba0992d105e6645506c570cd9c12762cfcebb4ed88f553f",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Ucrania reanuda los ataques a las refinerías de Rusia en pleno clima de crispación con Trump",
-    "link": "https://elpais.com/internacional/2026-10-15/ucrania-reanuda-los-ataques-a-las-refinerias-de-rusia-en-pleno-clima-de-crispacion-con-trump.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/EB4XAIBU4NMZZJDC5GQMX7QI74.jpg?auth=95133c4208bdd0227127e0f0c3f2c79446c3650c7b7b2804b6347ee627af21da",
+    "category": "Cumbres europeas",
+    "text": "La dura negociación sobre el presupuesto de la UE amenaza el acuerdo antes del superaño electoral en Europa",
+    "link": "https://elpais.com/internacional/2026-10-15/la-dura-negociacion-sobre-el-presupuesto-de-la-ue-amenaza-el-acuerdo-antes-del-superano-electoral-en-europa.html"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://imagenes.elpais.com/resizer/v2/X762J5B44FM75HEQNQXAYCMX2Y.jpg?auth=d639606f769131fa5275ad0708180aa9d1005e27d77c59496414f545dbf97cd3",
+    "category": "Corea del Norte",
+    "text": "Corea del Norte y China abren un nuevo puente tras 12 años de retrasos",
+    "link": "https://elpais.com/internacional/2026-10-15/corea-del-norte-y-china-abren-un-nuevo-puente-tras-12-anos-de-retrasos.html"
   },
   {
     "date": "2026-10-15",
@@ -239,10 +260,17 @@
   },
   {
     "date": "2026-10-15",
-    "image": "https://imagenes.elpais.com/resizer/v2/X762J5B44FM75HEQNQXAYCMX2Y.jpg?auth=d639606f769131fa5275ad0708180aa9d1005e27d77c59496414f545dbf97cd3",
-    "category": "Corea del Norte",
-    "text": "Corea del Norte y China abren un nuevo puente tras 12 años de retrasos",
-    "link": "https://elpais.com/internacional/2026-10-15/corea-del-norte-y-china-abren-un-nuevo-puente-tras-12-anos-de-retrasos.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/L3ZGUAEROZPEJAGD77BVLOTOEQ.jpg?auth=7961015a501e7700dba0992d105e6645506c570cd9c12762cfcebb4ed88f553f",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Ucrania desafía a Trump al reanudar sus ataques contra refinerías rusas",
+    "link": "https://elpais.com/internacional/2026-10-15/ucrania-reanuda-los-ataques-a-las-refinerias-de-rusia-en-pleno-clima-de-crispacion-con-trump.html"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://imagenes.elpais.com/resizer/v2/XPTUZNJSZ5DK3F3ZODNMKA3XOY.JPG?auth=268555d85937bcab1b6982130aacd5768f53962e9184be074d7c0794555a4d3b",
+    "category": "Donald Trump",
+    "text": "Trump da marcha atrás: el Pentágono no retransmitirá la ejecución por fusilamiento de Nidal Malik Hasan",
+    "link": "https://elpais.com/us/2026-10-15/trump-anuncia-que-el-pentagono-no-retransmitira-la-ejecucion-por-fusilamiento-de-hasan.html"
   },
   {
     "date": "2026-10-15",
@@ -260,73 +288,122 @@
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0cbbd59bf5b16d435f1a2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad10cff59bf5b21cc22d7c9.png",
     "category": null,
-    "text": "Este país de la OTAN da un 'baño de realidad' a las ilusiones de Kiev de ingresar en la UE",
-    "link": "https://actualidad-rt.com/actualidad/632605-pais-otan-le-da-bano?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Sobres con \"sustancias sospechosas\" llegan a oficinas del Congreso y electorales en EE.UU.",
+    "link": "https://actualidad-rt.com/actualidad/632653-sobres-sustancias-sospechosas-llegan-oficinas-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0e066e9ff7142204fc592.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad1072a59bf5b21cc22d7be.jpg",
     "category": null,
-    "text": "VIDEO: Buque en llamas cruza una zona prohibida en el estrecho de Ormuz",
-    "link": "https://actualidad-rt.com/actualidad/632632-video-buque-llamas-cruzar-zona-prohibida-estrecho-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Excluyen a las más fuertes\": Países Bajos niega la visa a las gimnastas estrellas rusas antes del Mundial",
+    "link": "https://actualidad-rt.com/actualidad/632642-excluyen-mas-fuertes-paises-bajos-niega-visa-gimnastas-rusas-mundial?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0dc6ee9ff7142204fc58e.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0f09de9ff71258c33f092.jpg",
     "category": null,
-    "text": "\"Queman el dinero de los alemanes\": Líder opositora carga contra Merz por destinar miles de millones a Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/632586-quemar-dinero-alemanes-lider-opositora-merz-millones-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Zelenski califica de \"error\" las afirmaciones de Trump sobre la necesidad de elecciones en Ucrania",
+    "link": "https://actualidad-rt.com/actualidad/632637-zelenski-califica-error-afirmaciones-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": null,
     "category": null,
-    "text": "\"Morirá, pero no será transmitido\": Trump cancela la polémica retransmisión de la ejecución de un exmilitar",
-    "link": "https://actualidad-rt.com/actualidad/632636-morira-sera-transmitido-trump-cancela?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Londres envía más misiles crucero a Ucrania",
+    "link": "https://actualidad-rt.com/actualidad/632675-londres-enviar-misiles-crucero-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad096a2e9ff71364b1eb217.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0de2ee9ff71774d448b06.jpg",
     "category": null,
-    "text": "Zelenski confirma una amenaza de EE.UU. que él mismo ignoró",
-    "link": "https://actualidad-rt.com/actualidad/632568-zelenski-confirma-amenazar-eeuu-ignorar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ciberestafas: la cara oscura de la digitalización que pone en jaque a Latinoamérica",
+    "link": "https://actualidad-rt.com/actualidad/632624-ciberestafas-cara-oscura-digitalizacion-latinoamerica?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0dc27e9ff716baf227107.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad11aebe9ff71258c33f0c4.jpg",
     "category": null,
-    "text": "\"Comparable a un ataque nuclear\": ¿cómo afectarán a Kiev las restricciones de Starlink?",
-    "link": "https://actualidad-rt.com/actualidad/632616-comparable-ataque-nuclear-afectaran-kiev-restricciones-starlink?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Netanyahu advierte a Irán cuál sería \"el error de su vida\"",
+    "link": "https://actualidad-rt.com/actualidad/632669-netanyahu-advierte-iran-cual-seria?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0d1ec59bf5b382f2133be.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad11a1b59bf5b16d435f20b.jpg",
     "category": null,
-    "text": "Ruta Marítima del Norte gana peso en el comercio mientras las empresas europeas miran desde lejos",
-    "link": "https://actualidad-rt.com/actualidad/632617-ruta-maritima-norte-gana-peso?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEOS: Los estragos de lluvia, granizo y vientos en Sao Paulo",
+    "link": "https://actualidad-rt.com/actualidad/632666-estragos-lluvia-granizo-vientos-sao-paulo?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad093fee9ff7176cc5f5369.jpg",
+    "image": null,
     "category": null,
-    "text": "Zelenski desafía a Trump y asegura que continuará atacando refinerías rusas",
-    "link": "https://actualidad-rt.com/actualidad/632570-zelenski-desafiar-trump-ucrania-continuar-ataques-refinerias-rusas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Fujimori advierte que el fenómeno del Niño \"va a golpear mucho más fuerte\" al Perú",
+    "link": "https://actualidad-rt.com/actualidad/632672-fujimori-advertir-fenomeno-nino-fuerte-peru?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0cf6659bf5b37bb258fe2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad118b1e9ff71304060fdc1.jpg",
     "category": null,
-    "text": "VIDEO: Lo que hizo para evitar el arresto deja atónitos a unos policías en EE.UU.",
-    "link": "https://actualidad-rt.com/viral/632608-evitar-arresto-deja-atonitos-policias-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Caza con 'halcones': drones rusos protegen puntos importantes mientras eliminan al enemigo (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/632667-caza-drones-rusos-protegen-puntos-eliminan-enemigo?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0c12359bf5b06520949ab.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad117a059bf5b172132c41c.jpg",
     "category": null,
-    "text": "Fico: Eslovaquia no dará más \"regalos\" a Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/632601-fico-eslovaquia-dara-regalos-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump afirma que México \"no es capaz\" de hacer que los cárteles se rindan",
+    "link": "https://actualidad-rt.com/actualidad/632664-trump-afirmar-mexico-incapaz-controlar-carteles?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Otro petrolero se incendia cerca de Ormuz después de que se hundieran 2 cargueros en los ataques",
+    "link": "https://es.euronews.com/2026/10/15/otro-petrolero-se-incendia-cerca-de-ormuz-despues-de-que-se-hundieran-2-cargueros-en-los-a"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "EURONEWS HOY | Las noticias del 15 de octubre de 2026: Ucrania sufre un apagón satelital tras el giro de Trump",
+    "link": "https://es.euronews.com/2026/10/15/euronews-hoy-las-noticias-del-15-de-octubre-de-2026-ucrania-sufre-un-apagon-satelital-tras"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Maduro y Cilia Flores se declaran \"no culpables\" de los nuevos cargos por torturas presentados por EE.UU.",
+    "link": "https://es.euronews.com/2026/10/15/maduro-y-cilia-flores-se-declaran-inocentes"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 15 octubre 2026 - Tarde",
+    "link": "https://es.euronews.com/video/2026/10/15/ultimas-noticias-15-octubre-2026-tarde"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Estambul registra uno de los mayores diluvios desde 1985: 2 muertos",
+    "link": "https://es.euronews.com/2026/10/15/estambul-registra-una-de-las-mayores-lluvias-desde-1985-2-muertos"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Harry y Meghan vuelven al primer plano 6 años tras dejar la realeza",
+    "link": "https://es.euronews.com/video/2026/10/15/reino-unido-harry-y-meghan-regresan-a-primer-plano-6-anos-tras-dejar-la-familia-real"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "El cielo de Indonesia se vuelve de un naranja apocalíptico mientras el humo cubre Singapur",
+    "link": "https://es.euronews.com/video/2026/10/15/el-cielo-de-indonesia-se-vuelve-naranja-apocaliptico-mientras-el-humo-cubre-singapur"
   },
   {
     "date": "2026-10-15",
@@ -341,82 +418,5 @@
     "category": null,
     "text": "Pakistán: El derrumbe de una escuela deja al menos 32 alumnos muertos",
     "link": "https://es.euronews.com/video/2026/10/15/pakistan-el-derrumbe-de-una-escuela-deja-al-menos-32-alumnos-muertos"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "Azerbaiyán impulsa una inusual cumbre con líderes de Oriente Medio y Asia en conflicto",
-    "link": "https://es.euronews.com/2026/10/15/azerbaiyan-impulsa-inusual-cumbre-lideres-oriente-medio-asia-conflicto"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "El derrumbe del tejado de una escuela en Pakistán causa 18 muertos y decenas de heridos en Peshawar",
-    "link": "https://es.euronews.com/2026/10/15/derrumbe-del-tejado-de-una-escuela-pakistan-causa-18-muertos-decenas-heridos-peshawar"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 15 octubre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/10/15/ultimas-noticias-15-octubre-2026-mediodia"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "Los cortes de internet en Rusia obligan a las empresas estatales y familias a volver al teléfono fijo",
-    "link": "https://es.euronews.com/2026/10/15/cortes-de-internet-en-rusia-obligan-a-las-empresas-y-familias-a-volver-al-telefono-fijo"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "China y Corea del Norte inauguran el nuevo puente del río Yalu tras 12 años de retraso",
-    "link": "https://es.euronews.com/video/2026/10/15/china-y-corea-del-norte-inauguran-el-nuevo-puente-del-rio-yalu-tras-12-anos-de-retraso"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "Tailandia: protestas en Bangkok contra FMI y Banco Mundial por capitalismo destructivo",
-    "link": "https://es.euronews.com/video/2026/10/15/tailandia-protestas-en-bangkok-contra-fmi-y-banco-mundial-por-capitalismo-destructivo"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "Europe Today: Kaja Kallas habla en exclusiva con 'Euronews' al inicio de la cumbre de la UE",
-    "link": "https://es.euronews.com/2026/10/15/europe-today-kaja-kallas-habla-en-exclusiva-con-euronews-al-inicio-de-la-cumbre-de-la-ue"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "China y Corea del Norte inauguran un nuevo puente de cuatro carriles tras más de una década de retrasos",
-    "link": "https://es.euronews.com/2026/10/15/china-corea-del-norte-inauguran-nuevo-puente-cuatro-carriles-tras-decada-retrasos"
-  },
-  {
-    "date": "2026-10-15",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 15 octubre 2026 - Mañana",
-    "link": "https://es.euronews.com/video/2026/10/15/ultimas-noticias-15-octubre-2026-manana"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California",
-    "link": "https://www.bbc.com/mundo/articles/cwx28rg0z8pyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón",
-    "link": "https://www.bbc.com/mundo/articles/cmvgxvdpwk30o?at_medium=RSS&at_campaign=rss"
   }
 ]

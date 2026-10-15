@@ -1,6 +1,20 @@
 [
   {
     "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/0aa7737e-c83c-11f1-af7d-638c1c1f5fd6/w:1024/p:16x9/90bd5f4c90f09eb957948de43a7ce1797745125f.jpg",
+    "category": "Europa",
+    "text": "Los líderes de la UE afrontan una decisiva batalla presupuestaria ante la proximidad de las elecciones",
+    "link": "https://www.france24.com/es/europa/20261015-los-l%C3%ADderes-de-la-ue-afrontan-una-decisiva-batalla-presupuestaria-ante-la-proximidad-de-las-elecciones"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://s.france24.com/media/display/044bb1fc-c864-11f1-a292-2d1c143cdef3/w:1024/p:16x9/AP26287344030998.jpg",
+    "category": "Europa",
+    "text": "En directo: Rusia ataca varias regiones de Ucrania y alcanza dos buques de carga en el mar Negro",
+    "link": "https://www.france24.com/es/europa/20261015-en-directo-guerra-en-ucrania-rumania-investiga-un-posible-ataque-contra-un-buque-petrolero-en-el-mar-negro"
+  },
+  {
+    "date": "2026-10-15",
     "image": "https://s.france24.com/media/display/3d7c3ff4-c833-11f1-99bd-638c1c1f5fd6/w:1024/p:16x9/AP26273500858696.jpg",
     "category": "Economía",
     "text": "EE. UU.: una inflación al rojo vivo pone presión sobre los republicanos de cara a las midterms",
@@ -50,87 +64,101 @@
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/PRKK5YFYR5FFFEMH6GAGASXPFI.jpg?auth=2d48c6b8c86f9afd7ae323564ecd9d09670b71134cb57d44752936450785cff6&smart=true&width=1362&height=655",
+    "image": "https://www.infobae.com/resizer/v2/Z5MHC5VMLBDX3ATVCVF5WMPL6Y.png?auth=b530df57b9dd456ad21b5e4753440a38682134ee03254959bddccccee5be1288&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Estiman participación del 60% de los trabajadores del IMSS en la votación del aumentos salarial: este jueves se dan los resultados",
-    "link": "https://www.infobae.com/mexico/2026/10/15/estiman-participacion-del-60-de-los-trabajadores-del-imss-en-la-votacion-del-aumentos-salarial-este-jueves-se-dan-los-resultados/"
+    "text": "Bajar de peso mejora la presión arterial y ayuda a controlar la glucosa: qué porcentaje aporta beneficios",
+    "link": "https://www.infobae.com/salud/2026/10/15/bajar-de-peso-mejora-la-presion-arterial-y-ayuda-a-controlar-la-glucosa-que-porcentaje-aporta-beneficios/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/K3BDV4KBZJFYPDAMXMABJ7YSWA.png?auth=9b8a2bfb3989be8e43cc20c3932fc1bb7ca58e00a47f72c5df27c2059bef2c28&smart=true&width=960&height=540",
+    "image": "https://www.infobae.com/resizer/v2/4IYU2XJGBVC7JARNC7VLBLGG4A.png?auth=33dc4ce2b2ee45bd80726351b406f802e6b81b70fb4a40039b7bbf544c2c999f&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Intoxicación en una escuela de Santiago de Cuba deja 26 personas bajo atención médica",
-    "link": "https://www.infobae.com/cuba/2026/10/15/intoxicacion-en-una-escuela-de-santiago-de-cuba-deja-26-personas-bajo-atencion-medica/"
+    "text": "Cómo funciona el modelo de IA que podría estimar el riesgo de diabetes tipo 2 con la voz y en solo 20 segundos",
+    "link": "https://www.infobae.com/salud/ciencia/2026/10/15/como-funciona-el-modelo-de-ia-que-podria-estimar-el-riesgo-de-diabetes-tipo-2-con-la-voz-y-en-solo-20-segundos/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/APQGFIRM7JCOHEE3NUPKE4XUME.png?auth=76a46c58eaddf9d225afdee24c79769d2769cf72bc918ab2993d79f3925abd69&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/MUQWY6RUDNGW3MRZ24TMDL6AEY.png?auth=1b1f9531bf7fce53f7703aa584e2bafd700d41ae1e8e9ebb0122b4932b377ef3&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Las perlitas de los Martín Fierro de la Música: del reconocimiento a Charly García a la distinción a Wanda Nara",
-    "link": "https://www.infobae.com/teleshow/2026/10/15/las-perlitas-de-los-martin-fierro-de-la-musica-del-reconocimiento-a-charly-garcia-a-la-distincion-a-wanda-nara/"
+    "text": "Austin Butler y Michael B. Jordan comenzaron a rodar Miami Vice ’85 con un look de los 80 y la promesa de “glamour y corrupción”",
+    "link": "https://www.infobae.com/entretenimiento/2026/10/15/austin-butler-y-michael-b-jordan-comenzaron-a-rodar-miami-vice-85-con-un-look-de-los-80-y-la-promesa-de-glamour-y-corrupcion/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/CMS32RXY4NENTO5BZNTWXAUH4U.jpg?auth=f8972fa978f4caded8ebfc07261e9f66d9734f6d4ef4907b83d518b2958a3477&smart=true&width=750&height=500",
+    "image": "https://www.infobae.com/resizer/v2/TDWXSUQ6YVEV3AKZBX2GAAHSBU.jpg?auth=71738c2f10711989010d79ebe50355e17ffeab10714c4074dcbbd656da6273d7&smart=true&width=2520&height=1418",
     "category": null,
-    "text": "De Vargas Llosa a Javier Cercas y Manuel Vázquez Montalbán, el Premio Planeta cumple 75 años como el trampolín más codiciado de la literatura en español",
-    "link": "https://www.infobae.com/cultura/2026/10/15/de-vargas-llosa-a-javier-cercas-y-manuel-vazquez-montalban-el-premio-planeta-cumple-75-anos-como-el-trampolin-mas-codiciado-de-la-literatura-en-espanol/"
+    "text": "Barritas proteicas: cuánto aportan, qué tan saludables son y datos a tener en cuenta antes de consumirlas",
+    "link": "https://www.infobae.com/salud/2026/10/15/barritas-proteicas-cuanto-aportan-que-tan-saludables-son-y-datos-a-tener-en-cuenta-antes-de-consumirlas/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/6UUIKE7KQRCCJK4R7AECORYC3M.jpg?auth=d96824f45afe9cc493968c6bd7d04437fd3c2ae7d5d8553dc354f0d7b369e638&smart=true&width=600&height=400",
+    "image": "https://www.infobae.com/resizer/v2/GTFUD2HGOZECDOQAR27C56CIYI.png?auth=7a04768849ee5567773ca332a9ead51088a6d23ed62a38b0bd51464bc4926f4a&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Capturan a cinco señalados integrantes de ‘los Sayayines’, banda acusada de una cadena de atracos en Palmira",
-    "link": "https://www.infobae.com/colombia/2026/10/15/capturan-a-cinco-senalados-integrantes-de-los-sayayines-banda-acusada-de-una-cadena-de-atracos-en-palmira/"
+    "text": "Dormir poco y sin rutina fija multiplica el riesgo de sufrir hasta 37 afecciones crónicas",
+    "link": "https://www.infobae.com/salud/ciencia/2026/10/15/dormir-poco-y-sin-rutina-fija-multiplica-el-riesgo-de-sufrir-hasta-37-afecciones-cronicas/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/U5YBL5A56NHXHKIPWB3FMDGUVI.jpg?auth=9d0ca5f52fcdaf1da538a75cd135689c787bceaaf94cf502b1314856a7d78e48&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/K2XS2WEJE5E4ZMYZZZ4GGG7A4Q.png?auth=5127154b585faf12b9ba7bb53775e3a2f2396fe2ea317a6aca83d77a60df3858&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Jueza federal presenta denuncia ante la FGR contra el comprador de Altos Hornos de México por “falsedad en declaraciones”",
-    "link": "https://www.infobae.com/mexico/2026/10/15/jueza-federal-presenta-denuncia-ante-la-fgr-contra-el-comprador-de-altos-hornos-de-mexico-por-falsedad-en-declaraciones/"
+    "text": "El error frecuente con la cortina de la ducha que favorece las manchas de moho",
+    "link": "https://www.infobae.com/tendencias/2026/10/15/el-error-frecuente-con-la-cortina-de-la-ducha-que-favorece-las-manchas-de-moho/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/VAO6TLN73BAVHJJXGXUWBXULYQ.jpg?auth=8cec7de8baf214ad2afaeb2b6b48fe4c60bfe0c9687c20ea591d3b56506f38d3&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/5FRQHJQW7RFBVLUKA3GWVX4AWM.png?auth=9d19218bf34f90b805a201cd5f2f987c87ed6d7e0c505e635e61ed9722642af4&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Temblor hoy 14 de octubre en México: se registró un sismo de magnitud 4.1 en Chiapas",
-    "link": "https://www.infobae.com/mexico/2026/10/14/temblor-hoy-en-mexico-noticias-actividad-sismica-14-de-octubre-de-2026/"
+    "text": "Cómo evitar el mal olor en el baño: 7 consejos prácticos para aplicar a diario",
+    "link": "https://www.infobae.com/tendencias/2026/10/15/como-evitar-el-mal-olor-en-el-bano-7-consejos-practicos-para-aplicar-a-diario/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/H6H7QEJ52BA2XEVYTWT5RA6VLQ.png?auth=2b0e2bcc7839ac505c13c2cb87fe36202e998003f3916c1641f4fa7c4b15c6b7&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/WIHQRDYRMVHBTD7AZL7QKYXDKU.png?auth=c5849dc93010619e542340faa05891760fd7865a872f97c1d2ec174647031ce6&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Resultado Sinuano Noche hoy 14 de octubre",
-    "link": "https://www.infobae.com/colombia/2026/10/15/resultado-sinuano-noche-hoy-14-de-octubre/"
+    "text": "Qué hay detrás del dolor de cuello por pantallas y por qué expertos advierten que no debe ignorarse",
+    "link": "https://www.infobae.com/salud/2026/10/15/que-hay-detras-del-dolor-de-cuello-por-pantallas-y-por-que-expertos-advierten-que-no-debe-ignorarse/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/QRPH5EUJEJET3N37OZI25BP4LI.jpg?auth=04a6ff3f672467d1c59fde64854942f9835a6991dab229711390c5a2e9b604e4&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/FPKP2AX3OBBJ5PM2BVLNGQSJXI.png?auth=91d29d9b49749708615f6ce4a5e429a1356c31921dc071048589b70080a644fd&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "El capitán de un buque en aguas territoriales rumanas en el mar Negro alerta de un ataque con dron",
-    "link": "https://www.infobae.com/america/agencias/2026/10/15/el-capitan-de-un-buque-en-aguas-territoriales-rumanas-en-el-mar-negro-alerta-de-un-ataque-con-dron/"
+    "text": "Tiene 71 años, vive en un motorhome desde 2018 y ya visitó 284 parques nacionales: “Es una vida maravillosa en la jubilación”",
+    "link": "https://www.infobae.com/historias/2026/10/15/tiene-71-anos-vive-en-un-motorhome-desde-2018-y-ya-visito-284-parques-nacionales-es-una-vida-maravillosa-en-la-jubilacion/"
   },
   {
     "date": "2026-10-15",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/4JWAB7C22RBNRI54NA7CH7QJHI.jpg?auth=c00b25e0505034bcee71c6a29631dd4e36afee5c9bad606e2a10490d18cbfb98&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "De Larrea mete diez puntos y Díaz-Graham aporta cinco con los Mavs ante los Pelicans",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/15/de-larrea-mete-diez-puntos-y-diaz-graham-aporta-cinco-con-los-mavs-ante-los-pelicans/"
+    "text": "El antecedente familiar que muchos pacientes omiten ante el reumatólogo y podría orientar el diagnóstico",
+    "link": "https://www.infobae.com/salud/ciencia/2026/10/15/el-antecedente-familiar-que-muchos-pacientes-omiten-ante-el-reumatologo-y-podria-orientar-el-diagnostico/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/QCXZ6L44NBCLHGD3A6575H6EQY.jpg?auth=c9f0e7290317580b3f022499eb8726ca41ead2d194a72fe2df0d2020990ac809&smart=true&width=1980&height=1090",
+    "image": "https://www.infobae.com/resizer/v2/6W6WPWPROJC7NDGZLPFSMFC2UE.jpg?auth=8e20405dbc8c93c361246068482047c4d48d42f82729e03fcaa8113a7a533919&smart=true&width=1280&height=720",
     "category": null,
-    "text": "Marcelo Tinelli debutó con Dale Match, su nuevo programa en Infobae en Vivo, y encendió la pantalla con todo su humor",
-    "link": "https://www.infobae.com/teleshow/2026/10/15/marcelo-tinelli-debuto-con-dale-match-su-nuevo-programa-en-infobae-en-vivo-y-encendio-la-pantalla-con-todo-su-humor/"
+    "text": "Por qué las auroras boreales pueden ser verdes, rojas o violetas: qué las desencadena y en qué épocas del año suelen aparecer con más frecuencia",
+    "link": "https://www.infobae.com/america/ciencia-america/2026/10/15/por-que-las-auroras-boreales-pueden-ser-verdes-rojas-o-violetas-que-las-desencadena-y-en-que-epocas-del-ano-suelen-aparecer-con-mas-frecuencia/"
   },
   {
     "date": "2026-10-15",
-    "image": "https://www.infobae.com/resizer/v2/ANT6AVYHQBDC3ON63XTKJ64IMU.jpg?auth=b2dd921a95cc65c2d31c5da0df8df65e1f7fe0a64143727d267c5366a6ce83c5&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/25YDMQN6GJBBPP6HDI6A6DZ6N4.png?auth=d8cf514cf5248c76bdf08417aec17586d3c70ee5b66cddcdcfe548c013f4d3c4&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Senado aprueba nueva ley para registrar casas y terrenos: así cambiará la identificación de propiedades en México",
-    "link": "https://www.infobae.com/mexico/2026/10/15/senado-aprueba-nueva-ley-para-registrar-casas-y-terrenos-asi-cambiara-la-identificacion-de-propiedades-en-mexico/"
+    "text": "Con una pechuga de pavo, especias y tu freidora de aire puedes preparar este fiambre delicioso y saludable recomendado por una chef privada",
+    "link": "https://www.infobae.com/espana/2026/10/15/con-una-pechuga-de-pavo-especias-y-tu-freidora-de-aire-puedes-preparar-este-embutido-delicioso-y-saludable-recomendado-por-una-chef-privada/"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://imagenes.elpais.com/resizer/v2/L3ZGUAEROZPEJAGD77BVLOTOEQ.jpg?auth=7961015a501e7700dba0992d105e6645506c570cd9c12762cfcebb4ed88f553f",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Ucrania reanuda los ataques a las refinerías de Rusia en pleno clima de crispación con Trump",
+    "link": "https://elpais.com/internacional/2026-10-15/ucrania-reanuda-los-ataques-a-las-refinerias-de-rusia-en-pleno-clima-de-crispacion-con-trump.html"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://imagenes.elpais.com/resizer/v2/LKZHMTH3RNI7DNPRFH7XNLT3KQ.jpg?auth=c29bcdaa7b77a0167d556f613362967f9a661883839ec079eef5a53ab9c83033",
+    "category": "Elecciones EE UU",
+    "text": "Un Trump desaforado emprende una huida hacia delante para salvar las ‘midterms’",
+    "link": "https://elpais.com/us/2026-10-15/la-desenfrenada-huida-hacia-delante-de-trump-para-salvar-las-midterms.html"
   },
   {
     "date": "2026-10-15",
@@ -141,73 +169,108 @@
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0444be9ff7150370cb9db.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad091ca59bf5b0d3e021f47.jpg",
     "category": null,
-    "text": "Zelenski sube el tono y dice que son \"absolutamente descabelladas\" las restricciones impuestas a Starlink en Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/632547-zelenski-tacha-absolutamente-descabellado-restricciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0473ce9ff714c01100202.jpg",
-    "category": null,
-    "text": "Brutal impacto: coche fuera de control irrumpe en una peluquería y arrolla a dos clientes (VIDEO)",
-    "link": "https://actualidad-rt.com/viral/632549-coche-fuera-control-irrumpir-peluqueria-arrollar-clientes?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0426e59bf5b663353ce34.jpg",
-    "category": null,
-    "text": "VIDEO: Operadores rusos derriban drones ucranianos en intensos duelos aéreos",
-    "link": "https://actualidad-rt.com/actualidad/632548-operadores-rusos-derribar-drones-ucrania-duelos-aereos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0399059bf5b5c4b535adb.jpg",
-    "category": null,
-    "text": "Le Pen: \"Francia ya no puede financiar a Ucrania\"",
-    "link": "https://actualidad-rt.com/actualidad/632544-le-pen-francia-no-puede-financiar-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Kiev lanza un ataque masivo con misiles y decenas de drones contra una refinería rusa, pese a las exigencias de Trump",
+    "link": "https://actualidad-rt.com/actualidad/632574-kiev-lanzar-ataque-masivo-refineria?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
     "image": null,
     "category": null,
-    "text": "Policía francesa recupera dos pinturas de Renoir valuadas en millones de dólares",
-    "link": "https://actualidad-rt.com/actualidad/632546-policia-francesa-recuperar-pinturas-renoir?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Aerolíneas saudíes habrían evacuado decenas de aviones del país",
+    "link": "https://actualidad-rt.com/actualidad/632566-aerolineas-saudies-habrian-evacuado-decenas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0339de9ff71408c3a434d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad06e0f59bf5b5c4b535aef.jpg",
     "category": null,
-    "text": "Exjefe de espionaje israelí demanda a Netanyahu",
-    "link": "https://actualidad-rt.com/actualidad/632540-exjefe-espionaje-israel-demandar-netanyahu-difamacion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Musk: \"Es hora de que Zelenski se vaya\"",
+    "link": "https://actualidad-rt.com/actualidad/632556-musk-hora-zelenski-vaya?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0237959bf5b73be2a2fd0.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0695d59bf5b1a5931eec8.jpg",
     "category": null,
-    "text": "Nueva filtración revela detalles y misiones finales de GTA VI (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/632541-nueva-filtracion-detalles-misiones-finales-gta-vi?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "The Telegraph: La restricción a Starlink afecta a los drones ucranianos y deja misiones sin ejecutar",
+    "link": "https://actualidad-rt.com/actualidad/632553-telegraph-restriccion-starlink-afecta-drones-ucranianos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad01e6659bf5b46e7307ab9.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad07ca7e9ff71118e14aa63.jpg",
     "category": null,
-    "text": "WP: Inteligencia de EE.UU. advirtió a la Embajada ucraniana que el intercambio de datos podría suspenderse",
-    "link": "https://actualidad-rt.com/actualidad/632528-wp-inteligencia-eeuu-advirtio-embajada-ucraniana-suspender-intercambio-datos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Detienen en Rusia a ciudadano sueco por planear atentados contra instalaciones militares",
+    "link": "https://actualidad-rt.com/actualidad/632565-detienen-rusia-ciudadano-sueco-planear?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6acfc5c259bf5b784c76696d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0788a59bf5b5ca1625629.jpg",
     "category": null,
-    "text": "Fin del 6x1 en Brasil: Senado aprueba reforma a la semana laboral de cinco días",
-    "link": "https://actualidad-rt.com/actualidad/632489-fin-6x1-brasil-senado-aprobar-semana-laboral-cinco-dias?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ucrania ataca una refinería en Rusia, desafiando las exigencias de Trump",
+    "link": "https://actualidad-rt.com/actualidad/632564-ucrania-ataca-refineria-rusia-desafiando?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-15",
     "image": null,
     "category": null,
-    "text": "Trump presume de ser el número uno en TikTok y asegura que supera a Taylor Swift",
-    "link": "https://actualidad-rt.com/actualidad/632539-trump-presume-numero-uno-tiktok?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Al menos 20 niños mueren al derrumbarse el techo de una escuela en Pakistán",
+    "link": "https://actualidad-rt.com/actualidad/632562-20-ninos-mueren-derrumbarse-techo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Japón detendrá un reactor nuclear por una fuga de agua con material radiactivo",
+    "link": "https://actualidad-rt.com/actualidad/632558-japon-detendra-reactor-nuclear-fuga-agua?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "EE.UU. obliga a sus funcionarios a obtener autorización para utilizar cualquier aeropuerto en Arabia Saudita",
+    "link": "https://actualidad-rt.com/actualidad/632559-eeuu-obliga-funcionarios-obtener-autorizacion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-15",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad0630fe9ff7106a5734cad.jpg",
+    "category": null,
+    "text": "CNN: EE.UU. podría usar la 'madre de todas las bombas' contra Irán",
+    "link": "https://actualidad-rt.com/actualidad/632554-cnn-eeuu-podria-usar-madre-todas-bombas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "China y Corea del Norte inauguran el nuevo puente del río Yalu tras 12 años de retraso",
+    "link": "https://es.euronews.com/video/2026/10/15/china-y-corea-del-norte-inauguran-el-nuevo-puente-del-rio-yalu-tras-12-anos-de-retraso"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Tailandia: protestas en Bangkok contra FMI y Banco Mundial por capitalismo destructivo",
+    "link": "https://es.euronews.com/video/2026/10/15/tailandia-protestas-en-bangkok-contra-fmi-y-banco-mundial-por-capitalismo-destructivo"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Europe Today: Kaja Kallas habla en exclusiva con 'Euronews' al inicio de la cumbre de la UE",
+    "link": "https://es.euronews.com/2026/10/15/europe-today-kaja-kallas-habla-en-exclusiva-con-euronews-al-inicio-de-la-cumbre-de-la-ue"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "China y Corea del Norte inauguran un nuevo puente de cuatro carriles tras más de una década de retrasos",
+    "link": "https://es.euronews.com/2026/10/15/china-corea-del-norte-inauguran-nuevo-puente-cuatro-carriles-tras-decada-retrasos"
+  },
+  {
+    "date": "2026-10-15",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 15 octubre 2026 - Mañana",
+    "link": "https://es.euronews.com/video/2026/10/15/ultimas-noticias-15-octubre-2026-manana"
   },
   {
     "date": "2026-10-14",
@@ -225,31 +288,17 @@
   },
   {
     "date": "2026-10-14",
+    "image": "https://s.france24.com/media/display/35040bf0-c828-11f1-8c1c-6313a763b466/w:1024/p:16x9/99effdf46aa96853af47329306e8d1c6c3ea0170.jpg",
+    "category": "América Latina",
+    "text": "Gobierno y oposición de Venezuela retoman el diálogo con las elecciones como tema central",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261014-gobierno-y-oposici%C3%B3n-de-venezuela-retoman-el-di%C3%A1logo-con-las-elecciones-como-tema-central"
+  },
+  {
+    "date": "2026-10-14",
     "image": "https://s.france24.com/media/display/5aafdb3c-c7e6-11f1-9761-d1d2c32ebb87/w:1024/p:16x9/2026-10-07T210828Z-200450030-RC22YNA9PYLH-RTRMADP-3-HAITI-ELECTION.jpg",
     "category": "América Latina",
     "text": "Haití aplaza nuevamente sus elecciones: ¿votar ahora habría beneficiado a las pandillas?",
     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261014-hait%C3%AD-aplaza-nuevamente-sus-elecciones-votar-ahora-habr%C3%ADa-beneficiado-a-las-pandillas"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/0e2229a8-c81f-11f1-9380-2d1c143cdef3/w:1024/p:16x9/ES-20261014-130835-131026-CS.jpg",
-    "category": null,
-    "text": "Alemania acusa a ciudadano ucraniano por los ataques de Nord Stream: los detalles del juicio",
-    "link": "https://www.france24.com/es/video/20261014-alemania-acusa-a-ciudadano-ucraniano-por-los-ataques-de-nordstream-los-detalles-del-juicio"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/908b13b8-c820-11f1-8df9-2d1c143cdef3/w:1024/p:16x9/ES-20261014-141325-141501-CS.jpg",
-    "category": null,
-    "text": "Informe desde Bogotá: protestas contra De la Espriella, pasadas por agua, pero en normalidad",
-    "link": "https://www.france24.com/es/video/20261014-informe-desde-bogot%C3%A1-protestas-contra-de-la-espriella-pasadas-por-agua-pero-en-normalidad"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://s.france24.com/media/display/84c31c20-c81a-11f1-9126-2d1c143cdef3/w:1024/p:16x9/ES-20261014-130221-130541-CS.jpg",
-    "category": null,
-    "text": "Informe desde Ciudad del Vaticano: así avanza la recuperación del papa León XIV",
-    "link": "https://www.france24.com/es/video/20261014-informe-desde-ciudad-del-vaticano-as%C3%AD-avanza-la-recuperaci%C3%B3n-del-papa-le%C3%B3n-xiv"
   },
   {
     "date": "2026-10-14",
@@ -316,10 +365,17 @@
   },
   {
     "date": "2026-10-14",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225205_084545_video_1800.mp4",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Rusia golpea el sector energético de Ucrania en medio de restricciones a la información de inteligencia que recibe Kiev",
-    "link": "https://elpais.com/internacional/2026-10-14/rusia-golpea-el-sector-energetico-de-ucrania-en-medio-de-restricciones-a-la-informacion-de-inteligencia-que-recibe-kiev.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/ZL6E7KRXZNKVFJLHBRUZMSXBV4.jpg?auth=a2226f4c3e7884d593e67f2f2f74a5727cfef3a3b5a469d864b652b1788388d5",
+    "category": "Elecciones EE UU",
+    "text": "Quien tiene la mayoría, tiene la chequera",
+    "link": "https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html"
+  },
+  {
+    "date": "2026-10-14",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261015/1225675_080738_video_1800.mp4",
+    "category": "Costa Rica",
+    "text": "Costa Rica adopta el modelo penitenciario de Bukele con la inauguración de una nueva megacárcel",
+    "link": "https://elpais.com/america/2026-10-14/costa-rica-adopta-el-modelo-penitenciario-de-bukele-con-la-inauguracion-de-una-nueva-megacarcel.html"
   },
   {
     "date": "2026-10-14",
@@ -327,20 +383,6 @@
     "category": "Reino Unido",
     "text": "El Reino Unido despliega la alfombra roja para arropar a Zelenski frente a Trump",
     "link": "https://elpais.com/internacional/2026-10-14/el-reino-unido-despliega-la-alfombra-roja-para-arropar-a-zelenski-frente-a-trump.html"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225274_110915_video_1800.mp4",
-    "category": "Papa León XIV",
-    "text": "Un nuevo parte médico del Vaticano informa de que el Papa se recupera favorablemente tras la extirpación de un tumor maligno",
-    "link": "https://elpais.com/internacional/2026-10-14/el-vaticano-informa-de-que-el-papa-ha-pasado-una-noche-tranquila-tras-la-extirpacion-de-un-tumor-maligno.html"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZL6E7KRXZNKVFJLHBRUZMSXBV4.jpg?auth=a2226f4c3e7884d593e67f2f2f74a5727cfef3a3b5a469d864b652b1788388d5",
-    "category": "Elecciones EE UU",
-    "text": "Quien tiene la mayoría, tiene la chequera",
-    "link": "https://elpais.com/us/2026-10-14/quien-tiene-la-mayoria-tiene-la-chequera.html"
   },
   {
     "date": "2026-10-14",
@@ -355,13 +397,6 @@
     "category": "Alemania",
     "text": "El SPD y los Verdes acusan a Die Linke de antisemitismo y suspenden las negociaciones para formar Gobierno en Berlín",
     "link": "https://elpais.com/internacional/2026-10-14/el-spd-y-los-verdes-acusan-a-die-linke-de-antisemitismo-y-suspenden-las-negociaciones-para-formar-gobierno-en-berlin.html"
-  },
-  {
-    "date": "2026-10-14",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225352_142553_video_1800.mp4",
-    "category": "Colombia",
-    "text": "De la Espriella convierte Colombia en el mayor país latinoamericano con embajada en Jerusalén",
-    "link": "https://elpais.com/internacional/2026-10-14/de-la-espriella-convierte-colombia-en-el-mayor-pais-latinoamericano-con-embajada-en-jerusalen.html"
   },
   {
     "date": "2026-10-14",
@@ -383,40 +418,5 @@
     "category": null,
     "text": "Rusia ataca a energéticas en Ucrania: 1 muerto y 20 heridos",
     "link": "https://es.euronews.com/2026/10/14/rusia-ataca-a-energeticas-en-ucrania-1-muerto-y-20-heridos"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "EURONEWS HOY | Las noticias del 14 de octubre de 2026: El Tribunal de Cuentas exonera a Puigdemont y Junqueras",
-    "link": "https://es.euronews.com/2026/10/14/euronews-hoy-las-noticias-del-14-de-octubre-de-2026-el-tribunal-de-cuentas-exonera-a-puigd"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 14 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/14/ultimas-noticias-14-octubre-2026-tarde"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "La Policía turca registra 'Halk TV' en Estambul y desata indignación por la libertad de prensa",
-    "link": "https://es.euronews.com/video/2026/10/14/la-policia-turca-registra-halk-tv-en-estambul-y-desata-indignacion-por-la-libertad-de-pren"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Alemania: Concentración en Hamburgo por el juicio de las explosiones del Nord Stream",
-    "link": "https://es.euronews.com/video/2026/10/14/alemania-concentracion-en-hamburgo-por-el-juicio-de-las-explosiones-del-nord-stream"
-  },
-  {
-    "date": "2026-10-14",
-    "image": null,
-    "category": null,
-    "text": "Comienza la cuenta atrás: qué viene tras la retirada de la Finul del sur del Líbano",
-    "link": "https://es.euronews.com/2026/10/14/comienza-la-cuenta-atras-que-viene-tras-la-retirada-de-la-finul-del-sur-del-libano"
   }
 ]

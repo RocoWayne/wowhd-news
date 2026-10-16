@@ -1,6 +1,34 @@
 [
   {
     "date": "2026-10-16",
+    "image": "https://s.france24.com/media/display/a779521e-c97f-11f1-ac50-4dd8ac2cf3bf/w:1024/p:16x9/8022172460001w.jpg",
+    "category": "América Latina",
+    "text": "¿Habrá amnistía?: el futuro de Jair Bolsonaro si su hijo Flávio llega a la Presidencia",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261016-habr%C3%A1-amnist%C3%ADa-el-futuro-de-jair-bolsonaro-si-su-hijo-fl%C3%A1vio-llega-a-la-presidencia"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://s.france24.com/media/display/4e93b07a-c9a4-11f1-8bb8-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261016-131656-132648-CS.jpg",
+    "category": null,
+    "text": "¿Por qué los líderes de UE no logran llegar a un consenso sobre el presupuesto 2028-2034?",
+    "link": "https://www.france24.com/es/video/20261016-por-qu%C3%A9-los-l%C3%ADderes-de-ue-no-logran-llegar-a-un-consenso-sobre-el-presupuesto-2028-2034"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://s.france24.com/media/display/40af87c2-c99f-11f1-a6ab-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-13T154942Z-483667837-RC2F2OAM5BO3-RTRMADP-3-USA-TRUMP.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "¿Destituida?: Trump sugiere a la portavoz de la Casa Blanca dejar su cargo tras una semana de asumirlo",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261016-destituida-trump-sugiere-a-la-portavoz-de-la-casa-blanca-dejar-su-cargo-tras-una-semana-de-asumirlo"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://s.france24.com/media/display/9f7b4632-c8bf-11f1-89cd-6313a763b466/w:1024/p:16x9/WEB-PORTADA-15OCT-CUL.png",
+    "category": "Cultura",
+    "text": "ADN y una pared falsa: las claves del robo de los cuadros de Renoir",
+    "link": "https://www.france24.com/es/programas/cultura/20261016-adn-y-una-pared-falsa-las-claves-del-robo-de-los-cuadros-de-renoir"
+  },
+  {
+    "date": "2026-10-16",
     "image": "https://s.france24.com/media/display/3d7d24d4-c994-11f1-b791-2d1c143cdef3/w:1024/p:16x9/ES-20261016-124934-125633-CS.jpg",
     "category": null,
     "text": "Directo a... Beirut y la exigencia de EE. UU. a Líbano de no entregar material explosivo a Hezbolá",
@@ -59,43 +87,22 @@
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "“Llegué a EE. UU., el país de la libertad, para perderla”: el limbo de un nicaragüense deportado a África",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261016-llegu%C3%A9-a-ee-uu-el-pa%C3%ADs-de-la-libertad-para-perderla-el-limbo-de-un-nicarag%C3%BCense-deportado-a-%C3%A1frica"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://s.france24.com/media/display/b606146e-c97c-11f1-a31e-d1d2c32ebb87/w:1024/p:16x9/Foto-Peru-Escuela.jpg",
-    "category": null,
-    "text": "En Perú quieren endurecer las normas en las escuelas con controvertido reglamento",
-    "link": "https://www.france24.com/es/video/20261016-en-per%C3%BA-quieren-endurecer-las-normas-en-las-escuelas-con-controvertido-reglamento"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://s.france24.com/media/display/b555a330-c97d-11f1-a26b-2d1c143cdef3/w:1024/p:16x9/ES-20261016-074143-074809-CS.jpg",
-    "category": null,
-    "text": "Directo España y la división en la izquierda de cara a las elecciones anticipadas",
-    "link": "https://www.france24.com/es/video/20261016-directo-espa%C3%B1a-y-la-divisi%C3%B3n-en-la-izquierda-de-cara-a-las-elecciones-anticipadas"
+    "text": "La polémica por la retirada de decenas de obras del Museo Nacional de Colombia (y qué dice de la \"batalla cultural\" de De la Espriella)",
+    "link": "https://www.bbc.com/mundo/articles/cw98zj48e4r4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
-    "link": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss"
+    "text": "Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blanca apenas días después de asumirlo",
+    "link": "https://www.bbc.com/mundo/articles/cm86zggzj6e0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3 niños y un maestro en una escuela primaria de Oregón",
-    "link": "https://www.bbc.com/mundo/articles/ckj0l9lrenq6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "\"Victoria colombiana\": el fascinante descubrimiento de un nenúfar gigante en Sudamérica que se ve desde el espacio",
-    "link": "https://www.bbc.com/mundo/articles/c8zxlydqxy67o?at_medium=RSS&at_campaign=rss"
+    "text": "\"Un gran héroe\": el padre que persiguió y abatió al atacante de la escuela de Oregón que mató a 3 niños y una profesora",
+    "link": "https://www.bbc.com/mundo/articles/cm369xj3lxy6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-16",
@@ -108,15 +115,22 @@
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Cómo los centros de datos de IA se convirtieron en un elemento clave en la batalla política en EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/c64g12190082o?at_medium=RSS&at_campaign=rss"
+    "text": "\"Victoria colombiana\": el fascinante descubrimiento de un nenúfar gigante en Sudamérica que se ve desde el espacio",
+    "link": "https://www.bbc.com/mundo/articles/c8zxlydqxy67o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Isabel Allende gana el Premio Planeta 2026 con la secuela de \"La casa de los espíritus\", la obra que la hizo famosa",
-    "link": "https://www.bbc.com/mundo/articles/cr93zk8483ypo?at_medium=RSS&at_campaign=rss"
+    "text": "Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3 niños y una maestra en una escuela primaria de Oregón",
+    "link": "https://www.bbc.com/mundo/articles/ckj0l9lrenq6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-16",
+    "image": null,
+    "category": null,
+    "text": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
+    "link": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-16",
@@ -136,92 +150,99 @@
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Investigación BBC: el ejército de Israel no ha hecho públicos los resultados de cientos de pesquisas por muertos y heridos en Medio Oriente",
-    "link": "https://www.bbc.com/mundo/articles/c69wzgv94g11o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://www.infobae.com/resizer/v2/GYLCQBG5NJBLXCMFIL64TRZMIY.JPG?auth=5c628db4a387f004aa7ef2b5e6fa4b483f2ad2a17b0050b655c3e6dd74eb3c3a&smart=true&width=5674&height=3783",
-    "category": null,
-    "text": "Cleveland Guardians busca liquidar a Jonathan Aranda y los Tampa Bay Rays en el Juego 4 de la Serie de Campeonato: hora y dónde ver",
-    "link": "https://www.infobae.com/mexico/deportes/2026/10/16/cleveland-guardians-busca-liquidar-a-jonathan-aranda-y-los-tampa-bay-rays-en-el-juego-4-de-la-serie-de-campeonato-hora-y-donde-ver/"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://www.infobae.com/resizer/v2/HCJFXMHM5JBTFLBDLJQA4BGXCI.jpg?auth=55e27199c9f441e7ca6a668452cbbbd892d62b86772007ba56d71407149c4f07&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Elecciones generales España 29-N: Colau le pide a Rufián que no “baje los brazos” mientras la negociación entre Frente Amplio y Podemos sigue abierta a pocas horas de que termine el plazo",
-    "link": "https://www.infobae.com/espana/2026/10/16/elecciones-generales-espana-29-n-en-directo-ultima-hora-del-frente-amplio-y-del-viernes-clave-para-la-izquierda/"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://www.infobae.com/resizer/v2/BKXV2RFOW5GGPE2ALMJZDTMGYI.jpeg?auth=b01101a0ee6c02d47df8b278d7307f8c815bbdc5341491072f8de12f2b4873af&smart=true&width=1600&height=1068",
-    "category": null,
-    "text": "El Gobierno avanza con la compra de más de 40 formaciones nuevas para los trenes del AMBA",
-    "link": "https://www.infobae.com/sociedad/2026/10/16/el-gobierno-avanza-con-la-compra-de-mas-de-40-formaciones-nuevas-para-los-trenes-del-amba/"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://www.infobae.com/resizer/v2/QUI7HVJMTZG2NAJMVQNQDRVYDE.jpg?auth=5ac5f9ab0d21f6033488a1f29af09ca365ee03ee1e39c18b7fbf1dcb70c8c56b&smart=true&width=2048&height=1380",
-    "category": null,
-    "text": "Temblor hoy en México 16 de octubre de 2026: Se registra sismo de magnitud 4.1 en Chiapas",
-    "link": "https://www.infobae.com/mexico/2026/10/16/temblor-hoy-en-mexico-noticias-actividad-sismica-2-de-octubre-de-2026/"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://www.infobae.com/resizer/v2/BGS3JJYJWNAJXIEURJ2Q5C3L5A.jpg?auth=64db380cf32527871277f146bb772f29147a49fb00c1ebfa274f4cd17012847b&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Colapsa casa en la colonia Morelos: cuerpos de emergencia de la CDMX, hay dos lesionados",
-    "link": "https://www.infobae.com/mexico/2026/10/16/colapsa-casa-en-la-colonia-morelos-cuerpos-de-emergencia-de-la-cdmx-hay-dos-lesionados/"
+    "text": "Cómo los centros de datos de IA se convirtieron en un elemento clave en la batalla política en EE.UU.",
+    "link": "https://www.bbc.com/mundo/articles/c64g12190082o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Montse Mínguez, del Ayuntamiento de Lleida a la primera línea del PSOE",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/16/montse-minguez-del-ayuntamiento-de-lleida-a-la-primera-linea-del-psoe/"
+    "text": "Isabel Allende gana el Premio Planeta 2026 con la secuela de \"La casa de los espíritus\", la obra que la hizo famosa",
+    "link": "https://www.bbc.com/mundo/articles/cr93zk8483ypo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://www.infobae.com/resizer/v2/N5BO67R67NGONCOPUDNII4XIDQ.jpg?auth=99a583db6f98dac1d17e8e9a298262c165306d095fdd4a0b4ce2a95ba3aa3ea6&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Asistente de Laura Bozzo niega privilegios en el hospital y rechaza versiones sobre trato especial",
+    "link": "https://www.infobae.com/mexico/2026/10/16/asistente-de-laura-bozzo-niega-privilegios-en-el-hospital-y-rechaza-versiones-sobre-trato-especial/"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://www.infobae.com/resizer/v2/2DXDBT3UA5G7JIJ7QXRHPGFO54.JPG?auth=0f2eb778571ff9f425e6f3f161ffbdbc7c3cc52dffa68a6172ae320b10f07fee&smart=true&width=4375&height=2461",
+    "category": null,
+    "text": "Defensa y Justicia recibe a Instituto en un partido clave por el liderazgo de la Zona A",
+    "link": "https://www.infobae.com/deportes/2026/10/16/defensa-y-justicia-recibe-a-instituto-en-un-partido-clave-por-el-liderazgo-de-la-zona-a-hora-tv-y-probables-formaciones/"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://www.infobae.com/resizer/v2/EKZUBP3RAZCXTA3IT5GJ24JN5A.png?auth=3cac1b3e6bd5e1ad09c46225acb3639e7eb53253dddd7a8675d438bf0d8a9302&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Los Ángeles Azules festejan 50 años de trayectoria con conciertos en Monterrey y colaboración con Daniela Spalla",
+    "link": "https://www.infobae.com/mexico/2026/10/16/los-angeles-azules-festejan-50-anos-de-trayectoria-con-conciertos-en-monterrey-y-colaboracion-con-daniela-spalla/"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://www.infobae.com/resizer/v2/OOIZIK45HRDCJFU7DPVENDQQQU.png?auth=45bed07710c9926b112af5f583708da7b1b011c03d8361dfe145973363a2d35e&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "‘El Banquero’ cayó en El Dorado de Bogotá: el israelí-mexicano habría cometido un sofisticado y multimillonario fraude al Banco de Khartoum, en Dubái",
+    "link": "https://www.infobae.com/colombia/2026/10/16/el-banquero-cayo-en-el-dorado-de-bogota-el-israeli-mexicano-habria-cometido-un-sofisticado-y-multimillonario-fraude-al-banco-de-khartoum-en-dubai/"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://www.infobae.com/resizer/v2/DLM3FWJV2NHYVFWPQP7TJC7LUU.png?auth=35632846cc20e716bfb13934e0181b140494c4d3918094ab4bcb5bba3d4b2664&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Extorsión en colegio del Cercado de Lima: delincuentes exigen S/20 mil a directora de inicial",
+    "link": "https://www.infobae.com/peru/2026/10/16/extorsion-en-colegio-del-cercado-de-lima-delincuentes-exigen-s20-mil-a-directora-de-inicial/"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://www.infobae.com/resizer/v2/UDNF5IHEHNFULA4U37E5QWU37M.png?auth=82212194d680f9a1af81c491c71c31229b42f954e920d4e0f606e3e638b5086d&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Qué es la inteligencia geoespacial y cómo puede ayudar a reducir el Fenómeno del Niño",
+    "link": "https://www.infobae.com/tecno/2026/10/16/que-es-la-inteligencia-geoespacial-y-como-puede-ayudar-a-reducir-el-fenomeno-del-nino/"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://www.infobae.com/resizer/v2/47P3M5VA2JGJ3K4CC2MWSR4CH4.jpg?auth=dc49b895b89e5c325574e91977cebdc94a5bb9f7f105dc4971fa551936373678&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Una jueza autorizó a Alex Murdaugh a realizar pruebas de ADN independientes para el nuevo juicio por el asesinato de su esposa e hijo",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/16/una-jueza-autorizo-a-alex-murdaugh-a-realizar-pruebas-de-adn-independientes-para-el-nuevo-juicio-por-el-asesinato-de-su-esposa-e-hijo/"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Temas del día de EFE España del sábado 17 de octubre de 2026",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/16/temas-del-dia-de-efe-espana-del-sabado-17-de-octubre-de-2026/"
+    "text": "El PSOE alcanza un acuerdo con el Frente Amplio para presentar una lista única al Senado",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/16/el-psoe-alcanza-un-acuerdo-con-el-frente-amplio-para-presentar-una-lista-unica-al-senado/"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Los Mossos investigan la muerte a tiros de un hombre en un estudio de tatuaje de Badalona",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/16/los-mossos-investigan-la-muerte-a-tiros-de-un-hombre-en-un-estudio-de-tatuaje-de-badalona/"
+    "text": "Lula arremete contra la cadena de TV Globo por un almuerzo de dos directores con Bolsonaro",
+    "link": "https://www.infobae.com/america/agencias/2026/10/16/lula-arremete-contra-la-cadena-de-tv-globo-por-un-almuerzo-de-dos-directores-con-bolsonaro/"
   },
   {
     "date": "2026-10-16",
-    "image": "https://www.infobae.com/resizer/v2/J52R6POXBZHCPFJZPF7AZRWPEI.jpg?auth=4bd950cfcb5a6c0bd891caa9e5073cd77cf4545979afb7deb5ab85b9eca99e00&smart=true&width=1400&height=787",
+    "image": "https://www.infobae.com/resizer/v2/5RWXMKTLBFF5FMBD3GZWJEAKDY.jpg?auth=94dd11a48f42877e53154727115f08fa72fa4189e1166cc09124c1474c5c93aa&smart=true&width=2400&height=1600",
     "category": null,
-    "text": "El sentido mensaje de Vélez Sársfield tras la muerte de Fernando Confessore: “Su partida genera una profunda tristeza”",
-    "link": "https://www.infobae.com/deportes/2026/10/16/el-sentido-mensaje-de-velez-sarsfield-tras-la-muerte-de-fernando-confessore-su-partida-genera-una-profunda-tristeza/"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://www.infobae.com/resizer/v2/BIVMM6ASXNDEXLQIEMQDZ77OPQ.JPG?auth=551e9a657f82b25739bcdbcf7cdd351ff938c5e09093ab2601a2bb9962350874&smart=true&width=5848&height=3290",
-    "category": null,
-    "text": "Tiroteo en una escuela primaria de Oregón: identifican al tirador de 16 años que mató a tres niños y una maestra",
-    "link": "https://www.infobae.com/estados-unidos/2026/10/16/identifican-al-joven-de-16-anos-que-abrio-fuego-en-una-escuela-primaria-de-oregon-y-dejo-cuatro-muertos/"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://www.infobae.com/resizer/v2/YV33OXUHNBCOVDB5FZT76LGTEI.JPG?auth=90d1bc4bb0945ddb569915c5d42b0033fe52252f415b62c2d6846faf348533e0&smart=true&width=4629&height=3086",
-    "category": null,
-    "text": "Pedro Sánchez reivindica el respaldo de la Unión Europea a Ceuta y Melilla y defiende su política migratoria ante las críticas de otros dirigentes comunitarios",
-    "link": "https://www.infobae.com/espana/2026/10/16/pedro-sanchez-reivindica-el-respaldo-de-la-union-europea-a-ceuta-y-melilla-y-defiende-su-politica-migratoria-ante-las-criticas-de-otros-dirigentes-comunitarios/"
+    "text": "Investigación: Cuando el salario fluctúa, los trabajadores se van",
+    "link": "https://www.infobae.com/harvard-business-review/2026/10/16/investigacion-cuando-el-salario-fluctua-los-trabajadores-se-van/"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Junts y Convergents no llegan a un acuerdo electoral para los comicios del 29N",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/16/junts-y-convergents-no-llegan-a-un-acuerdo-electoral-para-los-comicios-del-29n/"
+    "text": "La Bolsa de México se apunta avance semanal del 4,36 % y se ubica en 68.929,72 unidades",
+    "link": "https://www.infobae.com/america/agencias/2026/10/16/la-bolsa-de-mexico-se-apunta-avance-semanal-del-436-y-se-ubica-en-6892972-unidades/"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://www.infobae.com/resizer/v2/QXQO7BQOZZA5TGYDUSBAM3CKHE.jpg?auth=8b133446d82e24969ab348f52b3700906c93c6b3607ec78653a3d2136603476a&smart=true&width=1170&height=1098",
+    "category": null,
+    "text": "Japón emite por error una alerta por el terremoto más fuerte de la historia",
+    "link": "https://www.infobae.com/america/the-new-york-times/2026/10/16/japon-emite-por-error-una-alerta-por-el-terremoto-mas-fuerte-de-la-historia/"
   },
   {
     "date": "2026-10-16",
@@ -274,73 +295,94 @@
   },
   {
     "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2693de9ff713fe54b2abc.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad29cd4e9ff714b4565fc51.jpg",
     "category": null,
-    "text": "Zelenski busca consuelo en los abrazos de Europa tras ser castigado por Trump",
-    "link": "https://actualidad-rt.com/actualidad/632790-zelenski-busca-consuelo-abrazos-europa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Italia sigue la estela de Francia: miles de estudiantes chocan con la Policía (VIDEOS)",
+    "link": "https://actualidad-rt.com/actualidad/632864-italia-sigue-estela-francia-estudiantes-protesta?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad26e0ee9ff71164b22ce51.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2383759bf5b579125c1eb.jpg",
     "category": null,
-    "text": "Experta: \"En su dependencia de EE.UU., Europa está recibiendo su propio postre\"",
-    "link": "https://actualidad-rt.com/actualidad/632839-sara-rosenberg-europa-dependencia-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Experto: La CPI solo sirve a los \"intereses colonialistas\"",
+    "link": "https://actualidad-rt.com/actualidad/632784-experto-cpi-sirve-intereses-colonialistas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2438159bf5b182a1acde7.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad21a3de9ff7151eb52d234.jpg",
     "category": null,
-    "text": "VIDEO: Una patrulla de bombarderos pesados rusos Tu-22M3 surca los cielos del Báltico",
-    "link": "https://actualidad-rt.com/actualidad/632801-video-patrulla-bombarderos-rusos-tu22?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Diputada ucraniana a Zelenski: \"Lo quieren destituir las personas más cercanas de su entorno\"",
+    "link": "https://actualidad-rt.com/actualidad/632780-diputada-ucraniana-zelenski-quieren-destituir-mas-cercanas-entorno?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad26d5259bf5b02a91a69b3.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2992559bf5b78c13ee3e4.jpg",
     "category": null,
-    "text": "VIDEO: La conmovedora protesta de una anciana bajo la fuerte lluvia en México",
-    "link": "https://actualidad-rt.com/viral/632837-video-conmovedora-protesta-anciana-lluvia-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad26c4259bf5b749064cb6c.jpg",
-    "category": null,
-    "text": "EE.UU. asesta un duro golpe al Tren de Aragua",
-    "link": "https://actualidad-rt.com/actualidad/632831-eeuu-asesta-duro-golpe-tren-aragua?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump prohíbe vuelos de drones en la frontera con México y lanza amenaza a los cárteles",
+    "link": "https://actualidad-rt.com/actualidad/632863-trump-prohibe-vuelos-drones-frontera?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "NYT: Trump despide a su secretaria de prensa tras solo cinco días en el cargo",
-    "link": "https://actualidad-rt.com/actualidad/632842-nyt-trump-despedir-secretaria-prensa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Primer iPhone plegable se agota en minutos",
+    "link": "https://actualidad-rt.com/actualidad/632867-primer-iphone-plegable-agotar-minutos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2666059bf5b74e8407b0e.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad29230e9ff71379c0ab6a8.jpg",
     "category": null,
-    "text": "Los países de Latinoamérica y el Caribe que están mejor preparados para adoptar la IA",
-    "link": "https://actualidad-rt.com/actualidad/632828-paises-latinoamerica-mejor-preparados-adoptar-ia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Netanyahu pone en duda la brutal golpiza a una fotógrafa del WP en Cisjordania",
+    "link": "https://actualidad-rt.com/actualidad/632860-netanyahu-dudar-golpiza-periodista-wp-cisjordania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2519259bf5b02a91a6992.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2927859bf5b73d16652e4.jpg",
     "category": null,
-    "text": "Agentes de IA hackean sistemas corporativos y obtienen acceso a información confidencial (otra vez)",
-    "link": "https://actualidad-rt.com/actualidad/632812-agentes-ia-hackear-sistemas-corporativos-india?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El mercado petrolero mundial está desequilibrado y en situación de 'shock', advierte Moscú",
+    "link": "https://actualidad-rt.com/actualidad/632859-mercado-petrolero-mundial-esta-desequilibrado?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad24cdee9ff7144fb7d7e53.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2978de9ff7157ea674db5.jpg",
     "category": null,
-    "text": "Este es el riesgo silencioso que podrían esconder los ultraprocesados",
-    "link": "https://actualidad-rt.com/actualidad/632808-riesgo-silencioso-podrian-esconder-ultraprocesados?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: La insólita forma en que un hombre armado irrumpió en un restaurante de comida rápida",
+    "link": "https://actualidad-rt.com/viral/632862-video-insolita-forma-hombre-armado-restaurante?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-16",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad24bc6e9ff716be76315ac.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad26869e9ff71477e3f6f7b.jpg",
     "category": null,
-    "text": "VIDEO: Policía recupera un sustancioso botín tras una persecución de película",
-    "link": "https://actualidad-rt.com/viral/632813-policia-recupera-sustancioso-botin-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEOS: El histórico instante en que caen las torres más altas de un país europeo",
+    "link": "https://actualidad-rt.com/actualidad/632835-videos-historico-instante-caen-torres-altas-republica-checa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-16",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad21842e9ff7160671babd4.jpg",
+    "category": null,
+    "text": "¿Qué es Tsitadel, el sistema inteligente de defensa antidrones ruso?",
+    "link": "https://actualidad-rt.com/actualidad/632772-sistema-defensa-drones-tsitadel-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-16",
+    "image": null,
+    "category": null,
+    "text": "En Hungría, jóvenes voluntarios enseñan técnicas de reanimación dentro del metro",
+    "link": "https://es.euronews.com/2026/10/16/hungria-jovenes-voluntarios-tecnicas-reanimacion-metro"
+  },
+  {
+    "date": "2026-10-16",
+    "image": null,
+    "category": null,
+    "text": "Del 93% al 57%: la aprobación de Trump se desploma entre sus votantes latinos a las puertas de las elecciones",
+    "link": "https://es.euronews.com/2026/10/16/trump-aprobacion-votantes-latinos-elecciones-eeuu"
+  },
+  {
+    "date": "2026-10-16",
+    "image": null,
+    "category": null,
+    "text": "La portavoz de Trump deja la Casa Blanca días después de asumir el cargo entre polémicas y contradicciones",
+    "link": "https://es.euronews.com/2026/10/16/portavoz-trump-katie-zacharia-deja-casa-blanca-cinco-dias"
   },
   {
     "date": "2026-10-16",
@@ -376,47 +418,5 @@
     "category": null,
     "text": "El Vaticano difunde las primeras fotos del Papa León XIV tras la operación de pulmón",
     "link": "https://es.euronews.com/2026/10/16/el-vaticano-difunde-las-primeras-fotos-del-papa-leon-xiv-tras-la-operacion-de-pulmon"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "Misiles rusos provocan grandes incendios en fábricas de Odesa y Zaporiyia",
-    "link": "https://es.euronews.com/video/2026/10/16/misiles-rusos-provocan-grandes-incendios-en-fabricas-de-odesa-y-zaporiyia"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "Detenidos 2 jóvenes en Málaga y Murcia por falsas amenazas de bomba en aeropuertos españoles",
-    "link": "https://es.euronews.com/2026/10/16/detenidos-malaga-murcia-amenazas-bomba-aeropuertos-inteligencia-artificial"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "Italia: fallos en el control aéreo nacional alteran vuelos en Roma",
-    "link": "https://es.euronews.com/video/2026/10/16/italia-fallos-en-el-control-aereo-nacional-alteran-vuelos-en-roma"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "La creciente tensión militar lleva a EE.UU. e Irán al borde de una mayor escalada",
-    "link": "https://es.euronews.com/2026/10/16/creciente-tension-militar-lleva-eeuu-iran-borde-mayor-escalada"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "Putin expropia otras 5 empresas europeas y sigue la ofensiva sobre sus activos",
-    "link": "https://es.euronews.com/2026/10/16/putin-expropia-otras-5-empresas-europeas-y-sigue-la-ofensiva-sobre-sus-activos"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "Un programa ecuménico húngaro ayuda a más de 20.000 personas en el este de Ucrania",
-    "link": "https://es.euronews.com/2026/10/16/programa-ecumenico-hungaro-ayuda-20000-personas-este-ucrania"
   }
 ]

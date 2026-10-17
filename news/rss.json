@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/ab0abd6e-c9e3-11f1-a2e6-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261016-203439-203629-CS.jpg",
+    "category": null,
+    "text": "Katie Zacharia deja cargo de portavoz de la Casa Blanca tras críticas a su trayectoria profesional",
+    "link": "https://www.france24.com/es/video/20261017-katie-zacharia-deja-cargo-de-portavoz-de-la-casa-blanca-tras-cr%C3%ADticas-a-su-trayectoria-profesional"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/57a420d2-c9e5-11f1-ba44-2d1c143cdef3/w:1024/p:16x9/ES-20261016-203653-204133-CS.jpg",
+    "category": null,
+    "text": "Marco Robles: \"El Roadster es más para mostrar que Tesla tiene la tecnología, no para la utilidad\"",
+    "link": "https://www.france24.com/es/video/20261017-marco-robles-el-roadster-es-m%C3%A1s-para-mostrar-que-tesla-tiene-la-tecnolog%C3%ADa-no-para-la-utilidad"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/1c4f8a14-ca0b-11f1-a0b5-6313a763b466/w:1024/p:16x9/000-D3K887M.jpg",
+    "category": "Francia",
+    "text": "En directo: fuertes tensiones entre manifestantes y fuerzas del orden en la jornada de protestas en Francia",
+    "link": "https://www.france24.com/es/francia/20261017-en-directo-fuertes-tensiones-entre-manifestantes-y-fuerzas-del-orden-en-una-jornada-de-protestas-en-francia"
+  },
+  {
+    "date": "2026-10-17",
     "image": "https://s.france24.com/media/display/b9d25868-c9dc-11f1-aebf-d1d2c32ebb87/w:1024/p:16x9/ES-20261016-191253-191458-CS.jpg",
     "category": null,
     "text": "Kast y Paz se reúnen para mejorar las relaciones entre Bolivia y Chile, tensas desde hace décadas",
@@ -57,24 +78,38 @@
   },
   {
     "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/71096a0a-c9bd-11f1-b7c8-d1d2c32ebb87/w:1024/p:16x9/Real-Madrid-La-Liga-Tebas.jpg",
-    "category": "Deportes",
-    "text": "Fútbol, \"propaganda nazi\" y el caso Negreira: la guerra abierta entre Javier Tebas y el Real Madrid",
-    "link": "https://www.france24.com/es/deportes/20261017-f%C3%BAtbol-propaganda-nazi-y-el-caso-negreira-la-guerra-abierta-entre-javier-tebas-y-el-real-madrid"
+    "image": null,
+    "category": null,
+    "text": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
+    "link": "https://www.bbc.com/mundo/articles/cq70pz32x83do?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/adf3f506-c9c3-11f1-bfb9-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-16T075619Z-1112181861-RC264OAUE7C4-RTRMADP-3-ISRAEL-PALESTINIANS-SETTLERS-ATTACK.jpg",
-    "category": "Medio Oriente",
-    "text": "“Déjame morir”: el terror alcanza a fotoperiodista en ofensiva de colonos contra la cosecha en Cisjordania",
-    "link": "https://www.france24.com/es/medio-oriente/20261017-d%C3%A9jame-morir-el-terror-alcanza-a-fotoperiodista-por-la-ofensiva-de-colonos-en-la-cosecha-en-cisjordania"
+    "image": null,
+    "category": null,
+    "text": "Análisis BBC: Katie Zacharia fue arrojada a un torbellino y falló en un momento crítico para Trump",
+    "link": "https://www.bbc.com/mundo/articles/cj040dx1yx0vo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/ebc5ce24-331c-11f1-a112-005056a90284/w:1024/p:16x9/AP26097509348086.jpg",
-    "category": "En Contexto",
-    "text": "Cambia la forma de medir el tiempo: ¿por qué ya no seguirá el ritmo exacto de la rotación terrestre?",
-    "link": "https://www.france24.com/es/programas/en-contexto/20261017-cambia-la-forma-de-medir-el-tiempo-por-qu%C3%A9-ya-no-seguir%C3%A1-el-ritmo-exacto-de-la-rotaci%C3%B3n-terrestre"
+    "image": null,
+    "category": null,
+    "text": "\"Tierra de nadie\": 3 territorios que no  pertenecen a ningún país (y por qué nadie los reclama)",
+    "link": "https://www.bbc.com/mundo/articles/cklyeyd5xxxlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-17",
+    "image": null,
+    "category": null,
+    "text": "\"Un mundo feliz\": 3 inquietantes tendencias que la famosa novela distópica de Aldous Huxley predijo hace casi 100 años",
+    "link": "https://www.bbc.com/mundo/articles/cqx2zdkgk48ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-17",
+    "image": null,
+    "category": null,
+    "text": "El papa León XIV \"saldrá del hospital\" el sábado tras su cirugía por un cáncer de pulmón de hace 4 días",
+    "link": "https://www.bbc.com/mundo/articles/c39wz12yr79ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-17",
@@ -94,8 +129,8 @@
     "date": "2026-10-17",
     "image": null,
     "category": null,
-    "text": "Condenan a 158 años de cárcel a tres hombres por el asesinato de dos hermanos surfistas australianos y su amigo estadounidense en México",
-    "link": "https://www.bbc.com/mundo/articles/ck1wve08vzyro?at_medium=RSS&at_campaign=rss"
+    "text": "Las lavanderas de Lockerbie, las mujeres que limpiaron las prendas de las víctimas del atentado contra un avión en el que murieron 270 personas",
+    "link": "https://www.bbc.com/mundo/articles/cwyzxx7l5zpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-17",
@@ -106,87 +141,87 @@
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/PPWM6IPB3RG7RHY3DQYDUM4WDI.JPG?auth=609f3ec31f64d10f2e8a4e8624a81747fe582811997026859583cf1c4af0d526&smart=true&width=2406&height=1520",
     "category": null,
-    "text": "Desmantelada en Conil una guardería del narcotráfico con más de 10.000 litros de gasolina",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/17/desmantelada-en-conil-una-guarderia-del-narcotrafico-con-mas-de-10000-litros-de-gasolina/"
+    "text": "Máxima preocupación por Dibu Martínez: fue retirado inmovilizado en camilla tras chocar con un rival",
+    "link": "https://www.infobae.com/deportes/2026/10/17/maxima-preocupacion-por-dibu-martinez-fue-retirado-inmovilizado-en-camilla-tras-un-golpe-con-un-rival/"
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/TIJT2JOFNNHBNCLT2DC4WRWH24.jpg?auth=4396597a4b79cc85bb6e494287c8f7e71e711f69563745c523b34bf948df0b6f&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Los socialistas apoyan a Mínguez tras su dimisión, que achacan a la \"crueldad\" en política",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/17/los-socialistas-apoyan-a-minguez-tras-su-dimision-que-achacan-a-la-crueldad-en-politica/"
+    "text": "Descubren que los microplásticos reaccionan con el agua y podrían causar daños en el organismo",
+    "link": "https://www.infobae.com/salud/ciencia/2026/10/17/descubren-que-los-microplasticos-reaccionan-con-el-agua-y-podrian-causar-danos-en-el-organismo/"
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/AXLU63242ZFTZN3GTAX5LI26JI.jpeg?auth=7bb6d6a8c898e621cced55a1ed558bd7557ef06c0091123622a97660afd73f11&smart=true&width=1600&height=1067",
     "category": null,
-    "text": "Finaliza la retirada de los restos del tren incendiado en la línea de Madrid-Barcelona",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/17/finaliza-la-retirada-de-los-restos-del-tren-incendiado-en-la-linea-de-madrid-barcelona/"
+    "text": "Desfile de Alebrijes Monumentales 2026: horario, ruta y hasta cuándo estarán en Reforma",
+    "link": "https://www.infobae.com/mexico/2026/09/27/alebrijes-monumentales-regresan-a-paseo-de-la-reforma-cuando-sera-el-desfile-y-hasta-que-fecha-podras-visitar-las-figuras-gigantes/"
   },
   {
     "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/K3NNBAF6JZBPXMUCNNRNSXJN7M.jpg?auth=1690c66d11b045f9d76d2675054663ee8c1b59d9e70c92bf1f7084b8b30398dc&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/FRALXZ6MDFAQZBY4IKR3FB6TBY.jpg?auth=aaed1e58cab45d918e75e9c68d26d5d0d989f04b6e71d2cc696a2ff6195049fa&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "La Ejecutiva del PSOE nombra a Rebeca Torró nueva portavoz tras la dimisión de Montse Mínguez",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/17/la-ejecutiva-del-psoe-nombra-a-rebeca-torro-nueva-portavoz-tras-la-dimision-de-montse-minguez/"
+    "text": "Temblor hoy en México 17 de octubre de 2026: se registra sismo de magnitud 4.1 en Chiapas",
+    "link": "https://www.infobae.com/mexico/2026/10/17/temblor-hoy-en-mexico-noticias-actividad-sismica-17-de-octubre-de-2026/"
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/5UQ36BNFCJEFPIKYG3SRVT2A6I.jpg?auth=516448326774864069f1999cbb1ca2313cf04a9539ef5b263da18cb3d2e90c0a&smart=true&width=1920&height=942",
     "category": null,
-    "text": "Ada Colau, la exalcaldesa que quiere revitalizar a la izquierda con vitaminas de vivienda",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/17/ada-colau-la-exalcaldesa-que-quiere-revitalizar-a-la-izquierda-con-vitaminas-de-vivienda/"
+    "text": "La Plata: violento asalto en la casa de un pediatra a metros de la Gobernación",
+    "link": "https://www.infobae.com/sociedad/policiales/2026/10/17/la-plata-violento-asalto-en-la-casa-de-un-pediatra-a-metros-de-la-gobernacion/"
   },
   {
     "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/LZQK6QUEWRB4TNVMQP5IPY7LFU.jpg?auth=870eebb76dd2daff24b707cf876c7e3a872a1e7956c31c22366a8f71892d0b94&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/4MPCUHVMAFF5NFLEODFLR5WXDA.png?auth=06b8ed9da19808b5137e0ccf60255f067283cb49cb7676059f0464aad5b67b42&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Renfe informa que se han retirado de la vía los restos del tren en Ricla (Zaragoza) del AVE Madrid-Barcelona",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/renfe-informa-que-se-han-retirado-de-la-via-los-restos-del-tren-en-ricla-zaragoza-del-ave-madrid-barcelona/"
+    "text": "Vivienda, salarios e impuestos: las propuestas económicas que distancian a Podemos y Frente Amplio",
+    "link": "https://www.infobae.com/espana/2026/10/17/vivienda-salarios-e-impuestos-las-propuestas-economicas-que-distancian-a-podemos-y-frente-amplio/"
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/RYDHDTDTDZA2PFCTHM6EVI5YWM.png?auth=be4faf20a98ca03edb7e24c031247b24f13e81ba9a4c95754b61fa5b9b31e280&smart=true&width=1408&height=768",
     "category": null,
-    "text": "Protestas con reivindicaciones variadas en Francia y con dudas sobre una deriva violenta",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/protestas-con-reivindicaciones-variadas-en-francia-y-con-dudas-sobre-una-deriva-violenta/"
+    "text": "Costa Rica se prepara para el Viernes Negro y la Navidad: estas son las 10 recomendaciones para evitar gastos innecesarios y compras engañosas",
+    "link": "https://www.infobae.com/costa-rica/2026/10/17/costa-rica-se-prepara-para-el-viernes-negro-y-la-navidad-estas-son-las-10-recomendaciones-para-evitar-gastos-innecesarios-y-compras-enganosas/"
   },
   {
     "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/JIQ5FNZSNZCCTKYN4E3AVWWTFQ.jpg?auth=6a50a9fadf26c2ff599c3da326761b3b3d102af43ed34de10bd9951feada9277&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/SIVMAQUHKZGOTKEPLB6IHW6P4E.jpg?auth=9221f1426656ca8950fc294280bc2aa96846e9674d76988282efcaeb05fc7418&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Al menos tres muertos en nuevos ataques del Ejército de Israel en la ciudad de Gaza y Jan Yunis",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/al-menos-tres-muertos-en-nuevos-ataques-del-ejercito-de-israel-en-la-ciudad-de-gaza-y-jan-yunis/"
+    "text": "Final española en el Masters 1.000 de Shanghái: Davidovich y Jódar competirán por un título histórico",
+    "link": "https://www.infobae.com/espana/deportes/2026/10/17/final-espanola-en-el-masters-1000-de-shanghai-davidovich-y-jodar-competiran-por-un-titulo-historico/"
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/HLGBXV7QJRGXPOOCTCUYLD6CBU.png?auth=390bb1767c7d6e876fd454a0de3c9e1eb713683028e7146b5e922d643d7a32bd&smart=true&width=836&height=466",
     "category": null,
-    "text": "Primer aniversario del robo del Louvre: grave crisis de imagen y las joyas sin aparecer",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/primer-aniversario-del-robo-del-louvre-grave-crisis-de-imagen-y-las-joyas-sin-aparecer/"
+    "text": "El Gobierno dominicano anuncia un fondo y nuevas medidas para respaldar a los productores de arroz",
+    "link": "https://www.infobae.com/republica-dominicana/2026/10/17/el-gobierno-dominicano-anuncia-un-fondo-y-nuevas-medidas-para-respaldar-a-los-productores-de-arroz/"
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/5EYHNNBLZ5D4LMETM6BVSXQNP4.jpg?auth=844d97cfb1b4681e10738e6432a8cf0569d067299a44fdc0a2d530701e875e97&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Irak inicia reunión de Organización para Cooperación Islámica marcada por tensión regional",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/irak-inicia-reunion-de-organizacion-para-cooperacion-islamica-marcada-por-tension-regional/"
+    "text": "Mario Hart confiesa que se asustó por llamada de Korina Rivadeneira: pensó que le reclamaría por un vestido",
+    "link": "https://www.infobae.com/peru/2026/10/17/mario-hart-confiesa-que-se-asusto-por-llamada-de-korina-rivadeneira-penso-que-le-reclamaria-por-un-vestido/"
   },
   {
     "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/KUDSNJJZJFB4TCCATPEH24T47M.jpg?auth=4fcac2f4d30393ca7af359d3bb12cb45447a36824be3a93f8ee21548f61498ad&smart=true&width=1920&height=1440",
+    "image": "https://www.infobae.com/resizer/v2/BLXXXTR6DBF5FN22TX45BAAPE4.jpeg?auth=30f686c360711bdfb0f00d31b8776af24c2e4a63d4b5db1b382c79afc5769d7e&smart=true&width=1600&height=1200",
     "category": null,
-    "text": "El Padre Ángel, volcado con el Papa León XIV tras su diagnóstico de cáncer de pulmón: \"Vamos a tener Papa para rato\"",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/el-padre-angel-volcado-con-el-papa-leon-xiv-tras-su-diagnostico-de-cancer-de-pulmon-vamos-a-tener-papa-para-rato/"
+    "text": "El 23.9% de las viviendas afectadas por el terremoto en Panamá presenta daños totales",
+    "link": "https://www.infobae.com/panama/2026/10/17/el-239-de-las-viviendas-afectadas-por-el-terremoto-en-panama-presenta-danos-totales/"
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/X5KKLSGL3BECLEYJQDYLNCWY2E.JPG?auth=867c424b0012d2861f6304d709870dbca1adbe55b1a19a0cf4a8b7a0f34429d2&smart=true&width=4431&height=2954",
     "category": null,
-    "text": "El español Karol Krupski, campeón de Europa de vela sub'21 en ILCA 7",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/17/el-espanol-karol-krupski-campeon-de-europa-de-vela-sub21-en-ilca-7/"
+    "text": "Laura Fernández anuncia en El Salvador una estrategia de “mano dura” inspirada en el modelo de Bukele",
+    "link": "https://www.infobae.com/el-salvador/2026/10/17/laura-fernandez-anuncia-en-el-salvador-una-estrategia-de-mano-dura-inspirada-en-el-modelo-de-bukele/"
   },
   {
     "date": "2026-10-17",
@@ -204,6 +239,20 @@
   },
   {
     "date": "2026-10-17",
+    "image": "https://www.youtube.com/watch?v=fzIGj2a0hjg",
+    "category": "Francia",
+    "text": "La rabia de los estudiantes, los agricultores y los funcionarios confluye en una gran protesta en toda Francia",
+    "link": "https://elpais.com/internacional/2026-10-17/la-rabia-de-los-estudiantes-los-agricultores-y-los-funcionarios-confluye-en-una-gran-protesta-en-toda-francia.html"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://www.youtube.com/watch?v=Wl6CJsZvuqk",
+    "category": "Papa León XIV",
+    "text": "El Papa saldrá esta tarde del hospital, cuatro días después de su operación de pulmón",
+    "link": "https://elpais.com/internacional/2026-10-17/el-papa-sale-esta-tarde-del-hospital-cuatro-dias-despues-de-su-operacion-de-pulmon.html"
+  },
+  {
+    "date": "2026-10-17",
     "image": "https://imagenes.elpais.com/resizer/v2/NI3LX5HCYBBTLAZCDGHLUTEFPM.jpg?auth=6f97ba2165ddba6af85f5794862ff3c50585b8adf9cf3c5cd34bf162eb8d3588",
     "category": "Israel",
     "text": "Arrestos, despidos y escupitajos: los profesores israelíes perseguidos por sus opiniones fuera del aula",
@@ -218,73 +267,94 @@
   },
   {
     "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3044959bf5b1bff3b5c99.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3603359bf5b35d7782b81.jpg",
     "category": null,
-    "text": "Un héroe superhumanoide: China presenta un robot que revolucionará las tareas pesadas (FOTOS, VIDEOS)",
-    "link": "https://actualidad-rt.com/viral/632902-heroe-superhumanoide-china-presenta-robot?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Italia abre una investigación contra el ministro de Defensa israelí por torturas y abusos sexuales",
+    "link": "https://actualidad-rt.com/actualidad/632939-italia-lanzar-investigacion-ministro-defensa-israel?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad371fbe9ff71457c17e8e6.png",
+    "category": null,
+    "text": "La advertencia del FMI sobre la economía global: \"Es como intentar mantenerse en pie sobre una sola pierna\"",
+    "link": "https://actualidad-rt.com/actualidad/632937-advertencia-fmi-economia-global-intentar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3676e59bf5b35d7782b86.jpg",
+    "category": null,
+    "text": "Regreso triunfal: El argentino Emiliano Sordi gana una pelea con un demoledor nocaut tras 5 años (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/632942-regreso-triunfal-argentino-emiliano-sordi?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad369e2e9ff7115fa0fb986.jpg",
+    "category": null,
+    "text": "\"Nos confundió con un cajero automático\": Político italiano carga contra Zelenski",
+    "link": "https://actualidad-rt.com/actualidad/632943-zelenski-confundio-europa-cajero-automatico?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad36b24e9ff71459e5d5e16.jpg",
+    "category": null,
+    "text": "VIDEO: Primer ministro de Tailandia sorprende al tocar el saxofón ante los líderes del FMI y el Banco Mundial",
+    "link": "https://actualidad-rt.com/viral/632944-video-primer-ministro-tailandia-tocar-saxofon-reunion-fmi?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-17",
     "image": null,
     "category": null,
-    "text": "Dos petroleros son atacados frente a la costa de Arabia Saudita",
-    "link": "https://actualidad-rt.com/actualidad/632916-petroleros-son-atacados-frente-costa-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Guerra interna a espadazos: Dos políticos se enfrentarán en un duelo de esgrima para resolver sus diferencias",
+    "link": "https://actualidad-rt.com/actualidad/632947-guerra-interna-espadazos-politicos-alemania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad30172e9ff714b4565fc8f.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad2656c59bf5b74d77578ef.jpg",
     "category": null,
-    "text": "Descubren en Rusia rastros de un reptil alado que surcó el cielo hace 100 millones de años",
-    "link": "https://actualidad-rt.com/actualidad/632899-descubren-rusia-rastros-reptil-alado-cielo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un triplete en propia puerta: Europa pierde a los 3 socios que la hicieron rica",
+    "link": "https://actualidad-rt.com/actualidad/632796-triplete-propia-puerta-europa-pierde-tres-socios-hicieron-rica?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad314a759bf5b783950132c.jpg",
     "category": null,
-    "text": "Japón pide limitar las salidas de militares de EE.UU. tras el arresto de un marine por asesinato",
-    "link": "https://actualidad-rt.com/actualidad/632912-japon-pide-limitar-salidas-militares-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La sorprendente formación rocosa en Madagascar que guarda una conexión con la Luna",
+    "link": "https://actualidad-rt.com/actualidad/632907-sorprendente-formacion-rocosa-madagascar-conexion-luna?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3148a59bf5b58f56ffb8c.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3615e59bf5b53120a80eb.jpg",
     "category": null,
-    "text": "VIDEO: Interrumpen su ruta para poner a salvo a un conductor atrapado por el agua",
-    "link": "https://actualidad-rt.com/viral/632909-video-recolectores-basura-arriesgan-vida?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Anthropic propone una ley para frenar modelos de IA con potencial para generar caos",
+    "link": "https://actualidad-rt.com/actualidad/632934-politico-anthropic-propone-ley-frenar?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad30d6259bf5b33454a2839.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad343cb59bf5b5e7d6a7552.jpg",
     "category": null,
-    "text": "Atentado sicarial contra exalcalde en Colombia resulta en la muerte de su escolta",
-    "link": "https://actualidad-rt.com/actualidad/632906-atentado-sicarial-exalcalde-colombia-resulta-muerte-escolta?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3009d59bf5b27ce254afc.jpg",
-    "category": null,
-    "text": "VIDEO: Reclutadores de Zelenski reducen por la fuerza a un ucraniano y amenazan a la mujer que trató de impedirlo",
-    "link": "https://actualidad-rt.com/actualidad/632901-reclutadores-zelenski-reducen-fuerza-ucraniano?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La sombría advertencia de las aerolíneas para los próximos años en plena crisis del combustible",
+    "link": "https://actualidad-rt.com/actualidad/632919-inflacion-empobrecer-gente-dura-advertencia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-17",
     "image": null,
     "category": null,
-    "text": "Un sismo de magnitud 5,7 sacude Pakistán",
-    "link": "https://actualidad-rt.com/actualidad/632905-sismo-magnitud-sacude-pakistan?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad30b7259bf5b35d7782b34.jpg",
-    "category": null,
-    "text": "Rusia ataca las dos mayores plantas metalúrgicas de Ucrania usadas con fines militares",
-    "link": "https://actualidad-rt.com/actualidad/632904-rusia-ataca-mayores-plantas-metalurgicas-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Los drones ucranianos cierran por la noche los 4 aeropuertos de Moscú y cancelan vuelos",
+    "link": "https://es.euronews.com/2026/10/17/los-drones-ucranianos-cierran-por-la-noche-los-4-aeropuertos-de-moscu-y-cancelan-vuelos"
   },
   {
     "date": "2026-10-17",
     "image": null,
     "category": null,
-    "text": "Gigante automotriz alemán incentiva a miles de empleados a la baja voluntaria",
-    "link": "https://actualidad-rt.com/actualidad/632900-gigante-automotriz-aleman-incentiva-miles-empleados-baja?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 17 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/17/ultimas-noticias-17-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-17",
+    "image": null,
+    "category": null,
+    "text": "Un superpetrolero arde tras chocar con mina en el estrecho de Ormuz, según la Guardia Revolucionaria iraní",
+    "link": "https://es.euronews.com/2026/10/17/un-superpetrolero-arde-tras-chocar-con-mina-en-el-estrecho-de-ormuz-segun-la-guardia-revol"
   },
   {
     "date": "2026-10-17",
@@ -311,15 +381,15 @@
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blanca apenas días después de asumirlo",
-    "link": "https://www.bbc.com/mundo/articles/cm86zggzj6e0o?at_medium=RSS&at_campaign=rss"
+    "text": "\"Un gran héroe\": el padre que persiguió y abatió al atacante de la escuela de Oregón que mató a 3 niños y una profesora",
+    "link": "https://www.bbc.com/mundo/articles/cm369xj3lxy6o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-16",
     "image": null,
     "category": null,
-    "text": "\"Un gran héroe\": el padre que persiguió y abatió al atacante de la escuela de Oregón que mató a 3 niños y una profesora",
-    "link": "https://www.bbc.com/mundo/articles/cm369xj3lxy6o?at_medium=RSS&at_campaign=rss"
+    "text": "Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blanca apenas días después de asumirlo",
+    "link": "https://www.bbc.com/mundo/articles/cm86zggzj6e0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-16",
@@ -330,52 +400,10 @@
   },
   {
     "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "La polémica por la retirada de decenas de obras del Museo Nacional de Colombia (y qué dice de la \"batalla cultural\" de De la Espriella)",
-    "link": "https://www.bbc.com/mundo/articles/cw98zj48e4r4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
-    "link": "https://www.bbc.com/mundo/articles/cw62yve9vy93o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "La herida que sugiere que los neandertales eran más violentos de lo que se creía",
-    "link": "https://www.bbc.com/mundo/articles/cq146k14y55jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "\"Victoria colombiana\": el fascinante descubrimiento de un nenúfar gigante en Sudamérica que se ve desde el espacio",
-    "link": "https://www.bbc.com/mundo/articles/c8zxlydqxy67o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-16",
     "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226421_193509_video_1800.mp4",
     "category": "Donald Trump",
     "text": "Trump despide a la portavoz de prensa de la Casa Blanca tras cinco días en el cargo",
     "link": "https://elpais.com/us/2026-10-16/trump-abre-la-puerta-a-una-salida-de-la-portavoz-de-prensa-recien-nombrada-por-el.html"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226401_175804_video_1800.mp4",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "Zelenski lanza un dardo a Trump al hablar de los europeos como “verdaderos líderes”",
-    "link": "https://elpais.com/internacional/2026-10-16/zelenski-lanza-un-dardo-a-trump-al-hablar-de-los-europeos-como-verdaderos-lideres.html"
-  },
-  {
-    "date": "2026-10-16",
-    "image": "https://imagenes.elpais.com/resizer/v2/AL3SQCCWKBOAXNN2BXMZTCVWHA.jpg?auth=fc32b0dfbd1624ed50456941adcf647a5f7c554b1a5fd7c36cad9ecbac267591",
-    "category": "Energía",
-    "text": "Trump regala a Putin un nuevo balón de oxígeno con el pacto sobre el diésel",
-    "link": "https://elpais.com/internacional/2026-10-16/trump-regala-a-putin-un-nuevo-balon-de-oxigeno-con-el-acuerdo-sobre-el-diesel.html"
   },
   {
     "date": "2026-10-16",
@@ -390,33 +418,5 @@
     "category": null,
     "text": "Del 93% al 57%: la aprobación de Trump se desploma entre sus votantes latinos a las puertas de las elecciones",
     "link": "https://es.euronews.com/2026/10/16/trump-aprobacion-votantes-latinos-elecciones-eeuu"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "La portavoz de Trump deja la Casa Blanca días después de asumir el cargo entre polémicas y contradicciones",
-    "link": "https://es.euronews.com/2026/10/16/portavoz-trump-katie-zacharia-deja-casa-blanca-cinco-dias"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 16 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/16/ultimas-noticias-16-octubre-2026-tarde"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "EURONEWS HOY | Las noticias del 16 de octubre: Marruecos podría haber invadido la frontera de Ceuta",
-    "link": "https://es.euronews.com/2026/10/16/euronews-hoy-las-noticias-del-16-de-octubre-marruecos-podria-haber-vuelto-a-invadido-la-fr"
-  },
-  {
-    "date": "2026-10-16",
-    "image": null,
-    "category": null,
-    "text": "Bélgica: el festival Pumpkimania toma el castillo de Groot-Bijgaarden",
-    "link": "https://es.euronews.com/video/2026/10/16/belgica-el-festival-pumpkimania-toma-el-castillo-de-groot-bijgaarden"
   }
 ]

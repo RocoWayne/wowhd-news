@@ -1,8 +1,71 @@
 [
   {
     "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/f0cf04ca-ca58-11f1-a756-6313a763b466/w:1024/p:16x9/FOTO-PORTADA-COLOMBIA-DE-LA-ESPRIELLA-CULTURA.jpg",
-    "category": "América Latina",
+    "image": "https://s.france24.com/media/display/c2f356e2-ca43-11f1-ac30-6313a763b466/w:1024/p:16x9/2026-10-17T153033Z-1990504835-RC235OAI13EP-RTRMADP-3-FRANCE-PROTEST-1.jpg",
+    "category": "Francia",
+    "text": "“Las cosas no cambian, así que hay que recurrir a medidas drásticas”: protestas distintas convergen en París",
+    "link": "https://www.france24.com/es/francia/20261017-e"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/038f57e6-c7f1-11f1-a09b-6313a763b466/w:1024/p:16x9/2026-10-14T162430Z-882460569-RC243OAO8BDR-RTRMADP-3-UKRAINE-CRISIS-BRITAIN.jpg",
+    "category": "Europa",
+    "text": "Volodímir Zelenski teme que Trump \"continúe\" levantando las sanciones contra Rusia",
+    "link": "https://www.france24.com/es/europa/20261017-volod%C3%ADmir-zelenski-teme-que-trump-contin%C3%BAe-levantando-las-sanciones-contra-rusia"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/37049f06-846b-11f1-9d48-005056a90284/w:1024/p:16x9/000-C2GT3FC.jpg",
+    "category": "África",
+    "text": "ONU: el expresidente senegalés Macky Sall retira su candidatura al cargo de secretario general",
+    "link": "https://www.france24.com/es/%C3%A1frica/20261017-onu-el-expresidente-senegal%C3%A9s-macky-sall-retira-su-candidatura-al-cargo-de-secretario-general"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/03187584-ca69-11f1-85d7-6313a763b466/w:1024/p:16x9/ES-20261017-124212-124418-CS.jpg",
+    "category": null,
+    "text": "Vigilia en Oregon por tres niños y una profesora asesinados en un tiroteo escolar",
+    "link": "https://www.france24.com/es/video/20261017-vigilia-en-oregon-por-tres-ni%C3%B1os-y-una-profesora-asesinados-en-un-tiroteo-escolar"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/7bf0b13e-ca68-11f1-8c79-d1d2c32ebb87/w:1024/p:16x9/ES-20261017-123802-123937-CS.jpg",
+    "category": null,
+    "text": "Estambul se prepara para una nueva jornada de lluvias y posibles inundaciones",
+    "link": "https://www.france24.com/es/video/20261017-estambul-se-prepara-para-una-nueva-jornada-de-lluvias-y-posibles-inundaciones"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/237df654-ca65-11f1-9048-6313a763b466/w:1024/p:16x9/ES-20261017-101300-101442-CS.jpg",
+    "category": null,
+    "text": "Líder del \"Partido de las Cucarachas\" queda en libertad tras una nueva detención en Nueva Delhi",
+    "link": "https://www.france24.com/es/video/20261017-l%C3%ADder-del-partido-de-las-cucarachas-queda-en-libertad-tras-una-nueva-detenci%C3%B3n-en-nueva-delhi"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/7d350c66-ca5e-11f1-966f-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261017-070455-070627-CS.jpg",
+    "category": null,
+    "text": "Trump suspende por orden ejecutiva las sanciones a Rusia pese al Congreso y Moscú lo celebra",
+    "link": "https://www.france24.com/es/video/20261017-trump-suspende-por-orden-ejecutiva-las-sanciones-a-rusia-pese-al-congreso-y-mosc%C3%BA-lo-celebra"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/b59b9780-ca5b-11f1-a350-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261017-070703-070946-CS.jpg",
+    "category": null,
+    "text": "Papa León XIV sale del hospital tras someterse a una cirugía de pulmón",
+    "link": "https://www.france24.com/es/video/20261017-papa-le%C3%B3n-xiv-sale-del-hospital-tras-someterse-a-una-cirug%C3%ADa-de-pulm%C3%B3n"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://s.france24.com/media/display/948fdad2-ca66-11f1-840c-4dd8ac2cf3bf/w:1024/p:16x9/Francia-9.png",
+    "category": null,
+    "text": "Manifestantes en Francia cubren el Monumento de la República con un chaleco amarillo",
+    "link": "https://www.france24.com/es/video/20261017-manifestantes-en-francia-cubren-el-monumento-de-la-rep%C3%BAblica-con-un-chaleco-amarillo"
+  },
+  {
+    "date": "2026-10-17",
+    "image": null,
+    "category": null,
     "text": "\"Es una afrenta\": la \"contrarrevolución cultural\" de De la Espriella causa preocupación en Colombia",
     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261017-es-una-afrenta-la-contrarrevoluci%C3%B3n-cultural-de-de-la-espriella-causa-preocupaci%C3%B3n-en-colombia"
   },
@@ -15,58 +78,9 @@
   },
   {
     "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/7109b6ea-ca4e-11f1-b97d-6313a763b466/w:1024/p:16x9/ES-20261017-110233-110447-CS.jpg",
-    "category": null,
-    "text": "Estudiantes, sindicatos y 'Chalecos amarillos' marchan en París contra el costo de vida y Macron",
-    "link": "https://www.france24.com/es/video/20261017-estudiantes-sindicatos-y-chalecos-amarillos-marchan-en-par%C3%ADs-contra-el-costo-de-vida-y-macron"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/b1cd572e-ca4c-11f1-9073-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261017-100335-100832-CS.jpg",
-    "category": null,
-    "text": "¿Puede la protesta estudiantil en Francia convertirse en un movimiento social más amplio?",
-    "link": "https://www.france24.com/es/video/20261017-puede-la-protesta-estudiantil-en-francia-convertirse-en-un-movimiento-social-m%C3%A1s-amplio"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/78ce281e-ca4b-11f1-b451-638c1c1f5fd6/w:1024/p:16x9/ES-20261017-100149-100308-CS.jpg",
-    "category": null,
-    "text": "Informe desde París: estudiantes, sindicatos y 'Chalecos amarillos' protestan entre disturbios",
-    "link": "https://www.france24.com/es/video/20261017-informe-desde-par%C3%ADs-estudiantes-sindicatos-y-chalecos-amarillos-protestan-entre-disturbios"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/59a8c526-ca4a-11f1-9c26-6313a763b466/w:1024/p:16x9/ES-20261017-070228-070416-CS.jpg",
-    "category": null,
-    "text": "'Chalecos amarillos' se unen a las protestas por la educación y el alto costo de vida en Francia",
-    "link": "https://www.france24.com/es/video/20261017-chalecos-amarillos-se-unen-a-las-protestas-por-la-educaci%C3%B3n-y-el-alto-costo-de-vida-en-francia"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://s.france24.com/media/display/ab26ee02-ca43-11f1-a857-4dd8ac2cf3bf/w:1024/p:16x9/Estados-Unidos-anuncio%CC%81-nuevos-benefecios-migratorios.png",
-    "category": null,
-    "text": "Des-Informando: ¿Estados Unidos anunció nuevos benefecios migratorios?",
-    "link": "https://www.france24.com/es/video/20261017-des-informando-estados-unidos-anuncio%CC%81-nuevos-benefecios-migratorios"
-  },
-  {
-    "date": "2026-10-17",
     "image": null,
     "category": null,
-    "text": "Cisjordania ocupada: colonos atacan un convoy diplomático y golpean a un alcalde francés",
-    "link": "https://www.france24.com/es/medio-oriente/20261017-cisjordania-ocupada-colonos-atacan-un-convoy-diplom%C3%A1tico-y-golpean-a-un-alcalde-franc%C3%A9s"
-  },
-  {
-    "date": "2026-10-17",
-    "image": null,
-    "category": null,
-    "text": "El papa abandona el hospital caminando sin ayuda tras una operación por cáncer de pulmón",
-    "link": "https://www.france24.com/es/europa/20261017-el-papa-le%C3%B3n-xvi-recibe-el-alta-m%C3%A9dica-y-regresa-al-vaticano-tras-su-operaci%C3%B3n-de-pulm%C3%B3n"
-  },
-  {
-    "date": "2026-10-17",
-    "image": null,
-    "category": null,
-    "text": "\"Día de furia\" en Francia: asaltos a edificios y más de 400 detenidos en multitudinarias protestas por la educación y el costo de vida",
+    "text": "\"Día de furia\" en Francia: asaltos a edificios, incendios y más de 1.200 detenidos en multitudinarias protestas con acusaciones cruzadas entre el gobierno y la izquierda",
     "link": "https://www.bbc.com/mundo/articles/cvwy7rzx34r1o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -141,45 +155,24 @@
   },
   {
     "date": "2026-10-17",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/4MKHQ52SZJEK5MKPFWUHZQ53RE.jpg?auth=8b570da02af4958490f296d45581caeca449a8c049cc32e335e425ad8d2bcf26&smart=true&width=1890&height=1063",
     "category": null,
-    "text": "Protestas masivas en Francia degeneran en destrozos y saqueos en jornada de gran violencia",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/protestas-masivas-en-francia-degeneran-en-destrozos-y-saqueos-en-jornada-de-gran-violencia/"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/PPA652RWUJAW3K26CHZEVN4RH4.JPG?auth=d0da8168fe51034bbdbd828ac598c62fd5913d0b6049aeee73b617f90024c89b&smart=true&width=4140&height=2329",
-    "category": null,
-    "text": "La tensa discusión entre Medvedev y el juez de silla en plena semifinal del Masters 1000 de Shanghai: “Muéstrenme la pelota o me voy”",
-    "link": "https://www.infobae.com/deportes/2026/10/17/la-tensa-discusion-entre-medvedev-y-el-juez-de-silla-en-plena-semifinal-del-masters-1000-de-shanghai-muestrenme-la-pelota-o-me-voy/"
+    "text": "Salario mínimo de 2027: Exlíder de la CUT reveló la cifra que se estaría planeando pedir en la mesa, sería superior al del 2026",
+    "link": "https://www.infobae.com/colombia/2026/10/17/salario-minimo-de-2027-exlider-de-la-cut-revelo-la-cifra-que-se-estaria-planeando-pedir-en-la-mesa-seria-superior-al-del-2026/"
   },
   {
     "date": "2026-10-17",
     "image": null,
     "category": null,
-    "text": "El Breogán hace historia en Andorra: cuatro de cuatro inédito en los 100 puntos",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/17/el-breogan-hace-historia-en-andorra-cuatro-de-cuatro-inedito-en-los-100-puntos/"
+    "text": "Hoy será noticia. Domingo, 18 de octubre",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/17/hoy-sera-noticia-domingo-18-de-octubre/"
   },
   {
     "date": "2026-10-17",
     "image": null,
     "category": null,
-    "text": "3-4. El Feyenoord gana al hijo de Koeman y consolida el liderato antes de visitar al Betis",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/17/3-4-el-feyenoord-gana-al-hijo-de-koeman-y-consolida-el-liderato-antes-de-visitar-al-betis/"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/AQRY63XWTBB3BLQDELSWWJXLYI.jpg?auth=0654ff34bfe690da525ca79f56e0788a74040296011b7e991da24fed00b61958&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "El Ayuntamiento de Limoges arde por completo durante las protestas en Francia",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/el-ayuntamiento-de-limoges-arde-por-completo-durante-las-protestas-en-francia/"
-  },
-  {
-    "date": "2026-10-17",
-    "image": null,
-    "category": null,
-    "text": "Trump vuelve a criminalizar a inmigrantes en su intento de animar al votante republicano",
-    "link": "https://www.infobae.com/america/agencias/2026/10/17/trump-vuelve-a-criminalizar-a-inmigrantes-en-su-intento-de-animar-al-votante-republicano/"
+    "text": "‘Convoy de la Libertad’ arranca recorrido por EEUU para cuestionar la influencia de Israel",
+    "link": "https://www.infobae.com/america/agencias/2026/10/17/convoy-de-la-libertad-arranca-recorrido-por-eeuu-para-cuestionar-la-influencia-de-israel/"
   },
   {
     "date": "2026-10-17",
@@ -190,38 +183,59 @@
   },
   {
     "date": "2026-10-17",
+    "image": "https://www.infobae.com/resizer/v2/SPIR6SD7FNHNBAEEE37PPIWNBE.JPG?auth=8f5da0b8b85107180d6ea3fc35d9531610f65db3442433dca08fdcd0f6adc655&smart=true&width=4096&height=2736",
+    "category": null,
+    "text": "Donald Trump insiste que México ha pagado “muchas veces” el muro fronterizo con imposición de aranceles",
+    "link": "https://www.infobae.com/mexico/2026/10/17/donald-trump-insiste-que-mexico-ha-pagado-muchas-veces-el-muro-fronterizo-con-imposicion-de-aranceles/"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://www.infobae.com/resizer/v2/S2PH63ZVYNA2HEGALJABDRRJGY.png?auth=95a5236575a63b233b01fab92b381f9bb6bea1d4066be97c7ff5b27263b91a8c&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Chivas vs Tigres En VIVO: media hora de partido, el marcador continúa 0-0 en el Estadio Akron",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/16/chivas-vs-tigres-a-que-hora-y-donde-ver-el-partido-correspondiente-a-la-jornada-12-del-apertura-2026/"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://www.infobae.com/resizer/v2/GT3NJJTBZNC3RDT7DRPA3HLYZI.jpg?auth=b2bc3a0e2be1fbf19a5cf4674bb948bbcfcc3761a81f4b8ad00deb5d0f88bf6b&smart=true&width=3662&height=2060",
+    "category": null,
+    "text": "El Rosario Central de Di María busca alcanzar la cima de su zona ante Atlético Tucumán",
+    "link": "https://www.infobae.com/deportes/2026/10/17/la-fecha-13-del-torneo-clausura-continuara-con-cinco-partidos-claves-la-agenda-completa/"
+  },
+  {
+    "date": "2026-10-17",
     "image": "https://www.infobae.com/resizer/v2/HJZZ6IZI4NH2NLUI5E4HC4HPDY.jpg?auth=46da3f406b603c2a4fee9eadc5dfc2558347f697d0457bd6424a0552198e0fac&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Universitario vs Deportivo Soan EN VIVO HOY: punto a punto del partido por fecha 1 de la Liga Peruana de Vóley 2026-27",
+    "text": "Universitario vs Deportivo Soan 3-0: resumen de la victoria ‘crema’ por fecha 1 de la Liga Peruana de Vóley 2026-27",
     "link": "https://www.infobae.com/peru/deportes/2026/10/17/universitario-vs-deportivo-soan-en-vivo-hoy-punto-a-punto-partido-fecha-1-liga-peruana-de-voley-2026-2027-resumen-resultado/"
   },
   {
     "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/LP2J3RLVOJCA7ENQB5YPO4KZNM.jpg?auth=2484d72448556382f1b3c1395c8d4fc6e04ac61e145646e79a1213a51986bc1e&smart=true&width=1918&height=1079",
+    "image": "https://www.infobae.com/resizer/v2/HS2WDDMZVNFMTJMZXNBY4SB3WA.JPG?auth=da5f33c4945793404afff51e382efadd0211b2ba83538363df40fd46ae27ffc2&smart=true&width=3996&height=2248",
     "category": null,
-    "text": "Más de 100 líneas de colectivos del AMBA dicen que bajarán frecuencias si no se resuelve el problema de rentabilidad",
-    "link": "https://www.infobae.com/economia/2026/10/17/mas-de-100-lineas-de-colectivos-del-amba-dicen-que-bajaran-frecuencias-si-no-se-resuelve-el-problema-de-rentabilidad/"
+    "text": "Con Lionel Messi de titular, Inter Miami visita a Atlanta United por la MLS con la obligación de ganar",
+    "link": "https://www.infobae.com/deportes/2026/10/17/el-inter-miami-de-lionel-messi-visitara-a-atlanta-united-por-la-mls-hora-tv-y-probables-formaciones/"
   },
   {
     "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/BFY6KROZKZGTZJ7QXWQVI2467U.jpg?auth=a655dc0ad6b0fdcdae80df45ff6321c863258437922266a5f4a0a469cb5564eb&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/OIRCDEHTKZG3VJ2Z3YYJXY37BM.jpg?auth=b62bb34da97370d62c5a13d0e9702703c2703f84ac9bca8370d5a44df4f98b1a&smart=true&width=900&height=601",
     "category": null,
-    "text": "“Ni culpar a la bacteria ni despedir personal”: Alejandro Macías plantea prohibir compartir sueros intravenosos para evitar muertes por Kliebsella",
-    "link": "https://www.infobae.com/mexico/2026/10/17/ni-culpar-a-la-bacteria-ni-despedir-personal-alejandro-macias-plantea-prohibir-compartir-sueros-intravenosos-para-evitar-muertes-por-kliebsella/"
+    "text": "Independiente Medellín vs. Once Caldas - en vivo Liga BetPlay: minuto a minuto del partido en el Atanasio Girardot",
+    "link": "https://www.infobae.com/colombia/deportes/2026/10/17/independiente-medellin-vs-once-caldas-en-vivo-liga-betplay-minuto-a-minuto-del-partido-en-el-atanasio-girardot/"
   },
   {
     "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/L2M3CPVHBVGDHLVSEQLUTFZTRI.jpg?auth=84d6a4ac9ab7547e3bc8856e36ad9e1d53f3968b701274fc24e7e97c12bb37b8&smart=true&width=1181&height=824",
+    "image": "https://www.infobae.com/resizer/v2/LKF5OMYSZBFXDH33AE67Z57T3U.jpeg?auth=98c7502e0944d6d969a8bfc54391c5d36feae6e7601e5dddfc326b84d6cb87ff&smart=true&width=2918&height=1945",
     "category": null,
-    "text": "Boom de ingenieros en Argentina: se rompió un récord de egresados pero faltan en sectores clave",
-    "link": "https://www.infobae.com/educacion/2026/10/17/boom-de-ingenieros-en-argentina-se-rompio-un-record-de-egresados-pero-faltan-en-sectores-clave/"
+    "text": "Iván René Valenciano calificó al técnico de Junior como “monigote”: “Hace lo que los jugadores le dicen”",
+    "link": "https://www.infobae.com/colombia/deportes/2026/10/17/ivan-rene-valenciano-califico-al-tecnico-de-junior-como-monigote-hace-lo-que-los-jugadores-le-dicen/"
   },
   {
     "date": "2026-10-17",
-    "image": "https://www.infobae.com/resizer/v2/ALINEIVLGFD5HIUZ47EFIM2C74.JPG?auth=40ee93a6a534b3ca67ac56fa64bca4c2487e410783619f5e90766b7c7da25699&smart=true&width=5046&height=2838",
+    "image": "https://www.infobae.com/resizer/v2/COH6OHDGOFAINEKKFG7R6AZB6A.jpg?auth=98b12805f473e5fac6f75a45f4c6e71866cdd70c4cd25bf2b4926d4e79c2782c&smart=true&width=931&height=513",
     "category": null,
-    "text": "Argentinos Juniors derrotó como visitante a Banfield y tomó el liderazgo de la Zona B en soledad",
-    "link": "https://www.infobae.com/deportes/2026/10/17/la-fecha-13-del-torneo-clausura-continuara-con-cinco-partidos-claves-la-agenda-completa/"
+    "text": "Resultados examen de admisión San Marcos 2027-I: LINK oficial de la prueba de este sábado 17 de octubre",
+    "link": "https://www.infobae.com/peru/2026/10/17/link-oficial-de-los-resultados-examen-de-admision-san-marcos-2027-i-de-este-sabado-17-de-octubre/"
   },
   {
     "date": "2026-10-17",
@@ -232,6 +246,13 @@
   },
   {
     "date": "2026-10-17",
+    "image": "https://imagenes.elpais.com/resizer/v2/HSUU7GQOJBEATGWQIJ5TTQKP2A.JPG?auth=3e4c68620cf515a77881efb4896ce655f7f5ad992c4f0d024c969d4b4f435525",
+    "category": "Israel",
+    "text": "Israel afronta unas elecciones decisivas con Netanyahu y la oposición lejos de la mayoría",
+    "link": "https://elpais.com/internacional/2026-10-17/israel-afronta-unas-elecciones-decisivas-en-un-escenario-de-total-incertidumbre.html"
+  },
+  {
+    "date": "2026-10-17",
     "image": "https://imagenes.elpais.com/resizer/v2/T3PUWRLLPVG5FLDJ4UAQTFCDUI.jpg?auth=0dd289274b5d69a9f182ddbb5a97efb74de867e645167decc637a08f7d0bf74c",
     "category": "Francia",
     "text": "Jérome Fourquet, sobre las protestas de estudiantes en Francia: “Estamos ante el final de un reinado”",
@@ -239,10 +260,10 @@
   },
   {
     "date": "2026-10-17",
-    "image": "https://imagenes.elpais.com/resizer/v2/HSUU7GQOJBEATGWQIJ5TTQKP2A.JPG?auth=3e4c68620cf515a77881efb4896ce655f7f5ad992c4f0d024c969d4b4f435525",
-    "category": "Israel",
-    "text": "Israel afronta unas elecciones decisivas con Netanyahu y la oposición lejos de la mayoría",
-    "link": "https://elpais.com/internacional/2026-10-17/israel-afronta-unas-elecciones-decisivas-en-un-escenario-de-total-incertidumbre.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/OKHKRM4TCFHCFBHKKD2Z4CEEEE.jpg?auth=57a53fbbc346436a48a962eae03800c7fc04668509f6ddce32f40b59f36235eb",
+    "category": "República Checa",
+    "text": "El magnate populista Babis asume como “catastrófico” el resultado de su partido en las legislativas checas",
+    "link": "https://elpais.com/internacional/2026-10-17/el-magnate-populista-babis-asume-como-catastrofico-el-resultado-de-su-partido-en-las-legislativas-checas.html"
   },
   {
     "date": "2026-10-17",
@@ -267,80 +288,87 @@
   },
   {
     "date": "2026-10-17",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261017/1226602_142153_video_1800.mp4",
-    "category": "Papa León XIV",
-    "text": "El Papa sale del hospital cuatro días después de su operación de pulmón",
-    "link": "https://elpais.com/internacional/2026-10-17/el-papa-sale-esta-tarde-del-hospital-cuatro-dias-despues-de-su-operacion-de-pulmon.html"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3353559bf5b35d7782b4c.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3fbaee9ff717b371560c0.jpg",
     "category": null,
-    "text": "Advierte que caer de una cascada sería fatal y minutos después muere al resbalar",
-    "link": "https://actualidad-rt.com/actualidad/632913-advierte-caer-cascada-fatal-muere-resbalar?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3cf41e9ff71098a30fd09.jpg",
-    "category": null,
-    "text": "¿Héroe o villano?: Batman cambia las calles de Ciudad Gótica por los disturbios en Francia (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/632985-heroe-villano-batman-gotham-disturbios-francia-video?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3728f59bf5b358a59675e.jpg",
-    "category": null,
-    "text": "Merz apuesta por un cambio militar radical: ¿en qué consiste?",
-    "link": "https://actualidad-rt.com/actualidad/632948-merz-apuesta-cambio-militar-radical?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad39f0a59bf5b3f3979d5f4.jpg",
-    "category": null,
-    "text": "Merz recibe una pregunta incómoda en plena cara: \"¿Por qué no se dirige al presidente y solicita su cese?\"",
-    "link": "https://actualidad-rt.com/actualidad/632959-inesperada-propuesta-merz-solicita-cese?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3ca2c59bf5b7827402318.jpg",
-    "category": null,
-    "text": "Zarpa el primer buque cisterna con petróleo ruso del megaproyecto Vostok Oil para el mercado mundial",
-    "link": "https://actualidad-rt.com/actualidad/632984-zarpa-primer-buque-cisterna-petroleo?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad200b959bf5b204236364f.jpg",
-    "category": null,
-    "text": "VIDEO: Motociclista graba en primera persona su potente choque a toda velocidad",
-    "link": "https://actualidad-rt.com/viral/632759-motociclista-graba-primera-persona-choque?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3bd00e9ff71703d76a8ca.jpg",
-    "category": null,
-    "text": "Manifestantes vandalizan uno de los monumentos más emblemáticos de París (VIDEO)",
-    "link": "https://actualidad-rt.com/actualidad/632977-manifestantes-vandalizar-monumentos-emblematicos-paris?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad39e6259bf5b5e7d6a759a.jpg",
-    "category": null,
-    "text": "Buscando al culpable: Zelenski denuncia una \"operación planificada\" detrás de las restricciones de Starlink para Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/632967-zelenski-denunciar-operacion-planificada-restricciones-starlink?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Asesinan en una cancha de fútbol a un reconocido exfiscal anticorrupción en Guatemala",
+    "link": "https://actualidad-rt.com/actualidad/632992-asesinar-reconocido-exfiscal-anticorrupcion-guatemala?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-17",
     "image": null,
     "category": null,
-    "text": "Atrapan in fraganti a 5 personas mientras desmembran un cuerpo y queman motocicletas",
-    "link": "https://actualidad-rt.com/actualidad/632983-atrapan-in-fraganti-5-personas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Ministro de Defensa de Israel presume los \"logros espectaculares\" en Gaza y el Líbano",
+    "link": "https://actualidad-rt.com/actualidad/632996-ministro-defensa-israeli-presume-logros-gaza-libano?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-17",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3bd42e9ff715a9b7c42d2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad4083ce9ff71658925150c.jpg",
     "category": null,
-    "text": "ESPECTACULAR VIDEO: El volcán Kilauea vuelve a entrar en erupción y lanza lava a más de 200 metros de altura",
-    "link": "https://actualidad-rt.com/viral/632972-espectacular-video-volcan-kilauea-erupcion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Rubio arremete contra Zelenski por acusar a EE.UU. de obstaculizar deliberadamente el Starlink militar",
+    "link": "https://actualidad-rt.com/actualidad/632997-rubio-arremete-zelenski-acusar-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": null,
+    "category": null,
+    "text": "Trump revela sus palabras favoritas e incluye un término inesperado",
+    "link": "https://actualidad-rt.com/actualidad/632995-trump-palabras-favoritas-termino-inesperado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3f7f959bf5b4afc6a1f05.jpg",
+    "category": null,
+    "text": "Ministro de defensa israelí: \"Haremos retroceder a Irán a la era de la oscuridad y la piedra\"",
+    "link": "https://actualidad-rt.com/actualidad/632991-ministro-israeli-retroceder-iran-era-oscuridad-piedra?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3f36659bf5b4afc6a1eff.jpg",
+    "category": null,
+    "text": "Francia arde: noche violenta en medio de las masivas protestas con saqueos y disturbios (VIDEOS)",
+    "link": "https://actualidad-rt.com/actualidad/632990-francia-arde-noche-violenta-masivas-protestas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3ead9e9ff7109cc0ead14.jpg",
+    "category": null,
+    "text": "El Súper Niño amenaza con desatar la escasez de este popular producto en Latinoamérica y el mundo",
+    "link": "https://actualidad-rt.com/actualidad/632895-super-nino-amenaza-escasez-azucar-latinoamerica-mundo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3e3f859bf5b407b5a8d35.jpg",
+    "category": null,
+    "text": "Trump alardea de su poder presidencial: \"Ahora Google me besa el trasero\"",
+    "link": "https://actualidad-rt.com/actualidad/632989-trump-poder-presidencial-google-besar-trasero?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad3db5259bf5b254965d748.jpg",
+    "category": null,
+    "text": "Moscú explica cómo los consumidores europeos pagan por el rechazo de los recursos energéticos rusos",
+    "link": "https://actualidad-rt.com/actualidad/632987-moscu-explica-consumidores-europeos-pagan-rechazo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": null,
+    "category": null,
+    "text": "Detienen a exfiscal de Chihuahua por caso de los agentes de la CIA muertos en México",
+    "link": "https://actualidad-rt.com/actualidad/632988-detener-exfiscal-chihuahua-agentes-cia-muertos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-17",
+    "image": null,
+    "category": null,
+    "text": "Austria, Suiza, Francia y Hungría: el polémico mapa de la 'Gran Alemania' difundido por un dirigente de la AfD",
+    "link": "https://es.euronews.com/2026/10/17/mapa-gran-alemania-afd-polemica-fronteras-europa"
+  },
+  {
+    "date": "2026-10-17",
+    "image": null,
+    "category": null,
+    "text": "El histórico Ayuntamiento de Limoges arde en las protestas de Francia",
+    "link": "https://es.euronews.com/2026/10/17/el-historico-ayuntamiento-de-limoges-arde-en-las-protestas-de-francia"
   },
   {
     "date": "2026-10-17",
@@ -390,33 +418,5 @@
     "category": null,
     "text": "Últimas noticias | 17 octubre 2026 - Mediodía",
     "link": "https://es.euronews.com/video/2026/10/17/ultimas-noticias-17-octubre-2026-mediodia"
-  },
-  {
-    "date": "2026-10-17",
-    "image": null,
-    "category": null,
-    "text": "Un superpetrolero arde tras chocar con mina en el estrecho de Ormuz, según la Guardia Revolucionaria iraní",
-    "link": "https://es.euronews.com/2026/10/17/un-superpetrolero-arde-tras-chocar-con-mina-en-el-estrecho-de-ormuz-segun-la-guardia-revol"
-  },
-  {
-    "date": "2026-10-17",
-    "image": null,
-    "category": null,
-    "text": "Corea del Norte afirma haber probado un nuevo sistema de torpedos con IA",
-    "link": "https://es.euronews.com/2026/10/17/corea-del-norte-afirma-haber-probado-un-nuevo-sistema-de-torpedos-con-ia"
-  },
-  {
-    "date": "2026-10-17",
-    "image": null,
-    "category": null,
-    "text": "Trump firma una orden ejecutiva que suspende el nuevo paquete de sanciones a Rusia",
-    "link": "https://es.euronews.com/2026/10/17/trump-firma-una-orden-ejecutiva-que-suspende-el-nuevo-paquete-de-sanciones-a-rusia"
-  },
-  {
-    "date": "2026-10-17",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 17 octubre 2026 - Mañana",
-    "link": "https://es.euronews.com/video/2026/10/17/ultimas-noticias-17-octubre-2026-manana"
   }
 ]

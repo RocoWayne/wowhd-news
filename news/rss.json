@@ -1,6 +1,13 @@
 [
   {
     "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Protestas en Francia: el Gobierno pide toques de queda parciales tras los disturbios y manifestantes bloquean el Louvre",
+    "link": "https://www.france24.com/es/francia/20261019-en-directo-el-primer-ministro-franc%C3%A9s-lecornu-pide-toques-de-queda-parciales-en-ciudades-afectadas-por-disturbios-y-saqueos"
+  },
+  {
+    "date": "2026-10-19",
     "image": "https://s.france24.com/media/display/bb634d24-cb65-11f1-950d-6313a763b466/w:1024/p:16x9/67f4a5def68caac4535e07c4b807d8481ff0047aw.jpg",
     "category": "América Latina",
     "text": "Debate en Brasil: una batalla campal en la que el temple de Bolsonaro prevaleció ante un exaltado Lula",
@@ -38,8 +45,36 @@
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "\"La cámara del teléfono es tu arma\": cómo las mujeres iraquíes desafían las amenazas de muerte para luchar contra la violencia sexual",
-    "link": "https://www.bbc.com/mundo/articles/cm4g17q284xlo?at_medium=RSS&at_campaign=rss"
+    "text": "Las numerosas preguntas que siguen abiertas en Francia tras el \"fin de semana de furia\" y por qué se temen más protestas",
+    "link": "https://www.bbc.com/mundo/articles/cr86z0z5yd3lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Los hijos temporales que los ancianos contratan en China para combatir la soledad",
+    "link": "https://www.bbc.com/mundo/articles/cmx2we79kxzdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "\"No hay intención de mantener viva su memoria\": cómo se va difuminando la figura de Maduro en la nueva Venezuela de Delcy Rodríguez",
+    "link": "https://www.bbc.com/mundo/articles/cm1j43k5en2do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Cuándo son realmente preocupantes las subidas de azúcar en sangre",
+    "link": "https://www.bbc.com/mundo/articles/c6rmyzg1wkego?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "La conmoción en Australia después de que un vehículo arrollara y dejara gravemente herida a una diputada en un presunto ataque deliberado",
+    "link": "https://www.bbc.com/mundo/articles/cw77p62zkl1eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-19",
@@ -52,176 +87,295 @@
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "La Aemet rebaja la alerta de riesgo por lluvias en Mallorca a nivel naranja",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/19/la-aemet-rebaja-la-alerta-de-riesgo-por-lluvias-en-mallorca-a-nivel-naranja/"
+    "text": "\"La cámara del teléfono es tu arma\": cómo las mujeres iraquíes desafían las amenazas de muerte para luchar contra la violencia sexual",
+    "link": "https://www.bbc.com/mundo/articles/cm4g17q284xlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-19",
-    "image": "https://www.infobae.com/resizer/v2/SUW2GGZFOFHC5KRBVQXXK3VY2M.jpg?auth=c410a21f7d59f3134227342f239e96537a57f99551b924317f024c21091ea800&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/RY6K3SS5H5AXBLMIZNQ3K7PTFA.png?auth=bb3b2a0d849d02dd2e1068929bb1862e26569997170eb7b6509f1b4a47d6ef76&smart=true&width=1536&height=1024",
     "category": null,
-    "text": "Resultado Super Astro Luna HOY: número ganador del domingo 18 de octubre",
-    "link": "https://www.infobae.com/colombia/2026/10/19/resultado-super-astro-luna-hoy-numero-ganador-del-domingo-18-de-octubre/"
+    "text": "Temblor HOY en Perú EN VIVO: últimos sismos, epicentro y reporte del IGP del 19 de octubre de 2026",
+    "link": "https://www.infobae.com/peru/2026/10/19/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-19-de-octubre-de-2026/"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "La Generalitat envía un Es-Alert pidiendo a la población no desplazarse por inundaciones",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/19/la-generalitat-envia-un-es-alert-pidiendo-a-la-poblacion-no-desplazarse-por-inundaciones/"
+    "text": "Países UE fijan sus líneas rojas para reformar la Organización Común de Mercados Agrícolas",
+    "link": "https://www.infobae.com/america/agencias/2026/10/19/paises-ue-fijan-sus-lineas-rojas-para-reformar-la-organizacion-comun-de-mercados-agricolas/"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://www.infobae.com/resizer/v2/7RL5MP4E3RGBXMIWD25EODL7AE.jpg?auth=a8fa4dbbd43d73d2cf963e15c2968def00d0dbe76e75c5c7de7bb7ea56c47abb&smart=true&width=1920&height=1280",
+    "category": null,
+    "text": "Bulgaria avisa de que la inestabilidad en Francia puede rebajar el apoyo militar a Ucrania",
+    "link": "https://www.infobae.com/america/agencias/2026/10/19/bulgaria-avisa-de-que-la-inestabilidad-en-francia-puede-rebajar-el-apoyo-militar-a-ucrania/"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "Madrid promueve una muestra sobre ETA en el Museo de Víctimas del Comunismo de Washington",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/19/madrid-promueve-una-muestra-sobre-eta-en-el-museo-de-victimas-del-comunismo-de-washington/"
+    "text": "Organizaciones de migrantes en Alemania piden protección ante posible Gobierno de AfD",
+    "link": "https://www.infobae.com/america/agencias/2026/10/19/organizaciones-de-migrantes-en-alemania-piden-proteccion-ante-posible-gobierno-de-afd/"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://www.infobae.com/resizer/v2/64IZYBBBRRE2TJLB5W7SDLZC7U.jpg?auth=2d4a8d1847f598d654690d0036a5152519af3980d6bcb770e5f4ae977753c222&smart=true&width=1920&height=1282",
+    "category": null,
+    "text": "Decapitado en Uganda un disidente ruandés que fue oficial del Ejército de Ruanda",
+    "link": "https://www.infobae.com/america/agencias/2026/10/19/decapitado-en-uganda-un-disidente-ruandes-que-fue-oficial-del-ejercito-de-ruanda/"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "Taiwán prevé que el supertifón Champi podría afectar a la isla a finales de esta semana",
-    "link": "https://www.infobae.com/america/agencias/2026/10/19/taiwan-preve-que-el-supertifon-champi-podria-afectar-a-la-isla-a-finales-de-esta-semana/"
+    "text": "AI denuncia el uso de \"matones\" armados contra manifestantes antigubernamentales en Kenia",
+    "link": "https://www.infobae.com/america/agencias/2026/10/19/ai-denuncia-el-uso-de-matones-armados-contra-manifestantes-antigubernamentales-en-kenia/"
   },
   {
     "date": "2026-10-19",
-    "image": "https://www.infobae.com/resizer/v2/Z2PN7FZTFFA4HCBEQQU5BMKR5M.JPG?auth=dfe205b9c587f3ac1212c8c99a940d983c9507a4b9686599c428ac153a855217&smart=true&width=6000&height=4000",
+    "image": "https://www.infobae.com/resizer/v2/PTKL4OMYZ5DD3FJZ6RTYCFZGII.jpg?auth=92d81b88762ae0f2489ed99dd443cb8d5eca1893b3dfd4bac946075f69e746fa&smart=true&width=1920&height=1280",
     "category": null,
-    "text": "Se prevé que vuelvan a estallar violentas protestas en Francia",
-    "link": "https://www.infobae.com/economist/2026/10/19/se-preve-que-vuelvan-a-estallar-violentas-protestas-en-francia/"
+    "text": "CC.OO. convoca huelga de la plantilla de fijos discontinuos del FC Barcelona para el 'Clásico'",
+    "link": "https://www.infobae.com/america/agencias/2026/10/19/ccoo-convoca-huelga-de-la-plantilla-de-fijos-discontinuos-del-fc-barcelona-para-el-clasico/"
   },
   {
     "date": "2026-10-19",
-    "image": "https://www.infobae.com/resizer/v2/NHOIBFQE4VCARBIBZDAQBUBTEI.jpg?auth=18f314edb7c0008f74797768aa5b5d67c1e47a4b95d7c862497101917f5b8995&smart=true&width=1200&height=675",
+    "image": "https://www.infobae.com/resizer/v2/M4IGPZPSXRGJDHCD6HBQ6NGUL4.jpg?auth=b3b89ae6d4fa300f3bea8a5e1d0e68038a5ee2172547da08bd47332f48408e1e&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Pamela López llama ‘salada’ a Samahara Lobatón tras la cancelación de El Sultanato: “Debes venír porque tus hijitos están pequeñitos”",
-    "link": "https://www.infobae.com/peru/2026/10/19/pamela-lopez-llama-salada-a-samahara-lobaton-tras-la-cancelacion-de-el-sultanato-debes-venir-a-cuidar-a-tu-hijito/"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://www.infobae.com/resizer/v2/CMM23SBXCNANJETN6SMGN6JWKM.JPG?auth=85752fc646237ef16a63968d12c1da7af63072c8df196a1e6d0d169446668a12&smart=true&width=4492&height=3068",
-    "category": null,
-    "text": "Paxon Ruffin debutó con Rayados a los 16 años: el nuevo récord del club Monterrey",
-    "link": "https://www.infobae.com/mexico/deportes/2026/10/19/paxon-ruffin-debuto-con-rayados-a-los-16-anos-el-nuevo-record-del-club-monterrey/"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://www.infobae.com/resizer/v2/6KIAO7DMLZDZTCWYYDAUU3FW2E.jpg?auth=7a2ab91e09c1b3bf14b75942ca545df0ed4f6593fdf32fcf3748bb6c6bac350a&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Joe Manganiello reveló cómo iba a ser la película de ‘Batman’ que Ben Affleck rechazó filmar",
-    "link": "https://www.infobae.com/entretenimiento/2026/10/19/joe-manganiello-revelo-como-iba-a-ser-la-pelicula-de-batman-que-ben-affleck-rechazo-filmar/"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://www.infobae.com/resizer/v2/QSKYC6UHHNAIVHCBMA5IAQIF2M.JPG?auth=453bed4fe15ff526e3a7d26cd6aa138f3199e74353584b43233b3fcced717d6b&smart=true&width=6500&height=4333",
-    "category": null,
-    "text": "EN VIVO | Clima CDMX y resto de México hoy domingo 18 de octubre: huracán Trudy se degrada a categoría 1",
-    "link": "https://www.infobae.com/mexico/2026/10/18/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-domingo-18-de-octubre/"
+    "text": "Comprueba los resultados del sorteo 3 la Triplex de la Once",
+    "link": "https://www.infobae.com/espana/2026/10/19/comprueba-los-resultados-del-sorteo-3-la-triplex-de-la-once/"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "América resiste en el liderato y Bucaramanga pierde la oportunidad de asaltarlo",
-    "link": "https://www.infobae.com/america/agencias/2026/10/19/america-resiste-en-el-liderato-y-bucaramanga-pierde-la-oportunidad-de-asaltarlo/"
+    "text": "El Unicaja, a refrendar en la República Checa su buen arranque en un duelo inédito",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/19/el-unicaja-a-refrendar-en-la-republica-checa-su-buen-arranque-en-un-duelo-inedito/"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://www.infobae.com/resizer/v2/Q5GUCW646FEIDJ5K6VLKKKWJXY.jpg?auth=744a8011ba1f74412efc1258a0aeca5b0e0009a9894e9c498bb4bbc59e23de52&smart=true&width=1920&height=1441",
+    "category": null,
+    "text": "Francisco Rivera revela cómo está su hija Tana tras su ruptura con Roca Rey",
+    "link": "https://www.infobae.com/america/agencias/2026/10/19/francisco-rivera-revela-como-esta-su-hija-tana-tras-su-ruptura-con-roca-rey/"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "Ecuador inicia plan que contempla redistribución de 9.214 presos por nivel de peligrosidad",
-    "link": "https://www.infobae.com/america/agencias/2026/10/19/ecuador-inicia-plan-que-contempla-redistribucion-de-9214-presos-por-nivel-de-peligrosidad/"
+    "text": "El G7 busca una gestión más prospectiva para una agricultura menos sensible a las crisis",
+    "link": "https://www.infobae.com/america/agencias/2026/10/19/el-g7-busca-una-gestion-mas-prospectiva-para-una-agricultura-menos-sensible-a-las-crisis/"
   },
   {
     "date": "2026-10-19",
-    "image": "https://imagenes.elpais.com/resizer/v2/Q5ACAQPX7ZLIBMVIYUQHJ7GWQM.jpg?auth=48392860a3efbda302997996d6cd6365206647df1525b1c33d892c698ea2e45a",
+    "image": "https://www.infobae.com/resizer/v2/VTZNSNXI6JFE7OZIGZYQM3CIJU.jpg?auth=a3bf402fd8bc002a6595398c8d221ba675925d84c398d2969c4983e2a480bf06&smart=true&width=3636&height=2045",
+    "category": null,
+    "text": "Los satélites de la NASA siguen el avance de El Niño: la señal clave en el océano que anticipa un impacto extremo en el clima",
+    "link": "https://www.infobae.com/america/medio-ambiente/2026/10/19/los-satelites-de-la-nasa-siguen-el-avance-de-el-nino-la-senal-clave-en-el-oceano-que-anticipa-un-impacto-extremo-en-el-clima/"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261018/1226884_193828_video_1800.mp4",
+    "category": "Francia",
+    "text": "Francia implantará toques de queda parciales en algunas ciudades para evitar disturbios",
+    "link": "https://elpais.com/internacional/2026-10-19/macron-rechaza-la-dimision-del-ministro-del-interior-tras-los-disturbios-del-fin-de-semana.html"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261017/1226646_170927_video_1800.mp4",
     "category": "Protestas estudiantiles",
     "text": "La juventud europea se planta ante un futuro sin salidas",
     "link": "https://elpais.com/internacional/2026-10-19/la-juventud-europea-se-rebela-contra-un-futuro-cada-vez-mas-precario.html"
   },
   {
     "date": "2026-10-19",
-    "image": "https://imagenes.elpais.com/resizer/v2/3V3UXFVYMREIFBWGMJTIK5PRFU.jpeg?auth=39ddec178359c5458bd1aa867f2087b651a40f651f02670636d24ebe4ba99e1e",
-    "category": "Nagasaki",
-    "text": "Una superviviente de Nagasaki: “La humanidad no ha aprendido la lección de la bomba atómica”",
-    "link": "https://elpais.com/internacional/2026-10-19/una-superviviente-de-nagasaki-la-humanidad-no-ha-aprendido-la-leccion-de-la-bomba-atomica.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/DRJW43EQ7JLRLEYRHBZPRL5UAM.jpg?auth=753ba7adb40c76d870057b176ecd91359f2b0fe8e1f051845355e2823f4194d2",
+    "category": "Elecciones EE UU",
+    "text": "Cinco estrategias de los demócratas contra Trump",
+    "link": "https://elpais.com/us/2026-10-19/cinco-estrategias-de-los-democratas-contra-trump.html"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://imagenes.elpais.com/resizer/v2/3NDWXFJI5BDS5AZ3UQVBFLKZKM.JPG?auth=9eff6939e2a2d3cdc608ae10c1dc305ecaa8856ab3c13242aa13c802a313961c",
+    "category": "Francia",
+    "text": "C’est non",
+    "link": "https://elpais.com/internacional/2026-10-19/cest-non.html"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://imagenes.elpais.com/resizer/v2/IWVAQJOYERL6LED6W56LLMVJSU.jpg?auth=d9a0d20f5163912f4ba0e1422866e45ba4d7130163cef7ac6de60a1a1db13d59",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "Kiev denuncia nuevos bombardeos sin aviso previo de sus aliados tras otro ataque verbal de Trump a Zelenski",
+    "link": "https://elpais.com/internacional/2026-10-19/kiev-denuncia-nuevos-bombardeos-sin-aviso-previo-de-sus-aliados-tras-otro-ataque-verbal-de-trump-a-zelenski.html"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://imagenes.elpais.com/resizer/v2/TJHRE74KVRP4DAMB263RSPAPJA.jpg?auth=41eb3b0c9dfcfc0641a2745be6d335291d65a65ee34901a53e1860f2d74ab24f",
+    "category": "Australia",
+    "text": "La diputada australiana Helen Haines en estado crítico tras ser atropellada de forma deliberada",
+    "link": "https://elpais.com/internacional/2026-10-19/la-diputada-australiana-helen-haines-en-estado-critico-tras-ser-atropellada-de-forma-deliberada.html"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1226997_080000_video_1800.mp4",
+    "category": "Elecciones Brasil",
+    "text": "Bolsonaro se lanza contra Lula en un primer debate muy bronco",
+    "link": "https://elpais.com/america/2026-10-19/bolsonaro-se-lanza-contra-lula-en-un-primer-debate-muy-bronco.html"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad5d7e6e9ff715f410b1abb.jpg",
+    "category": null,
+    "text": "\"Intercambio franco y detallado\": Lavrov se reúne con su par iraní en Teherán",
+    "link": "https://actualidad-rt.com/actualidad/633161-intercambio-franco-detallado-lavrov-par-irani-teheran?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad6073fe9ff71700e452211.jpg",
+    "category": null,
+    "text": "VIDEO: Motocicleta estalla en llamas tras brutal choque con automóvil en una rotonda",
+    "link": "https://actualidad-rt.com/actualidad/633194-motocicleta-estallar-llamas-choque-automovil?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad60e3059bf5b258a187291.png",
+    "category": null,
+    "text": "\"Impotencia y debilidad\": ¿Puede Macron frenar una ola de protestas que ya desborda a Francia? (VIDEOS)",
+    "link": "https://actualidad-rt.com/actualidad/633152-impotencia-debilidad-macron-protestas-francia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad603d6e9ff715f410b1af4.jpg",
+    "category": null,
+    "text": "VIDEO: Dos turistas quedan atrapadas con sus maletas en medio de los disturbios en París",
+    "link": "https://actualidad-rt.com/actualidad/633191-video-turistas-quedan-atrapadas-disturbios?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad5ea3de9ff7120465dfab6.jpg",
+    "category": null,
+    "text": "¿Una victoria con las manos atadas? Los obstáculos de los demócratas incluso si ganan las legislativas de EE.UU.",
+    "link": "https://actualidad-rt.com/actualidad/633168-adversarios-formidables-democratas-frenar-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad6005f59bf5b3ca34ba372.jpg",
+    "category": null,
+    "text": "Revelan las últimas palabras del cura que murió aplastado por una cruz en plena misa",
+    "link": "https://actualidad-rt.com/actualidad/633183-vamos-morir-ultimas-palabras-cura-fallecer-crus?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad5ffca59bf5b2f335bd3de.jpg",
+    "category": null,
+    "text": "VIDEO: Pareja disfruta de un coñac sin inmutarse mientras Francia arde al fondo",
+    "link": "https://actualidad-rt.com/actualidad/633188-video-pareja-disfruta-inmutarse-conac?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad5f80859bf5b4bf826af12.jpg",
+    "category": null,
+    "text": "\"Tres minutos y se acabó todo\": muere 'Tyson ruso', una de las mayores promesas del boxeo",
+    "link": "https://actualidad-rt.com/actualidad/633174-muere-tyson-ruso-promesas-boxeo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad607aae9ff71366e39dbb9.jpg",
+    "category": null,
+    "text": "Francia anuncia toques de queda en varias ciudades en medio de la explosión de violencia",
+    "link": "https://actualidad-rt.com/actualidad/633193-francia-toques-queda-varias-ciudades-enorme-violencia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-19",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad5fed0e9ff715f410b1ae6.jpg",
+    "category": null,
+    "text": "¿Lula o Bolsonaro?: Qué dicen las encuestas en la recta final del balotaje en Brasil",
+    "link": "https://actualidad-rt.com/actualidad/633186-decir-encuestas-recta-final-balotaje-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "Peskov: Rusia, China y EE.UU. \"reconocen la posibilidad hipotética\" de celebrar una reunión",
-    "link": "https://actualidad-rt.com/actualidad/633133-peskov-rusia-china-eeuu-reconocen-posibilidad-hipotetica-reunion?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad5877359bf5b523b750fd9.jpg",
-    "category": null,
-    "text": "Lula y Flávio Bolsonaro chocan en su primer debate a una semana de balotaje: momentos más destacados (VIDEOS)",
-    "link": "https://actualidad-rt.com/actualidad/633132-lula-flavio-bolsonaro-debate-balotaje-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad588e959bf5b5f01710031.jpg",
-    "category": null,
-    "text": "Zelenski arremete contra EE.UU. por las restricciones a Starlink: \"Simplemente, devuélvannoslo\"",
-    "link": "https://actualidad-rt.com/actualidad/633130-zelenski-arremete-eeuu-restricciones-starlink?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad580c359bf5b515f61eb60.jpg",
-    "category": null,
-    "text": "El círculo íntimo de Zelenski se lucra del conflicto y por eso no quiere se termine, según asesor de Trump",
-    "link": "https://actualidad-rt.com/actualidad/633128-circulo-zelenski-lucra-conflicto-termine-asesor-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad58578e9ff714ab43f0afd.jpg",
-    "category": null,
-    "text": "VIDEO: Manifestantes prenden fuego a un policía en Albania en medio de violentas protestas",
-    "link": "https://actualidad-rt.com/actualidad/633131-prenden-fuego-policia-albania-violentas-protestas-video?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "EE.UU. emite alertas de seguridad en 12 países de Oriente Medio ante el riesgo de una escalada con Irán",
+    "link": "https://es.euronews.com/2026/10/19/eeuu-emite-alertas-seguridad-12-paises-oriente-medio-ante-riesgo-escalada-iran"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "Embajadas de EE.UU. emiten alerta en varios países de Oriente Medio",
-    "link": "https://actualidad-rt.com/actualidad/633129-embajadas-eeuu-emiten-alerta-oriente-medio?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad578bb59bf5b050231d750.jpg",
-    "category": null,
-    "text": "París, al límite: furia colectiva, pillaje y disturbios nocturnos (VIDEOS)",
-    "link": "https://actualidad-rt.com/actualidad/633127-videos-otra-noche-caos-saqueos-disturbios-paris?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad564fe59bf5b1b946674e6.jpg",
-    "category": null,
-    "text": "EE.UU. amenaza a Europa con represalias \"devastadoras\" en caso de restricciones a Starlink",
-    "link": "https://actualidad-rt.com/actualidad/633119-eeuu-amenaza-europa-represalias-devastadoras?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-19",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad56f4259bf5b1c8c4f6be6.jpg",
-    "category": null,
-    "text": "NYT: EE.UU. contempla reactivar las exportaciones el gas ruso hacia Europa",
-    "link": "https://actualidad-rt.com/actualidad/633125-eeuu-contempla-reactivar-exportaciones-gas-ruso-europa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Rusia atrae a turistas asiáticos para compensar el desplome del turismo europeo",
+    "link": "https://es.euronews.com/2026/10/19/rusia-atrae-turistas-asiaticos-compensar-desplome-turismo-europeo"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "Caetano Veloso lidera un masivo concierto en Copacabana en apoyo a Lula da Silva",
-    "link": "https://actualidad-rt.com/actualidad/633126-caetano-veloso-masivo-concierto-copacabana-lula?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Lluvias torrenciales anegan el este de España y dejan calles y coches bajo el agua",
+    "link": "https://es.euronews.com/2026/10/19/lluvias-torrenciales-anegan-el-este-de-espana-y-dejan-calles-y-coches-bajo-el-agua"
   },
   {
     "date": "2026-10-19",
     "image": null,
     "category": null,
-    "text": "La economía de China crece un 4,5% por las exportaciones mientras persiste la debilidad interna",
-    "link": "https://es.euronews.com/2026/10/19/la-economia-de-china-crece-un-45-por-las-exportaciones-mientras-persiste-la-debilidad-inte"
+    "text": "Día 'No Kings': Miles se manifiestan en EE.UU. contra Trump",
+    "link": "https://es.euronews.com/video/2026/10/19/dia-no-kings-miles-se-manifiestan-en-eeuu-contra-trump"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Rubio anuncia posibles acuerdos millonarios entre EE.UU. y Uzbekistán para asegurar minerales críticos",
+    "link": "https://es.euronews.com/2026/10/19/marco-rubio-eeuu-uzbekistan-acuerdos-millonarios-minerales-criticos"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "La diputada australiana Helen Haines, en estado crítico tras sufrir un atropello intencionado",
+    "link": "https://es.euronews.com/2026/10/19/la-diputada-australiana-helen-haines-en-estado-critico-tras-sufrir-un-atropello-intenciona"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 19 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/19/ultimas-noticias-19-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Polonia asegura tener pruebas de los vínculos de Orbán con Rusia: transferencias de dinero y grabaciones",
+    "link": "https://es.euronews.com/2026/10/19/polonia-pruebas-orban-rusia-transferencias-dinero-grabaciones"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Ghost Shark: Australia revela las armas secretas de su dron submarino",
+    "link": "https://es.euronews.com/2026/10/19/ghost-shark-australia-revela-las-armas-secretas-de-su-dron-submarino"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Un dron revela la magnitud de los daños en el Ayuntamiento de Limoges tras las protestas",
+    "link": "https://es.euronews.com/video/2026/10/19/imagenes-de-dron-muestran-el-alcance-de-los-danos-en-el-ayuntamiento-de-limoges-tras-las-p"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "Choques entre la Policía albanesa y manifestantes en Tirana tras 6 días de protestas",
+    "link": "https://es.euronews.com/video/2026/10/19/choques-entre-la-policia-albanesa-y-manifestantes-en-tirana-tras-6-dias-de-protestas"
+  },
+  {
+    "date": "2026-10-19",
+    "image": null,
+    "category": null,
+    "text": "¿Puede Canadá perder Alberta? Un referéndum reabre el debate sobre la independencia",
+    "link": "https://es.euronews.com/2026/10/19/alberta-vota-futuro-canada-separatismo-referendum"
   },
   {
     "date": "2026-10-18",
@@ -260,163 +414,9 @@
   },
   {
     "date": "2026-10-18",
-    "image": "https://s.france24.com/media/display/ea8ba6a2-c938-11f1-869c-6313a763b466/w:1024/p:16x9/2025-12-01T203921Z-208389923-RC2Q7IA3QK4Y-RTRMADP-3-HONDURAS-ELECTION.jpg",
-    "category": "América Latina",
-    "text": "La caída de Fernando Cerimedo, el controvertido consultor detrás de las derechas latinoamericanas",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261018-la-ca%C3%ADda-de-fernando-cerimedo-el-controvertido-consultor-detr%C3%A1s-de-las-derechas-latinoamericanas"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Cuánto aporta la rica provincia de Alberta a la economía de Canadá y qué pasaría si logra la independencia",
-    "link": "https://www.bbc.com/mundo/articles/c95yng8me7vmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "El papa León XIV hace su primera aparición pública tras ser operado por un cáncer de pulmón y \"no hay motivos clínicos\" que impidan su viaje a Sudamérica",
-    "link": "https://www.bbc.com/mundo/articles/c6ev320r2rnwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Un yate con una piscina de 50 metros y toboganes acuáticos: imágenes satelitales revelan el lujoso complejo de vacaciones de Kim Jong-un en Corea del Norte",
-    "link": "https://www.bbc.com/mundo/articles/c63r59qq0vd3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
     "image": null,
     "category": null,
     "text": "Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: \"Estoy más que destrozada\"",
     "link": "https://www.bbc.com/mundo/articles/c5vgjv131nvmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Cómo el arroz puede ayudar a construir las casas del futuro",
-    "link": "https://www.bbc.com/mundo/articles/cm1j3pjg76x2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "El paraguas envenenado con el que se cometió un sofisticado asesinato político durante la Guerra Fría",
-    "link": "https://www.bbc.com/mundo/articles/c8jd1xnryppo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Perdí mi cabello por la quimioterapia y ahora las estrellas llevan las pelucas que diseño",
-    "link": "https://www.bbc.com/mundo/articles/cq5yngv748zko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "\"Un acto de violencia grave\": condenan ataque de colonos israelíes contra diplomáticos europeos en Cisjordania",
-    "link": "https://www.bbc.com/mundo/articles/cq9vzdedy0wdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky",
-    "link": "https://www.bbc.com/mundo/articles/c6x2vx8pvdv2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-18",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261018/1226884_193828_video_1800.mp4",
-    "category": "Emmanuel Macron",
-    "text": "Macron acusa a la “extrema izquierda” de inflamar la calle",
-    "link": "https://elpais.com/internacional/2026-10-18/macron-acusa-a-la-extrema-izquierda-de-inflamar-la-calle.html"
-  },
-  {
-    "date": "2026-10-18",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261018/1226784_103743_video_1800.mp4",
-    "category": "Francia",
-    "text": "Francia hace balance tras el mayor estallido de violencia en décadas: 2.000 detenidos y un millar de comercios saqueados",
-    "link": "https://elpais.com/internacional/2026-10-18/francia-hace-balance-tras-el-mayor-estallido-de-violencia-y-caos-en-decadas-1800-detenidos-y-un-millar-de-comercios-saqueados.html"
-  },
-  {
-    "date": "2026-10-18",
-    "image": "https://imagenes.elpais.com/resizer/v2/T6HJ6JJ5BJPXJAOKQTYDBUETT4.jpg?auth=817d6061ca14379072629c51a8dec1c1a9c9cb113b8a8bb8db20342c692a6694",
-    "category": "Donald Trump",
-    "text": "Trump apuñala a Ucrania por la espalda",
-    "link": "https://elpais.com/internacional/2026-10-18/trump-apunala-a-ucrania-por-la-espalda.html"
-  },
-  {
-    "date": "2026-10-18",
-    "image": "https://imagenes.elpais.com/resizer/v2/Y7QWT3QCVNAALHME34PWQE5ZTY.jpg?auth=81b53e95d46cd60bb820579614ec3cfa6b8ec194275c39fde25e77280c0637a2",
-    "category": "Italia",
-    "text": "Italia se contagia de las protestas estudiantiles en Francia",
-    "link": "https://elpais.com/internacional/2026-10-18/italia-se-contagia-de-las-protestas-estudiantiles-en-francia.html"
-  },
-  {
-    "date": "2026-10-18",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261017/1226646_170927_video_1800.mp4",
-    "category": "Francia",
-    "text": "Los disturbios vuelven al centro de París un día después de la gran revuelta",
-    "link": "https://elpais.com/internacional/2026-10-18/los-disturbios-vuelven-al-centro-de-paris-un-dia-despues-de-la-gran-revuelta.html"
-  },
-  {
-    "date": "2026-10-18",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261017/1226646_170927_video_1800.mp4",
-    "category": "Emmanuel Macron",
-    "text": "Francia prende fuego al macronismo",
-    "link": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Una subasta de arte en Hungría recauda 356.000 euros para hogares de personas con autismo",
-    "link": "https://es.euronews.com/2026/10/18/una-subasta-arte-hungria-recauda-356000-euros-para-hogares-personas-con-autismo"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Bolsonaro y Lula se enfrentan en el primer debate televisivo desde el inicio de la campaña",
-    "link": "https://es.euronews.com/2026/10/18/bolsonaro-y-lula-se-enfrentan-en-el-primer-debate-televisivo-desde-el-inicio-de-la-campana"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Fallece en plena misa un sacerdote en Guayaquil tras derrumbarse la cruz de su iglesia",
-    "link": "https://es.euronews.com/2026/10/18/fallece-en-plena-misa-un-sacerdote-en-guayaquil-tras-derrumbarse-la-cruz-de-su-iglesia"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 18 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/18/ultimas-noticias-18-octubre-2026-tarde"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Francia: París, Lyon y Marsella calculan los daños tras las protestas violentas",
-    "link": "https://es.euronews.com/video/2026/10/18/francia-paris-lyon-y-marsella-calculan-los-danos-tras-las-protestas-violentas"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Rusia: grandes llamas y humo sobre San Petersburgo tras ataques con drones",
-    "link": "https://es.euronews.com/video/2026/10/18/rusia-grandes-llamas-y-humo-sobre-san-petersburgo-tras-ataques-con-drones"
-  },
-  {
-    "date": "2026-10-18",
-    "image": null,
-    "category": null,
-    "text": "Bicicletas calcinadas, escaparates rotos y tiendas saqueadas: rastro de destrucción en París",
-    "link": "https://es.euronews.com/2026/10/18/bicicletas-calcinadas-escaparates-rotos-y-tiendas-saqueadas-rastro-de-destruccion-en-paris"
   }
 ]

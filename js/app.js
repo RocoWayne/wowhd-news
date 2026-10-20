@@ -1479,6 +1479,24 @@ setTimeout(() => {
 const livecamScreen = document.getElementById("livecamScreen");
 const livecamCaption = document.getElementById("livecamCaption");
 const livecamPlace = document.getElementById("livecamPlace");
+const livecamImage = document.getElementById("livecamImage");
+const livecamBadge = document.getElementById("livecamBadge");
+
+// Alterna que elemento visual se ve (el iframe de YouTube o la foto de
+// Windy) y el texto/badge acorde - "image" no es video continuo, asi
+// que el badge no usa el punto rojo pulsante de "EN VIVO" real (ver
+// .is-snapshot en css/style.css), para no mostrar algo enganioso.
+function setLivecamVisual(kind) {
+  const showImage = kind === "image";
+  livecamImage.classList.toggle("visible", showImage);
+  if (ytPlayer && ytPlayer.getIframe) {
+    ytPlayer.getIframe().style.display = showImage ? "none" : "";
+  }
+  livecamBadge.classList.toggle("is-snapshot", showImage);
+  livecamBadge.innerHTML = showImage
+    ? "CÁMARA PÚBLICA"
+    : '<span class="livecam-live-dot"></span>EN VIVO';
+}
 
 let liveCams = [];
 let liveCamIndex = 0;
@@ -1702,6 +1720,30 @@ async function runLiveCamLoop() {
 
         const cam = liveCams[liveCamIndex % liveCams.length];
         liveCamIndex++;
+
+        if (cam.kind === "image") {
+          // Camara Windy: no es video, es una foto que se va
+          // actualizando (la URL ya viene firmada y vigente, resuelta
+          // server-side - ver scripts/generate_livecams_from_windy.py).
+          // Se precarga con loadImageWithTimeout antes de mostrarla,
+          // igual que las imagenes de noticias: si no carga (token
+          // vencido, webcam caida), se prueba la siguiente de la lista.
+          const ok = await loadImageWithTimeout(livecamImage, cam.url, CONFIG.liveCamLoadTimeoutMs);
+          if (!ok) continue;
+
+          setLivecamVisual("image");
+          livecamPlace.textContent = cam.title || "";
+          livecamScreen.classList.add("visible");
+          shown = true;
+
+          await waitUnless(CONFIG.liveCamDisplayMs, otherFullScreenBlockActive);
+
+          livecamScreen.classList.remove("visible");
+          await wait(500);
+          livecamImage.removeAttribute("src");
+          continue;
+        }
+
         let videoId = extractYoutubeVideoId(cam.url);
         if (!videoId) {
           // No es un video puntual - ¿es la URL de "en vivo" de un
@@ -1717,6 +1759,7 @@ async function runLiveCamLoop() {
         const ok = await tryLoadLiveCam(videoId);
         if (!ok) continue;
 
+        setLivecamVisual("youtube");
         livecamPlace.textContent = cam.title || "";
         livecamScreen.classList.add("visible");
         shown = true;

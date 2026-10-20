@@ -115,23 +115,33 @@
     <div class="markets-columns" id="marketsColumns"></div>
   </section>
 
-  <!-- Pantalla de camara publica en vivo: reemplaza el fondo de
-       publicidades cada tanto (ver js/app.js -> runLiveCamBlock),
-       embebiendo una camara de YouTube de la lista curada a mano en
-       CONFIG.liveCams, con el nombre del lugar superpuesto abajo. A
-       diferencia de clima/cotizacion/mercados, esta no depende de
-       ninguna API: la lista de camaras se carga y edita a mano.
-       #livecamFrame arranca como un <div> vacio a proposito: la API de
-       YouTube (YT.Player, cargada bajo demanda en app.js) lo reemplaza
-       por su propio <iframe> la primera vez que hace falta, para poder
-       escuchar el evento onError y saltar a la siguiente camara de la
-       lista si una puntual esta caida/privada/eliminada. -->
+  <!-- Pantalla de camara publica, fondo principal de la transmision en
+       esta rama (ver js/app.js -> runLiveCamLoop): rota en bucle
+       continuo entre camaras curadas a mano en CONFIG.liveCamsUrl
+       (livecams/livecams.json) y camaras autogeneradas via la API de
+       Windy Webcams. Dos tipos de entrada, segun si la camara tiene
+       video en vivo de verdad o es una foto que se va actualizando:
+       - YouTube (default, sin "kind" en el JSON): #livecamFrame
+         arranca como un <div> vacio a proposito, que la API de
+         YouTube (YT.Player, cargada bajo demanda en app.js) reemplaza
+         por su propio <iframe> la primera vez que hace falta, para
+         poder escuchar el evento onError y saltar a la siguiente
+         camara si una puntual esta caida/privada/eliminada.
+       - Windy ("kind": "image"): #livecamImage muestra la foto mas
+         reciente de esa webcam (la URL ya viene firmada y vigente,
+         resuelta por el script de Python server-side - ver
+         scripts/generate_livecams_from_windy.py), con
+         loadImageWithTimeout para saltar a la siguiente si esta
+         puntual fallara. No es video continuo, asi que el cartel usa
+         un badge distinto (sin el punto rojo pulsante de "EN VIVO"
+         real) para no mentir sobre que es. -->
   <section class="livecam-screen" id="livecamScreen">
     <div class="livecam-frame-wrap">
       <div id="livecamFrame" class="livecam-frame"></div>
+      <img id="livecamImage" class="livecam-frame livecam-image" alt="" />
     </div>
     <div class="livecam-caption" id="livecamCaption">
-      <div class="livecam-live-badge"><span class="livecam-live-dot"></span>EN VIVO</div>
+      <div class="livecam-live-badge" id="livecamBadge"><span class="livecam-live-dot"></span>EN VIVO</div>
       <div class="livecam-place" id="livecamPlace"></div>
     </div>
   </section>

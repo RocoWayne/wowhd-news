@@ -685,6 +685,18 @@ body.ticker-visible .player{
   border:0;
   pointer-events:none; /* es solo fondo: no queremos que capture clicks/scroll */
 }
+/* La <img> de las camaras Windy (foto que se actualiza, no video
+   continuo) usa object-fit en vez del truco de min-width/min-height
+   de iframe de arriba - un <img> si soporta cubrir el recuadro sin
+   deformarse con object-fit:cover. Arranca oculta: app.js la muestra
+   u oculta segun el "kind" de la camara actual. */
+.livecam-image{
+  object-fit:cover;
+  display:none;
+}
+.livecam-image.visible{
+  display:block;
+}
 /* Esquina inferior derecha a proposito: la izquierda la ocupa el
    reproductor de musica (que tiene mayor z-index y tapa cualquier cosa
    puesta ahi), y abajo de todo esta el ticker (siempre visible). */
@@ -727,6 +739,14 @@ body.ticker-visible .player{
   0%{ box-shadow:0 0 0 0 rgba(255,45,45,0.6); }
   70%{ box-shadow:0 0 0 14px rgba(255,45,45,0); }
   100%{ box-shadow:0 0 0 0 rgba(255,45,45,0); }
+}
+/* Camaras Windy ("kind": "image"): son una foto que se va
+   actualizando, no un video continuo - mostrar el punto rojo
+   pulsante de "EN VIVO" seria enganioso, asi que esta variante del
+   badge lo oculta (app.js tambien cambia el texto a algo mas honesto
+   para este caso, ej. "CAMARA PUBLICA"). */
+.livecam-live-badge.is-snapshot .livecam-live-dot{
+  display:none;
 }
 .livecam-place{
   font-size:40px;

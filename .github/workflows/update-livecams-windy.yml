@@ -1,0 +1,60 @@
+name: Actualizar cámaras desde la API de Windy Webcams
+
+# Trae camaras publicas de todo el mundo desde la API de Windy Webcams
+# (ver scripts/generate_livecams_from_windy.py) y las agrega a
+# livecams/livecams.json, sin tocar las entradas cargadas a mano
+# (YouTube) ni duplicar el trabajo entre corridas - solo se regenera
+# el grupo "windy-auto".
+#
+# A diferencia del resto de los workflows de este repo, este SI
+# requiere un secret: WINDY_API_KEY (gratis en
+# https://api.windy.com/webcams/manage). Sin ese secret cargado en
+# Settings -> Secrets and variables -> Actions, el script no hace nada
+# (no falla, solo no suma camaras nuevas).
+#
+# El cron corre cada 10 minutos a proposito: las URLs de imagen de
+# Windy vienen con un token firmado que vence a los pocos minutos en
+# el plan gratuito, y js/app.js relee livecams.json mas o menos con la
+# misma frecuencia (CONFIG.liveCamsRefreshMs) - correr mas seguido que
+# eso mantiene las URLs frescas para cuando le toque el turno a cada
+# camara. Si de todas formas una URL llega a estar vencida para cuando
+# le toca el turno, el navegador la saltea sola (ver runLiveCamLoop en
+# js/app.js) - no rompe nada.
+#
+# Nota: el trigger "schedule" de GitHub Actions solo corre sobre la
+# rama por defecto del repo (ahora mismo, main) - mientras este
+# workflow viva solo en una rama feature como foster-viajes, el cron
+# NO se dispara solo; hace falta "Run workflow" a mano en la pestaña
+# Actions hasta que la rama se mergee a la rama por defecto.
+on:
+  schedule:
+    - cron: "*/10 * * * *" # cada 10 minutos
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-livecams-windy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Buscar cámaras en la API de Windy Webcams y actualizar livecams/livecams.json
+        env:
+          WINDY_API_KEY: ${{ secrets.WINDY_API_KEY }}
+        run: python3 scripts/generate_livecams_from_windy.py
+
+      - name: Commitear si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add livecams/livecams.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en las cámaras de Windy."
+          else
+            git commit -m "Auto-actualizar cámaras desde la API de Windy Webcams"
+            git push origin HEAD:${{ github.ref_name }}
+          fi

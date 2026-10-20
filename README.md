@@ -348,56 +348,68 @@ cotización.
   `marketsIntervalMs` (cada cuánto se repite) y `marketsDisplayMs`
   (cuánto queda visible cada vez).
 
-### Pantalla de cámara pública en vivo
+### Pantalla de cámara pública (fondo principal de la transmisión)
 
-Cada tanto (por defecto, cada 15 minutos, empezando a los 4 minutos de
-abrir la página — o sea a los :04, :19, :34 y :49 de cada hora, 4
-veces por hora) aparece una pantalla completa con una cámara pública
-embebida de YouTube durante 7 minutos, con un cartel abajo a la
-derecha que dice "EN VIVO" (con un punto rojo pulsante) y el nombre
-del lugar en letra grande.
+En esta rama (**foster-viajes**), las cámaras públicas pasaron a ser
+lo que se ve **por defecto** la mayor parte del tiempo: apenas se abre
+la página, arranca un bucle continuo que muestra una cámara tras otra
+(con un cartel abajo a la derecha con el nombre del lugar), para
+siempre — ya no es una interrupción puntual cada tantos minutos como
+noticias/clima/cotización/mercados, sino al revés: esas cuatro
+pantallas son las que le interrumpen el turno a la cámara cuando les
+toca, y la cámara retoma apenas terminan. El viejo slideshow de fotos/
+publicidades de fondo queda solo como red de seguridad, para cuando
+el catálogo de cámaras está vacío o todas fallan a la vez en el mismo
+momento.
 
-- A diferencia de clima/cotización/mercados, **no usa ninguna API de
-  datos**: la lista de cámaras se carga a mano en
-  **`livecams/livecams.json`**, como un array de objetos
-  `{ "title": "...", "url": "..." }`. Para agregar o sacar cámaras,
-  editar directamente ese archivo — no hace falta tocar `js/app.js`.
-  La página relee el archivo sola cada `liveCamsRefreshMs` (por
-  defecto, 10 minutos), así una edición se ve sin recargar OBS.
-  `url` acepta dos formas:
-  - Un **video puntual fijo** (`watch?v=`, `youtu.be/`, `/live/VIDEO_ID`)
-    para cámaras que transmiten siempre desde el mismo video de
-    YouTube (la gran mayoría de la lista).
-  - La **URL de "en vivo" de un canal**
-    (`https://www.youtube.com/@handle/live` o
-    `.../channel/UC.../live`) para canales que arrancan una
-    transmisión nueva casi todos los días con un ID distinto (por
-    ejemplo el Parque Nacional Iguazú) — con esta forma, antes de
-    cada aparición se consulta si el canal está en vivo en ese momento
-    y se muestra esa transmisión puntual; si no está en vivo, se
-    saltea sola como cualquier otra cámara caída, sin necesidad de
-    andar actualizando el link a mano cada vez que cambia.
-- El video se reproduce siempre muteado (para no competir con la
-  música) y sin controles.
-- Si una URL de la lista no tiene un ID de video reconocible, el video
+- La lista de cámaras vive en **`livecams/livecams.json`**, mezclando
+  dos oŕigenes:
+  - **Cargadas a mano (YouTube)**: objetos `{ "title": "...", "url": "..." }`.
+    `url` acepta:
+    - Un **video puntual fijo** (`watch?v=`, `youtu.be/`, `/live/VIDEO_ID`)
+      para cámaras que transmiten siempre desde el mismo video de
+      YouTube (la gran mayoría de la lista).
+    - La **URL de "en vivo" de un canal**
+      (`https://www.youtube.com/@handle/live` o
+      `.../channel/UC.../live`) para canales que arrancan una
+      transmisión nueva casi todos los días con un ID distinto (por
+      ejemplo el Parque Nacional Iguazú) — con esta forma, antes de
+      cada aparición se consulta si el canal está en vivo en ese
+      momento y se muestra esa transmisión puntual; si no está en
+      vivo, se saltea sola como cualquier otra cámara caída, sin
+      necesidad de andar actualizando el link a mano cada vez que
+      cambia.
+    - Estas cámaras se reproducen siempre muteadas (para no competir
+      con la música) y sin controles, con un cartel "EN VIVO" (punto
+      rojo pulsante) de verdad, porque son video continuo.
+  - **Autogeneradas (Windy Webcams)**: objetos
+    `{ "title": "...", "url": "...", "kind": "image", "source": "windy-auto" }`,
+    que agrega solo `scripts/generate_livecams_from_windy.py` — ver
+    sección siguiente. Son una **foto que se va actualizando**, no
+    video continuo, así que el cartel dice "CÁMARA PÚBLICA" (sin el
+    punto rojo pulsante de "EN VIVO") para no mostrar algo engañoso.
+  Para agregar o sacar cámaras de YouTube a mano, editar directamente
+  `livecams.json` — no hace falta tocar `js/app.js`. La página relee
+  el archivo sola cada `liveCamsRefreshMs` (por defecto, 10 minutos),
+  así una edición se ve sin recargar OBS.
+- Si una URL de YouTube no tiene un ID de video reconocible, el video
   sí tiene un ID válido pero está caído/privado/eliminado, **o la
   transmisión ya terminó** (quedó guardada como una grabación normal,
-  algo que YouTube permite seguir reproduciendo sin ningún error), esa
-  entrada se saltea sola y prueba con la siguiente de la lista — nunca
-  se llega a mostrar una pantalla rota, ni una grabación vieja bajo el
-  cartel "EN VIVO". Si todas las cámaras de la lista fallan en el
-  mismo turno, esa vuelta no se muestra nada y se reintenta en el
-  próximo turno.
-- Se pisa mutuamente con las pantallas de noticias, clima, cotización
-  y mercados: si coinciden, una se saltea esa vez y aparece en el
-  próximo turno.
-- El resto de los tiempos se ajustan en `js/app.js` → `CONFIG`:
-  `liveCamFirstDelayMs` (cuándo aparece la primera vez),
-  `liveCamIntervalMs` (cada cuánto se repite) y `liveCamDisplayMs`
-  (cuánto queda visible cada cámara).
-- **Importante**: la detección de cámara caída se hace probando a
-  reproducirla de verdad (vía la API oficial de YouTube, no un
-  `<iframe src="...">` fijo), así que no hace falta revisar
+  algo que YouTube permite seguir reproduciendo sin ningún error); o
+  si una cámara Windy tiene el token de la imagen vencido o la webcam
+  está caída — en cualquiera de esos casos, esa entrada se saltea sola
+  y prueba con la siguiente de la lista — nunca se llega a mostrar una
+  pantalla rota, ni una grabación vieja bajo el cartel "EN VIVO". Si
+  todas las cámaras de la lista fallan en el mismo turno, esa vuelta
+  no se muestra nada (vuelve el slideshow de fotos de respaldo) y se
+  reintenta con la siguiente cámara que le toque.
+- Le cede el paso a noticias/clima/cotización/mercados apenas les
+  toca su turno — no espera a terminar su propio tiempo en pantalla
+  (`CONFIG.liveCamDisplayMs`, por defecto 3 minutos por cámara) si
+  justo en ese momento empieza alguno de esos cuatro bloques.
+- **Importante**: la detección de cámara de YouTube caída se hace
+  probando a reproducirla de verdad (vía la API oficial de YouTube, no
+  un `<iframe src="...">` fijo), así que no hace falta revisar
   `livecams/livecams.json` a mano para sacar cámaras muertas — el
   bloque ya las saltea solo. Igual conviene limpiarlas de vez en
   cuando si se sabe que una dejó de existir, para no gastar esos ~5
@@ -418,43 +430,75 @@ del lugar en letra grande.
   salir justo en un corte. Es un comportamiento normal y esperado de
   esta cámara puntual, no un bug.
 
-### Cómo conviven entre sí las 5 pantallas a pantalla completa
+### Cámaras autogeneradas desde la API de Windy Webcams
 
-Noticias, clima, cotización, mercados y cámara en vivo están pensadas
-para **nunca superponerse entre sí**, no solo "avisarse y saltear" en
-caso de choque (eso también existe, como red de seguridad, pero la
-idea es que no haga falta). Los horarios por defecto están elegidos a
-propósito así:
+Además de las cámaras de YouTube cargadas a mano, un GitHub Action
+busca cámaras públicas de todo el mundo en la **API de Windy Webcams**
+y las agrega solo a `livecams/livecams.json` (grupo `"source": "windy-auto"`),
+para sumar variedad y volumen sin tener que buscar cámara por cámara.
+
+- **Requiere una API key** (a diferencia de Wikimedia Commons para los
+  fondos, que no necesita ninguna): generala gratis en
+  [api.windy.com/webcams/manage](https://api.windy.com/webcams/manage)
+  → pestaña "API Keys", y cargala como secret **`WINDY_API_KEY`** en
+  el repo (Settings → Secrets and variables → Actions → New repository
+  secret). Sin ese secret, el workflow corre igual pero el script no
+  hace nada (no es un error).
+- **Por qué no se resuelve desde el navegador**: las URLs de imagen
+  que devuelve la API de Windy vienen con un token firmado que
+  **vence a los pocos minutos** en el plan gratuito (Windy documenta
+  10-15 min). Resolverlas client-side (en `js/app.js`) significaría
+  exponer la `WINDY_API_KEY` en el JS público del sitio, visible para
+  cualquiera. Por eso se resuelven **server-side**, en este script, con
+  la key guardada como secret de GitHub — nunca llega al navegador.
+- **Por qué el cron es cada 10 minutos** (bastante más seguido que el
+  cron diario de Wikimedia): para que la URL firmada siga vigente
+  cuando le toque el turno a esa cámara. Coincide a propósito con
+  `CONFIG.liveCamsRefreshMs` (cada cuánto relee `livecams.json` el
+  navegador). Si de todas formas a una cámara Windy le toca el turno
+  con el token ya vencido, se saltea sola y prueba la siguiente — no
+  rompe nada, solo no se llega a ver esa cámara puntual esa vuelta.
+- Nunca pisa las entradas manuales/YouTube de `livecams.json`: en cada
+  corrida se conservan tal cual, y solo se regenera el grupo
+  `windy-auto` completo (no se acumula: si una corrida trae menos
+  cámaras que la anterior, las de más simplemente dejan de estar).
+- Para forzar una actualización sin esperar los 10 minutos, andá a la
+  pestaña **Actions** del repo → "Actualizar cámaras desde la API de
+  Windy Webcams" → **Run workflow**.
+- **Mientras este workflow viva solo en una rama feature** (como
+  `foster-viajes`, no la rama por defecto del repo), el cron **no se
+  dispara solo** — GitHub Actions solo evalúa el trigger `schedule` en
+  la rama por defecto. Hasta que esta rama se mergee, hace falta
+  disparar el workflow a mano (Run workflow) cada vez que se quiera
+  actualizar.
+
+### Cómo conviven entre sí las pantallas a pantalla completa
+
+Noticias, clima, cotización y mercados siguen con el mismo horario fijo
+de siempre (elegido para no superponerse entre ellas), y la cámara
+pública (el fondo principal) les cede el paso apenas les toca el
+turno, en vez de competir por un lugar en el cronograma:
 
 | Pantalla | Aparece en el minuto... | de cada hora |
 |---|---|---|
 | Noticias | :00, :15, :30, :45 | (cada 15 min) |
 | Clima | :08, :28, :48 | (cada 20 min) |
 | Cotización del dólar | :35 | (cada 60 min) |
-| Cámara en vivo | :04 a :11, :19 a :26, :34 a :41, :49 a :56 | (cada 15 min) |
 | Mercados (cripto) | :41, o :11 en la hora siguiente | (cada 90 min, alterna) |
+| Cámara pública | el resto del tiempo | (bucle continuo) |
 
-Como 15, 20, 60 y 90 son todos múltiplos o divisores de 60, esta
-distribución se repite **igual todas las horas**. Con la cámara en vivo
-mostrándose 4 veces por hora durante 7 minutos cada vez (28 de los 60
-minutos de la hora), ya **no entran las 5 pantallas sin ningún roce**:
-la cuenta no cierra por más que se reacomoden los horarios (se
-verificó con una simulación de todas las combinaciones posibles). Con
-los horarios de arriba, elegidos para minimizar el impacto (y sobre
-todo para no tocar nunca a las noticias, la pantalla más importante),
-los únicos cruces que quedan son mínimos:
-
-- La cámara de **:04 a :11** roza 1 minuto el final de la ventana de
-  clima de las **:08** — el clima se saltea esa vuelta y se retoma
-  normal a las :28.
-- La cámara de **:34 a :41** roza el arranque de la cotización de las
-  **:35** — se saltea esa vuelta y se retoma normal la hora siguiente.
-
-Noticias y mercados quedan completamente libres de cruces. Si en algún
-momento se cambia el `*FirstDelayMs`, `*IntervalMs` o `*DisplayMs` de
-alguna de estas 5 pantallas en `js/app.js` → `CONFIG`, conviene volver
-a revisar los cruces — sobre todo si se achica algún hueco o se alarga
-la duración de algún bloque.
+Como 15, 20, 60 y 90 son todos múltiplos o divisores de 60, noticias/
+clima/cotización/mercados nunca se superponen entre sí (se repite
+igual todas las horas). La cámara pública, al no tener un horario
+propio fijo, no puede "chocar" con ninguna de las otras cuatro: su
+propio loop (`runLiveCamLoop`) chequea antes de cada cámara nueva —y
+cada medio segundo mientras una ya está en pantalla— si alguna de esas
+cuatro está activa, y si es así corta de inmediato y le cede el lugar,
+retomando apenas esa pantalla termina. Si en algún momento se cambia
+el `*FirstDelayMs`, `*IntervalMs` o `*DisplayMs` de noticias/clima/
+cotización/mercados en `js/app.js` → `CONFIG`, conviene revisar que
+sigan sin superponerse entre sí — la cámara no hace falta revisarla,
+siempre cede el paso.
 
 ### Limpieza automática de `news.json`
 
@@ -772,11 +816,10 @@ colores de marca sueltos por otras partes del CSS):
 | `marketsFirstDelayMs` | cuándo aparece la primera pantalla de mercados después de abrir la página |
 | `marketsIntervalMs` | cada cuánto se repite la pantalla de mercados |
 | `marketsDisplayMs` | cuánto queda visible la pantalla de mercados cada vez |
-| `liveCamsUrl` | ruta del JSON con la lista curada de cámaras (`livecams/livecams.json`) |
+| `liveCamsUrl` | ruta del JSON con el catálogo de cámaras (`livecams/livecams.json`) |
 | `liveCamsRefreshMs` | cada cuánto se vuelve a leer `livecams.json` |
-| `liveCamFirstDelayMs` | cuándo aparece la primera cámara después de abrir la página |
-| `liveCamIntervalMs` | cada cuánto se repite la pantalla de cámara en vivo |
-| `liveCamDisplayMs` | cuánto queda visible cada cámara |
+| `liveCamDisplayMs` | cuánto queda visible cada cámara antes de pasar a la siguiente (la cámara es un bucle continuo, no tiene "cada cuánto aparece" propio — ver sección de cámaras) |
+| `liveCamLoadTimeoutMs` | cuánto esperar a que una cámara avise que falló antes de darla por buena y mostrarla igual |
 | `autoReloadMs` | cada cuánto se recarga sola la página (para tomar cambios de código sin refrescar la fuente de OBS a mano) |
 
 ## Resiliencia para transmisiones largas (24/7)

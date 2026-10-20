@@ -6,6 +6,13 @@ Fuente de navegador (Browser Source) para OBS: transmisión 24/7 de
 para correr como página cargada en OBS, con contenido editable vía
 archivos JSON en el propio repo y automatización por GitHub Actions.
 
+**Rama `foster-viajes`**: variante centrada en cámaras públicas del
+mundo como fondo principal de la transmisión (en vez del slideshow de
+fotos/publicidades), combinando cámaras de YouTube curadas a mano con
+cámaras autogeneradas vía la API de Windy Webcams. Ver la sección
+"Cámara pública en vivo" más abajo y la de Windy en el README para el
+detalle.
+
 Este archivo documenta la arquitectura para trabajar en el código. Para
 la guía de uso/edición de contenido (cómo cargar música, noticias,
 publicidades) ver `README.md`; para hosting propio y protección con
@@ -21,7 +28,7 @@ js/app.js            toda la lógica de la app (~800 líneas, sin módulos)
 js/impressions.js    registro de impresiones de fondos en localStorage
 music/, backgrounds/ assets subidos por el usuario + su playlist.json generado
 news/                contenido editorial (news.json, rss.json)
-livecams/            lista curada a mano de camaras publicas (livecams.json)
+livecams/            catálogo de camaras publicas (livecams.json): YouTube a mano + Windy autogenerado
 scripts/*.py         generadores/mantenimiento de los .json de arriba
 .github/workflows/   automatizan cuándo correr esos scripts
 hosting/             plantilla .htaccess para Basic Auth en hosting propio
@@ -126,54 +133,91 @@ secciones comentadas dentro del archivo:
   precio y variación 24hs de las criptomonedas de
   `CONFIG.marketsAssets` (`loadMarkets`/`runMarketsBlock`). Se pisa
   mutuamente con noticias, clima y cotización.
-- **Cámara pública en vivo**: mismo mecanismo de pantalla completa que
-  las anteriores, pero sin ninguna API JSON: embebe una cámara de
-  YouTube de la lista curada a mano en `livecams/livecams.json` (array
-  de `{ title, url }`, `loadLiveCams`), extrae el ID del video con
-  `extractYoutubeVideoId` (acepta las URLs típicas de YouTube: un
-  video puntual fijo). Para canales que arrancan una transmisión
-  NUEVA casi todos los días con un ID distinto (ej. el Parque Nacional
-  Iguazú) — donde un ID fijo en el JSON se volvería viejo enseguida —
-  `url` acepta en cambio la URL de "en vivo" del canal
-  (`https://www.youtube.com/@handle/live` o `.../channel/UC.../live`):
-  `extractYoutubeChannelLiveUrl` la detecta, y `resolveChannelLiveVideoId`
-  le pregunta al endpoint público de oEmbed de YouTube (sin API key)
-  si el canal está en vivo ahora mismo — si lo está, oEmbed devuelve
-  los metadatos de esa transmisión puntual (con su ID real embebido en
-  el `<iframe>` del campo `html`, del que se extrae el ID con
-  `extractYoutubeVideoId`); si no, responde con error y se prueba la
-  siguiente cámara de la lista, igual que con cualquier otra caída.
-  A diferencia de un `<iframe src="...">` fijo, usa la API oficial de
-  YouTube (`YT.Player`, cargada bajo demanda con `ensureYoutubeApi`,
-  reemplazando en el DOM al `<div id="livecamFrame">` la primera vez
-  que hace falta) para poder escuchar el evento `onError`: una URL con
-  buena forma puede seguir estando caída, ser privada o haber sido
-  eliminada, y eso solo se sabe intentando reproducirla de verdad.
-  `tryLoadLiveCam(videoId)` intenta reproducir un video y devuelve una
-  Promise<boolean> (según `onError`, `onStateChange` — PLAYING/
-  BUFFERING cuenta como éxito, pero solo si además `livecamIsLive()`
-  no dice explícitamente que no — o, si no pasó nada, el timeout de
-  `CONFIG.liveCamLoadTimeoutMs` con el mismo chequeo). `livecamIsLive()`
-  lee `ytPlayer.getVideoData().isLive`: una transmisión que ya terminó
-  queda en YouTube como una grabación normal que se reproduce sin
-  ningún error (`isLive: false`), así que sin este chequeo se
-  mostraría igual bajo el cartel "EN VIVO" — se trata exactamente
-  igual que una cámara caída, y se pasa a la siguiente de la lista.
-  `runLiveCamBlock` prueba las cámaras de la lista en orden hasta
-  encontrar una que funcione y esté realmente en vivo (o se queda sin
-  pantalla esa vuelta si fallan todas), nunca muestra una pantalla
-  rota ni una grabación vieja, y `mute=1` (obligatorio: autoplay con
-  audio está bloqueado por los navegadores, y además no queremos
-  competir con la música) se pide una sola vez al crear el player y
-  queda aplicado a todas las cargas siguientes vía `loadVideoById`. El
-  cartel `#livecamCaption`,
-  ubicado a propósito en la esquina inferior **derecha** (la izquierda
-  la tapa el reproductor de música, que tiene mayor z-index), muestra
-  un badge grande "EN VIVO" con punto rojo pulsante (`.livecam-live-dot`,
-  único uso de rojo del proyecto, por ser un código universal de
-  transmisión en vivo) y el nombre del lugar en `#livecamPlace` con
-  tipografía grande para que se lea claro en TV. Se pisa mutuamente con noticias, clima, cotización y
-  mercados.
+- **Cámara pública en vivo (fondo principal de la transmisión en esta
+  rama)**: a diferencia de noticias/clima/cotización/mercados (que son
+  interrupciones periódicas puntuales), `runLiveCamLoop` corre en
+  **bucle continuo desde que arranca la página**, mostrando una cámara
+  tras otra para siempre — reemplaza al slideshow de fotos/
+  publicidades como lo que se ve por defecto. `otherFullScreenBlockActive()`
+  (true si noticias/clima/cotización/mercados está en pantalla) la usa
+  dos veces: antes de arrancar cada cámara nueva, y **mientras una ya
+  está en pantalla** vía `waitUnless(ms, shouldStop)` (como `wait` pero
+  corta antes si `shouldStop()` empieza a devolver true, chequeando
+  cada 500ms) — así le cede el paso de inmediato a esos cuatro bloques
+  apenas les toca el turno, sin esperar a que termine su propio
+  `CONFIG.liveCamDisplayMs`. Es un cambio de roles a propósito: antes
+  la cámara le pedía permiso a los otros cuatro bloques para arrancar
+  (y ellos la ignoraban); ahora es al revés — los cuatro bloques NO
+  chequean `liveCamBlockRunning` en su guarda (si lo hicieran, con la
+  cámara corriendo casi todo el tiempo casi nunca llegarían a
+  arrancar), y ya no llaman a `resumeBackgroundRotation()` en su
+  `finally` (ese trabajo quedó exclusivo del loop de cámaras, así no se
+  alcanza a ver ni un instante el slideshow de fotos de por medio al
+  terminar un bloque). El slideshow de fotos/publicidades queda como
+  red de seguridad: `runLiveCamLoop` llama a `resumeBackgroundRotation()`
+  solo si `liveCams` está vacío todavía, o si ninguna cámara de toda la
+  lista funcionó esa vuelta.
+
+  El catálogo (`livecams/livecams.json`, `loadLiveCams`) mezcla dos
+  tipos de entrada, usando el campo `kind` para distinguirlas:
+  - **YouTube** (default, sin `kind` en el JSON — la forma de siempre):
+    `extractYoutubeVideoId` extrae el ID de un video puntual fijo. Para
+    canales que arrancan una transmisión NUEVA casi todos los días con
+    un ID distinto (ej. el Parque Nacional Iguazú) — donde un ID fijo
+    se volvería viejo enseguida — `url` acepta en cambio la URL de "en
+    vivo" del canal (`https://www.youtube.com/@handle/live` o
+    `.../channel/UC.../live`): `extractYoutubeChannelLiveUrl` la
+    detecta, y `resolveChannelLiveVideoId` le pregunta al endpoint
+    público de oEmbed de YouTube (sin API key) si el canal está en
+    vivo ahora mismo — si lo está, devuelve los metadatos de esa
+    transmisión puntual (con su ID real embebido en el `<iframe>` del
+    campo `html`); si no, se prueba la siguiente cámara de la lista,
+    igual que con cualquier otra caída. A diferencia de un
+    `<iframe src="...">` fijo, usa la API oficial de YouTube
+    (`YT.Player`, cargada bajo demanda con `ensureYoutubeApi`,
+    reemplazando en el DOM al `<div id="livecamFrame">` la primera vez
+    que hace falta) para poder escuchar el evento `onError`: una URL
+    con buena forma puede seguir estando caída, ser privada o haber
+    sido eliminada, y eso solo se sabe intentando reproducirla de
+    verdad. `tryLoadLiveCam(videoId)` intenta reproducir un video y
+    devuelve una Promise<boolean> (según `onError`, `onStateChange` —
+    PLAYING/BUFFERING cuenta como éxito, pero solo si además
+    `livecamIsLive()` no dice explícitamente que no — o, si no pasó
+    nada, el timeout de `CONFIG.liveCamLoadTimeoutMs` con el mismo
+    chequeo). `livecamIsLive()` lee `ytPlayer.getVideoData().isLive`:
+    una transmisión que ya terminó queda en YouTube como una grabación
+    normal que se reproduce sin ningún error (`isLive: false`), así
+    que sin este chequeo se mostraría igual bajo el cartel "EN VIVO" —
+    se trata exactamente igual que una cámara caída. `mute=1`
+    (obligatorio: autoplay con audio está bloqueado por los
+    navegadores, y además no queremos competir con la música) se pide
+    una sola vez al crear el player y queda aplicado a todas las
+    cargas siguientes vía `loadVideoById`.
+  - **Windy** (`"kind": "image"`, autogenerado por
+    `scripts/generate_livecams_from_windy.py`, marcado
+    `"source": "windy-auto"`): no es video, es una foto que se va
+    actualizando — las URLs de imagen de la API de Windy Webcams
+    vienen con un token firmado que vence a los pocos minutos en el
+    plan gratuito, así que se resuelven **server-side** (con la API
+    key como secret de GitHub, nunca expuesta en el JS público) y el
+    JSON ya trae una URL vigente. `loadImageWithTimeout` (la misma que
+    usan las imágenes de noticias) la precarga antes de mostrarla: si
+    el token venció o la webcam está caída, se prueba la siguiente
+    cámara de la lista — mismo patrón de resiliencia que con YouTube.
+
+  `runLiveCamLoop` prueba las cámaras de la lista en orden (arrancando
+  donde quedó la vez anterior) hasta encontrar una que funcione, nunca
+  muestra una pantalla rota ni una grabación vieja, y
+  `setLivecamVisual(kind)` alterna cuál de los dos elementos visuales
+  se ve (el `<iframe>` de YouTube o el `<img id="livecamImage">` de
+  Windy) y el texto del badge: las cámaras `image` no son video
+  continuo, así que su badge dice "CÁMARA PÚBLICA" sin el punto rojo
+  pulsante de "EN VIVO" real (`.is-snapshot` en `css/style.css`), para
+  no mostrar algo engañoso. El cartel `#livecamCaption`, ubicado a
+  propósito en la esquina inferior **derecha** (la izquierda la tapa
+  el reproductor de música, que tiene mayor z-index), muestra el badge
+  y el nombre del lugar en `#livecamPlace` con tipografía grande para
+  que se lea claro en TV.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
   simples que muestran/ocultan elementos del DOM. El ticker es siempre
   visible (su z-index queda por encima de noticias/clima/cotización/
@@ -187,12 +231,16 @@ secciones comentadas dentro del archivo:
   hasta un tope de 2 minutos) a que termine antes de recargar, en vez de
   cortarlo a la mitad.
 - **Blindaje de los `xBlockRunning`**: `runNewsBlock`/`runWeatherBlock`/
-  `runCurrencyBlock`/`runMarketsBlock`/`runLiveCamBlock` envuelven su
-  cuerpo en `try/finally` para garantizar que el flag (`newsBlockRunning`
-  etc.) vuelva a `false` y el slideshow se retome pase lo que pase,
-  incluso ante una excepcion inesperada — como los 5 bloques (y la
-  recarga automática) se consultan entre si antes de arrancar, un flag
-  que quedara trabado en `true` congelaria en cascada a todos los demás.
+  `runCurrencyBlock`/`runMarketsBlock` envuelven su cuerpo en
+  `try/finally` para garantizar que el flag (`newsBlockRunning` etc.)
+  vuelva a `false` pase lo que pase, incluso ante una excepcion
+  inesperada — como los 4 bloques se consultan entre si antes de
+  arrancar (y el loop de cámaras los consulta a los cuatro antes de
+  mostrar la siguiente), un flag que quedara trabado en `true`
+  congelaria en cascada a todos los demás. `runLiveCamLoop` en cambio
+  es un `while(true)` que nunca termina por diseño: su propio
+  `try/finally` interno solo resetea `liveCamBlockRunning` entre una
+  cámara y la siguiente, no corta el loop completo.
 - **Resiliencia**: todos los `fetch()` de refresco están pensados para
   fallar en silencio y reintentar en el próximo ciclo (no hay caída
   dura de la página si un JSON o archivo puntual falla) — ver la
@@ -215,7 +263,8 @@ mano y/o un `.json` autogenerado**, que `app.js` relee por polling
 | Fondos (Wikimedia) | — (conserva las entradas manuales de `external.json`) | `scripts/generate_backgrounds_from_keywords.py` → agrega al grupo `source: "wikimedia-auto"` de `external.json` | GitHub Action con cron diario (+ manual), sin API key |
 | Noticias | `news/news.json` | `scripts/generate_news_from_rss.py` → `news/rss.json`, combinando el grupo de feeds RSS en `RSS_FEEDS` | GitHub Action con cron cada 2h (+ manual) |
 | Noticias (limpieza) | — | `scripts/prune_news.py` borra de `news.json` lo de +30 días | GitHub Action con cron semanal |
-| Cámaras en vivo | `livecams/livecams.json` (título + URL de YouTube, a mano) | — (no hay autogeneración, es 100% curado) | — |
+| Cámaras en vivo (YouTube) | `livecams/livecams.json` (título + URL, a mano) | — (no hay autogeneración, es 100% curado) | — |
+| Cámaras en vivo (Windy) | — (conserva las entradas manuales/YouTube de `livecams.json`) | `scripts/generate_livecams_from_windy.py` → agrega al grupo `source: "windy-auto"` de `livecams.json` | GitHub Action con cron cada 10 min (+ manual), requiere secret `WINDY_API_KEY` |
 
 Los tres workflows en `.github/workflows/` (`update-playlists.yml`,
 `update-news-rss.yml`, `prune-news.yml`) siguen el mismo patrón: corren
@@ -264,6 +313,26 @@ tiene `actions/checkout` + Python del runner, sin `pip install`).
 - `prune_news.py`: borra de `news.json` (no de `rss.json`, que no
   necesita poda porque el RSS ya trae solo notas recientes) lo más
   viejo que `PRUNE_AFTER_DAYS` (30).
+- `generate_livecams_from_windy.py`: busca cámaras públicas de todo
+  el mundo en la API de Windy Webcams (`api.windy.com/webcams`), con
+  `WINDY_API_KEY` como variable de entorno (sin ella no hace nada, ni
+  siquiera intenta la llamada). A diferencia de Wikimedia Commons, las
+  URLs de imagen de Windy vienen con un token firmado que **vence a
+  los pocos minutos** en el plan gratuito — por eso se resuelven
+  server-side (acá, con la key como secret) en vez de desde el
+  navegador (ahí quedaría expuesta en el JS público del sitio) y por
+  eso el workflow que lo corre usa un cron bien seguido (cada 10 min,
+  ver más abajo) en vez de diario. Igual que con Wikimedia, pide un
+  offset al azar (`OFFSET_WINDOW`) por si la API devolviera siempre el
+  mismo orden. Marca sus entradas con `"source": "windy-auto"` y
+  `"kind": "image"` (distinto a las de YouTube, que no llevan `kind`)
+  y nunca pisa las entradas manuales/YouTube de `livecams.json`: solo
+  regenera el grupo `windy-auto`. **Advertencia**: la forma exacta de
+  los campos de la respuesta de la API v3 de Windy está tomada de su
+  documentación pública, pero no se pudo probar en vivo desde este
+  entorno (sin acceso de red a windy.com) — si después de cargar una
+  key real no trae resultados, revisar `extract_image_url`/
+  `extract_title` contra la respuesta real.
 - `sync-local.sh`: `git pull` + log, para el escenario de hosting local
   con `cron` (ver HOSTING.md, opción de repo privado sin URL pública).
 

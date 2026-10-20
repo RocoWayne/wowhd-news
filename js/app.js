@@ -80,24 +80,21 @@ const CONFIG = {
   marketsFirstDelayMs: 41 * 60 * 1000,  // primera pantalla de mercados a los 41 min (al ser cada 90 min, alterna entre :41 y :11 de cada hora, ambos verificados libres)
   marketsIntervalMs: 90 * 60 * 1000,    // despues, cada 1 hora y media
   marketsDisplayMs: 30 * 1000,          // cuanto queda visible la pantalla de mercados
-  liveCamsUrl: "livecams/livecams.json", // lista curada a mano de camaras publicas (titulo + URL de YouTube)
+  liveCamsUrl: "livecams/livecams.json", // catalogo curado a mano + autogenerado (Windy) de camaras publicas
   liveCamsRefreshMs: 10 * 60 * 1000,    // re-leer livecams.json cada 10 min (para que una edicion se vea sin recargar OBS)
   liveCamLoadTimeoutMs: 5 * 1000,       // cuanto esperar a que una camara avise que fallo antes de darla por buena y mostrarla igual
-  liveCamFirstDelayMs: 4 * 60 * 1000,   // primera camara a los 4 min (deja las 4 apariciones/hora en :04, :19, :34, :49 - la mejor combinacion posible)
-  liveCamIntervalMs: 15 * 60 * 1000,    // despues, cada 15 min (4 veces por hora, el minimo pedido)
-  liveCamDisplayMs: 7 * 60 * 1000,      // cuanto queda visible cada camara (7 min)
-  // Nota sobre colisiones: con 4 apariciones/hora de 7 min cada una (28 de
-  // los 60 min de la hora ocupados), no hay una combinacion que evite TODOS
-  // los cruces con clima/cotizacion/mercados (la cuenta no cierra: ver
-  // detalle en README) - pero SI hay una que evita por completo el cruce
-  // con noticias (la pantalla mas importante). Con :04/:19/:34/:49 los
-  // unicos cruces que quedan son minimos: la camara de :04 roza 1 min del
-  // final de la ventana de clima de las :08, y la de :34 roza el arranque
-  // de la cotizacion de las :35 - ambos se saltean esa vuelta y se
-  // resumen normal en su proximo turno. Noticias y mercados quedan
-  // intactos. Si se necesita mas apariciones/hora todavia, conviene bajar
-  // la duracion en vez de acortar el intervalo (ver validate_schedule en
-  // el historial de commits para volver a correr la simulacion).
+  liveCamDisplayMs: 3 * 60 * 1000,      // cuanto queda visible cada camara antes de pasar a la siguiente (3 min)
+  // Rama "foster-viajes": las camaras son el FONDO PRINCIPAL de la
+  // transmision, no una interrupcion periodica mas. `runLiveCamLoop`
+  // corre en bucle continuo desde que arranca la pagina, mostrando
+  // una camara tras otra sin pausa — reemplaza al slideshow de fotos/
+  // publicidades como lo que se ve por defecto. Noticias, clima,
+  // cotizacion y mercados siguen con su propio horario fijo de
+  // siempre (ver sus *IntervalMs/*FirstDelayMs mas abajo) y la camara
+  // es la que les cede el paso cuando les toca el turno (y retoma la
+  // rotacion de camaras apenas terminan) - no al reves. El slideshow
+  // de fotos/publicidades queda como red de seguridad: solo se ve si
+  // el catalogo de camaras esta vacio o si todas fallan a la vez.
   tickerEnabled: false,                 // apagado momentaneamente a pedido - poner en true para reactivar el ticker de redes
   autoReloadMs: 24 * 60 * 60 * 1000,    // recarga la pagina sola cada 24 horas, para que la fuente de OBS tome cambios de codigo sin refrescar a mano
 };
@@ -761,10 +758,13 @@ async function tryLoadNewsContent(item) {
 // Si no hay noticias cargadas, no hace nada mas que asegurarse de que
 // el slideshow este corriendo.
 async function runNewsBlock() {
-  // No pisar la pantalla de clima, cotizacion, mercados o camara en
-  // vivo si justo estan en pantalla: esta tanda se saltea y arranca en
-  // el proximo turno.
-  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning || liveCamBlockRunning) return;
+  // No pisar la pantalla de clima, cotizacion o mercados si justo
+  // estan en pantalla: esta tanda se saltea y arranca en el proximo
+  // turno. La camara en vivo NO se chequea aca a proposito: en esta
+  // rama es el fondo principal (corre en loop continuo) y es ELLA la
+  // que le cede el paso a noticias/clima/cotizacion/mercados - ver
+  // runLiveCamLoop.
+  if (newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
   newsBlockRunning = true;
   pauseBackgroundRotation();
 
@@ -818,7 +818,11 @@ async function runNewsBlock() {
     }
   } finally {
     newsBlockRunning = false;
-    resumeBackgroundRotation();
+    // No se llama a resumeBackgroundRotation() aca: en esta rama ese
+    // trabajo es exclusivo del loop continuo de camaras
+    // (runLiveCamLoop), que retoma solo apenas este flag vuelve a
+    // false - asi no se alcanza a ver ni un instante el slideshow de
+    // fotos/publicidades de por medio.
   }
 }
 
@@ -1195,10 +1199,11 @@ function buildWeatherColumns() {
 let weatherBlockRunning = false;
 
 async function runWeatherBlock() {
-  // No pisar un bloque de noticias, cotizacion, mercados o camara en
-  // vivo que ya este en pantalla; se saltea esta vez y se reintenta en
-  // el proximo turno.
-  if (weatherBlockRunning || newsBlockRunning || currencyBlockRunning || marketsBlockRunning || liveCamBlockRunning) return;
+  // No pisar un bloque de noticias, cotizacion o mercados que ya este
+  // en pantalla; se saltea esta vez y se reintenta en el proximo turno.
+  // La camara en vivo le cede el paso a este bloque sola - ver
+  // runLiveCamLoop.
+  if (weatherBlockRunning || newsBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
 
   // Si todavia no hay ningun dato de clima cargado (API caida, sin
   // conexion, primera carga que no llego a tiempo), no mostramos la
@@ -1226,7 +1231,9 @@ async function runWeatherBlock() {
     await wait(700); // deja terminar el fade de salida antes de retomar fondos
   } finally {
     weatherBlockRunning = false;
-    resumeBackgroundRotation();
+    // No se llama a resumeBackgroundRotation() aca: en esta rama ese
+    // trabajo es exclusivo del loop continuo de camaras (ver nota en
+    // runNewsBlock).
   }
 }
 
@@ -1303,9 +1310,10 @@ function buildCurrencyColumns() {
 let currencyBlockRunning = false;
 
 async function runCurrencyBlock() {
-  // No pisar noticias, clima, mercados o camara en vivo si justo estan
-  // en pantalla; se saltea esta vez y se reintenta en el proximo turno.
-  if (currencyBlockRunning || newsBlockRunning || weatherBlockRunning || marketsBlockRunning || liveCamBlockRunning) return;
+  // No pisar noticias, clima o mercados si justo estan en pantalla; se
+  // saltea esta vez y se reintenta en el proximo turno. La camara en
+  // vivo le cede el paso a este bloque sola - ver runLiveCamLoop.
+  if (currencyBlockRunning || newsBlockRunning || weatherBlockRunning || marketsBlockRunning) return;
 
   // Si todavia no hay ningun dato de cotizacion cargado (API caida,
   // sin conexion), no mostramos la pantalla vacia - se reintenta sola
@@ -1327,7 +1335,9 @@ async function runCurrencyBlock() {
     await wait(700); // deja terminar el fade de salida antes de retomar fondos
   } finally {
     currencyBlockRunning = false;
-    resumeBackgroundRotation();
+    // No se llama a resumeBackgroundRotation() aca: en esta rama ese
+    // trabajo es exclusivo del loop continuo de camaras (ver nota en
+    // runNewsBlock).
   }
 }
 
@@ -1413,10 +1423,10 @@ function buildMarketsColumns() {
 let marketsBlockRunning = false;
 
 async function runMarketsBlock() {
-  // No pisar noticias, clima, cotizacion o camara en vivo si justo
-  // estan en pantalla; se saltea esta vez y se reintenta en el
-  // proximo turno.
-  if (marketsBlockRunning || newsBlockRunning || weatherBlockRunning || currencyBlockRunning || liveCamBlockRunning) return;
+  // No pisar noticias, clima o cotizacion si justo estan en pantalla;
+  // se saltea esta vez y se reintenta en el proximo turno. La camara
+  // en vivo le cede el paso a este bloque sola - ver runLiveCamLoop.
+  if (marketsBlockRunning || newsBlockRunning || weatherBlockRunning || currencyBlockRunning) return;
 
   // Si todavia no hay ningun dato de mercados cargado (API caida, sin
   // conexion), no mostramos la pantalla vacia - se reintenta sola en
@@ -1444,7 +1454,9 @@ async function runMarketsBlock() {
     await wait(700); // deja terminar el fade de salida antes de retomar fondos
   } finally {
     marketsBlockRunning = false;
-    resumeBackgroundRotation();
+    // No se llama a resumeBackgroundRotation() aca: en esta rama ese
+    // trabajo es exclusivo del loop continuo de camaras (ver nota en
+    // runNewsBlock).
   }
 }
 
@@ -1629,62 +1641,107 @@ function tryLoadLiveCam(videoId) {
   );
 }
 
-async function runLiveCamBlock() {
-  // No pisar noticias, clima, cotizacion o mercados si justo estan en
-  // pantalla; se saltea esta vez y se reintenta en el proximo turno.
-  if (liveCamBlockRunning || newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning) return;
+function otherFullScreenBlockActive() {
+  return newsBlockRunning || weatherBlockRunning || currencyBlockRunning || marketsBlockRunning;
+}
 
-  if (!liveCams || liveCams.length === 0) return;
-
-  liveCamBlockRunning = true;
-  pauseBackgroundRotation();
-
-  try {
-    // Prueba las camaras de la lista en orden (arrancando donde quedo
-    // la vez anterior) hasta encontrar una que funcione, saltando en
-    // silencio las que tengan una URL mal cargada o esten caidas /
-    // privadas / eliminadas. Si ninguna de toda la lista funciona,
-    // esta vuelta no se muestra nada (se reintenta en el proximo turno).
-    for (let attempt = 0; attempt < liveCams.length; attempt++) {
-      const cam = liveCams[liveCamIndex % liveCams.length];
-      liveCamIndex++;
-      let videoId = extractYoutubeVideoId(cam.url);
-      if (!videoId) {
-        // No es un video puntual - ¿es la URL de "en vivo" de un
-        // canal? Esos canales (ej. Parque Nacional Iguazú) arrancan
-        // una transmision nueva casi todos los dias con un ID
-        // distinto, asi que se resuelve cual es la actual en cada
-        // turno en vez de depender de un ID fijo que se desactualiza.
-        const channelLiveUrl = extractYoutubeChannelLiveUrl(cam.url);
-        if (channelLiveUrl) videoId = await resolveChannelLiveVideoId(channelLiveUrl);
+// Como wait(ms), pero corta antes si `shouldStop()` empieza a devolver
+// true (chequeando cada 500ms) - asi el loop de camaras le puede ceder
+// el paso a noticias/clima/cotizacion/mercados apenas les toca el
+// turno, en vez de terminar primero su tiempo completo en pantalla.
+function waitUnless(ms, shouldStop) {
+  return new Promise((resolve) => {
+    const stepMs = 500;
+    let elapsed = 0;
+    (function tick() {
+      if (shouldStop() || elapsed >= ms) {
+        resolve();
+        return;
       }
-      if (!videoId) continue; // ni video fijo ni canal en vivo ahora: se prueba la siguiente
+      elapsed += stepMs;
+      setTimeout(tick, stepMs);
+    })();
+  });
+}
 
-      const ok = await tryLoadLiveCam(videoId);
-      if (!ok) continue;
-
-      livecamPlace.textContent = cam.title || "";
-      livecamScreen.classList.add("visible");
-
-      await wait(CONFIG.liveCamDisplayMs);
-
-      livecamScreen.classList.remove("visible");
-      await wait(700); // deja terminar el fade de salida antes de retomar fondos
-      ytPlayer.stopVideo(); // corta la reproduccion fuera de pantalla
-      break;
+// Fondo principal de la transmision: muestra una camara publica tras
+// otra, en bucle continuo, para siempre - a diferencia de las otras
+// pantallas (que son interrupciones periodicas puntuales), esta es la
+// que ocupa la pantalla el resto del tiempo. Le cede el paso a
+// noticias/clima/cotizacion/mercados apenas les toca su turno (los
+// chequea antes de cada camara nueva Y mientras una ya esta en
+// pantalla, via waitUnless) y retoma la rotacion de camaras apenas
+// terminan, sin esperar a un intervalo fijo propio.
+async function runLiveCamLoop() {
+  while (true) {
+    if (otherFullScreenBlockActive()) {
+      await wait(500);
+      continue;
     }
-  } finally {
-    liveCamBlockRunning = false;
-    resumeBackgroundRotation();
+
+    if (!liveCams || liveCams.length === 0) {
+      // Sin camaras cargadas todavia (o catalogo vacio): que se vea
+      // el slideshow de fotos/publicidades mientras tanto, como red
+      // de seguridad, y reintentar en un rato.
+      resumeBackgroundRotation();
+      await wait(5000);
+      continue;
+    }
+
+    liveCamBlockRunning = true;
+    pauseBackgroundRotation();
+    let shown = false;
+
+    try {
+      // Prueba las camaras de la lista en orden (arrancando donde
+      // quedo la vez anterior) hasta encontrar una que funcione,
+      // saltando en silencio las que tengan una URL mal cargada o
+      // esten caidas/privadas/eliminadas/ya no en vivo.
+      for (let attempt = 0; attempt < liveCams.length && !shown; attempt++) {
+        if (otherFullScreenBlockActive()) break; // ceder el paso ya mismo, sin terminar de probar
+
+        const cam = liveCams[liveCamIndex % liveCams.length];
+        liveCamIndex++;
+        let videoId = extractYoutubeVideoId(cam.url);
+        if (!videoId) {
+          // No es un video puntual - ¿es la URL de "en vivo" de un
+          // canal? Esos canales (ej. Parque Nacional Iguazú) arrancan
+          // una transmision nueva casi todos los dias con un ID
+          // distinto, asi que se resuelve cual es la actual en cada
+          // turno en vez de depender de un ID fijo que se desactualiza.
+          const channelLiveUrl = extractYoutubeChannelLiveUrl(cam.url);
+          if (channelLiveUrl) videoId = await resolveChannelLiveVideoId(channelLiveUrl);
+        }
+        if (!videoId) continue; // ni video fijo ni canal en vivo ahora: se prueba la siguiente
+
+        const ok = await tryLoadLiveCam(videoId);
+        if (!ok) continue;
+
+        livecamPlace.textContent = cam.title || "";
+        livecamScreen.classList.add("visible");
+        shown = true;
+
+        await waitUnless(CONFIG.liveCamDisplayMs, otherFullScreenBlockActive);
+
+        livecamScreen.classList.remove("visible");
+        await wait(500); // deja terminar el fade de salida antes de la siguiente camara (o de ceder el paso)
+        ytPlayer.stopVideo(); // corta la reproduccion fuera de pantalla
+      }
+    } finally {
+      liveCamBlockRunning = false;
+      if (!shown) {
+        // Ninguna camara de toda la lista funciono esta vuelta
+        // (rarisimo: todas caidas/sin transmision a la vez) - que se
+        // vea el slideshow de fotos/publicidades mientras tanto.
+        resumeBackgroundRotation();
+      }
+    }
   }
 }
 
 setInterval(loadLiveCams, CONFIG.liveCamsRefreshMs);
 
-setTimeout(() => {
-  runLiveCamBlock();
-  setInterval(runLiveCamBlock, CONFIG.liveCamIntervalMs);
-}, CONFIG.liveCamFirstDelayMs);
+runLiveCamLoop();
 
 // ---------------- Popup de suscripción ----------------
 // Desciende desde el centro-arriba, queda visible subscribeDisplayMs

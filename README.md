@@ -665,6 +665,36 @@ python3 -m http.server 8080
 Y abrís `http://localhost:8080/index.html` en el navegador para
 probarlo antes de meterlo en OBS.
 
+### Alternativa: `./run.sh` (servidor + navegador en un paso, para Captura de Ventana)
+
+Si preferís no depender de la Fuente de navegador interna de OBS —
+por ejemplo, para tener el repo privado y correr todo local sin
+exponer nada (ver `HOSTING.md`) — `./run.sh` hace los dos pasos de
+arriba de una:
+
+```bash
+./run.sh
+```
+
+- Levanta el servidor local (reusa uno que ya esté corriendo, en vez
+  de duplicarlo si lo corrés dos veces).
+- Abre Chrome/Chromium/Edge en **modo app** (`--app=`, sin barra de
+  direcciones ni pestañas — una ventana "pelada", ideal para capturar
+  limpio) apuntando a esa URL, con el mismo flag que usa internamente
+  el Browser Source de OBS para el autoplay de audio
+  (`--autoplay-policy=no-user-gesture-required`), así la música
+  arranca sola sin pedir ningún click.
+- En OBS, en vez de una Fuente de navegador, agregás **Captura de
+  ventana** (Window Capture) y elegís esa ventana.
+- `Ctrl+C` en la terminal corta el servidor y queda la ventana del
+  navegador abierta (podés cerrarla a mano si también querés sacarla).
+- Funciona igual en cualquier rama del repo — no tiene nada
+  específico de `main` ni de `foster-viajes`.
+
+Variables opcionales: `PORT=9000 ./run.sh` (otro puerto) y
+`BROWSER=chromium ./run.sh` (forzar un navegador puntual si tenés
+varios instalados).
+
 ## 7. Publicarlo en GitHub Pages
 
 Esta es la forma en la que estamos usando el proyecto por ahora, así

@@ -194,9 +194,24 @@ sudo systemctl enable --now laulive.service
 
 ### 5. OBS
 
-Sin cambios: la fuente de navegador sigue apuntando a
-`http://localhost:8080/index.html`, exactamente como en las pruebas
-locales que ya venimos haciendo.
+Hay dos formas, según cómo quieras capturarlo:
+
+- **Fuente de navegador de OBS** (como veníamos haciendo): sin
+  cambios, sigue apuntando a `http://localhost:8080/index.html`.
+- **Ventana de navegador real + Captura de ventana**: corré
+  `./run.sh` en vez de `python3 -m http.server 8080` a mano — levanta
+  el servidor Y abre una ventana de Chrome/Chromium/Edge en modo app
+  (sin barra de direcciones ni pestañas) ya lista para elegir con
+  **Captura de ventana** (Window Capture) en OBS. Ver la sección
+  "Alternativa: `./run.sh`" en el README para el detalle. Si vas por
+  este camino, el `.service` de systemd de arriba puede simplemente
+  apuntar a `run.sh` en vez de a `python3 -m http.server` directo
+  (`ExecStart=/ruta/a/laulive/run.sh`), aunque como `run.sh` abre una
+  ventana gráfica, hace falta que el usuario del servicio tenga una
+  sesión gráfica activa (no sirve corrido como un servicio puramente
+  headless/sin pantalla) — para ese caso, lo más simple sigue siendo
+  dejarlo andando manualmente en una terminal (o en un script de
+  arranque de sesión) en vez de como servicio de systemd.
 
 **Con esto, todas las automatizaciones siguen funcionando igual**: el
 GitHub Action sigue regenerando los `playlist.json` al subir archivos

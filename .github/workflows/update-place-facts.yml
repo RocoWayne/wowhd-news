@@ -1,0 +1,45 @@
+name: Actualizar datos de lugares (cámaras en vivo)
+
+# Busca y cachea un dato corto de Wikipedia para cada lugar nuevo de
+# livecams/livecams.json (ver scripts/generate_place_facts.py), que
+# js/app.js muestra en el cartel de la cámara en vivo ("Sabias que...").
+# Idempotente: solo busca lugares que todavia no tengan un
+# facts/<lugar>.json cacheado, nunca pisa un cache existente.
+#
+# Se dispara con un push a mano a livecams/livecams.json (agregar una
+# cámara nueva con "place", corregir uno existente, etc). El caso de
+# las cámaras "windy-auto" (que se agregan solas via commit del bot de
+# update-livecams-windy.yml) NO dispara este workflow en cascada - por
+# eso ese otro workflow tambien corre este mismo script como paso
+# extra, en el mismo job.
+on:
+  push:
+    paths:
+      - "livecams/livecams.json"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-place-facts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Buscar/cachear datos de Wikipedia para lugares nuevos
+        run: python3 scripts/generate_place_facts.py
+
+      - name: Commitear si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add facts/
+          if git diff --cached --quiet; then
+            echo "Sin datos de lugares nuevos para cachear."
+          else
+            git commit -m "Auto-actualizar datos de lugares (facts/)"
+            git push origin HEAD:${{ github.ref_name }}
+          fi

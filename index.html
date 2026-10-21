@@ -143,6 +143,11 @@
     <div class="livecam-caption" id="livecamCaption">
       <div class="livecam-live-badge" id="livecamBadge"><span class="livecam-live-dot"></span>EN VIVO</div>
       <div class="livecam-place" id="livecamPlace"></div>
+      <!-- Dato corto sobre el lugar (resumen de Wikipedia, cacheado
+           por lugar en facts/*.json - ver generate_place_facts.py).
+           Vacio = oculto solo via CSS (:empty), sin clase extra que
+           manejar desde JS. -->
+      <div class="livecam-fact" id="livecamFact"></div>
     </div>
   </section>
 

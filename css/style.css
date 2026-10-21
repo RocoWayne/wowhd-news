@@ -753,6 +753,22 @@ body.ticker-visible .player{
   font-weight:800;
   color:#fff;
 }
+/* "Sobre este lugar": dato corto de Wikipedia, cacheado por lugar
+   (ver facts/*.json). :empty lo oculta solo sin que haga falta una
+   clase extra desde JS - si la camara no tiene "place" cargado, o
+   todavia no se encontro/cacheo un dato para ese lugar, el div queda
+   vacio y desaparece. */
+.livecam-fact{
+  font-size:20px;
+  font-weight:500;
+  line-height:1.4;
+  color:var(--text-dim);
+  max-width:620px;
+  text-align:right;
+}
+.livecam-fact:empty{
+  display:none;
+}
 
 /* ---------- Popup de suscripción ---------- */
 .subscribe-popup{

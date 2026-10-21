@@ -1481,6 +1481,58 @@ const livecamCaption = document.getElementById("livecamCaption");
 const livecamPlace = document.getElementById("livecamPlace");
 const livecamImage = document.getElementById("livecamImage");
 const livecamBadge = document.getElementById("livecamBadge");
+const livecamFact = document.getElementById("livecamFact");
+
+// Mismo algoritmo que slugify() en scripts/generate_place_facts.py -
+// tienen que coincidir para que el navegador encuentre el archivo que
+// generó el script del lado del servidor.
+function slugifyPlace(place) {
+  // "NFKD" separa cada letra acentuada en la letra base + su marca de
+  // acento como caracter aparte (códigos 0x0300-0x036F) - se filtran
+  // por código en vez de con una clase de regex para no depender de
+  // escribir escapes \uXXXX en el código fuente.
+  const asciiOnly = Array.from(place.normalize("NFKD"))
+    .filter((ch) => {
+      const code = ch.codePointAt(0);
+      return code < 0x0300 || code > 0x036f;
+    })
+    .join("");
+  const slug = asciiOnly.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+  return slug || "lugar";
+}
+
+// Dato corto sobre `place` (resumen de Wikipedia, cacheado del lado
+// del servidor por scripts/generate_place_facts.py - ver
+// .github/workflows/update-place-facts.yml). Nunca se consulta
+// Wikipedia desde el navegador: solo se lee el JSON ya cacheado en
+// facts/, y si todavia no existe (lugar nuevo, o Wikipedia no tenia
+// nada util) se devuelve null en silencio - no es una falla de la
+// cámara, simplemente no hay dato todavía para mostrar.
+async function loadPlaceFact(place) {
+  if (!place) return null;
+  try {
+    const res = await fetch(`facts/${slugifyPlace(place)}.json`);
+    if (!res.ok) return null;
+    const data = await res.json();
+    return data.extract || null;
+  } catch {
+    return null;
+  }
+}
+
+// `loadPlaceFact` es "fire and forget" (no bloquea mostrar la cámara):
+// si una cámara falla rápido y se pasa a la siguiente antes de que
+// resuelva, una respuesta tardía del lugar anterior no tiene que
+// pisar el texto de la cámara nueva - este contador descarta
+// cualquier respuesta que ya no sea la más reciente pedida.
+let livecamFactRequestId = 0;
+function showPlaceFact(place) {
+  livecamFact.textContent = "";
+  const requestId = ++livecamFactRequestId;
+  loadPlaceFact(place).then((extract) => {
+    if (requestId === livecamFactRequestId) livecamFact.textContent = extract || "";
+  });
+}
 
 // Alterna que elemento visual se ve (el iframe de YouTube o la foto de
 // Windy) y el texto/badge acorde - "image" no es video continuo, asi
@@ -1733,6 +1785,7 @@ async function runLiveCamLoop() {
 
           setLivecamVisual("image");
           livecamPlace.textContent = cam.title || "";
+          showPlaceFact(cam.place);
           livecamScreen.classList.add("visible");
           shown = true;
 
@@ -1761,6 +1814,7 @@ async function runLiveCamLoop() {
 
         setLivecamVisual("youtube");
         livecamPlace.textContent = cam.title || "";
+        showPlaceFact(cam.place);
         livecamScreen.classList.add("visible");
         shown = true;
 

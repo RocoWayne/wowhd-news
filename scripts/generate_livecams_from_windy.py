@@ -28,7 +28,10 @@ Las entradas que agrega se marcan con "source": "windy-auto" y
 "kind": "image", para distinguirlas de las entradas de YouTube
 cargadas a mano (que no tienen "kind"): en cada corrida se conservan
 tal cual las demas entradas, y solo se regenera el grupo
-"windy-auto".
+"windy-auto". Tambien se les agrega "place" (la ciudad de la webcam,
+si la API la trae) para que scripts/generate_place_facts.py pueda
+buscarles y cachearles un dato corto de Wikipedia, igual que con las
+camaras de YouTube cargadas a mano.
 
 ADVERTENCIA: la forma exacta de la respuesta de la API v3 de Windy
 (nombres de campo dentro de "images"/"location") esta tomada de la
@@ -120,6 +123,18 @@ def extract_title(webcam):
     return title or place or "Cámara pública (Windy)"
 
 
+def extract_place(webcam):
+    """Nombre de lugar a usar como clave para el cache de datos
+    (ver scripts/generate_place_facts.py) - la ciudad si esta
+    disponible (mas probable que tenga articulo propio en Wikipedia
+    que el titulo puntual de la webcam), si no el titulo tal cual."""
+    location = webcam.get("location") or {}
+    city = (location.get("city") or "").strip()
+    if city:
+        return city
+    return (webcam.get("title") or "").strip() or None
+
+
 def load_existing():
     if not os.path.exists(OUTPUT):
         return []
@@ -152,12 +167,16 @@ def main():
         url = extract_image_url(webcam)
         if not url:
             continue  # sin ninguna imagen utilizable: se saltea esta webcam puntual
-        fetched.append({
+        entry = {
             "title": extract_title(webcam),
             "url": url,
             "kind": "image",
             "source": "windy-auto",
-        })
+        }
+        place = extract_place(webcam)
+        if place:
+            entry["place"] = place
+        fetched.append(entry)
 
     if not fetched:
         print("Windy no devolvio ninguna webcam utilizable en esta corrida; se deja livecams.json como estaba.", file=sys.stderr)

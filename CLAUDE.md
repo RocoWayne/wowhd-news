@@ -218,6 +218,47 @@ secciones comentadas dentro del archivo:
   el reproductor de música, que tiene mayor z-index), muestra el badge
   y el nombre del lugar en `#livecamPlace` con tipografía grande para
   que se lea claro en TV.
+
+  Debajo de `#livecamPlace`, `#livecamFact` muestra opcionalmente un
+  dato corto (resumen de Wikipedia) sobre el lugar de la cámara
+  actual, cacheado por lugar en `facts/<slug>.json` para evitar
+  consultas repetidas a medida que se agregan cámaras nuevas. Cada
+  entrada de `livecams.json` puede llevar un campo `"place"` (nombre a
+  buscar en Wikipedia); varias cámaras pueden compartir el mismo
+  `place` sin que eso dispare búsquedas repetidas. `slugifyPlace(place)`
+  (JS, en `js/app.js`) y `slugify()` (Python, en
+  `scripts/generate_place_facts.py`) tienen que producir **el mismo
+  slug** para el mismo lugar en ambos lenguajes — están escritos a
+  propósito con filtrado por `codePointAt` en vez de un character
+  class `\uXXXX` en la regex, porque ese rango de marcas diacríticas
+  (usado para sacar los acentos) se corrompió al escribirlo como
+  escape `\uXXXX` dentro de una regex con el tooling de edición usado
+  (quedaron caracteres Unicode crudos o un escape literal en el
+  archivo en vez del texto esperado) — si se reescribe esta función,
+  evitar reintroducir un literal `\uXXXX` en una regex.
+  `loadPlaceFact(place)` solo lee el JSON local ya cacheado (nunca
+  llama a Wikipedia desde el navegador) y `showPlaceFact(place)` es
+  "race-safe" (usa un contador de request id) para no pisar el dato de
+  una cámara con el de la cámara anterior si la cámara cambió mientras
+  el `fetch` todavía estaba en vuelo. Sin dato cacheado para ese
+  lugar, `#livecamFact` queda vacío y se oculta solo por CSS
+  (`:empty{display:none}`), sin necesidad de una clase extra manejada
+  desde JS.
+
+  `scripts/generate_place_facts.py` recorre los `place` de
+  `livecams.json` y busca/cachea en `facts/` solo los que todavía no
+  tengan archivo — nunca pisa un cache existente ni cachea un fallo
+  (así un lugar que falló se reintenta solo en la próxima corrida, en
+  vez de quedar roto para siempre). Se dispara con
+  `.github/workflows/update-place-facts.yml` (push a
+  `livecams/livecams.json`) y también como paso extra dentro de
+  `update-livecams-windy.yml`, porque un commit hecho por el propio
+  bot de Actions no dispara en cascada el workflow `push` del otro
+  (misma limitación de GitHub Actions que ya aplica a los demás
+  workflows de este repo). Las entradas `windy-auto` de
+  `generate_livecams_from_windy.py` también llevan `"place"` (la
+  ciudad de la webcam, si la API la trae), para que les aplique la
+  misma búsqueda de datos.
 - **Popup de suscripción** y **ticker de redes**: temporizadores
   simples que muestran/ocultan elementos del DOM. El ticker es siempre
   visible (su z-index queda por encima de noticias/clima/cotización/
@@ -265,6 +306,7 @@ mano y/o un `.json` autogenerado**, que `app.js` relee por polling
 | Noticias (limpieza) | — | `scripts/prune_news.py` borra de `news.json` lo de +30 días | GitHub Action con cron semanal |
 | Cámaras en vivo (YouTube) | `livecams/livecams.json` (título + URL, a mano) | — (no hay autogeneración, es 100% curado) | — |
 | Cámaras en vivo (Windy) | — (conserva las entradas manuales/YouTube de `livecams.json`) | `scripts/generate_livecams_from_windy.py` → agrega al grupo `source: "windy-auto"` de `livecams.json` | GitHub Action con cron cada 10 min (+ manual), requiere secret `WINDY_API_KEY` |
+| Datos de lugar (`facts/<slug>.json`) | — (solo cachea, nunca se edita a mano) | `scripts/generate_place_facts.py` busca en Wikipedia cada `place` de `livecams.json` sin cache todavía | GitHub Action al hacer push a `livecams/livecams.json` (+ manual), y paso extra dentro del workflow de Windy |
 
 Los tres workflows en `.github/workflows/` (`update-playlists.yml`,
 `update-news-rss.yml`, `prune-news.yml`) siguen el mismo patrón: corren
@@ -332,7 +374,22 @@ tiene `actions/checkout` + Python del runner, sin `pip install`).
   documentación pública, pero no se pudo probar en vivo desde este
   entorno (sin acceso de red a windy.com) — si después de cargar una
   key real no trae resultados, revisar `extract_image_url`/
-  `extract_title` contra la respuesta real.
+  `extract_title` contra la respuesta real. También agrega `"place"`
+  (la ciudad de la webcam, si la API la trae) a cada entrada, para que
+  `generate_place_facts.py` pueda buscarle un dato.
+- `generate_place_facts.py`: recorre el campo `"place"` de cada
+  entrada de `livecams.json` (deduplicado, varias cámaras pueden
+  compartir el mismo lugar) y busca en la API pública de Wikipedia
+  (`es.wikipedia.org/api/rest_v1/page/summary/<lugar>`, sin API key)
+  solo los que **todavía no tengan** un `facts/<slug>.json` cacheado.
+  El slug sale de `slugify()` (minúsculas, sin acentos, espacios a
+  `-`) — tiene que coincidir letra por letra con `slugifyPlace()` en
+  `js/app.js`, que es quien lo usa para leer el archivo del lado del
+  cliente. El resumen se trunca a `MAX_EXTRACT_CHARS` (280) cortando
+  en el punto más cercano (nunca a mitad de palabra). Un lugar sin
+  artículo, ambiguo, o con la red caída se saltea sin escribir nada
+  (no se cachea el fallo), así se reintenta solo en la próxima
+  corrida en vez de quedar roto para siempre.
 - `sync-local.sh`: `git pull` + log, para el escenario de hosting local
   con `cron` (ver HOSTING.md, opción de repo privado sin URL pública).
 

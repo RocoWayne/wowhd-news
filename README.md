@@ -35,7 +35,12 @@ scripts/generate_backgrounds_playlist.py escanea /backgrounds y actualiza su pla
 .github/workflows/update-playlists.yml   corre esos scripts solo al subir archivos (ver mas abajo)
 scripts/generate_backgrounds_from_keywords.py       busca fotos en Wikimedia Commons por keyword y actualiza external.json
 .github/workflows/update-backgrounds-keywords.yml   corre ese script una vez por día (ver mas abajo)
-livecams/livecams.json    lista curada a mano de cámaras públicas de YouTube (título + URL)
+livecams/livecams.json    catálogo de cámaras públicas: YouTube a mano + Windy autogenerado
+scripts/generate_livecams_from_windy.py             busca webcams en la API de Windy y las agrega a livecams.json
+.github/workflows/update-livecams-windy.yml         corre ese script cada 10 min (ver mas abajo)
+facts/<lugar>.json       dato corto de Wikipedia cacheado por lugar, para el cartel de la cámara en vivo
+scripts/generate_place_facts.py                     busca/cachea esos datos por cada "place" de livecams.json
+.github/workflows/update-place-facts.yml            corre ese script al editar livecams.json (ver mas abajo)
 hosting/.htaccess.example      plantilla de usuario/contraseña para hosting público
 HOSTING.md               guía de hosting en WordPress y protección de acceso
 ```
@@ -472,6 +477,52 @@ para sumar variedad y volumen sin tener que buscar cámara por cámara.
   disparar el workflow a mano (Run workflow) cada vez que se quiera
   actualizar.
 
+### Dato corto del lugar ("¿Sabías que...?") debajo de cada cámara
+
+Mientras una cámara está en pantalla, el cartel de abajo a la derecha
+puede mostrar también un dato corto (1-2 frases, resumen de Wikipedia)
+sobre el lugar — por ejemplo, para el Obelisco: *"El Obelisco de
+Buenos Aires es un monumento histórico ubicado en la Plaza de la
+República..."*. Si no hay dato cacheado todavía para ese lugar, el
+cartel simplemente no muestra esa línea (no hay hueco vacío ni texto
+de "cargando").
+
+- Cada cámara en `livecams/livecams.json` puede tener un campo
+  **`"place"`** con el nombre del lugar a buscar en Wikipedia (en
+  general el título exacto del artículo, o algo lo bastante parecido
+  como para que la búsqueda lo resuelva igual). Varias cámaras pueden
+  compartir el mismo `place` (por ejemplo, dos vistas distintas del
+  Obelisco) — el dato se busca y cachea una sola vez por lugar, no por
+  cámara.
+- `scripts/generate_place_facts.py` recorre todos los `place` de
+  `livecams.json` y, **solo para los que todavía no tengan cache**,
+  busca un resumen corto en la API pública de Wikipedia (sin API key)
+  y lo guarda en **`facts/<lugar-en-minuscula-sin-acentos>.json`** (un
+  archivo por lugar). Nunca pisa un cache ya existente ni reintenta un
+  lugar que ya se buscó con éxito — así se evitan consultas
+  repetidas a medida que se van agregando cámaras nuevas, tal como
+  pide el nombre del archivo. Si la búsqueda falla para un lugar (sin
+  artículo en Wikipedia, lugar ambiguo, red caída), **no se cachea
+  nada** — se vuelve a intentar sola en la próxima corrida, en vez de
+  quedar con un error guardado para siempre.
+- El navegador nunca llama a Wikipedia directamente: solo lee el
+  archivo ya cacheado en `facts/` (si existe) para el `place` de la
+  cámara que está en pantalla — mismo patrón de "todo pre-resuelto en
+  un JSON, el cliente solo lee" que las cámaras de Windy.
+- Se ejecuta automáticamente desde dos lugares (para cubrir tanto las
+  cámaras cargadas a mano como las de Windy):
+  - **`update-place-facts.yml`**: se dispara con cualquier push que
+    toque `livecams/livecams.json` (por ejemplo, al agregar una cámara
+    nueva a mano con su `place`).
+  - Un paso extra dentro de **`update-livecams-windy.yml`**: porque un
+    commit hecho por el propio bot de GitHub Actions no dispara en
+    cascada el workflow anterior, así que las cámaras nuevas que trae
+    Windy consiguen su dato sin esperar a la próxima vez que alguien
+    edite `livecams.json` a mano.
+  - Para forzar una búsqueda sin esperar al próximo push, pestaña
+    **Actions** → "Actualizar datos de lugares (cámaras en vivo)" →
+    **Run workflow**.
+
 ### Cómo conviven entre sí las pantallas a pantalla completa
 
 Noticias, clima, cotización y mercados siguen con el mismo horario fijo
@@ -883,3 +934,7 @@ auto-recupera sola de:
 - **Crossfade de audio que no llega a dispararse** (ej. no se pudo leer
   la duración del archivo a tiempo): en vez de quedar en silencio, se
   hace un corte seco directo al siguiente tema.
+- **Dato de lugar sin cachear o caído** (`facts/<lugar>.json` no
+  existe todavía para esa cámara, o el `fetch` falla): el cartel de la
+  cámara simplemente no muestra esa línea — nunca un error ni un hueco
+  vacío donde debería ir el texto.

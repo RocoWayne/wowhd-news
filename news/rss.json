@@ -1,73 +1,94 @@
 [
   {
     "date": "2026-10-22",
-    "image": "https://s.france24.com/media/display/1649ee9a-0476-11f0-95a8-005056a97e36/w:1024/p:16x9/000_372X6VF.jpg",
-    "category": "El Debate",
-    "text": "Con Trump y Putin más cerca, ¿qué busca Washington en Ucrania?",
-    "link": "https://www.france24.com/es/programas/el-debate/20261022-con-trump-y-putin-m%C3%A1s-cerca-qu%C3%A9-busca-washington-en-ucrania"
+    "image": "https://s.france24.com/media/display/0187f29e-ce47-11f1-9ee2-23d55109f116/w:1024/p:16x9/ES-20261022-074354-075027-CS.jpg",
+    "category": null,
+    "text": "Directo Latam y la polémica por la aprobación de dos versiones del Presupuesto 2027 en Colombia",
+    "link": "https://www.france24.com/es/video/20261022-directo-a-latam-y-la-pol%C3%A9mica-por-la-aprobaci%C3%B3n-de-dos-versiones-del-presupuesto-2027-en-colombia"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/9b830bc0-ce49-11f1-943b-3f59e19fd7f8/w:1024/p:16x9/ES-20261022-120247-120755-CS.jpg",
+    "category": null,
+    "text": "Protestas en Francia a pesar de las limitaciones del Gobierno de Macron",
+    "link": "https://www.france24.com/es/video/20261022-protestas-en-francia-a-pesar-de-las-limitaciones-del-gobierno-de-macron"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/3d497e5e-ce49-11f1-aee7-97baf3e9dd31/w:1024/p:16x9/ES-20261022-090509-090651-CS.jpg",
+    "category": null,
+    "text": "Aramco evacúa su sede en Arabia Saudita tras ataques hutíes contra el reino",
+    "link": "https://www.france24.com/es/video/20261022-aramco-evac%C3%BAa-su-sede-en-arabia-saudita-tras-ataques-hut%C3%ADes-contra-el-reino"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/011dbdd2-ce49-11f1-8c57-23d55109f116/w:1024/p:16x9/ES-20261022-090945-091108-CS.jpg",
+    "category": null,
+    "text": "Fin a la tensión migratoria entre Italia y España tras los controles por la crisis en Ceuta",
+    "link": "https://www.france24.com/es/video/20261022-fin-a-la-tensi%C3%B3n-migratoria-entre-italia-y-espa%C3%B1a-tras-los-controles-por-la-crisis-en-ceuta"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/6c6196da-ce45-11f1-bd73-7967b15eed96/w:1024/p:16x9/ES-20261022-071831-072907-CS.jpg",
+    "category": null,
+    "text": "Más de 22.000 niños deportados por ICE: ¿qué revelan las cifras?",
+    "link": "https://www.france24.com/es/video/20261022-m%C3%A1s-de-22-000-ni%C3%B1os-deportados-por-ice-qu%C3%A9-revelan-las-cifras"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/bd9cc3aa-ce43-11f1-b0af-3f59e19fd7f8/w:1024/p:16x9/ES-20261022-121945-122630-CS.jpg",
+    "category": "Revista de prensa",
+    "text": "¿Por qué las “élites” votan por Lula y las “periferias” por Bolsonaro?: ‘Estadão’",
+    "link": "https://www.france24.com/es/programas/revista-de-prensa/20261022-por-qu%C3%A9-las-%C3%A9lites-votan-por-lula-y-las-periferias-por-bolsonaro-estad%C3%A3o"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/2de1375e-ce1c-11f1-b2d1-97baf3e9dd31/w:1024/p:16x9/carrusel.jpeg",
+    "category": "Carrusel de las Artes",
+    "text": "Jorge Drexler explora la identidad uruguaya y la memoria en su nuevo álbum, 'Taracá'",
+    "link": "https://www.france24.com/es/programas/carrusel-de-las-artes/20261022-jorge-drexler-explora-la-identidad-uruguaya-y-la-memoria-en-su-nuevo-%C3%A1lbum-tarac%C3%A1"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/314ad09e-ce44-11f1-b769-3f59e19fd7f8/w:1024/p:16x9/ELECCIONES-BRASIL.png",
+    "category": null,
+    "text": "Elecciones presidenciales en Brasil: sigue la cobertura del balotaje",
+    "link": "https://www.france24.com/es/video/20261022-elecciones-presidenciales-en-brasil-sigue-la-cobertura-del-balotaje"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/c90e21c2-ce00-11f1-9ac6-23d55109f116/w:1024/p:16x9/AP25281484289422.jpg",
+    "category": "Salud",
+    "text": "Francia detecta el primer caso del virus Shamonda en humanos en un paciente inmunodeprimido fallecido",
+    "link": "https://www.france24.com/es/salud/20261022-francia-detecta-el-primer-caso-del-virus-shamonda-en-humanos-en-un-paciente-inmunodeprimido-fallecido"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/26467fc6-ce3b-11f1-9e7c-97baf3e9dd31/w:1024/p:16x9/ES-20261022-071336-071824-CS.jpg",
+    "category": null,
+    "text": "Directo París y el despliegue de un 20% más de policías y gendarmes de cara a las movilizaciones",
+    "link": "https://www.france24.com/es/video/20261022-directo-par%C3%ADs-y-el-despliegue-de-un-20-m%C3%A1s-de-polic%C3%ADas-y-gendarmes-de-cara-a-las-movilizaciones"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/a496d436-ce39-11f1-a594-97baf3e9dd31/w:1024/p:16x9/ES-20261022-071146-071333-CS.jpg",
+    "category": null,
+    "text": "Juez ordena a Meta pagar 25.000 millones de dólares por el caso Cambridge Analytica",
+    "link": "https://www.france24.com/es/video/20261022-juez-ordena-a-meta-pagar-25-000-millones-de-d%C3%B3lares-por-el-caso-cambridge-analytica"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://s.france24.com/media/display/a2ffe100-ce19-11f1-8e54-8d87bc3aeb3a/w:1024/p:16x9/000-C47G9B7.jpg",
+    "category": "Deportes",
+    "text": "El Tour de Francia femenino de 2027 terminará en la cima del Puy de Dôme",
+    "link": "https://www.france24.com/es/deportes/20261022-el-tour-de-francia-femenino-de-2027-terminar%C3%A1-en-la-cima-del-puy-de-d%C3%B4me"
   },
   {
     "date": "2026-10-22",
     "image": null,
     "category": null,
-    "text": "Detienen en Ecuador a la excandidata presidencial del correísmo Luisa González",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261022-ecuador-detiene-a-la-excandidata-presidencial-del-corre%C3%ADsmo-luisa-gonz%C3%A1lez"
-  },
-  {
-    "date": "2026-10-22",
-    "image": "https://s.france24.com/media/display/c4e10a10-bf64-11f1-a7b5-dd51fcab6130/w:1024/p:16x9/2026-10-03T114745Z-1586814942-RC2LVNAGGALR-RTRMADP-3-IRAN-CRISIS-SAUDI-ARAMCO.jpg",
-    "category": "Medio Oriente",
-    "text": "Arabia Saudita evacúa la sede de Aramco tras nuevos ataques de los hutíes y se dispara el precio del petróleo",
-    "link": "https://www.france24.com/es/medio-oriente/20261022-arabia-saudita-evac%C3%BAa-la-sede-de-aramco-tras-nuevos-ataques-de-los-hut%C3%ADes-y-se-dispara-el-precio-del-petr%C3%B3leo"
-  },
-  {
-    "date": "2026-10-22",
-    "image": "https://s.france24.com/media/display/8fc48040-c569-11f1-99b6-77317c09f325/w:1024/p:16x9/59b9f9b064ae244229540ea9ba0c46e97fba40e6.jpg",
-    "category": "Europa",
-    "text": "Más de 280 organizaciones convocan movilizaciones en España contra el racismo hacia los migrantes",
-    "link": "https://www.france24.com/es/europa/20261022-m%C3%A1s-de-280-organizaciones-convocan-movilizaciones-en-espa%C3%B1a-contra-el-racismo-hacia-los-migrantes"
-  },
-  {
-    "date": "2026-10-22",
-    "image": "https://s.france24.com/media/display/0fd90dc4-cd7a-11f1-a4e8-8bea73bbe173/w:1024/p:16x9/a124f0bb89ec46c4df7283858cbb107567bc402a.jpg",
-    "category": "Ciencia y tecnologías",
-    "text": "Miles de sitios web desconectados por una falla de seguridad detectada con inteligencia artificial",
-    "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261022-miles-de-sitios-web-desconectados-por-una-falla-de-seguridad-detectada-con-inteligencia-artificial"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "La Corte Penal Internacional gana el Premio Sájarov de derechos humanos de la Unión Europea",
-    "link": "https://www.france24.com/es/europa/20261022-la-corte-penal-internacional-gana-el-premio-s%C3%A1jarov-de-derechos-humanos-de-la-ue"
-  },
-  {
-    "date": "2026-10-22",
-    "image": "https://s.france24.com/media/display/bf8c2c76-cdaf-11f1-a5a0-4da0d2c6855d/w:1024/p:16x9/AP26289293740117.jpg",
-    "category": "Europa",
-    "text": "La Cámara Baja irlandesa avanza en la eliminación del aval de la ONU para sus misiones de paz",
-    "link": "https://www.france24.com/es/europa/20261022-la-c%C3%A1mara-baja-irlandesa-avanza-en-la-eliminaci%C3%B3n-del-aval-de-la-onu-para-sus-misiones-de-paz"
-  },
-  {
-    "date": "2026-10-22",
-    "image": "https://s.france24.com/media/display/61bd523a-cdb1-11f1-b8d0-ab78a7fed2ce/w:1024/p:16x9/7556d68f38536bf467bad2236ea4c8d933e4e776.jpg",
-    "category": "Ciencia y tecnologías",
-    "text": "Caso Cambridge Analytica: Meta recibe una sanción de 25.000 millones de dólares en Nuevo México",
-    "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261022-caso-cambridge-analytica-meta-recibe-una-sanci%C3%B3n-de-25-000-millones-de-d%C3%B3lares-en-nuevo-m%C3%A9xico"
-  },
-  {
-    "date": "2026-10-22",
-    "image": "https://s.france24.com/media/display/41f020b0-cda5-11f1-a2a4-eb48fa034ddc/w:1024/p:16x9/000-C9P298Q.jpg",
-    "category": "Francia",
-    "text": "En directo: solo se permitirán las manifestaciones sindicales el sábado, anuncia Macron",
-    "link": "https://www.france24.com/es/francia/20261022-en-directo-francia-restringe-las-protestas-en-par%C3%ADs-y-lyon-ante-el-riesgo-de-nuevos-disturbios"
-  },
-  {
-    "date": "2026-10-22",
-    "image": "https://s.france24.com/media/display/bf71a96e-cb7f-11f1-8810-6313a763b466/w:1024/p:16x9/2026-10-18T235422Z-1304641961-RC2X5OA93ZJS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
-    "category": "Europa",
-    "text": "Rusia ataca Kiev con misiles mientras se muestra dispuesta a retomar las conversaciones de paz",
-    "link": "https://www.france24.com/es/europa/20261022-rusia-ataca-kiev-con-misiles-mientras-se-muestra-dispuesta-a-retomar-las-conversaciones-de-paz"
+    "text": "Cómo Trump está tratando de influir para que Flávio Bolsonaro gane a Lula en las elecciones de Brasil",
+    "link": "https://www.bbc.com/mundo/articles/cqglwgj3e91yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-22",
@@ -80,15 +101,8 @@
     "date": "2026-10-22",
     "image": null,
     "category": null,
-    "text": "Sitios web de todo el mundo quedan desactivados tras detectarse una falla de seguridad crítica en internet",
-    "link": "https://www.bbc.com/mundo/articles/cq3djnk48ly8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Corea del Norte publica fotos de Kim Jong-un: ¿por qué siguen surgiendo rumores sobre su supuesta muerte?",
-    "link": "https://www.bbc.com/mundo/articles/cv5ynk4x1161o?at_medium=RSS&at_campaign=rss"
+    "text": "Quién es Luisa González, la excandidata presidencial correísta detenida en Ecuador por supuesta financiación irregular",
+    "link": "https://www.bbc.com/mundo/articles/c6x2wnkw55lvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-22",
@@ -108,92 +122,113 @@
     "date": "2026-10-22",
     "image": null,
     "category": null,
+    "text": "Análisis: \"La vulnerabilidad de PHP es el equivalente cibernético de una bomba sin explotar\"",
+    "link": "https://www.bbc.com/mundo/articles/ck30evyvlprqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-22",
+    "image": null,
+    "category": null,
     "text": "5 maneras en las que el \"Súper Niño\" ya está afectando el clima en América Latina y otras partes del mundo",
     "link": "https://www.bbc.com/mundo/articles/cj5ynq730px4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/UELCN3MBKBF4VHOOQUPINAK3LQ.jpg?auth=fad20d00e7bf3d57c5c505a52b077a64ab5f3f35542059eb687311a5a13b5aa4&smart=true&width=3361&height=2241",
+    "image": null,
     "category": null,
-    "text": "Deportivo Cali vs. Universidad de Chile - en vivo HOY: siga aquí el partido de las tricampeonas de Colombia en la última fecha de la Copa Libertadores",
-    "link": "https://www.infobae.com/colombia/deportes/2026/10/22/deportivo-cali-vs-universidad-de-chile-en-vivo-hoy-siga-aqui-el-partido-de-las-tricampeonas-de-colombia-en-la-ultima-fecha-de-la-copa-libertadores-femenina/"
+    "text": "Corea del Norte publica fotos de Kim Jong-un: ¿por qué siguen surgiendo rumores sobre su supuesta muerte?",
+    "link": "https://www.bbc.com/mundo/articles/cv5ynk4x1161o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/LVTJUNBKP5FHZCNRQDGX5VKA3E.jpeg?auth=f8e329483e12f85cfa8882434bb59ed75addc81039dbf506d7514e1bfb3c8922&smart=true&width=1280&height=720",
+    "image": null,
     "category": null,
-    "text": "Este es el primer video en la cárcel del hombre capturado por amenazar a la primera dama, Ana Lucía Pineda, y a la familia del presidente Abelardo de la Espriella",
-    "link": "https://www.infobae.com/colombia/2026/10/22/este-es-el-primer-video-en-la-carcel-del-hombre-capturado-por-amenazar-a-la-primera-dama-ana-lucia-pineda-y-a-la-familia-del-presidente-abelardo-de-la-espriella/"
+    "text": "Sitios web de todo el mundo quedan desactivados tras detectarse una falla de seguridad crítica en internet",
+    "link": "https://www.bbc.com/mundo/articles/cq3djnk48ly8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/6MJ5QWJARZBRFJGXYVHKRJZO7M.JPG?auth=ebabfa900d9ed4af96d0952f23fcd7c084bc007efbb2fd43ff2bee54d82484ec&smart=true&width=5799&height=3866",
+    "image": "https://www.infobae.com/resizer/v2/BM2NTH6IWNAUHL6SD354F7R4ZE.JPG?auth=72fb9c88ebbff23d017843ef1790d05297bf17a308da0f5ed6ba53fc4ad0cc94&smart=true&width=4955&height=3364",
     "category": null,
-    "text": "Art Basel París abrió con una ficción insurgente mientras la ciudad vive una semana de tensa calma",
-    "link": "https://www.infobae.com/cultura/2026/10/22/art-basel-paris-abrio-con-una-ficcion-insurgente-mientras-la-ciudad-vive-una-semana-de-tensa-calma/"
+    "text": "Están listos los equipos para la final de la Copa Sudamericana en Barranquilla: cuatro colombianos irán por el título",
+    "link": "https://www.infobae.com/colombia/deportes/2026/10/22/estan-listos-los-equipos-para-la-final-de-la-copa-sudamericana-en-barranquilla-tres-colombianos-iran-por-el-titulo/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/BMBKXVGFCZHBFJK5O7TYK7WOEI.jpeg?auth=6d37cef09ce3b8c540a75be038e096afe7276b88e72a453fafdcaf3ce6eb6961&smart=true&width=1536&height=776",
+    "image": "https://www.infobae.com/resizer/v2/DSWSGFUYEBCT7B7YMT5WNRQEO4.jpg?auth=5274daa6b8af981a78243417c25880d384139680fde6c4485793fa6833017d38&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Carlos Suárez, el poderoso asesor de Abelardo de la Espriella, le dio la bienvenida a Alejandro Ordóñez como nuevo ministro del Interior, en reemplazo de Rodrigo Lara: “Abran paso”",
-    "link": "https://www.infobae.com/colombia/2026/10/22/carlos-suarez-el-poderoso-asesor-de-abelardo-de-la-espriella-le-dio-la-bienvenida-a-alejandro-ordonez-como-nuevo-ministro-del-interior-en-reemplazo-de-rodrigo-lara-abran-paso/"
+    "text": "Queens of the Sone Age sorprende a sus fans en CDMX con una ‘listening party’ de Halloween para disfrutar de su nuevo disco",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/22/queens-of-the-sone-age-sorprende-a-sus-fans-en-cdmx-con-una-listening-party-de-halloween-para-disfrutar-de-su-nuevo-disco/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/2IRRJIV2SNE4BESCJTLUPYJJHQ.png?auth=06f24600bd9693053d401bec6aeb921166c35c22e5c83cf7b7ea70cce5d15f92&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/KB72UZOYCZAOFBD6IAYQWCUV3E.jpg?auth=9dad308c20321cdada795bbbe3d94646bde8b9c5beda9f4014f90a76c73d6bcf&smart=true&width=1800&height=1200",
     "category": null,
-    "text": "El Cisne Negro en el Castillo de Chapultepec: cuánto cuestan los boletos y qué días hay funciones",
-    "link": "https://www.infobae.com/mexico/2026/10/22/el-cisne-negro-en-el-castillo-de-chapultepec-cuanto-cuestan-los-boletos-y-que-dias-hay-funciones/"
+    "text": "Andrés Hurtado ‘Chibolín’ se queda en prisión: juez rechaza su pedido para salir del penal de Lurigancho",
+    "link": "https://www.infobae.com/peru/2026/10/21/andres-hurtado-chibolin-seguira-en-prision-preventiva-juez-rechaza-su-pedido-para-salir-del-penal-de-lurigancho/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/AYSV5YN745ATTEFDTXLOFDYDVA.png?auth=92f2394658a4b49c9be14ac6939c5a30446af07b24845e09f29f918cf407ce14&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/QLN4P3J42VHTDP7LAJXEFVTZVY.jpg?auth=dd973dc591684c269aaa4ca8d4ee2e20e92b5b7bc9b3862c0b4204952df2cc2b&smart=true&width=1440&height=1080",
     "category": null,
-    "text": "Ollie, el erizo sin púas rescatado en Reino Unido que parece una “patata”: “No puede volver a la naturaleza, es como si no llevara ropa”",
-    "link": "https://www.infobae.com/espana/2026/10/22/ollie-el-erizo-sin-puas-rescatado-en-reino-unido-que-parece-una-patata-no-puede-volver-a-la-naturaleza-es-como-si-no-llevara-ropa/"
+    "text": "Subdirector policial de Guatemala reconoce que los escoltas de Solórzano Foppa se alejaron durante el atentado en Campo Marte",
+    "link": "https://www.infobae.com/guatemala/2026/10/22/subdirector-policial-de-guatemala-reconoce-que-los-escoltas-de-solorzano-foppa-se-alejaron-durante-el-atentado-en-campo-marte/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/CGVC2ZLESFFPPFAJXRS7L4KLXQ.jpg?auth=3f068932ad2e963b88ca92466d865e0795acd295965f9532f81ccd6de8a42c0e&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/NGXLIE2DE5F5JKIPKUEOIHAW5M.jpeg?auth=d4b19a4309151ab8274a31070615582677591d5b6f109dd5fd7a79642bec54b0&smart=true&width=5472&height=3648",
     "category": null,
-    "text": "Las crías de mantarraya gigante se refugian en costas de Centroamérica hasta crecer lo suficiente para sobrevivir en mar abierto",
-    "link": "https://www.infobae.com/america/medio-ambiente/2026/10/22/las-crias-de-mantarraya-gigante-se-refugian-en-costas-de-centroamerica-hasta-crecer-lo-suficiente-para-sobrevivir-en-mar-abierto/"
+    "text": "Alerta en una comisaría del centro porteño por un violento enfrentamiento entre detenidos: tomaron a un policía de rehén",
+    "link": "https://www.infobae.com/sociedad/policiales/2026/10/22/alerta-en-la-alcaidia-1-de-la-ciudad-de-buenos-aires-por-un-violento-enfrentamiento-entre-detenidos/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/BWDTUYB5DBCAFOMCSP4P27KDEE.png?auth=024de3fb42c11207226c7fd35b1460e01278929ced8ae606627846ef7de644eb&smart=true&width=720&height=405",
+    "image": "https://www.infobae.com/resizer/v2/PGLMB3NW4RH7FC5DEQ3FUXXJOM.png?auth=63d0d6dd5c101396596af69a9f41848bcea0cf3992e688a9d5ee803f30b223e9&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Hasta 1.20 metros se desplazó el suelo durante el terremoto de 7.5 que sacudió Panamá",
-    "link": "https://www.infobae.com/panama/2026/10/22/hasta-120-metros-se-desplazo-el-suelo-durante-el-terremoto-de-75-que-sacudio-panama/"
+    "text": "Lujo ruidoso contra lujo silencioso: ¿dónde viven los millonarios de verdad en CDMX?",
+    "link": "https://www.infobae.com/mexico/2026/10/22/lujo-ruidoso-contra-lujo-silencioso-donde-viven-los-millonarios-de-verdad-en-cdmx/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/CRRNAV5UGZGQLO3YYAYJJYZAJ4.png?auth=49535ae42b4894e6cd5bb9c457998f75ce853bd467c4c097476a28fe45a08d80&smart=true&width=1083&height=725",
+    "image": "https://www.infobae.com/resizer/v2/CERLTCIKVJCPJLT4KMKK3LHDCE.jpeg?auth=75aae041f9a02156f399ff8d468e17a61ea78754139d0094ae723b5255e7cbfa&smart=true&width=960&height=696",
     "category": null,
-    "text": "Quién es Víctor de Currea-Lugo, el exfuncionario de Petro implicado en el ‘Pacto de Valledupar’: tradujo al expresidente en su protesta contra Israel en Nueva York",
-    "link": "https://www.infobae.com/colombia/2026/10/22/quien-es-victor-de-currea-lugo-el-exfuncionario-de-petro-implicado-en-el-pacto-de-valledupar-tradujo-al-expresidente-en-su-protesta-contra-israel-en-nueva-york/"
+    "text": "México ya le ganando 2-1 a Chile: sigue EN VIVO el minuto a minuto del segundo juego de la selección en el Mundial Femenil Sub 17",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/21/mexico-vs-chile-cuando-y-donde-ver-en-vivo-el-segundo-juego-de-la-seleccion-mexicana-en-el-mundial-femenil-sub-17/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/3VJCX5MTJ5HR7ABLN5WMEFHNOU.JPG?auth=c39ab0d29d9cf93fd602faa9b566c08b67733da3e9ba3164c17c20c05cbc2a73&smart=true&width=3461&height=2352",
+    "image": "https://www.infobae.com/resizer/v2/WZSHAAR5VJBEJDLWSRCQHE4TXQ.jpg?auth=d8076fb5b10564f28bb8c2614ab88544fb91883eca1127e85ee483bb4a11a2be&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Luis Díaz en riesgo de perderse la fecha FIFA de noviembre con la selección Colombia por lesión: este es el tiempo de recuperación",
-    "link": "https://www.infobae.com/colombia/deportes/2026/10/22/luis-diaz-en-riesgo-de-perderse-la-fecha-fifa-de-noviembre-con-la-seleccion-colombia-por-lesion-este-es-el-tiempo-de-recuperacion/"
+    "text": "EN VIVO | Clima CDMX y resto de México hoy jueves 22 de octubre: Tormenta tropical Vance se ubica cerca de Acapulco y Frente frío 3 entra al noroeste",
+    "link": "https://www.infobae.com/mexico/2026/10/22/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-jueves-22-de-octubre-frente-frio-provocara-lluvias-mientras-vance-se-estaciona-en-el-pacifico/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/FG6KV5WT3NFD3OHY355AHWTVT4.png?auth=254696d7e6f4de942eca3de11c1c8591187c5d061c1d28952d6b43b3a8ddbb8d&smart=true&width=1536&height=1024",
+    "image": "https://www.infobae.com/resizer/v2/LKF5PT4W5FG7NLNFEF7L5LCTUY.jpg?auth=657cea4643c1d6254f5ddb729fc39eb9720a71a046e559c40fb833f483600b76&smart=true&width=640&height=427",
     "category": null,
-    "text": "Él es Andrés Gregorio Duque Márquez, hermano del expresidente Iván Duque designado embajador de Colombia en Australia",
-    "link": "https://www.infobae.com/colombia/2026/10/22/el-es-andres-gregorio-duque-marquez-hermano-del-expresidente-ivan-duque-designado-embajador-de-colombia-en-australia/"
+    "text": "Estados Unidos revocó las visas de Ricardo Roa, Wadith Manzur, Karen Manríque y otros políticos colombianos",
+    "link": "https://www.infobae.com/colombia/2026/10/22/estados-unidos-revoco-las-visas-de-ricardo-roa-wadith-manzur-karen-manrique-y-otros-politicos-colombianos/"
   },
   {
     "date": "2026-10-22",
-    "image": "https://www.infobae.com/resizer/v2/Y6IRE3ZCSFCOVGSSVYZNPANAGM.png?auth=283207f9f4fcd2b94561cc3796fbcf3e7f30bf9683dc1bed40c6b2b5f58c20f1&smart=true&width=2752&height=1536",
+    "image": "https://www.infobae.com/resizer/v2/CXD7JCE7OJFVJCSHUPPNIW5L24.jpg?auth=753515fc1e78a30fd58a87cb60144d8c9aa06ce419a4265bdd803966d3052886&smart=true&width=1920&height=1079",
     "category": null,
-    "text": "Abandonó a su hijo de 7 años en el Monte Fuji porque el niño no aguantó el ascenso",
-    "link": "https://www.infobae.com/america/mundo/2026/08/25/abandono-a-su-hijo-de-7-anos-en-el-monte-fuji-porque-el-nino-no-aguanto-el-ascenso/"
+    "text": "Revelaron un conmovedor video de Diego Maradona: “Titila esa luz, mirá a la Tota”",
+    "link": "https://www.infobae.com/deportes/2026/10/22/revelaron-un-conmovedor-video-de-diego-maradona-titila-esa-luz-mira-a-la-tota/"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://www.infobae.com/resizer/v2/2PZUJWALE5B5JBGLWI4MMLBVGE.jpg?auth=0661033c7b91ed1a006c6b1a8d76424632808dd07f89c1e6f641961dbe073d3a&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "¿Te amenazaron con embargarte por una deuda bancaria? Así funciona el procedimiento legal en México",
+    "link": "https://www.infobae.com/mexico/2026/10/22/te-amenazaron-con-embargarte-por-una-deuda-bancaria-asi-funciona-el-procedimiento-legal-en-mexico/"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://www.infobae.com/resizer/v2/GBMWEQZQTJG3RNJVLCUUNOUOJQ.jpg?auth=148b690b23b96b1f4753df279e3b9b9d9e06aa14e7732a8426abb2c8dbd6143f&smart=true&width=1024&height=683",
+    "category": null,
+    "text": "El Salvador inaugura un laboratorio de calidad del agua en Oriente con una inversión superior a $2 millones",
+    "link": "https://www.infobae.com/el-salvador/2026/10/22/el-salvador-inaugura-un-laboratorio-de-calidad-del-agua-en-oriente-con-una-inversion-superior-a-2-millones/"
   },
   {
     "date": "2026-10-22",
@@ -225,7 +260,7 @@
   },
   {
     "date": "2026-10-22",
-    "image": "https://imagenes.elpais.com/resizer/v2/3S4RCL77DVILZNLTWWSQ4TGZN4.jpg?auth=cd04a3edcd3114f08b14fa2f1e9a78df2feb2990cb084e4d404a91452c114bb1",
+    "image": "https://imagenes.elpais.com/resizer/v2/FTGJQXATN5EARAFUDNIL7ZFWHY.jpg?auth=1b31ccef91d56a13307e8075ace4ff3e2d30acd8b395a2fbf313c76d914ce0f3",
     "category": "Huelgas",
     "text": "La huelga de camioneros en el sur de Italia vacía los supermercados y desabastece de combustible aeropuertos y gasolineras",
     "link": "https://elpais.com/internacional/2026-10-22/la-huelga-de-camioneros-en-italia-vacia-los-supermercados-y-desabastece-de-combustible-aeropuertos-y-gasolineras.html"
@@ -239,87 +274,122 @@
   },
   {
     "date": "2026-10-22",
-    "image": "https://imagenes.elpais.com/resizer/v2/2UYMCRUQ7RNZLGDKJO2AALE2OQ.jpg?auth=5508c8aaef6b23ce35c18cc576c08a8e71efbb4ea8ddc4d54270340e3796d702",
-    "category": "Corea del Norte",
-    "text": "Corea del Norte amenaza con reanudar la guerra de altavoces contra Seúl",
-    "link": "https://elpais.com/internacional/2026-10-22/corea-del-norte-amenaza-con-reanudar-la-guerra-de-altavoces-contra-seul.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/RVVR2UBEIZDXRPNZXP5EAIPTJQ.jpg?auth=bb078a58a79b246d063bb785ee6adee19dbfa5d52fc09572a607d63e56677068",
+    "category": "Tibet",
+    "text": "Un terremoto de magnitud 7 sacude el Tíbet",
+    "link": "https://elpais.com/internacional/2026-10-22/un-terremoto-de-magnitud-7-sacude-el-tibet.html"
   },
   {
     "date": "2026-10-22",
-    "image": "https://imagenes.elpais.com/resizer/v2/EBZHLUEEVNCWRJ62C3MDD5SPKQ.jpg?auth=43e9d91368b0285ffc7e4d00a4c460e199ffbb427a11eafdc223b3ba9738c20c",
-    "category": "Alemania",
-    "text": "Alemania aumentará las deportaciones de afganos sin antecedentes penales",
-    "link": "https://elpais.com/internacional/2026-10-22/alemania-aumentara-las-deportaciones-de-afganos-sin-antecedentes-penales.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/END6SNNT4ZBMROX6I6FI5J4CC4.JPG?auth=d7a5a3231df2600ae3acba700832d4218639148fa55f4fa78e1f159b900de19c",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "El Parlamento Europeo propone una misión naval de la UE en el mar Negro tras los últimos ataques de drones contra buques comerciales",
+    "link": "https://elpais.com/internacional/2026-10-22/el-parlamento-europeo-propone-una-mision-naval-de-la-ue-en-el-mar-negro-tras-los-ultimos-ataques-de-drones-contra-buques-comerciales.html"
   },
   {
     "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada0e52e9ff71458c619fbe.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada41b2e9ff71433e62b343.jpg",
     "category": null,
-    "text": "Revolucionario: descubren cómo predecir el cáncer de próstata hasta 15 años antes de que aparezca",
-    "link": "https://actualidad-rt.com/actualidad/633693-hallazgo-revolucionario-proteinas-sangre-revelar-cancer-prostata?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El único país latinoamericano en el top 10 mundial de los que más gastan en OnlyFans",
+    "link": "https://actualidad-rt.com/actualidad/633765-unico-pais-latinoamericano-top-mundial-onlyfans?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ad9fc4d59bf5b08cd5f1b3d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada1784e9ff710e026c143b.jpg",
     "category": null,
-    "text": "\"El Sinaí dejará de existir\": Ministro israelí amenaza a Egipto",
-    "link": "https://actualidad-rt.com/actualidad/633713-vez-ministro-israeli-amenaza-egipto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Irán muestra por primera vez cómo fabrica sus drones de combate (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/633733-iran-muestra-primera-vez-fabrica?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada194359bf5b62ee238d6b.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada380e59bf5b08d9344db2.jpg",
     "category": null,
-    "text": "Muere en Europa una persona con un virus 'intransmisible' al ser humano: ¿hay riesgo?",
-    "link": "https://actualidad-rt.com/actualidad/633716-muere-europa-persona-virus-intransmisible?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El futuro de un 'joya verde' en Panamá se debate entre dos millonarios de EE.UU.",
+    "link": "https://actualidad-rt.com/actualidad/633759-futuro-joya-verde-panama-millonarios-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada112ee9ff7142aa1ba652.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada1e41e9ff71235d6374eb.jpg",
     "category": null,
-    "text": "Insólito: muere al caer en la tumba de su padre durante el entierro de un amigo",
-    "link": "https://actualidad-rt.com/actualidad/633725-muere-caer-tumba-padre-asistia-entierro-amigo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Rumbo a Marte: Rusia y China profundizan alianza con una misión al planeta rojo",
+    "link": "https://actualidad-rt.com/actualidad/633735-destino-marte-rusia-china-mision?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada4cdfe9ff7142aa1ba680.png",
+    "category": null,
+    "text": "¿Se está formando una nueva dinastía política en Brasil? El ascenso al poder de los Bolsonaro",
+    "link": "https://actualidad-rt.com/actualidad/633773-nueva-dinastia-politica-brasil-bolsonaro?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada4ff159bf5b5bd87bb1ed.jpg",
+    "category": null,
+    "text": "Trump arremete contra Lebron James: ¿qué ha pasado?",
+    "link": "https://actualidad-rt.com/actualidad/633776-trump-arremeter-lebron-james-pasado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada54b7e9ff716cfb4da5a7.jpg",
+    "category": null,
+    "text": "Lula pide investigar denuncia de futbolista brasileño contra Flávio Bolsonaro",
+    "link": "https://actualidad-rt.com/actualidad/633779-lula-pedir-investigar-denuncia-futbolista-bolsonaro?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada59be59bf5b5bd87bb1fa.jpg",
+    "category": null,
+    "text": "Putin anuncia que Rusia está lista para retomar las negociaciones trilaterales con Ucrania y EE.UU.",
+    "link": "https://actualidad-rt.com/actualidad/633783-putin-anuncia-rusia-esta-lista?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada58b059bf5b5ee61a100f.jpg",
+    "category": null,
+    "text": "Putin explica por qué Kiev no puede hablar de pérdidas territoriales",
+    "link": "https://actualidad-rt.com/actualidad/633782-putin-explica-kiev-puede-hablar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-22",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada58c859bf5b2008297674.jpg",
+    "category": null,
+    "text": "Putin: Declaraciones de Europa sobre una \"amenaza de guerra\" con Rusia son esquizofrenia política",
+    "link": "https://actualidad-rt.com/actualidad/633781-putin-declaraciones-europa-amenaza-guerra?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-22",
     "image": null,
     "category": null,
-    "text": "El mayor fondo soberano del mundo pierde 30.000 millones de dólares en un trimestre: ¿por qué?",
-    "link": "https://actualidad-rt.com/actualidad/633727-mayor-fondo-soberano-mundo-perder?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Colombia incauta 7,6 toneladas de cocaína rumbo a Países Bajos en el puerto de Cartagena",
+    "link": "https://es.euronews.com/2026/10/22/colombia-incauta-76-toneladas-de-cocaina-rumbo-a-paises-bajos-en-el-puerto-de-cartagena"
   },
   {
     "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada15ec59bf5b6163448a19.png",
+    "image": null,
     "category": null,
-    "text": "América Latina apostó por un petróleo más barato, pero el mercado tiene otros planes",
-    "link": "https://actualidad-rt.com/actualidad/633721-petroleo-amenaza-poner-apuros-latinoamerica?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "EURONEWS HOY | Las noticias del 22 de octubre de 2026: Francia endurece la seguridad tras los disturbios",
+    "link": "https://es.euronews.com/2026/10/22/euronews-hoy-las-noticias-del-22-de-octubre-de-2026-francia-endurece-la-seguridad-tras-los"
   },
   {
     "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada14e0e9ff7143ca0af492.jpg",
+    "image": null,
     "category": null,
-    "text": "Enviado de Putin lanza fuerte mensaje a lobistas que ponen trabas al diálogo entre Rusia y EE.UU.",
-    "link": "https://actualidad-rt.com/actualidad/633718-enviado-putin-narrativas-negativas-complejo-militar-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 22 octubre 2026 - Tarde",
+    "link": "https://es.euronews.com/video/2026/10/22/ultimas-noticias-22-octubre-2026-tarde"
   },
   {
     "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada1a0959bf5b7019300506.jpg",
+    "image": null,
     "category": null,
-    "text": "EN VIVO: Rafael Correa comenta a RT la detención de Luisa González, excandidata presidencial en Ecuador",
-    "link": "https://actualidad-rt.com/actualidad/633729-vivo-rafael-correa-comentar-rt-luisa-gonzalez?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Francia: artistas y coleccionistas acuden a Art Basel París pese a las protestas",
+    "link": "https://es.euronews.com/video/2026/10/22/francia-artistas-y-coleccionistas-acuden-a-art-basel-paris-pese-a-las-protestas"
   },
   {
     "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada0bc2e9ff716cfb4da552.jpg",
+    "image": null,
     "category": null,
-    "text": "\"¿No conoce la historia o miente?\": periodista ucraniana destroza relato 'histórico' de Zelenski",
-    "link": "https://actualidad-rt.com/actualidad/633724-conocer-historia-mentir-periodista-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-22",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ada155ae9ff71439027cd42.jpg",
-    "category": null,
-    "text": "¿Dónde guardan su oro los más ricos ante la incertidumbre global?",
-    "link": "https://actualidad-rt.com/actualidad/633717-donde-guardar-oro-ricos-incertidumbre?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Alemania: robots humanoides y superordenadores de IA centran el foco en Berlín",
+    "link": "https://es.euronews.com/video/2026/10/22/alemania-robots-humanoides-y-superordenadores-de-ia-centran-el-foco-en-berlin"
   },
   {
     "date": "2026-10-22",
@@ -348,75 +418,5 @@
     "category": null,
     "text": "Australia: transeúntes se arrojan a las riadas para salvar a un conductor atrapado",
     "link": "https://es.euronews.com/video/2026/10/22/australia-transeuntes-se-arrojan-a-las-riadas-para-salvar-a-un-conductor-atrapado"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 22 octubre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/10/22/ultimas-noticias-22-octubre-2026-mediodia"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Rusia y Ucrania intercambian masivos ataques tras la cita con EE.UU. y se abren a negociar en noviembre",
-    "link": "https://es.euronews.com/2026/10/22/rusia-ucrania-intercambian-masivos-ataques-tras-cita-con-eeuu-se-abren-negociar-noviembre"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Las autoridades colombianas incautan 7,6 toneladas de cocaína rumbo a Europa",
-    "link": "https://es.euronews.com/2026/10/22/autoridades-colombianas-incautan-76-toneladas-de-cocaina-rumbo-a-europa"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Serbia: manifestantes estudiantiles abarrotan Belgrado antes de las elecciones anticipadas",
-    "link": "https://es.euronews.com/video/2026/10/22/serbia-manifestantes-estudiantiles-abarrotan-belgrado-antes-de-las-elecciones-anticipadas"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Zelenski plantea congelar la línea de frente como primer paso hacia un alto el fuego en Ucrania",
-    "link": "https://es.euronews.com/2026/10/22/zelenski-plantea-congelar-linea-frente-primer-paso-alto-fuego-ucrania"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Protestas contra Meta en Brasil tras acusaciones de interferencia electoral y anuncios irregulares",
-    "link": "https://es.euronews.com/2026/10/22/protestas-contra-meta-brasil-tras-acusaciones-interferencia-electoral-anuncios-irregulares"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Bukele anuncia una operación militar para rescatar a 4 salvadoreños retenidos por pandillas en Haití",
-    "link": "https://es.euronews.com/2026/10/22/bukele-anuncia-operacion-militar-rescatar-4-salvadorenos-retenidos-pandillas-haiti"
-  },
-  {
-    "date": "2026-10-22",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 22 octubre 2026 - Mañana",
-    "link": "https://es.euronews.com/video/2026/10/22/ultimas-noticias-22-octubre-2026-manana"
-  },
-  {
-    "date": "2026-10-21",
-    "image": null,
-    "category": null,
-    "text": "\"Todavía no sabemos la magnitud real del daño\": el joven que diseñó un software para buscar a  desaparecidos en los terremotos en Venezuela",
-    "link": "https://www.bbc.com/mundo/articles/crx23yejwe1do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-21",
-    "image": null,
-    "category": null,
-    "text": "Bukele pide la liberación de 4 soldados salvadoreños \"secuestrados\" en Haití por pandillas y dice que hay una operación militar para rescatarlos",
-    "link": "https://www.bbc.com/mundo/articles/cmp8gy537z1no?at_medium=RSS&at_campaign=rss"
   }
 ]

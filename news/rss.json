@@ -1,6 +1,20 @@
 [
   {
     "date": "2026-10-24",
+    "image": "https://s.france24.com/media/display/4c08bd12-cf6e-11f1-bbb2-bba4eee3dc72/w:1024/p:16x9/Ben-Gvir-gana-terreno-en-el-norte-del-pai%CC%81s-de-cara-a-las-elecciones.png",
+    "category": null,
+    "text": "Israel: Ben-Gvir gana terreno en el norte del país de cara a las elecciones",
+    "link": "https://www.france24.com/es/video/20261024-ben-gvir-gana-terreno-en-el-norte-del-pai%CC%81s-de-cara-a-las-elecciones"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://s.france24.com/media/display/658bcb2c-cf6d-11f1-8bee-bdb9616e85cf/w:1024/p:16x9/PORTADA-13.png",
+    "category": null,
+    "text": "¿Qué está en juego para Trump en las midterms del 3 de noviembre?",
+    "link": "https://www.france24.com/es/video/20261024-qu%C3%A9-est%C3%A1-en-juego-para-trump-en-las-midterms-del-3-de-noviembre"
+  },
+  {
+    "date": "2026-10-24",
     "image": "https://s.france24.com/media/display/b860f5c8-cf6a-11f1-b5a2-bba4eee3dc72/w:1024/p:16x9/ES-20261023-220150-220334-CS.jpg",
     "category": null,
     "text": "Informe desde São Paulo: propuestas y ataques en el segundo debate entre Lula y Bolsonaro",
@@ -85,101 +99,115 @@
   },
   {
     "date": "2026-10-24",
-    "image": "https://www.infobae.com/resizer/v2/RPE3SHPEHVA5HNPG42WLWG4ERI.JPG?auth=1b5fd064ef8a49ce42b68ae6c84a66cd99af5ae75028b9a447dda0a3c37b2d9b&smart=true&width=4605&height=3070",
+    "image": null,
     "category": null,
-    "text": "El ruido discursivo de Milei y los límites que le imponen la política y la economía",
-    "link": "https://www.infobae.com/opinion/2026/10/24/el-ruido-discursivo-de-milei-y-los-limites-que-le-imponen-la-politica-y-la-economia/"
+    "text": "Mi hermano compró una brillante cápsula azul sin saber que era cesio-137 y desató el mayor accidente radiactivo de la historia de mi país",
+    "link": "https://www.bbc.com/mundo/articles/cm5ynlx21z64o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "El desafío del diseño audiovisual es el equilibrio entre la IA y la creación artística",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/24/el-desafio-del-diseno-audiovisual-es-el-equilibrio-entre-la-ia-y-la-creacion-artistica/"
+    "text": "El misterioso órgano de los cachalotes que les da fuerza para hundir barcos",
+    "link": "https://www.bbc.com/mundo/articles/crkg794zyjd5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "Detenidos 7 policías en Guatemala por captura \"irregular\" en asesinato de exfiscal",
-    "link": "https://www.infobae.com/america/agencias/2026/10/24/detenidos-7-policias-en-guatemala-por-captura-irregular-en-asesinato-de-exfiscal/"
+    "text": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
+    "link": "https://www.bbc.com/mundo/articles/cq62y3xz365ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://www.infobae.com/resizer/v2/X7OPE3L6WVEQFOLTHTLBXXUBOI.png?auth=0053bfe04d05a82d6dc1f0a707069b3aa307a44dd98fad6fa15eb16848fed756&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "¿Qué aspectos se deben revisar antes de solicitar un crédito en El Salvador?",
+    "link": "https://www.infobae.com/el-salvador/2026/10/24/que-aspectos-se-deben-revisar-antes-de-solicitar-un-credito-en-el-salvador/"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://www.infobae.com/resizer/v2/YMC6TZHAZNFNNF7AYWP3LSD5HI.png?auth=4501550a04aa32fb856b1abb23af48fd47e534cb31eb4da3dddaaf732424619b&smart=true&width=1408&height=768",
+    "category": null,
+    "text": "El 37% de los residuos electrónicos en Costa Rica termina en manos del sector informal y solo el 9% llega a gestores autorizados",
+    "link": "https://www.infobae.com/costa-rica/2026/10/24/el-37-de-los-residuos-electronicos-en-costa-rica-termina-en-manos-del-sector-informal-y-solo-el-9-llega-a-gestores-autorizados/"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://www.infobae.com/resizer/v2/2YH25M3YO5AGRIT3PJJFOQMIAQ.JPG?auth=12f3a0f58e87972c8399be1faa3cfe5406aa4c5f56def92616a3136894790ef6&smart=true&width=6000&height=4000",
+    "category": null,
+    "text": "EN VIVO | Protestas en Francia: la Policía detuvo a 135 personas e incautó armas que portaban los manifestantes",
+    "link": "https://www.infobae.com/america/mundo/2026/10/24/en-vivo-francia-vive-una-nueva-jornada-de-protestas-en-medio-de-un-fuerte-operativo-de-seguridad/"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://www.infobae.com/resizer/v2/PT4DBI422JDGTJWWY2SKVMSWK4.jpeg?auth=f35024cad789e7c3c4ab2de9f4877f3f986e44d84607cfc00ca4cde39e19c632&smart=true&width=800&height=533",
+    "category": null,
+    "text": "El ministro de Defensa de República Dominicana coordina la vigilancia fronteriza ante la crisis de Haití sin medidas extraordinarias",
+    "link": "https://www.infobae.com/republica-dominicana/2026/10/24/el-ministro-de-defensa-de-republica-dominicana-coordina-la-vigilancia-fronteriza-ante-la-crisis-de-haiti-sin-medidas-extraordinarias/"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://www.infobae.com/resizer/v2/ILWGAHPCWZAPZMCQK2NDK6FOXM.jpg?auth=10b034effba7e08cb1d768d7f3ebb455e340fa63a5032923731698dbab67d231&smart=true&width=1280&height=808",
+    "category": null,
+    "text": "Fiscal federal de Estados Unidos reaccionó a la extradición de ‘Mocho Olmedo’, uno de los protegidos de la Paz total de Petro",
+    "link": "https://www.infobae.com/colombia/2026/10/24/fiscal-federal-de-estados-unidos-reacciono-a-la-extradicion-de-mocho-olmedo-uno-de-los-protegidos-de-la-paz-total-de-petro/"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://www.infobae.com/resizer/v2/3UGMEOPQEBDDHDSTEW4TVLQDWA.jpg?auth=e829f75a258efffaa22da6fe6fb62441b834ba8546b5060a840b34b2c3a68c7c&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Tuvo un gesto de fair play, el público lo abucheó, sus compañeros le recriminaron y terminó llorando",
+    "link": "https://www.infobae.com/deportes/2026/10/24/tuvo-un-gesto-de-fair-play-el-publico-lo-abucheo-sus-companeros-le-recriminaron-y-termino-llorando/"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://www.infobae.com/resizer/v2/BHYVEK4REFH4TGGBL32EOBSOL4.jpeg?auth=9495c3e04f0922598a13cf25b32e039b4c5170b741d1a07fb683baa66712cc50&smart=true&width=594&height=379",
+    "category": null,
+    "text": "Bariloche: denunciaron a un candidato constituyente por mensajes que reivindican a Videla y al terrorismo de Estado",
+    "link": "https://www.infobae.com/politica/2026/10/24/bariloche-denunciaron-a-un-candidato-constituyente-por-mensajes-que-reivindican-a-videla-y-el-terrorismo-de-estado/"
   },
   {
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "Kenia anuncia una segunda muerte por ébola en el país, entre los contactos del primer caso",
-    "link": "https://www.infobae.com/america/agencias/2026/10/24/kenia-anuncia-una-segunda-muerte-por-ebola-en-el-pais-entre-los-contactos-del-primer-caso/"
+    "text": "Afectados por listeriosis señalan que indemnizar a las víctimas no exige condenar a nadie",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/24/afectados-por-listeriosis-senalan-que-indemnizar-a-las-victimas-no-exige-condenar-a-nadie/"
   },
   {
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "Marc Márquez espera que Martín esté bien, pero reconoce que hoy \"tocaba\" atacar",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/24/marc-marquez-espera-que-martin-este-bien-pero-reconoce-que-hoy-tocaba-atacar/"
+    "text": "Miles de personas exigen en Madrid pensiones públicas dignas y rechazan su privatización",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/24/miles-de-personas-exigen-en-madrid-pensiones-publicas-dignas-y-rechazan-su-privatizacion/"
   },
   {
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "El MoraBanc visita Miribilla, una pista inmaculada, contra el Bilbao de Ponsarnau",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/24/el-morabanc-visita-miribilla-una-pista-inmaculada-contra-el-bilbao-de-ponsarnau/"
-  },
-  {
-    "date": "2026-10-24",
-    "image": "https://www.infobae.com/resizer/v2/4SCWFSRIDJAFXIAW3ADCYL2OYA.jpg?auth=fead54290586aa8e70c16dec74a0197f5a521feea664765fa6f72d6b3ead0df6&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "EN VIVO | Clima CDMX y resto de México hoy sábado 24 de octubre: Vance y frente frío 3 provocarán lluvias en la mitad del país",
-    "link": "https://www.infobae.com/mexico/2026/10/24/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-sabado-24-de-octubre-vance-y-frente-frio-3-provocaran-lluvias-en-la-mitad-del-pais/"
-  },
-  {
-    "date": "2026-10-24",
-    "image": "https://www.infobae.com/resizer/v2/JEELRQKZDZGITJBUG7VAMX7CVQ.jpg?auth=eb3cd19f7d9c80b6f33aaa487b182899394600ba5ce5e4edd1921af898e95525&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Resultados Lotería de Santander hoy 24 de octubre: revise su billete y cobre el premio mayor",
-    "link": "https://www.infobae.com/colombia/2026/10/24/resultados-loteria-de-santander-hoy-24-de-octubre-revise-su-billete-y-cobre-el-premio-mayor/"
-  },
-  {
-    "date": "2026-10-24",
-    "image": "https://www.infobae.com/resizer/v2/U5YNGHIBDJCKLEUYEBIXY5LQL4.JPG?auth=aac3effb2d3ffe8d7f65b2eb1626db24e988abb29e982b03dfeafa5ec62401a0&smart=true&width=1999&height=1333",
-    "category": null,
-    "text": "Un incendio destruyó el “Nido del Águila”, el antiguo refugio de montaña de Adolf Hitler en Alemania",
-    "link": "https://www.infobae.com/america/mundo/2026/10/24/un-incendio-destruyo-el-nido-del-aguila-el-antiguo-refugio-de-montana-de-adolf-hitler-en-alemania/"
-  },
-  {
-    "date": "2026-10-24",
-    "image": "https://www.infobae.com/resizer/v2/VL67FCKTERFCHHLVQFY2A6JDDA.jpg?auth=66083d85b803d58278e26ae8c2ff9ceffb38ef26029d2124eb70e679a5675f53&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Temblor hoy en México: noticias actividad sísmica 24 de octubre de 2026",
-    "link": "https://www.infobae.com/mexico/2026/10/24/temblor-hoy-en-mexico-noticias-actividad-sismica-24-de-octubre-de-2026/"
-  },
-  {
-    "date": "2026-10-24",
-    "image": "https://www.infobae.com/resizer/v2/QTW34BWFQJAORGLTQ5NJKJJHMU.jpg?auth=a94ad012c4d4bfe15db410631eeb13162dd0f58439eec57bf7cf5de12042a41b&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Kenia confirma la segunda muerte por ébola entre nueve casos detectados",
-    "link": "https://www.infobae.com/america/agencias/2026/10/24/kenia-confirma-la-segunda-muerte-por-ebola-entre-nueve-casos-detectados/"
+    "text": "Buxadé (Vox) defiende la necesidad de devolver el poder a los españoles y no a las mafias",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/24/buxade-vox-defiende-la-necesidad-de-devolver-el-poder-a-los-espanoles-y-no-a-las-mafias/"
   },
   {
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "Doncic: \"Todavía tenemos mucho margen de mejora, pero sin duda hemos evolucionado\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/24/doncic-todavia-tenemos-mucho-margen-de-mejora-pero-sin-duda-hemos-evolucionado/"
+    "text": "El Hospital de Parapléjicos reunirá a expertos internacionales sobre estimulación cerebral",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/24/el-hospital-de-paraplejicos-reunira-a-expertos-internacionales-sobre-estimulacion-cerebral/"
   },
   {
     "date": "2026-10-24",
-    "image": "https://imagenes.elpais.com/resizer/v2/536ZCIYKLBDOLEAFQPNVSOMXLA.jpeg?auth=239eefb49eadd198b1084d79e931f869b96eb2540606db3b25b14e82aef06680",
-    "category": "Israel",
-    "text": "Viven fuera de Israel; ahora vuelven para votar contra Netanyahu",
-    "link": "https://elpais.com/internacional/2026-10-24/viven-fuera-de-israel-ahora-vuelven-para-echar-a-netanyahu-en-las-urnas.html"
+    "image": null,
+    "category": null,
+    "text": "Pedro Sánchez blindará el derecho al aborto en la Constitución si sigue gobernando España",
+    "link": "https://www.infobae.com/america/agencias/2026/10/24/pedro-sanchez-blindara-el-derecho-al-aborto-en-la-constitucion-si-sigue-gobernando-espana/"
   },
   {
     "date": "2026-10-24",
-    "image": "https://imagenes.elpais.com/resizer/v2/R4FROFAOURHWZBPDYUDS2YBHFQ.jpg?auth=3cbad4a6ea9dd42ec2cd5b4c6fbe61649e6424fb800ac47289631d198e574392",
-    "category": "Guerra de Rusia en Ucrania",
-    "text": "El asedio ruso complica sobrevivir en Kramatorsk: “Cuando te quedas herido, es mejor que te maten”",
-    "link": "https://elpais.com/internacional/2026-10-24/el-asedio-ruso-complica-sobrevivir-en-kramatorsk-cuando-te-quedas-herido-es-mejor-que-te-maten.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/BZOD6BDPKFBTRMENHIYUMIFISE.jpg?auth=ced34b4a86ea55de51e28854d0e7a3a3b317a9d951b0bc5c7420dc4ece779861",
+    "category": "Francia",
+    "text": "Francia contiene el aliento ante una nueva jornada de protestas",
+    "link": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html"
   },
   {
     "date": "2026-10-24",
@@ -190,87 +218,150 @@
   },
   {
     "date": "2026-10-24",
-    "image": "https://imagenes.elpais.com/resizer/v2/LMRA5DZLRRPQPCVDID36PJ3DFU.jpg?auth=b4dcec1a68752e17223df2eec738b92e51c3cdc34498139e65042946a5d5f143",
+    "image": "https://imagenes.elpais.com/resizer/v2/5ZJEIB477ZJ5LLJ7NR7TQYFBVM.jpg?auth=59ce15cdf459adcd6516215f57ab7d6f20a590b41c92aa8d013671b90026f896",
+    "category": "Israel",
+    "text": "El ejército israelí realiza redadas y expulsa a decenas de familias de sus hogares en Hebrón tras el ataque palestino en el que murieron dos soldados",
+    "link": "https://elpais.com/internacional/2026-10-24/el-ejercito-israeli-realiza-redadas-y-expulsa-a-decenas-de-familias-de-sus-hogares-en-hebron-tras-el-ataque-palestino-en-el-que-murieron-dos-soldados.html"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://imagenes.elpais.com/resizer/v2/QWQ2ZSEVQNFW5AOIIIDKQ67FBQ.jpg?auth=5ee68810373e10736858b4af051168764b41cdaa0c1d944c76d7b03a26e255c1",
+    "category": "Elecciones EE UU",
+    "text": "Voto por primera vez en las elecciones y usé un chatbot de IA para informarme. Esto es lo que descubrí",
+    "link": "https://elpais.com/us/2026-10-24/voto-por-primera-vez-en-las-elecciones-y-use-un-chatbot-de-ia-para-informarme-esto-es-lo-que-descubri.html"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://imagenes.elpais.com/resizer/v2/536ZCIYKLBDOLEAFQPNVSOMXLA.jpeg?auth=239eefb49eadd198b1084d79e931f869b96eb2540606db3b25b14e82aef06680",
+    "category": "Israel",
+    "text": "Viven fuera de Israel; ahora vuelven para votar contra Netanyahu",
+    "link": "https://elpais.com/internacional/2026-10-24/viven-fuera-de-israel-ahora-vuelven-para-echar-a-netanyahu-en-las-urnas.html"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://imagenes.elpais.com/resizer/v2/A6VKLZYURVME3PHSEQT3X7VRNY.jpg?auth=09fa6ff8ab7b1ad7a15c93c5e1f6a5a6ebbe41cc73764666d625c0eee0d3c025",
+    "category": "Nazismo",
+    "text": "Las llamas destruyen El Nido del Águila, la famosa residencia de Hitler en los Alpes",
+    "link": "https://elpais.com/internacional/2026-10-24/las-llamas-destruyen-el-nido-del-aguila-la-famosa-residencia-de-hitler-en-los-alpes.html"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://imagenes.elpais.com/resizer/v2/R4FROFAOURHWZBPDYUDS2YBHFQ.jpg?auth=3cbad4a6ea9dd42ec2cd5b4c6fbe61649e6424fb800ac47289631d198e574392",
+    "category": "Guerra de Rusia en Ucrania",
+    "text": "El asedio ruso complica sobrevivir en Kramatorsk: “Cuando te quedas herido, es mejor que te maten”",
+    "link": "https://elpais.com/internacional/2026-10-24/el-asedio-ruso-complica-sobrevivir-en-kramatorsk-cuando-te-quedas-herido-es-mejor-que-te-maten.html"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229309_051006_video_1800.mp4",
     "category": "Elecciones Brasil",
-    "text": "La agenda ultra inunda Brasil con líderes cada vez más jóvenes",
-    "link": "https://elpais.com/america/2026-10-24/la-agenda-ultra-inunda-brasil-con-lideres-cada-vez-mas-jovenes.html"
+    "text": "Lula pone a Bolsonaro a la defensiva en el último debate antes de las urnas",
+    "link": "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html"
   },
   {
     "date": "2026-10-24",
-    "image": "https://imagenes.elpais.com/resizer/v2/BIMMU5FDLRDKBEIB7YWGKNG6DE.jpeg?auth=ac0e9466b8dba52caa157d40cddc1d2554d074dc58921f894efb5d2fbd53ca1a",
-    "category": "Corresponsales",
-    "text": "Si los faraones optaran a los récord Guinness",
-    "link": "https://elpais.com/internacional/historias-de-corresponsal/2026-10-24/si-los-faraones-optaran-a-los-record-guinness.html"
-  },
-  {
-    "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc4e37e9ff716a8f5638e7.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc8e29e9ff71731959e417.jpg",
     "category": null,
-    "text": "Trump lanza una promesa sobre la guerra contra Irán",
-    "link": "https://actualidad-rt.com/actualidad/634005-trump-guerra-iran-terminara-pronto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Netanyahu da un paso para apoyar a Argentina en su disputa por las Malvinas",
+    "link": "https://actualidad-rt.com/actualidad/634035-netanyahu-paso-apoyar-argentina-malvinas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc46a3e9ff7135a569d5d0.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc9c7859bf5b2517506eb2.jpg",
     "category": null,
-    "text": "El consejo de Eduardo Bolsonaro a su hermano si pierde las elecciones",
-    "link": "https://actualidad-rt.com/actualidad/634001-consejo-eduardo-bolsonaro-hermano-perder?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump saca pecho por saber multiplicar y dividir (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/634045-trump-reclamar-reconocimiento-saber-multiplicar?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc3a06e9ff714b673b91dc.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc814b59bf5b6c016458ff.jpg",
     "category": null,
-    "text": "Enviado de Putin: Musk \"expone el ciclo perverso del lucro bélico\" en Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/633998-enviado-putin-musk-denunciar-lavado-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "2.000 dólares y una pantalla agrietada en horas: las quejas de los primeros compradores del iPhone Duo",
+    "link": "https://actualidad-rt.com/actualidad/634030-vida-pantalla-quejas-fallos-iphone?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc2144e9ff712215327221.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc94aae9ff71727e6f9df0.jpg",
     "category": null,
-    "text": "No sólo alivia el alma, también el corazón: expertos revelan la mejor forma de tomar el té",
-    "link": "https://actualidad-rt.com/actualidad/633989-te-solo-aliviar-alma-corazon-salud-cardiovascular?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un luchador de MMA muere en un atentado terrorista cerca de París",
+    "link": "https://actualidad-rt.com/actualidad/634039-luchador-mma-muere-atentado-terrorista?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adb85b259bf5b21113cda2f.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc9f6159bf5b2d0948a0a5.jpg",
     "category": null,
-    "text": "Merz admite lo que nadie en Europa quería decir en voz alta",
-    "link": "https://actualidad-rt.com/actualidad/633905-merz-admite-nadie-europa-queria-decir-voz-alta?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Assange: Lula luchó por mi libertad, los Bolsonaro no hicieron nada",
+    "link": "https://actualidad-rt.com/actualidad/634044-assange-lula-lucho-libertad-bolsonaro?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc33a959bf5b6bcf71b53b.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc8a5359bf5b2517506ea4.jpg",
     "category": null,
-    "text": "VIDEO: Trump elogia el \"cuerpo de 30 años\" de un miembro de su gabinete",
-    "link": "https://actualidad-rt.com/actualidad/633997-video-trump-cuerpo-anos-kennedy?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La NASA compara El Niño de 1997, 2015, 2026 y llega a una alarmante conclusión (IMÁGENES)",
+    "link": "https://actualidad-rt.com/actualidad/634033-nasa-compara-nino-actual-fenomenos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc23ca59bf5b031e628c44.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc904759bf5b6c0164590b.jpg",
     "category": null,
-    "text": "Una valija ensangrentada conduce al hallazgo de una joven asesinada",
-    "link": "https://actualidad-rt.com/actualidad/633983-valija-ensangrentada-conduce-hallazgo-joven?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Avance revolucionario: científicos logran rejuvenecer 60 años células humanas",
+    "link": "https://actualidad-rt.com/actualidad/634036-viaje-anos-atras-cientificos-rejuvenecer-celulas?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc2fabe9ff710bed41d930.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc859b59bf5b2d0948a092.jpg",
     "category": null,
-    "text": "Este país de la OTAN aspira a albergar armas nucleares tanto de EE.UU. como de Francia en su territorio",
-    "link": "https://actualidad-rt.com/actualidad/633991-polonia-aspirar-albergar-armas-nucleares-eeuu-francia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Brasil está en la primera línea de la desdolarización: ¿un gobierno de Flávio Bolsonaro podría cambiarlo?",
+    "link": "https://actualidad-rt.com/actualidad/634028-brasil-primera-linea-desdolarizacion-gobierno-flavio-bolsonaro?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc30f1e9ff712865452c29.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc8420e9ff7171ef572274.jpg",
     "category": null,
-    "text": "Irán: No permitiremos que los buques de guerra de EE.UU. vuelvan a entrar en el golfo Pérsico",
-    "link": "https://actualidad-rt.com/actualidad/633996-iran-permitir-buques-guerra-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Venezuela alcanza su mayor producción diaria de petróleo en años",
+    "link": "https://actualidad-rt.com/actualidad/634032-venezuela-alcanzar-mayor-produccion-diaria?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-24",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adc8b3859bf5b0ec05275ff.jpg",
+    "category": null,
+    "text": "Siete señales de que necesitas un descanso de los videos cortos",
+    "link": "https://actualidad-rt.com/a-fondo/634034-siete-senales-necesitas-descanso-videos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "Drones lanzan explosivos contra uniformados de la Armada Nacional colombiana",
-    "link": "https://actualidad-rt.com/actualidad/633984-muerto-cuatro-heridos-ataque-drones-colombia-militares?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Imágenes muestran columnas de humo tras ataque mortal a fábrica rusa",
+    "link": "https://es.euronews.com/2026/10/24/imagenes-muestran-columnas-de-humo-tras-ataque-mortal-a-fabrica-rusa"
+  },
+  {
+    "date": "2026-10-24",
+    "image": null,
+    "category": null,
+    "text": "Un vertido de petróleo obliga a cerrar playas en Emiratos Árabes Unidos en plena guerra con Irán",
+    "link": "https://es.euronews.com/2026/10/24/emiratos-arabes-unidos-vertido-petroleo-playas-umm-al-quwain-guerra-iran"
+  },
+  {
+    "date": "2026-10-24",
+    "image": null,
+    "category": null,
+    "text": "Ucrania golpea el corazón tecnológico de Rusia: 5 centros de datos atacados con drones",
+    "link": "https://es.euronews.com/2026/10/24/ucrania-ataca-5-centros-datos-rusia-drones-fallos-servicios-digitales"
+  },
+  {
+    "date": "2026-10-24",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 24 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/24/ultimas-noticias-24-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-24",
+    "image": null,
+    "category": null,
+    "text": "Marco Rubio insta a los cubanos a colaborar en secreto con la CIA para cambiar el país: \"Ahora es el momento\"",
+    "link": "https://es.euronews.com/2026/10/24/marco-rubio-cubanos-colaborar-cia-cambio-cuba"
   },
   {
     "date": "2026-10-24",
@@ -278,20 +369,6 @@
     "category": null,
     "text": "Últimas noticias | 24 octubre 2026 - Mañana",
     "link": "https://es.euronews.com/video/2026/10/24/ultimas-noticias-24-octubre-2026-manana"
-  },
-  {
-    "date": "2026-10-23",
-    "image": "https://s.france24.com/media/display/f758d70e-cf34-11f1-b73e-bba4eee3dc72/w:1024/p:16x9/2026-10-16T150648Z-1599141694-RC2E4OA69PJC-RTRMADP-3-BOLIVIA-CHILE.jpg",
-    "category": "América Latina",
-    "text": "Chile: rebaja de condenas a 56 pederastas enfrenta al Gobierno de Kast con el Poder Judicial",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261023-chile-rebaja-de-condenas-a-56-pederastas-enfrenta-al-gobierno-de-kast-con-el-poder-judicial"
-  },
-  {
-    "date": "2026-10-23",
-    "image": "https://s.france24.com/media/display/5df0a970-cf39-11f1-a015-4d317af013fd/w:1024/p:16x9/ES-20261023-124352-124837-CS.jpg",
-    "category": null,
-    "text": "Directo a... Estambul y la reunión de ministros de Exteriores que tuvo los conflictos en el debate",
-    "link": "https://www.france24.com/es/video/20261023-directo-a-estambul-y-la-reuni%C3%B3n-de-ministros-de-exteriores-que-tuvo-los-conflictos-en-el-debate"
   },
   {
     "date": "2026-10-23",
@@ -304,8 +381,8 @@
     "date": "2026-10-23",
     "image": null,
     "category": null,
-    "text": "\"Solo piel y huesos\": los gemelos recién nacidos que tratan de sobrevivir a la guerra y el hambre en Yemen",
-    "link": "https://www.bbc.com/mundo/articles/crz658114vvqo?at_medium=RSS&at_campaign=rss"
+    "text": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
+    "link": "https://www.bbc.com/mundo/articles/cqrkyj450rmlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-23",
@@ -318,8 +395,8 @@
     "date": "2026-10-23",
     "image": null,
     "category": null,
-    "text": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
-    "link": "https://www.bbc.com/mundo/articles/cqrkyj450rmlo?at_medium=RSS&at_campaign=rss"
+    "text": "\"Solo piel y huesos\": los gemelos recién nacidos que tratan de sobrevivir a la guerra y el hambre en Yemen",
+    "link": "https://www.bbc.com/mundo/articles/crz658114vvqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-23",
@@ -332,13 +409,6 @@
     "date": "2026-10-23",
     "image": null,
     "category": null,
-    "text": "Meghan Markle dice que en 2018 le informaron de \"inquietantes acusaciones\" contra su padre por presunta posesión de imágenes de abuso infantil",
-    "link": "https://www.bbc.com/mundo/articles/cq203kz7zy3go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-23",
-    "image": null,
-    "category": null,
     "text": "\"Me avergüenza trabajar en Google\": los empleados que renuncian por el desarrollo de la IA con fines militares",
     "link": "https://www.bbc.com/mundo/articles/cxg5j1d93993o?at_medium=RSS&at_campaign=rss"
   },
@@ -346,77 +416,7 @@
     "date": "2026-10-23",
     "image": null,
     "category": null,
-    "text": "Las imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU.",
-    "link": "https://www.bbc.com/mundo/articles/cq1kdp02xdjmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-23",
-    "image": null,
-    "category": null,
-    "text": "Quiénes son los \"ciudadanos palestinos de Israel\" y por qué pueden tener la llave para desbancar a Netanyahu",
-    "link": "https://www.bbc.com/mundo/articles/crz9812qjxd2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-23",
-    "image": "https://imagenes.elpais.com/resizer/v2/O3AA6YFDBNINXCLAHSGEINVXYQ.jpg?auth=da11344a70063f733a17e6884328f215b851a3f40b008ca5679aa327d639dd68",
-    "category": "Elecciones EE UU",
-    "text": "Sangre nueva para frenar a Trump",
-    "link": "https://elpais.com/us/2026-10-23/sangre-nueva-para-frenar-a-trump.html"
-  },
-  {
-    "date": "2026-10-23",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1229016_140554_video_1800.mp4",
-    "category": "Israel",
-    "text": "Netanyahu ordena una gran operación en Cisjordania tras la muerte de dos soldados en un ataque palestino",
-    "link": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html"
-  },
-  {
-    "date": "2026-10-23",
-    "image": "https://imagenes.elpais.com/resizer/v2/PKSTBXMAWNCH5DEWEL56OHMOQM.jpg?auth=f398365475ee74ef01753038b270bc38ec2cb1d0dbef18246e260fbcccb4406a",
-    "category": "París",
-    "text": "Un muerto y al menos cuatro heridos en un atentado racista en una localidad de las afueras de París",
-    "link": "https://elpais.com/internacional/2026-10-23/un-muerto-y-varios-heridos-en-tiroteos-en-una-localidad-de-las-afueras-de-paris.html"
-  },
-  {
-    "date": "2026-10-23",
-    "image": null,
-    "category": null,
-    "text": "Hungría recuerda 70 años después a las víctimas de la represión soviética de 1956 con líderes de la UE",
-    "link": "https://es.euronews.com/video/2026/10/24/hungria-70-anos-despues-de-la-represion-sovietica-lideres-honran-a-las-victimas-del-levant"
-  },
-  {
-    "date": "2026-10-23",
-    "image": null,
-    "category": null,
-    "text": "Un huracán frente a las costas de México desata una tormenta de memes a causa de su nombre: Vance",
-    "link": "https://es.euronews.com/2026/10/23/huracan-mexico-desata-tormenta-memes-nombre-vance"
-  },
-  {
-    "date": "2026-10-23",
-    "image": null,
-    "category": null,
-    "text": "EE.UU. declara el helio material crítico mientras Europa sufre escasez de suministro de helio",
-    "link": "https://es.euronews.com/2026/10/23/eeuu-declara-el-helio-material-critico-mientras-europa-sufre-escasez-de-suministro-de-heli"
-  },
-  {
-    "date": "2026-10-23",
-    "image": null,
-    "category": null,
-    "text": "4 mujeres resultan heridas por la explosión de un coche bomba en un peaje en el este de Colombia",
-    "link": "https://es.euronews.com/2026/10/23/mujeres-resultan-heridas-explosion-coche-bomba-colombia"
-  },
-  {
-    "date": "2026-10-23",
-    "image": null,
-    "category": null,
-    "text": "EURONEWS HOY | Las noticias del 23 de octubre de 2026: Francia se prepara para otro fin de semana de protestas",
-    "link": "https://es.euronews.com/2026/10/23/euronews-hoy-las-noticias-del-23-de-octubre-de-2026-francia-se-prepara-para-otro-fin-de-se"
-  },
-  {
-    "date": "2026-10-23",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 23 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/23/ultimas-noticias-23-octubre-2026-tarde"
+    "text": "Meghan Markle dice que en 2018 le informaron de \"inquietantes acusaciones\" contra su padre por presunta posesión de imágenes de abuso infantil",
+    "link": "https://www.bbc.com/mundo/articles/cq203kz7zy3go?at_medium=RSS&at_campaign=rss"
   }
 ]

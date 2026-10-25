@@ -1,9 +1,58 @@
 [
   {
     "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/1962d7ec-d06a-11f1-b095-bdb9616e85cf/w:1024/p:16x9/000-D3NT9R6.jpg",
+    "image": null,
+    "category": null,
+    "text": "“Estoy aquí”: María Corina Machado regresa a Venezuela tras casi un año fuera del país",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-estoy-aqu%C3%AD-mar%C3%ADa-corina-machado-regresa-a-venezuela-tras-casi-un-a%C3%B1o-fuera-del-pa%C3%ADs"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://s.france24.com/media/display/43d94032-d084-11f1-8b65-bba4eee3dc72/w:1024/p:16x9/ES-20261025-080956-081304-CS.jpg",
+    "category": null,
+    "text": "Netanyahu alarma a los israelíes con \"sanciones bancarias\" y una \"bomba nuclear sobre Tel Aviv\"",
+    "link": "https://www.france24.com/es/video/20261025-netanyahu-alarma-a-los-israel%C3%ADes-con-sanciones-bancarias-y-una-bomba-nuclear-sobre-tel-aviv"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://s.france24.com/media/display/fc9ff74e-d081-11f1-bd00-bba4eee3dc72/w:1024/p:16x9/ES-20261025-080739-080923-CS.jpg",
+    "category": null,
+    "text": "Serbia vota: los estudiantes desafían el poder de Vucic en las elecciones parlamentarias",
+    "link": "https://www.france24.com/es/video/20261025-serbia-vota-los-estudiantes-desaf%C3%ADan-el-poder-de-vucic-en-las-elecciones-parlamentarias"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://s.france24.com/media/display/77e22f70-d07e-11f1-a670-bdb9616e85cf/w:1024/p:16x9/FOTO-PORTADA-SERBIA-ELECCIONES-PARTICIPACION.jpg",
+    "category": "Europa",
+    "text": "Elecciones clave en Serbia: los estudiantes disputan el liderazgo de 12 años de Vucic",
+    "link": "https://www.france24.com/es/europa/20261025-elecciones-clave-en-serbia-los-estudiantes-disputan-el-liderazgo-de-12-a%C3%B1os-de-vucic"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://s.france24.com/media/display/b7fde170-d07f-11f1-8d0a-bba4eee3dc72/w:1024/p:16x9/2026-10-25T023011Z-1900781006-RC2Z9OAUN8QQ-RTRMADP-3-USA-ELECTION-OBAMA.jpg",
+    "category": "EE. UU. y Canadá",
+    "text": "“¡Basta ya!”: Obama irrumpe en campaña de las midterms y acusa a Trump de “caos, crueldad y corrupción”",
+    "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261025-basta-ya-obama-irrumpe-en-campa%C3%B1a-de-las-midterms-y-acusa-a-trump-de-caos-crueldad-y-corrupci%C3%B3n"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://s.france24.com/media/display/4f960da4-d077-11f1-aeab-4d317af013fd/w:1024/p:16x9/ES-20261025-080221-080700-CS.jpg",
+    "category": null,
+    "text": "Informe desde São Paulo: ¿por qué este estado es clave en la elección presidencial?",
+    "link": "https://www.france24.com/es/video/20261025-informe-desde-s%C3%A3o-paulo-por-qu%C3%A9-este-estado-es-clave-en-la-elecci%C3%B3n-presidencial"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://s.france24.com/media/display/92622076-d074-11f1-9163-5b4a75578ebb/w:1024/p:16x9/ES-20261025-070212-070509-CS.jpg",
+    "category": null,
+    "text": "Informe desde Río de Janeiro: avanza con normalidad la jornada electoral a pesar de las lluvias",
+    "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-avanza-con-normalidad-la-jornada-electoral-a-pesar-de-las-lluvias"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://s.france24.com/media/display/072aad84-d079-11f1-bc07-4b25c96ec90e/w:1024/p:16x9/000-D3NT9RH-1.jpg",
     "category": "América Latina",
-    "text": "En directo I Abren las urnas en Brasil: Lula y Bolsonaro disputan la Presidencia en un tenso balotaje",
+    "text": "En directo I Balotaje en Brasil: Lula subraya \"defensa de las conquistas”; Bolsonaro afirma que “llegó el momento del cambio\"",
     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje"
   },
   {
@@ -29,59 +78,10 @@
   },
   {
     "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/676d5576-d01e-11f1-bcb5-5b4a75578ebb/w:1024/p:16x9/ES-20261024-190601-190806-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Marchas masivas en Francia bajo fuerte seguridad: casi mil detenidos y choques en varias ciudades",
-    "link": "https://www.france24.com/es/video/20261025-marchas-masivas-en-francia-bajo-fuerte-seguridad-casi-mil-detenidos-y-choques-en-varias-ciudades"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/8cb6950a-d01d-11f1-b411-4d317af013fd/w:1024/p:16x9/ES-20261024-190208-190511-CS.jpg",
-    "category": null,
-    "text": "Con masivos actos en São Paulo y Río de Janeiro, Lula y Bolsonaro cierran sus campañas",
-    "link": "https://www.france24.com/es/video/20261025-con-masivos-actos-en-s%C3%A3o-paulo-y-r%C3%ADo-de-janeiro-lula-y-bolsonaro-cierran-sus-campa%C3%B1as"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/f7f97b7c-d01b-11f1-88ba-bba4eee3dc72/w:1024/p:16x9/ES-20261024-183205-183600-CS.jpg",
-    "category": null,
-    "text": "Flávio Bolsonaro cierra su campaña con una marea amarilla y verde en Río de Janeiro",
-    "link": "https://www.france24.com/es/video/20261025-fl%C3%A1vio-bolsonaro-cierra-su-campa%C3%B1a-con-una-marea-amarilla-y-verde-en-r%C3%ADo-de-janeiro"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/720e487a-d021-11f1-985c-4d317af013fd/w:1024/p:16x9/16323241e34fea9f5b46a5b67e4d5a49423da2f1w.jpg",
-    "category": "América Latina",
-    "text": "Un rescate imposible: la cruzada de Nayib Bukele contra las “pandillas satánicas” de Haití",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-un-rescate-imposible-la-cruzada-de-nayib-bukele-contra-las-pandillas-sat%C3%A1nicas-de-hait%C3%AD"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/b0f4790e-d00f-11f1-85c8-4b25c96ec90e/w:1024/p:16x9/Lula-Brasil.png",
-    "category": null,
-    "text": "Cierre de campaña de Lula da Silva en Sao Paulo de cara al balotaje en Brasil",
-    "link": "https://www.france24.com/es/video/20261025-cierre-de-campa%C3%B1a-de-lula-da-silva-en-sao-paulo-de-cara-al-balotaje-en-brasil"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/50d743ac-d015-11f1-8112-4d317af013fd/w:1024/p:16x9/000-D4BB4U6.jpg",
-    "category": "América Latina",
-    "text": "En Brasil, Lula y Bolsonaro motivan por última vez a sus seguidores antes de la segunda vuelta",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-brasil-lula-y-bolsonaro-motivan-por-%C3%BAltima-vez-a-sus-seguidores-antes-de-la-segunda-vuelta"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/1eeacf76-d00b-11f1-b91f-bdb9616e85cf/w:1024/p:16x9/ES-20261024-170559-171323-CS.jpg",
-    "category": null,
-    "text": "Entre polarización y desinformación: ¿cómo llega Brasil al balotaje?",
-    "link": "https://www.france24.com/es/video/20261025-entre-polarizaci%C3%B3n-y-desinformaci%C3%B3n-c%C3%B3mo-llega-brasil-al-balotaje"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://s.france24.com/media/display/decee108-d009-11f1-82c3-4b25c96ec90e/w:1024/p:16x9/ES-20261024-150624-151005-CS.jpg",
-    "category": null,
-    "text": "Elecciones en Brasil 2026: Lula cierra su campaña en un acto masivo en São Paulo",
-    "link": "https://www.france24.com/es/video/20261025-elecciones-en-brasil-2026-lula-y-fl%C3%A1vio-bolsonaro-cierran-sus-campa%C3%B1as-con-actos-masivos"
+    "text": "\"Estoy aquí. Con ustedes\": María Corina Machado y Edmundo González anuncian que la líder opositora regresó a Venezuela",
+    "link": "https://www.bbc.com/mundo/articles/c62ke94w14x2o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-25",
@@ -94,7 +94,7 @@
     "date": "2026-10-25",
     "image": null,
     "category": null,
-    "text": "Bukele descarta que los cuerpos encontrados en Haití sean los de los 4 soldados salvadoreños secuestrados por pandillas",
+    "text": "Fuerza internacional contra las pandillas de Haití contradice a Bukele y no descarta que los cuerpos encontrados sean los 4 soldados salvadoreños secuestrados",
     "link": "https://www.bbc.com/mundo/articles/cqev3nexxp91o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -115,15 +115,15 @@
     "date": "2026-10-25",
     "image": null,
     "category": null,
-    "text": "Qué comer para que tu piel se vea más joven y sana",
-    "link": "https://www.bbc.com/mundo/articles/c3ewe42k1k0qo?at_medium=RSS&at_campaign=rss"
+    "text": "Cómo una mansión de California se convirtió en la \"casa de los horrores\", en la que se investiga el abuso a 14 niños surrogados",
+    "link": "https://www.bbc.com/mundo/articles/cqly0mlerpnvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-25",
     "image": null,
     "category": null,
-    "text": "Cómo el observar pájaros ralentiza el declive de nuestro cerebro (y nos hace sonreír de nuevo)",
-    "link": "https://www.bbc.com/mundo/articles/c8ly09lkd0ylo?at_medium=RSS&at_campaign=rss"
+    "text": "Qué comer para que tu piel se vea más joven y sana",
+    "link": "https://www.bbc.com/mundo/articles/c3ewe42k1k0qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-25",
@@ -134,87 +134,94 @@
   },
   {
     "date": "2026-10-25",
-    "image": "https://www.infobae.com/resizer/v2/HOA4UOAL4ZD77NT5O5QUDUEJQ4.png?auth=1789b197b3b3fe3aaaf60cd240e615ac958d2055c2f8df713a6cfc033aff3684&smart=true&width=1672&height=941",
+    "image": "https://www.infobae.com/resizer/v2/OVJX4N74VJF7NI2IAZBZGXQYHU.jpg?auth=08b794df2affffc160bbcfff6058446424fda01d94bc86b024faba290ed730df&smart=true&width=900&height=601",
     "category": null,
-    "text": "Cuáles son las 3 pickups que lideran las ventas de automotores en octubre, a una semana del cierre de octubre",
-    "link": "https://www.infobae.com/economia/2026/10/25/cuales-son-las-3-pickups-que-lideran-las-ventas-de-automotores-en-octubre-a-una-semana-del-cierre-de-octubre/"
+    "text": "La artista Doris Salcedo calificó de 'perverso' el uso de la expresión 'batalla cultural' por parte del Gobierno de De la Espriella: \"La cultura no entra en guerra\"",
+    "link": "https://www.infobae.com/colombia/2026/10/25/la-artista-doris-salcedo-califico-de-perverso-el-uso-de-la-expresion-batalla-cultural-por-parte-del-gobierno-de-de-la-espriella-la-cultura-no-entra-en-guerra/"
   },
   {
     "date": "2026-10-25",
-    "image": "https://www.infobae.com/resizer/v2/MH33O6NLA5ETVLHSIJBV4NPX2A.jpg?auth=e089faf2de8b84e9d930a75e867213cd44649de5353a082203a1b85871c15ec3&smart=true&width=1280&height=853",
+    "image": "https://www.infobae.com/resizer/v2/C6MWMJTUHBDH3ISV2YFBTUMWWI.png?auth=b2d6eb8f6ebbda97babc1b16c3f3cfd151f5c4d11a5b05023847575a5676cf0a&smart=true&width=1672&height=941",
     "category": null,
-    "text": "Adelante presenta a sus cabezas de lista y carga contra la especulación que \"convierte a Andalucía en un decorado\"",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/25/adelante-presenta-a-sus-cabezas-de-lista-y-carga-contra-la-especulacion-que-convierte-a-andalucia-en-un-decorado/"
+    "text": "Fallece el cineasta José Luis García Sánchez a los 85 años: ¿Quiénes son los icónicos actores mexicanos con los que filmó?",
+    "link": "https://www.infobae.com/mexico/2026/10/25/fallece-el-cineasta-jose-luis-garcia-sanchez-a-los-85-anos-quienes-son-los-iconicos-actores-mexicanos-con-los-que-filmo/"
   },
   {
     "date": "2026-10-25",
-    "image": "https://www.infobae.com/resizer/v2/GSZIH7NVTBAIBK6A2Q46LBOJ3U.jpg?auth=aa7d6ed35dce60214d9426080a73b8bf7fa41515933bf84c0edb1f767f96ac1c&smart=true&width=587&height=580",
+    "image": "https://www.infobae.com/resizer/v2/SJN6SD37BBGYFIE65RXPETZD5E.jpg?auth=33b75f4dc4f3e4f4cc1aae582967b6bf1254e5f91d6f46374fd503e3390c2e2b&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Netanyahu advierte de un \"segundo holocausto\" con un ataque nuclear sobre Tel Aviv a dos días de las elecciones",
-    "link": "https://www.infobae.com/america/agencias/2026/10/25/netanyahu-advierte-de-un-segundo-holocausto-con-un-ataque-nuclear-sobre-tel-aviv-a-dos-dias-de-las-elecciones/"
+    "text": "Cuándo es el siguiente partido de México en el Mundial Femenil Sub 17 y a quién enfrenta en los Octavos de Final",
+    "link": "https://www.infobae.com/mexico/deportes/2026/10/25/cuando-es-el-siguiente-partido-de-mexico-en-el-mundial-femenil-sub-17-y-a-quien-enfrenta-en-los-octavos-de-final/"
   },
   {
     "date": "2026-10-25",
-    "image": "https://www.infobae.com/resizer/v2/SRFNTTW2PFDSLIA664XGAFYJRU.jpg?auth=b24c91b33ce5f39b0e71364f56b1f16118f42ad1161dd7a2704b850ebc202d05&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/QGEFLQR2H5HC7CD4TCWCNZOXNM.jpg?auth=a7811164dbdea504e00231ec9b1883b0f51ec63693588f89236671a80dbaf505&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Nvidia teje una red de alianzas estratégicas en banca, 'telecos' y automoción para impulsar su IA",
-    "link": "https://www.infobae.com/america/agencias/2026/10/25/nvidia-teje-una-red-de-alianzas-estrategicas-en-banca-telecos-y-automocion-para-impulsar-su-ia/"
+    "text": "El arriesgado look de Tate McRae: así transformó el estilo de los 2000 en alta costura",
+    "link": "https://www.infobae.com/tendencias/2026/10/25/el-arriesgado-look-de-tate-mcrae-asi-transformo-el-estilo-de-los-2000-en-alta-costura/"
   },
   {
     "date": "2026-10-25",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/CUHMDKMQXJFGNKLUR6QJXGXWU4.jfif?auth=cfc6a7d5a0c67e2fde96b2baf6a1e349f138ba74429f8d16f302c526f204285d&smart=true&width=2982&height=1677",
     "category": null,
-    "text": "Redondo alerta del negacionismo en la ciencia y pide unir investigación pública y privada",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/25/redondo-alerta-del-negacionismo-en-la-ciencia-y-pide-unir-investigacion-publica-y-privada/"
+    "text": "La selección argentina logró dos triunfos en un día en el Mundial Sub 15: el inédito formato del torneo que incluye a 189 países",
+    "link": "https://www.infobae.com/deportes/2026/10/25/la-seleccion-argentina-logro-dos-triunfos-en-un-dia-en-el-mundial-sub-15-el-inedito-formato-del-torneo-que-incluye-a-189-paises/"
   },
   {
     "date": "2026-10-25",
-    "image": "https://www.infobae.com/resizer/v2/WMZFIWVGQNHD3GVYEOICHUKYIU.jpg?auth=23e44dcf0fdc88e027bc76d722ffbeb0cc0e94d2eb029c8c1621559af8156d75&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/ZOUG6ANRMFG4JILWK7MPUHSVGI.jpg?auth=52208a671c99242acc0865ed06965d7c3e1e1c732a7636d452779c5a03e1254c&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Lula afirma que compite por la Presidencia de Brasil con el \"mentiroso\" Bolsonaro",
-    "link": "https://www.infobae.com/america/agencias/2026/10/25/lula-afirma-que-compite-por-la-presidencia-de-brasil-con-el-mentiroso-bolsonaro/"
+    "text": "Falsos policías habrían exigido 280 millones de pesos a dos comerciantes retenidos en Medellín",
+    "link": "https://www.infobae.com/colombia/2026/10/25/falsos-policias-habrian-exigido-280-millones-de-pesos-a-dos-comerciantes-retenidos-en-medellin/"
   },
   {
     "date": "2026-10-25",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/AD3NCSYMTRE5FI53T66UAYR25A.jpg?auth=bfc560eb61051d18793e1334ed71748b82a3229e8ba71faa932872ad586ecead&smart=true&width=1188&height=668",
     "category": null,
-    "text": "Arrasate: “El equipo necesita mantener la solidez si quiere ser competitivo”",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/25/arrasate-el-equipo-necesita-mantener-la-solidez-si-quiere-ser-competitivo/"
+    "text": "Demi Lovato cuenta cómo el tratamiento la preparó para encontrar el amor con Jutes: “Siento que encontré mi hogar en él”",
+    "link": "https://www.infobae.com/entretenimiento/2026/10/25/demi-lovato-cuenta-como-el-tratamiento-la-preparo-para-encontrar-el-amor-con-jutes-siento-que-encontre-mi-hogar-en-el/"
   },
   {
     "date": "2026-10-25",
-    "image": "https://www.infobae.com/resizer/v2/5KDF7T3WQNAF5O5MKAEXPUBB6U.jpg?auth=eb0762a788378dca7ac85545b28646f84fa6bc240bdfd4c7563409a0d3e6fb23&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/K44PPXYJ7NBLLO4DLY56IRGADY.JPG?auth=472258ee66e52ec66dda586a03006d493e6be7df17b56a05cc1ae08480cd329f&smart=true&width=5446&height=3631",
     "category": null,
-    "text": "En video: Encuentra a su esposo matriculando a sus tres hijastros junto a su amante en un colegio en Atlántico",
-    "link": "https://www.infobae.com/colombia/2026/10/25/en-video-encuentra-a-su-esposo-matriculando-a-sus-tres-hijastros-junto-a-su-amante-en-un-colegio-en-atlantico/"
+    "text": "EN VIVO | Donald Trump dijo que sigue de cerca las elecciones en Brasil: “Estamos atentos”",
+    "link": "https://www.infobae.com/america/america-latina/2026/10/25/elecciones-en-brasil-en-vivo/"
   },
   {
     "date": "2026-10-25",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/Y2OOKGMDFZEKLJW75WSUH5SEGY.jpg?auth=c042e65ed5ba33b6f367397c6d86694fa780703df1b9fbc0fabd268cef5157af&smart=true&width=1200&height=800",
     "category": null,
-    "text": "García Plaza apela a la comunión con el Sánchez-Pizjuán y aparca la polémica arbitral",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/25/garcia-plaza-apela-a-la-comunion-con-el-sanchez-pizjuan-y-aparca-la-polemica-arbitral/"
+    "text": "Las fotos de la jornada electoral en Brasil: votos, filas y expectativa por un resultado ajustado",
+    "link": "https://www.infobae.com/fotos/2026/10/25/las-fotos-de-la-jornada-electoral-en-brasil-votos-filas-y-expectativa-por-un-resultado-ajustado/"
   },
   {
     "date": "2026-10-25",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/B3GRQV6S6FG2PJAVUWJB3E23Y4.jpg?auth=7c56c859a78d8af5d3237877ea84b43625357fa99fb43e0735dc8eb60ac56d61&smart=true&width=4321&height=2881",
     "category": null,
-    "text": "32-35.- Ademar León impone su ritmo goleador ante el Horneo Alicante",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/25/32-35-ademar-leon-impone-su-ritmo-goleador-ante-el-horneo-alicante/"
+    "text": "La Cámara Federal porteña confirmó el archivo de una denuncia por los viajes de Javier Milei al exterior",
+    "link": "https://www.infobae.com/judiciales/2026/10/25/la-camara-federal-portena-confirmo-el-archivo-de-una-denuncia-por-los-viajes-de-javier-milei-al-exterior/"
   },
   {
     "date": "2026-10-25",
-    "image": "https://www.infobae.com/resizer/v2/EBM6DAAE7JD6XCZWK23ES4YPSU.jpg?auth=f296b84b4af43a82ed6364c11018963a3af5ea7c16371c3a2ce6406c0ec02e28&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/CKXFBA3OVZCVLKJE4P7JNWVK5A.png?auth=126ceb215d4ee22822ca81790a68ba9ca66c6e6b6d672f3548e3233e1087306c&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Alianza Lima vs CD Moquegua EN VIVO HOY: minuto a minuto del partido por Torneo Clausura de Liga 1 2026",
-    "link": "https://www.infobae.com/peru/deportes/2026/10/25/alianza-lima-vs-cd-moquegua-en-vivo-hoy-minuto-a-minuto-partido-fecha-13-torneo-clausura-liga-1-2026-goles-resumen-resultado/"
+    "text": "Partidos de hoy, domingo 25 de octubre de 2026: programación, canales TV y resultados en vivo",
+    "link": "https://www.infobae.com/peru/deportes/2026/10/25/partidos-de-hoy-domingo-25-de-octubre-de-2026-programacion-canales-tv-y-resultados-en-vivo/"
   },
   {
     "date": "2026-10-25",
-    "image": "https://www.infobae.com/resizer/v2/NXDN5BINENCX7I72AM7SHWLDVA.jpg?auth=ffc86d7862f2888f8bdce1599028327a7ee55d62ff3e96e2282dee0af877bc71&smart=true&width=1920&height=1079",
+    "image": "https://www.infobae.com/resizer/v2/ICJQ26OJRVB7REC7BJ7FMYGBR4.jpg?auth=a541ed61a4dff277bc2ce43d145612c4fc566c88ac8e72ee718f739a1ba120ca&smart=true&width=1920&height=1182",
     "category": null,
-    "text": "Quién es Jeremy Clarkson, el presentador británico que se burló de Colapinto: la historia de su visita a la Argentina que desató un conflicto por Malvinas",
-    "link": "https://www.infobae.com/deportes/2026/10/25/quien-es-el-presentador-britanico-que-se-burlo-de-franco-colapinto-la-historia-de-su-visita-a-la-argentina-que-desato-un-conflicto-por-las-malvinas/"
+    "text": "El caso del venezolano que fue condenado a 22 años de prisión pese a la asuencia de pruebas: el delincuente era su hermano",
+    "link": "https://www.infobae.com/venezuela/2026/10/25/el-caso-del-venezolano-que-fue-condenado-a-22-anos-de-prision-pese-a-la-asuencia-de-pruebas-el-delincuente-era-su-hermano/"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://imagenes.elpais.com/resizer/v2/IH7X7BFBYRAQ5GSQGEFSFZFO7A.jpg?auth=cc8cc62cf66c5e0dd7270e0382ab4828b3c883fc3ecd44d17f7906bc6000bffc",
+    "category": "María Corina Machado",
+    "text": "María Corina Machado regresa a Venezuela",
+    "link": "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-venezuela.html"
   },
   {
     "date": "2026-10-25",
@@ -222,13 +229,6 @@
     "category": "Elecciones Brasil",
     "text": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
     "link": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/5X76SB27UJFQZHVBMJCGXOCSUE.jpg?auth=8b4d84433109b81ae10e5559a2d5c746c4d58ff75904073c8b13499948eac86d",
-    "category": "Elecciones Brasil",
-    "text": "La cuna del lulismo mantiene la llama y la esperanza: “¡Aquí no hay miedo!”",
-    "link": "https://elpais.com/america/2026-10-25/la-cuna-del-lulismo-mantiene-la-llama-y-la-esperanza-aqui-no-hay-miedo.html"
   },
   {
     "date": "2026-10-25",
@@ -243,6 +243,13 @@
     "category": "Elecciones Brasil",
     "text": "Brasil decide este domingo si seguirá siendo una democracia",
     "link": "https://elpais.com/america/2026-10-25/brasil-decide-este-domingo-si-seguira-siendo-una-democracia.html"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://imagenes.elpais.com/resizer/v2/5X76SB27UJFQZHVBMJCGXOCSUE.jpg?auth=8b4d84433109b81ae10e5559a2d5c746c4d58ff75904073c8b13499948eac86d",
+    "category": "Elecciones Brasil",
+    "text": "La cuna del lulismo mantiene la llama y la esperanza: “¡Aquí no hay miedo!”",
+    "link": "https://elpais.com/america/2026-10-25/la-cuna-del-lulismo-mantiene-la-llama-y-la-esperanza-aqui-no-hay-miedo.html"
   },
   {
     "date": "2026-10-25",
@@ -267,80 +274,94 @@
   },
   {
     "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/MKCE6JOIJROATNDG52ITCU7LA4.jpg?auth=68197b37dee4548a39ccfd98f1b3f5ef2af09aeb51227a9647f06fe803743984",
-    "category": "Serbia",
-    "text": "Los estudiantes de Serbia disputan el poder a Vucic en las urnas tras casi dos años de protestas",
-    "link": "https://elpais.com/internacional/2026-10-25/los-estudiantes-de-serbia-disputan-el-poder-a-vucic-en-las-urnas-tras-casi-dos-anos-de-protestas.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade3b6b59bf5b502612b4c6.jpg",
+    "category": null,
+    "text": "\"El potencial de una rápida escalada\": EE.UU. lanza una alerta urgente a sus ciudadanos en Arabia Saudita",
+    "link": "https://actualidad-rt.com/actualidad/634240-potencial-rapida-escalada-eeuu-lanzar-advertencia-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade3627e9ff7123c578a48a.jpg",
     "category": null,
-    "text": "Lula vota en el balotaje de Brasil",
-    "link": "https://actualidad-rt.com/actualidad/634144-lula-votar-balotaje-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump sobre el acuerdo de diésel con Rusia: \"No nos dieron petróleo, se lo dieron al mundo\"",
+    "link": "https://actualidad-rt.com/actualidad/634238-trump-acuerdo-diesel-rusia-dieron?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6addfdede9ff711ca13fd27d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade1d82e9ff71658a374028.jpg",
     "category": null,
-    "text": "\"La gente no elegirá a un mentiroso\": Lula arremete contra Flávio Bolsonaro en plena jornada electoral",
-    "link": "https://actualidad-rt.com/actualidad/634197-lula-arremete-flavio-bolsonaro-plena-jornada-electoral?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Mujer mata a su hija de 4 años y se fuga de EE.UU.: ahora, el caso da un giro en México",
+    "link": "https://actualidad-rt.com/actualidad/634219-30-anos-despues-detienen-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6addf52359bf5b0b7237f498.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade2fb959bf5b0b7237f4da.jpg",
     "category": null,
-    "text": "VIDEO: Un hombre negro aparece encadenado durante acto electoral a favor de Bolsonaro",
-    "link": "https://actualidad-rt.com/actualidad/634194-video-hombre-negro-aparece-encadenado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump espera que las negociaciones entre Rusia, Ucrania y EE.UU. se celebren \"muy pronto\"",
+    "link": "https://actualidad-rt.com/actualidad/634236-trump-espera-negociaciones-rusia-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6addf9a4e9ff7170cc0ac774.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade2e8c59bf5b0b7237f4d7.jpg",
     "category": null,
-    "text": "\"¿En qué manicomio vivimos?\": Ucrania está descontenta con los resultados en ruso en Google",
-    "link": "https://actualidad-rt.com/actualidad/634191-manicomio-vivimos-ucrania-cancelar-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Iran lanza dura advertencia a Alemania si entra en el conflicto militar",
+    "link": "https://actualidad-rt.com/actualidad/634234-iran-lanzar-dura-advertencia-alemania-entrar-conflicto?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adddc26e9ff7171315c5955.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade2b3fe9ff71502d08543f.jpg",
     "category": null,
-    "text": "\"Ya han comenzado los preparativos\": toma forma la cumbre entre Putin, Xi y Trump",
-    "link": "https://actualidad-rt.com/actualidad/634180-preparativos-cumbre-putin-xi-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump sobre Irán: \"No habrá un ataque hoy\"",
+    "link": "https://actualidad-rt.com/actualidad/634230-trump-iran-habra-ataque-hoy?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adde2b059bf5b7b163a27b6.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade167759bf5b741a260f7e.jpg",
     "category": null,
-    "text": "Musk llama \"pedazos de mierda\" a los que apoyan continuar el conflicto en Ucrania",
-    "link": "https://actualidad-rt.com/actualidad/634182-escoria-absoluta-tierra-musk-arremeter?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Netanyahu infla la 'alerta nuclear' con una IMAGEN a días de las elecciones",
+    "link": "https://actualidad-rt.com/actualidad/634214-peligro-existencial-netanyahu-tono-elecciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
     "image": null,
     "category": null,
-    "text": "Rusia asegura que puede suministrar a EE.UU. todo el diésel que solicite",
-    "link": "https://actualidad-rt.com/actualidad/634188-rusia-asegurar-suministrar-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump: \"Ahora tenemos el control total de Venezuela\"",
+    "link": "https://actualidad-rt.com/actualidad/634221-trump-ahora-control-total-venezuela?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6addee63e9ff713c91335dff.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade180ce9ff7170cc0ac785.jpg",
     "category": null,
-    "text": "Enviado de Putin explica qué es lo que Musk comprende que los belicistas ignoran",
-    "link": "https://actualidad-rt.com/actualidad/634181-enviado-putin-comprender-musk-belicistas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "¿Echar toda la culpa a TikTok?: lo que se investiga tras disturbios en Barcelona",
+    "link": "https://actualidad-rt.com/actualidad/634213-investigan-convocatorias-tiktok-disturbios-barcelona?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adde3bce9ff7171315c595b.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade180759bf5b54a4398bba.jpg",
     "category": null,
-    "text": "China lanza un cohete y genera una 'medusa espacial': VIDEOS grabados desde un avión",
-    "link": "https://actualidad-rt.com/actualidad/634183-china-lanza-satelite-crea-medusa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump: \"Le dije a Macron: 'Estás destruyendo Francia'\" (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/634216-trump-macron-destuir-francia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-25",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adddbdce9ff71658a373ff2.jpg",
+    "image": null,
     "category": null,
-    "text": "\"Hay que organizar una economía paralela\": Israel se prepara para posibles sanciones",
-    "link": "https://actualidad-rt.com/actualidad/634177-netanyahu-advierte-israel-necesita-economia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Últimas noticias | 25 octubre 2026 - Tarde",
+    "link": "https://es.euronews.com/video/2026/10/25/ultimas-noticias-25-octubre-2026-tarde"
+  },
+  {
+    "date": "2026-10-25",
+    "image": null,
+    "category": null,
+    "text": "Miles de ovejas toman las calles de Madrid por la Fiesta de la Trashumancia",
+    "link": "https://es.euronews.com/video/2026/10/25/miles-de-ovejas-toman-las-calles-de-madrid-por-la-fiesta-de-la-trashumancia"
+  },
+  {
+    "date": "2026-10-25",
+    "image": null,
+    "category": null,
+    "text": "María Corina Machado regresa a Venezuela tras casi 10 meses fuera del país",
+    "link": "https://es.euronews.com/2026/10/25/maria-corina-machado-regresa-venezuela-diez-meses-despues"
   },
   {
     "date": "2026-10-25",
@@ -367,13 +388,6 @@
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "\"Es nuestra última oportunidad de frenarlo\": Obama ataca a Trump mientras hace campaña para los demócratas",
-    "link": "https://www.bbc.com/mundo/articles/cwnv0gjnp0p9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-24",
-    "image": null,
-    "category": null,
     "text": "Mi hermano compró una brillante cápsula azul sin saber que era cesio-137 y desató el mayor accidente radiactivo de la historia de mi país",
     "link": "https://www.bbc.com/mundo/articles/cm5ynlx21z64o?at_medium=RSS&at_campaign=rss"
   },
@@ -381,8 +395,8 @@
     "date": "2026-10-24",
     "image": null,
     "category": null,
-    "text": "Fatima El Mansouri: cómo la primera mujer en liderar el gobierno de Marruecos está atrapada entre el rey, los clérigos y el feminismo",
-    "link": "https://www.bbc.com/mundo/articles/c39wzvkynkj9o?at_medium=RSS&at_campaign=rss"
+    "text": "\"Es nuestra última oportunidad de frenarlo\": Obama ataca a Trump mientras hace campaña para los demócratas",
+    "link": "https://www.bbc.com/mundo/articles/cwnv0gjnp0p9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-24",
@@ -390,13 +404,6 @@
     "category": null,
     "text": "Cómo EE.UU. se ha convertido en una gerontocracia que no representa el perfil de edad del país",
     "link": "https://www.bbc.com/mundo/articles/c8r4y3543zv3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-24",
-    "image": null,
-    "category": null,
-    "text": "Casi 1.000 detenidos en Francia después de que miles de personas salieran a las calles a protestar",
-    "link": "https://www.bbc.com/mundo/articles/cqwy7x0dg1lzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-24",
@@ -411,12 +418,5 @@
     "category": "Elecciones Brasil",
     "text": "La rebelión en la calle y un ejército digital impulsan a Lula",
     "link": "https://elpais.com/america/2026-10-24/la-rebelion-en-la-calle-y-un-ejercito-digital-impulsan-a-lula.html"
-  },
-  {
-    "date": "2026-10-24",
-    "image": "https://imagenes.elpais.com/resizer/v2/QWQ2ZSEVQNFW5AOIIIDKQ67FBQ.jpg?auth=5ee68810373e10736858b4af051168764b41cdaa0c1d944c76d7b03a26e255c1",
-    "category": "Elecciones EE UU",
-    "text": "Voto por primera vez en las elecciones y usé un chatbot de IA para informarme. Esto es lo que descubrí",
-    "link": "https://elpais.com/us/2026-10-24/voto-por-primera-vez-en-las-elecciones-y-use-un-chatbot-de-ia-para-informarme-esto-es-lo-que-descubri.html"
   }
 ]

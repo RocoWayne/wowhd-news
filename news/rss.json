@@ -1,6 +1,20 @@
 [
   {
     "date": "2026-10-26",
+    "image": "https://s.france24.com/media/display/dc7cbf4a-d123-11f1-9a06-4b25c96ec90e/w:1024/p:16x9/ac3eb0e612c5f035778af1121339e4d617bd4ff3.jpg",
+    "category": "América Latina",
+    "text": "Lula recibe el respaldo de líderes internacionales tras su reelección",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-lula-recibe-el-respaldo-de-l%C3%ADderes-internacionales-tras-su-reelecci%C3%B3n"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://s.france24.com/media/display/8ca16d0e-d0f6-11f1-a656-4b25c96ec90e/w:1024/p:16x9/Lula-lo-logra-una-vez-ma%CC%81s-y-alcanza-un-histo%CC%81rico-cuarto-mandato.png",
+    "category": null,
+    "text": "Brasil: Lula lo logra una vez más y alcanza un histórico cuarto mandato",
+    "link": "https://www.france24.com/es/video/20261026-brasil-lula-lo-logra-una-vez-m%C3%A1s-y-alcanza-un-hist%C3%B3rico-cuarto-mandato"
+  },
+  {
+    "date": "2026-10-26",
     "image": "https://s.france24.com/media/display/d08bd462-d0d0-11f1-ab21-bdb9616e85cf/w:1024/p:16x9/2026-10-25T220534Z-34599975-RC2KAOAZJ6YN-RTRMADP-3-BRAZIL-ELECTION.jpg",
     "category": "América Latina",
     "text": "Voto joven y soberanía: Lula marca en Brasil el contrapeso a la ola de ultraderecha en América Latina",
@@ -71,17 +85,38 @@
   },
   {
     "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/2f32d44a-d0e3-11f1-afba-5b4a75578ebb/w:1024/p:16x9/2026-10-26T021129Z-274404486-RC2PAOAD09NF-RTRMADP-3-BRAZIL-ELECTION.jpg",
+    "image": null,
     "category": null,
-    "text": "\"Es imposible reconocer estas elecciones\": Flávio Bolsonaro tras derrota ante Lula",
-    "link": "https://www.france24.com/es/video/20261026-es-imposible-reconocer-estas-elecciones-fl%C3%A1vio-bolsonaro-tras-derrota-ante-lula"
+    "text": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota",
+    "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/164faafc-d0e3-11f1-86bb-5b4a75578ebb/w:1024/p:16x9/2026-10-26T011940Z-525764470-RC2PAOABW7RO-RTRMADP-3-BRAZIL-ELECTION.jpg",
+    "image": null,
     "category": null,
-    "text": "Lula: \"Gracias a la juventud que salió a las calles para defender la democracia\"",
-    "link": "https://www.france24.com/es/video/20261026-lula-gracias-a-la-juventud-que-sali%C3%B3-a-las-calles-para-defender-la-democracia"
+    "text": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
+    "link": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "Por qué Flávio Bolsonaro pide anular las elecciones en Brasil y qué posibilidades tiene de lograrlo, según los expertos",
+    "link": "https://www.bbc.com/mundo/articles/c6vg7pg5gezno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vucic en Serbia",
+    "link": "https://www.bbc.com/mundo/articles/cm78pv28195xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía",
+    "link": "https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
@@ -94,8 +129,8 @@
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota",
-    "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss"
+    "text": "\"Brasil no será patio trasero de nadie\": el discurso de Lula tras remontar y ganar las elecciones presidenciales frente a Bolsonaro",
+    "link": "https://www.bbc.com/mundo/articles/cwm24j2ekye4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
@@ -113,87 +148,108 @@
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/2IIZT4CZKRCX3A7H4VDPUFJYRQ.jpg?auth=3bac54fd495e587a721246f3c641b20d75fdfeef9d23ade346314f5418c3ddd7&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/3WSC6YHEGFBPVLYZE5GAHG5E5A.png?auth=3e5ec324fa513dda59b1a22fab0954ae127fc8768af245e1569940b3f5cd1c62&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Canelo Álvarez llega a Riad bajo alerta por posibles ataques: así fue recibido antes de su pelea contra Mbilli",
-    "link": "https://www.infobae.com/mexico/deportes/2026/10/26/canelo-alvarez-llega-a-riad-bajo-alerta-por-posibles-ataques-asi-fue-recibido-antes-de-su-pelea-contra-mbilli/"
+    "text": "Detuvieron al sospechoso del crimen de Daniela Villalba: también lo acusan de la muerte de la trabajadora sexual en Retiro",
+    "link": "https://www.infobae.com/sociedad/policiales/2026/10/26/detuvieron-al-sospechoso-del-crimen-de-daniela-villalba-tambien-lo-acusan-de-la-muerte-de-la-trabajadora-sexual-en-retiro/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/ZEICWZIOY5DOBKDIMIEY5WIR3U.JPG?auth=4f87c532153e170cb77cac5c3810e960f424e2e00da0531553e748ee5d2aaf54&smart=true&width=5500&height=3642",
+    "image": "https://www.infobae.com/resizer/v2/ABFX6YYJFBEAHMGJUVEWC5HMU4.png?auth=9e40ee19abdaf0c285130a9926be08b5829d6555cfe31ee7c50173ae7ec96463&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Después de varias horas de caravana, María Corina Machado llegó a Caracas acompañada por una multitud",
-    "link": "https://www.infobae.com/venezuela/2026/10/25/en-vivo-maria-corina-machado-regreso-a-venezuela-tras-casi-un-ano/"
+    "text": "Mariana Enriquez: “El realismo mágico posee una naturaleza optimista que no tiene el gótico”",
+    "link": "https://www.infobae.com/cultura/2026/10/26/mariana-enriquez-el-realismo-magico-posee-una-naturaleza-optimista-que-no-tiene-el-gotico/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/XW2EASZJSJFPTL4AW32U4U3FLA.png?auth=4208b117b9f7319fe4651ea425ad4071dd076b89adc5b485a8fc406475e05121&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/76UJDZOVJRGKFLZW24KW5HQMQE.jpg?auth=a55f6bd58d4db89d15fe6445094a079cdfde9045c97d0c798bcf266dd464d3c6&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Clima en Valencia: cuál será la temperatura máxima y mínima este 26 de octubre",
-    "link": "https://www.infobae.com/espana/2026/10/26/clima-en-valencia-cual-sera-la-temperatura-maxima-y-minima-este-26-de-octubre/"
+    "text": "Sin rumbo no hay camión que llegue: las finanzas personales vistas como una cadena logística",
+    "link": "https://www.infobae.com/movant/2026/10/21/sin-rumbo-no-hay-camion-que-llegue-las-finanzas-personales-vistas-como-una-cadena-logistica/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/7GNL6AVAPRFVDFCLFCM72BUKGE.png?auth=60b2d1349376f31a44e38a6ce7b1b63fe2d2100d352f75b251aea95378ebf0b8&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/4X3S3ZD6RNBMTCZUIV5KGOTYLA.JPG?auth=d1a39863f92b54e108e2bfd9945d75a887ca31d712895d9e51d9154669a9fed5&smart=true&width=5500&height=3667",
     "category": null,
-    "text": "Clima: temperatura y probabilidad de lluvia para Mazatlán este 26 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/26/clima-temperatura-y-probabilidad-de-lluvia-para-mazatlan-este-26-de-octubre/"
+    "text": "Gobierno de Colombia expulsa a 27 extranjeros por riesgos de seguridad en la frontera con Venezuela: así se desarrolló el operativo en Arauca",
+    "link": "https://www.infobae.com/colombia/2026/10/26/gobierno-de-colombia-expulsa-a-27-extranjeros-por-riesgos-de-seguridad-en-la-frontera-con-venezuela-asi-se-desarrollo-el-operativo-en-arauca/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/JBGQ64QU3BHW3LGQIKUYF4MR6A.png?auth=7e459f2359a2809d8e4dc020cfe3c0610dd07ef45f132d3e08be422b878a6dde&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/AH2VB7CO4ZCHFMTDPVHI5O6LJQ.jpg?auth=260317108d3cc9374486920986ed59d47cad3fd6498dd701957345af83a495a7&smart=true&width=5000&height=3334",
     "category": null,
-    "text": "Culiacán Rosales: la predicción del clima para este 26 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/26/culiacan-rosales-la-prediccion-del-clima-para-este-26-de-octubre/"
+    "text": "Elecciones generales en España 29-N, en directo | Albiol culpa a Sánchez del “asalto militar” en Barcelona: “Una parte importante de los detenidos vienen del Magreb”",
+    "link": "https://www.infobae.com/espana/2026/10/26/elecciones-generales-en-espana-29-n-en-directo-ultima-hora-de-los-sondeos-los-disturbios-en-barcelona-y-la-precampana/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/EKS25HWKZFA6LHHRU5CTA4AOUI.png?auth=a5a45c97e24ed26ebec75a093465867db0f6ea114bbf7efb88d9a3b907e4e8b7&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/YEBUIVMNWBAMTE2CEKLSYFLZLA.png?auth=53bd20311c5e868d0cdfd517db64621877f689481bff7c5349adc701c5e0cfb0&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Adiós a la incertidumbre, conoce las condiciones climáticas en Santiago Ixcuintla este 26 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/26/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-santiago-ixcuintla-este-26-de-octubre/"
+    "text": "Hackearon a Anthropic en 12 horas: accedieron a sueldos, reuniones y chats internos de la empresa creadora de Claude",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/26/hackearon-a-anthropic-en-12-horas-accedieron-a-sueldos-reuniones-y-chats-internos-de-la-empresa-creadora-de-claude/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/S5HFHQC36VE5FH5WFIHNN5YN7M.png?auth=4ff57b8de6a2a109af6a88da68b784ef117bc54d49c5d96823c5db1f30f2ef32&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/RJXGGTJZUFHSJF2BEYN6NIHNLE.png?auth=d245e2d9b7d3f512dd12a09ceda5849c005972bf0025d9d30943fc91a77e1a43&smart=true&width=1408&height=768",
     "category": null,
-    "text": "Conoce el clima de este 26 de octubre en Bahía de Banderas",
-    "link": "https://www.infobae.com/mexico/2026/10/26/conoce-el-clima-de-este-26-de-octubre-en-bahia-de-banderas/"
+    "text": "Cuál es el jugo de fruta que podría reducir las bacterias dañinas para los dientes, según un nuevo estudio",
+    "link": "https://www.infobae.com/salud/2026/10/26/cual-es-el-jugo-de-fruta-que-podria-reducir-las-bacterias-daninas-para-los-dientes-segun-un-nuevo-estudio/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/EF3WBKTHZBAGBNSXBDBXDBHDJM.png?auth=19c8f114c5902958a9bc39c6dec74d95956a01c04c9bba6641e5e1fa92d52b3d&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/BNMXFZRNR5D2HGD2XEFHGXZZSY.JPG?auth=18e45cda209fae3ac4466016629e4ebf662950c147389b3f0c56c6813451488f&smart=true&width=5194&height=3462",
     "category": null,
-    "text": "Ecatepec: la previsión meteorológica para este 26 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/26/ecatepec-la-prevision-meteorologica-para-este-26-de-octubre/"
+    "text": "El Departamento de Justicia de EEUU solicitó que los condados de California identifiquen a los presuntos votantes no ciudadanos",
+    "link": "https://www.infobae.com/estados-unidos/2026/10/26/el-departamento-de-justicia-de-eeuu-solicito-que-los-condados-de-california-identifiquen-a-los-presuntos-votantes-no-ciudadanos/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/G7ZVMA422RFDPEEGA5U4YF3EMI.png?auth=3de95826ae9621998688bbc0c3309c929c97664b2b9e90f7ffbcf203345e65fe&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Clima en Acapulco de Juárez: cuál será la temperatura máxima y mínima este 26 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/26/clima-en-acapulco-de-juarez-cual-sera-la-temperatura-maxima-y-minima-este-26-de-octubre/"
+    "text": "Cataluña pide a WhatsApp y Telegram que cierren los chats que incitan a la violencia",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/26/cataluna-pide-a-whatsapp-y-telegram-que-cierren-los-chats-que-incitan-a-la-violencia/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/OKNTKNABPRHXDKBY6UCPTGIDNA.png?auth=306fa2e8b8572db62038ed93514d43558087a1ff54f8898de98eeec4c93d3b8d&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Pronóstico del clima en Mérida este 26 de octubre: temperatura, lluvias y viento",
-    "link": "https://www.infobae.com/mexico/2026/10/26/pronostico-del-clima-en-merida-este-26-de-octubre-temperatura-lluvias-y-viento/"
+    "text": "Detenido por encadenar a su novia en un piso de Las Tres Mil Viviendas de Sevilla",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/26/detenido-por-encadenar-a-su-novia-en-un-piso-de-las-tres-mil-viviendas-de-sevilla/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/O44ZPUUQIBDCFMGR33BWV7KHBU.png?auth=d255bd9143107e4d238bc464e9aa9429a49a365f09e4dfd7ecd420dba7829a32&smart=true&width=2752&height=1536",
+    "image": null,
     "category": null,
-    "text": "Asesinan en el Callao a Romario Cartagena, animador y bailarín de Guajiro y su Sello de Primera",
-    "link": "https://www.infobae.com/peru/2026/10/26/asesinan-en-el-callao-a-romario-cartagena-animador-y-bailarin-de-guajiro-y-su-sello-de-primera/"
+    "text": "Albiol ve en los disturbios un \"asalto militar\" y culpa al \"populismo de baja intensidad\"",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/26/albiol-ve-en-los-disturbios-un-asalto-militar-y-culpa-al-populismo-de-baja-intensidad/"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/BHOGCUQVUVAM5A3ZTOJUYT67HI.png?auth=c9d121d20dfdc701c22cb5cb4999c3fc99641a9ff464eed4036c67a2d425075e&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Clima: temperatura y probabilidad de lluvia para Puebla de Zaragoza este 26 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/26/clima-temperatura-y-probabilidad-de-lluvia-para-puebla-de-zaragoza-este-26-de-octubre/"
+    "text": "Albiol señala que las conversaciones entre PP y Vox para el Senado \"van por buen camino\"",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/26/albiol-senala-que-las-conversaciones-entre-pp-y-vox-para-el-senado-van-por-buen-camino/"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1229886_023559_video_1800.mp4",
+    "category": "Elecciones Brasil",
+    "text": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
+    "link": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1229892_034631_video_1800.mp4",
+    "category": "Elecciones Brasil",
+    "text": "Bolsonaro no reconoce el triunfo de Lula y pide la anulación de las elecciones",
+    "link": "https://elpais.com/america/2026-10-26/bolsonaro-no-reconoce-el-triunfo-de-lula-y-pide-la-anulacion-de-las-elecciones.html"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1229863_000821_video_1800.mp4",
+    "category": "Elecciones Brasil",
+    "text": "Lula gana, pero el Brasil que lo hizo imbatible ya no existe",
+    "link": "https://elpais.com/america/2026-10-26/lula-gana-pero-el-brasil-que-lo-hizo-imbatible-ya-no-existe.html"
   },
   {
     "date": "2026-10-26",
@@ -204,73 +260,150 @@
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/static.es/thumbnail/rt-ultimo4.jpg",
-    "category": null,
-    "text": "Muere Eric Bauza, la voz de Bugs Bunny y otros personajes icónicos de los Looney Toons",
-    "link": "https://actualidad-rt.com/actualidad/634371-muere-actor-doblaje-eric-bauza-bugs-bunny-loney-toons?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "image": "https://imagenes.elpais.com/resizer/v2/P5HZGJLLEFGQBG3Q6BGNEHJQ6Y.jpg?auth=a26fcb31f9b3f5229c4df09470f3499979ce93579b8944b16fe3fc62605aeed1",
+    "category": "Donald Trump",
+    "text": "Trump llama a Noruega “país de mierda” por no concederle el Nobel de la Paz",
+    "link": "https://elpais.com/internacional/2026-10-26/trump-llama-a-noruega-pais-de-mierda-por-no-concederle-el-nobel.html"
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adec87959bf5b2c85787106.png",
+    "image": "https://imagenes.elpais.com/resizer/v2/XBU5ABKZMRC6XOJGJ3IWXHODGE.jpeg?auth=36a67de75ea1bd46d446da23093f9fd6567c83c85cbeae9e772b8b4b85226399",
     "category": null,
-    "text": "Hutíes anuncian ataques exitosos con decenas de bajas entre fuerzas prosaudíes",
-    "link": "https://actualidad-rt.com/actualidad/634368-huties-anuncian-ataques-exitosos-decenas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Lula, la épica de la izquierda mundial",
+    "link": "https://elpais.com/america/2026-10-26/lula-la-epica-de-la-izquierda-mundial.html"
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adeca31e9ff712f16311656.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf0d6459bf5b7950344076.jpg",
     "category": null,
-    "text": "Memes inundan las redes tras la histórica victoria de Lula en Brasil",
-    "link": "https://actualidad-rt.com/actualidad/634363-memes-inundan-redes-historica-victoria-lula?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Empresario muere en extrañas circunstancias tras caer del balcón de su novia",
+    "link": "https://actualidad-rt.com/actualidad/634385-empresario-morir-caer-balcon-novia-india?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adec7f9e9ff712fb35af73e.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf247159bf5b6e604394a2.jpg",
     "category": null,
-    "text": "\"Dios me eligió\": Lula relaciona su triunfo con la intervención divina y explica por qué",
-    "link": "https://actualidad-rt.com/actualidad/634366-dios-elegir-lula-referir-triunfo-intervencion-divina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Fuertes vientos azotan Italia, causando caos a su paso",
+    "link": "https://actualidad-rt.com/viral/634393-fuertes-vientos-azotan-italia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adebd5159bf5b65c0770980.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf3abf59bf5b7950344096.jpg",
     "category": null,
-    "text": "CGRI desafía versión de EE.UU. sobre estrecho de Ormuz con una foto de almirante del CENTCOM",
-    "link": "https://actualidad-rt.com/actualidad/634268-cgri-desafiar-version-eeuu-estrecho?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Movilizan a un conductor de coche fúnebre en Ucrania mientras trasladaba un cuerpo",
+    "link": "https://actualidad-rt.com/actualidad/634414-video-movilizan-conductor-coche-funebre-ucrania?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adeabbbe9ff7162a84d7c88.png",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf25a7e9ff7130867692a2.jpeg",
     "category": null,
-    "text": "\"Es una derrota para Trump\": el significado regional de la victoria de Lula, según un analista brasileño",
-    "link": "https://actualidad-rt.com/actualidad/634348-experto-ve-victoria-lula-giro?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Choque insólito: camión fuera de control se estrella contra un avión estacionado (VIDEO)",
+    "link": "https://actualidad-rt.com/viral/634400-choque-insolito-camion-fuera-control?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade707059bf5b60320bc000.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf3093e9ff71749375ea4a.jpg",
     "category": null,
-    "text": "Preguntan a Trump si se arrepiente de la guerra con Irán y responde así",
-    "link": "https://actualidad-rt.com/actualidad/634278-preguntar-trump-arrepentir-guerra-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Jugadores de un popular club de fútbol ruso viajaban en el tren de pasajeros atacado por drones de Kiev",
+    "link": "https://actualidad-rt.com/actualidad/634406-jugadores-popular-club-futbol-viajaban-tren-pasajeros?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ade924959bf5b6dfd1121dc.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf337559bf5b19117420a9.jpg",
     "category": null,
-    "text": "\"¡Vota a 'Bibi' Netanyahu!\": Trump envía mensaje de \"gran\" a \"pequeño Satanás\"",
-    "link": "https://actualidad-rt.com/actualidad/634320-trump-mensaje-voto-netanyahu-israel-satanas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Insólito robo: trepa al capó de un coche, distrae al chofer y huye al volante (VIDEO)",
+    "link": "https://actualidad-rt.com/viral/634410-robo-trepar-capo-coche-chofer-huir-turquia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adea5cce9ff712e2d1bd341.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf227559bf5b185602a6c6.jpg",
     "category": null,
-    "text": "\"Vomitaría sobre mí mismo\": Petro rompe el silencio tras escándalo sexual por abuso de poder",
-    "link": "https://actualidad-rt.com/actualidad/634341-petro-responde-polemica-vida-sexual-trump-della-espriella?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Francia habría preparado en secreto un apagón de las redes sociales ante las protestas",
+    "link": "https://actualidad-rt.com/actualidad/634384-premier-frances-habria-preparado-bloqueo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf361d59bf5b19882837ec.jpg",
+    "category": null,
+    "text": "Tropas de Kiev minan las carreteras a Alioshki para impedir la evacuación de civiles",
+    "link": "https://actualidad-rt.com/actualidad/634415-tropas-kiev-minan-carreteras-alioshki?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf25eb59bf5b7950344084.jpg",
+    "category": null,
+    "text": "Irán sobre las elecciones de Israel: \"Es una competencia entre bandas para ver quién comete más crimenes\"",
+    "link": "https://actualidad-rt.com/actualidad/634396-iran-elecciones-israel-competencia-bandas-comete-crimenes?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adf2e4059bf5b185602a6d9.jpg",
+    "category": null,
+    "text": "VIDEO: Una osa polar y su cachorro intentan meterse por la ventana de una base meteorológica",
+    "link": "https://actualidad-rt.com/viral/634407-osa-polar-cachorro-intentar-meterse-ventana-base-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Lula promete cambio en la regulación de plataformas digitales tras su reelección en Brasil",
-    "link": "https://actualidad-rt.com/actualidad/634354-lula-plataformas-digitales-regulacion-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Trump apuesta por Orbán como nuevo secretario general de la ONU, con el posible respaldo de Rusia y China",
+    "link": "https://es.euronews.com/2026/10/26/trump-apuesta-por-orban-como-nuevo-secretario-general-de-la-onu"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 26 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/26/ultimas-noticias-26-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "México: El espectacular desfile de Catrinas hace revivir a los muertos",
+    "link": "https://es.euronews.com/video/2026/10/26/mexico-el-espectacular-desfile-de-catrinas-hace-revivir-a-los-muertos"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "Kiev y Moscú intercambian ataques: 2 muertos y 17 heridos en la región rusa de Vorónezh",
+    "link": "https://es.euronews.com/2026/10/26/ucrania-rusia-intercambian-ataques-voronezh"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "EE.UU.: Nicki Minaj respalda a Trump en un mitin republicano en Michigan",
+    "link": "https://es.euronews.com/video/2026/10/26/eeuu-nicki-minaj-respalda-a-trump-en-un-mitin-republicano-en-michigan"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "De metalúrgico a presidente de Brasil por cuarta vez y contra todo pronóstico: el ascenso de Lula da Silva",
+    "link": "https://es.euronews.com/2026/10/26/de-metalurgico-a-presidente-de-brasil-por-cuarta-vez-lula-da-silva"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "Brasil: Miles salen a las calles para celebrar la victoria electoral de Lula",
+    "link": "https://es.euronews.com/video/2026/10/26/brasil-miles-salen-a-las-calles-para-celebrar-la-victoria-electoral-de-lula"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "Lula remonta y gana las elecciones en Brasil mientras Bolsonaro rechaza los resultados",
+    "link": "https://es.euronews.com/2026/10/26/lula-gana-las-elecciones-en-brasil-mientras-bolsonaro-rechaza-los-resultados"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 26 octubre 2026 - Mañana",
+    "link": "https://es.euronews.com/video/2026/10/26/ultimas-noticias-26-octubre-2026-manana"
   },
   {
     "date": "2026-10-25",
@@ -283,140 +416,7 @@
     "date": "2026-10-25",
     "image": null,
     "category": null,
-    "text": "Fuerza internacional contra las pandillas de Haití contradice a Bukele y no descarta que los cuerpos encontrados sean los 4 soldados salvadoreños",
-    "link": "https://www.bbc.com/mundo/articles/cqev3nexxp91o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "Cómo una mansión de California se convirtió en la \"casa de los horrores\" por el supuesto abuso a 14 niños subrogados",
-    "link": "https://www.bbc.com/mundo/articles/cqly0mlerpnvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "Qué comer para que tu piel se vea más joven y sana",
-    "link": "https://www.bbc.com/mundo/articles/c3ewe42k1k0qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
     "text": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
     "link": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "Momias congeladas y rutas vikingas: los secretos que está revelando el derretimiento de los hielos",
-    "link": "https://www.bbc.com/mundo/articles/c3n0498l71vwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1229891_032101_video_1800.mp4",
-    "category": "María Corina Machado",
-    "text": "María Corina Machado regresa a Venezuela",
-    "link": "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-venezuela.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1226997_080000_video_1800.mp4",
-    "category": "Elecciones Brasil",
-    "text": "Brasil decide entregar todo el poder a los Bolsonaro o dar una última oportunidad a Lula",
-    "link": "https://elpais.com/america/2026-10-25/brasil-decide-entregar-todo-el-poder-a-los-bolsonaro-o-dar-una-ultima-oportunidad-a-lula.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/JWGGGPSH4FONPG5RK7HKUWT3PQ.jpg?auth=4479f0c1fb89f7dba30046cffbf058ee299b96b19f760d89f317bfc174e24525",
-    "category": "Ataque Estados Unidos a Venezuela",
-    "text": "María Corina Machado, el desafío de volver",
-    "link": "https://elpais.com/america/2026-10-25/maria-corina-machado-el-desafio-de-volver.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/KD2N6PA4BRJDNHGDKRKRUGJMAE.jpg?auth=bf3795462794aab5ec343c8a908bdac9076761a301ba85ac0cbb167fd72f25cf",
-    "category": "Vladimir Putin",
-    "text": "¡Otra Yalta no, por favor!",
-    "link": "https://elpais.com/internacional/2026-10-25/otra-yalta-no-por-favor.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/Q63M3WIB7RLMHHKCCLRZ62YHVI.jpg?auth=0a2e20a8dfe1bdbeec07e71c9070e3fa93911bec5fd5b0b414e6e6ada2b2479d",
-    "category": "Elecciones Brasil",
-    "text": "Brasil decide este domingo si seguirá siendo una democracia",
-    "link": "https://elpais.com/america/2026-10-25/brasil-decide-este-domingo-si-seguira-siendo-una-democracia.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/5X76SB27UJFQZHVBMJCGXOCSUE.jpg?auth=8b4d84433109b81ae10e5559a2d5c746c4d58ff75904073c8b13499948eac86d",
-    "category": "Elecciones Brasil",
-    "text": "La cuna del lulismo mantiene la llama y la esperanza: “¡Aquí no hay miedo!”",
-    "link": "https://elpais.com/america/2026-10-25/la-cuna-del-lulismo-mantiene-la-llama-y-la-esperanza-aqui-no-hay-miedo.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/QOA773BDAVDJRI4NVGLRKZA26A.jpg?auth=d130367a543813d98f2d97653861da6a33317af7de757ba6ac498f24df6e5373",
-    "category": "Protestas sociales",
-    "text": "Viaje a la zona cero de la revuelta en Francia",
-    "link": "https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/IBZUIOI5QVNLJFP2MWAYYTCS64.jpg?auth=2d175a1a6b22879979f3cc553c26fa33d1c280782e9d5294eee4cfcdcbc89bd0",
-    "category": "Francia",
-    "text": "Le Pen promete seguridad y soberanía al lanzar su carrera al Elíseo",
-    "link": "https://elpais.com/internacional/2026-10-25/le-pen-promete-seguridad-y-soberania-al-lanzar-su-carrera-al-eliseo.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZYG6UTZBSJBMXF3IAPEG3D6IP4.jpg?auth=6957101e127d2a8ceec9b5d2177a616f8b412b4c15d3487d4c76f60295b4af51",
-    "category": "Benjamin Netanyahu",
-    "text": "Benjamín Netanyahu, un superviviente político aferrado a las guerras para ganar una vez más",
-    "link": "https://elpais.com/internacional/2026-10-25/benjamin-netanyahu-un-superviviente-politico-aferrado-a-las-guerras-para-ganar-una-vez-mas.html"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "El Museo de Arte Luminoso de Budapest fusiona luz y ciencia",
-    "link": "https://es.euronews.com/2026/10/26/museo-arte-luminoso-budapest-fusiona-luz-ciencia"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "Serbia: multitudes celebran en Belgrado tras admitir Vučić su derrota",
-    "link": "https://es.euronews.com/video/2026/10/25/serbia-multitudes-celebran-en-belgrado-tras-admitir-vucic-su-derrota"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "Brasil vota en la segunda vuelta entre Lula y Flávio Bolsonaro: largas colas y urnas en la Amazonía",
-    "link": "https://es.euronews.com/video/2026/10/25/brasil-largas-colas-y-viajes-fluviales-marcan-voto-presidencial-clave"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 25 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/25/ultimas-noticias-25-octubre-2026-tarde"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "Miles de ovejas toman las calles de Madrid por la Fiesta de la Trashumancia",
-    "link": "https://es.euronews.com/video/2026/10/25/miles-de-ovejas-toman-las-calles-de-madrid-por-la-fiesta-de-la-trashumancia"
-  },
-  {
-    "date": "2026-10-25",
-    "image": null,
-    "category": null,
-    "text": "María Corina Machado regresa a Venezuela tras casi 10 meses fuera del país",
-    "link": "https://es.euronews.com/2026/10/25/maria-corina-machado-regresa-venezuela-diez-meses-despues"
   }
 ]

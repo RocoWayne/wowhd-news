@@ -1,80 +1,248 @@
 [
   {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/27a82684-d189-11f1-b597-bba4eee3dc72/w:1024/p:16x9/FORMATO-1-56.png",
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/75d0db1c-d1a7-11f1-a03e-bba4eee3dc72/w:1024/p:16x9/ES-20261026-190754-190921-CS.jpg",
     "category": null,
-    "text": "Elecciones en Israel: el voto joven se inclina a la derecha",
-    "link": "https://www.france24.com/es/video/20261026-elecciones-en-israel-el-voto-joven-se-inclina-a-la-derecha"
+    "text": "Informe desde Ciudad del Vaticano: el papa León XIV retoma su agenda y viajará a Latinoamérica",
+    "link": "https://www.france24.com/es/video/20261027-informe-desde-ciudad-del-vaticano-el-papa-le%C3%B3n-xiv-retoma-su-agenda-y-viajar%C3%A1-a-latinoam%C3%A9rica"
   },
   {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/6c2d93a0-d1a9-11f1-aa89-5b4a75578ebb/w:1024/p:16x9/ES-20261026-191512-191951-CS.jpg",
+    "category": null,
+    "text": "Directo Midterms y el voto en Nueva York, un estado demócrata con suburbios republicanos",
+    "link": "https://www.france24.com/es/video/20261027-directo-midterms-y-el-voto-en-nueva-york-un-estado-dem%C3%B3crata-con-suburbios-republicanos"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/897cf3be-d1aa-11f1-ad83-4b25c96ec90e/w:1024/p:16x9/ES-20261026-200719-200908-CS.jpg",
+    "category": null,
+    "text": "El papa León XIV confirma visita a América Latina tras recibir el visto bueno médico",
+    "link": "https://www.france24.com/es/video/20261027-el-papa-le%C3%B3n-xiv-confirma-visita-a-am%C3%A9rica-latina-tras-recibir-el-visto-bueno-m%C3%A9dico"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/ad596a50-d1a6-11f1-a5fe-bdb9616e85cf/w:1024/p:16x9/ES-20261026-180622-180823-CS.jpg",
+    "category": null,
+    "text": "Gaza y Cisjordania observan con expectativa unas elecciones clave para Netanyahu",
+    "link": "https://www.france24.com/es/video/20261027-gaza-y-cisjordania-observan-con-expectativa-unas-elecciones-clave-para-netanyahu"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/b0aea078-d1a4-11f1-a84a-4b25c96ec90e/w:1024/p:16x9/ES-20261026-180156-180322-CS.jpg",
+    "category": null,
+    "text": "Informe desde Rio de Janeiro: Flávio Bolsonaro desistiría de anular la victoria de Lula",
+    "link": "https://www.france24.com/es/video/20261027-informe-desde-rio-de-janeiro-fl%C3%A1vio-bolsonaro-desistir%C3%ADa-de-anular-la-victoria-de-lula"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/5477986e-d19f-11f1-9f0b-4b25c96ec90e/w:1024/p:16x9/ES-20261026-160240-160436-CS.jpg",
+    "category": null,
+    "text": "Informe desde Washington: lo que se sabe del posible traslado de la sala de prensa de la Casa Blanca",
+    "link": "https://www.france24.com/es/video/20261027-informe-desde-washington-lo-que-se-sabe-del-posible-traslado-de-la-sala-de-prensa-de-la-casa-blanca"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/0b61fc7e-d19e-11f1-b53d-4b25c96ec90e/w:1024/p:16x9/image-4-3.jpg",
+    "category": "América Latina",
+    "text": "Brasil, Trump y la IA: cómo la victoria de Lula plantea un límite para EE. UU. en Latinoamérica",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-brasil-trump-y-la-ia-c%C3%B3mo-la-victoria-de-lula-plantea-un-l%C3%ADmite-para-ee-uu-en-latinoam%C3%A9rica"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/70d6af7e-d19d-11f1-a861-5b4a75578ebb/w:1024/p:16x9/ES-20261026-140451-140658-CS.jpg",
+    "category": null,
+    "text": "Informe desde Jerusalén: Netanyahu centra campaña en el temor; la oposición pide reconciliación",
+    "link": "https://www.france24.com/es/video/20261027-informe-desde-jerusal%C3%A9n-netanyahu-centra-campa%C3%B1a-en-el-temor-la-oposici%C3%B3n-pide-reconciliaci%C3%B3n"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/c9703a9c-d1ac-11f1-bc86-5b4a75578ebb/w:1024/p:16x9/capture-2a71b879.jpg",
+    "category": null,
+    "text": "Ucrania y Rusia se acercan al diálogo, pero los combates en el frente continúan",
+    "link": "https://www.france24.com/es/video/20261027-ucrania-y-rusia-se-acercan-al-di%C3%A1logo-pero-los-combates-en-el-frente-contin%C3%BAan"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/48d513e2-d19a-11f1-a033-bba4eee3dc72/w:1024/p:16x9/ES-20261026-130827-131014-CS.jpg",
+    "category": null,
+    "text": "Decisión histórica: Argelia despliega tropas en Níger tras más de 50 años",
+    "link": "https://www.france24.com/es/video/20261027-decisi%C3%B3n-hist%C3%B3rica-argelia-despliega-tropas-en-n%C3%ADger-tras-m%C3%A1s-de-50-a%C3%B1os"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/0a2cb8fa-d192-11f1-9eeb-bba4eee3dc72/w:1024/p:16x9/000-D4CT863.jpg",
+    "category": "Medio Oriente",
+    "text": "Represalias por el atentado contra una iglesia: ¿qué se sabe de los bombardeos de Jordania en Siria?",
+    "link": "https://www.france24.com/es/medio-oriente/20261027-represalias-por-el-atentado-contra-una-iglesia-qu%C3%A9-se-sabe-de-los-bombardeos-de-jordania-en-siria"
+  },
+  {
+    "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "El delantero inglés Harry Kane gana el Balón de Oro 2026",
-    "link": "https://www.france24.com/es/deportes/20261026-mbapp%C3%A9-kane-y-yamal-encabezan-la-lista-de-favoritos-en-la-muy-abierta-carrera-por-el-bal%C3%B3n-de-oro-2026"
+    "text": "El desafío del \"rey Bibi\": cómo el legado del 7 de octubre define si Netanyahu logra un séptimo mandato como líder de Israel",
+    "link": "https://www.bbc.com/mundo/articles/cjg473r01g73o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/90efbaea-d18d-11f1-8256-5b4a75578ebb/w:1024/p:16x9/2026-10-24T190143Z-1090717508-RC2P9OAL44NQ-RTRMADP-3-FRANCE-PROTEST.jpg",
-    "category": "Francia",
-    "text": "Los anuncios del Gobierno de Francia no calman a los estudiantes, que llaman a seguir las protestas",
-    "link": "https://www.france24.com/es/francia/20261026-los-anuncios-del-gobierno-de-francia-no-calman-a-los-estudiantes-que-llaman-a-seguir-las-protestas"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/a0f6074e-d185-11f1-86c5-bba4eee3dc72/w:1024/p:16x9/ES-20261026-084039-084241-CS.jpg",
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/VC5Y3WGCINCATDOSS7U6SWE7JU.png?auth=758739278110b28fc0617d7fd6db77548444bcb1f299b8c1b236eb4801cf71d4&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Miles de israelíes que residen en el exterior viajan a su país para poder votar en las elecciones",
-    "link": "https://www.france24.com/es/video/20261026-miles-de-israel%C3%ADes-que-residen-en-el-exterior-viajan-a-su-pa%C3%ADs-para-poder-votar-en-las-elecciones"
+    "text": "Previsión meteorológica del estado del tiempo en Culiacán Rosales para este martes 27 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/27/prevision-meteorologica-del-estado-del-tiempo-en-culiacan-rosales-para-este-martes-27-de-octubre/"
   },
   {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/c6dd63f6-d182-11f1-b445-bdb9616e85cf/w:1024/p:16x9/ES-20261026-094020-094237-CS.jpg",
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/V55K73VDGZGBJP3URF3KFHH7YQ.png?auth=9394ef9f492638265edb585b9d92cd7caf11c52de86ca61132dbed0926cb3a98&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "El peso de los partidos árabes en las elecciones legislativas de Israel y el futuro de Netanyahu",
-    "link": "https://www.france24.com/es/video/20261026-el-peso-de-los-partidos-pol%C3%ADticos-en-las-elecciones-legislativas-de-israel-y-el-futuro-de-netanyahu"
+    "text": "Adiós a la incertidumbre, conoce las condiciones climáticas en Santiago Ixcuintla este 27 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/27/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-santiago-ixcuintla-este-27-de-octubre/"
   },
   {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/743b2fbe-d17f-11f1-80ac-bdb9616e85cf/w:1024/p:16x9/ES-20261026-073306-073458-CS.jpg",
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/CTM3ELFPRFFPZKHWJYQSE5AIMY.png?auth=caca8f0337dfee135c34970be02efc69018c8bcad9ae2bfab25373f77c0c4955&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Lula gana la segunda vuelta tras darle vuelta a los resultados; Bolsonaro no reconoce su derrota",
-    "link": "https://www.france24.com/es/video/20261026-lula-gana-la-segunda-vuelta-tras-darle-vuelta-a-los-resultados-bolsonaro-no-reconoce-su-derrota"
+    "text": "Clima: las temperaturas que predominarán este 27 de octubre en Bahía de Banderas",
+    "link": "https://www.infobae.com/mexico/2026/10/27/clima-las-temperaturas-que-predominaran-este-27-de-octubre-en-bahia-de-banderas/"
   },
   {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/9c7b33fe-d17d-11f1-a79c-4d317af013fd/w:1024/p:16x9/ES-20261026-074415-074531-CS.jpg",
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/G7ZVMA422RFDPEEGA5U4YF3EMI.png?auth=3de95826ae9621998688bbc0c3309c929c97664b2b9e90f7ffbcf203345e65fe&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Lecornu se reúne con líderes estudiantiles; protestas continúan a pesar de las vacaciones",
-    "link": "https://www.france24.com/es/video/20261026-lecornu-se-re%C3%BAne-con-l%C3%ADderes-estudiantiles-protestas-contin%C3%BAan-a-pesar-de-las-vacaciones"
+    "text": "Prepárese antes de salir: Este es el pronóstico del clima en Acapulco de Juárez este 27 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/27/preparese-antes-de-salir-este-es-el-pronostico-del-clima-en-acapulco-de-juarez-este-27-de-octubre/"
   },
   {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/cd5da862-bb43-11f1-a203-11fa9f8a3b4f/w:1024/p:16x9/1e419ca5a5c1fae3caf23bf62b3218141b4468be.jpg",
-    "category": "América Latina",
-    "text": "Lula gana las elecciones en Brasil, pero se enfrenta a un complejo panorama para gobernar",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-lula-gana-las-elecciones-en-brasil-pero-se-enfrenta-a-un-complejo-panorama-para-gobernar"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/83fc9bf0-d179-11f1-9c4d-4b25c96ec90e/w:1024/p:16x9/ES-20261026-124342-124945-CS.jpg",
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/OKNTKNABPRHXDKBY6UCPTGIDNA.png?auth=306fa2e8b8572db62038ed93514d43558087a1ff54f8898de98eeec4c93d3b8d&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Directo a...Estambul y el anuncio de Irán de un acuerdo con el Pacto de La Meca",
-    "link": "https://www.france24.com/es/video/20261026-directo-a-estambul-y-el-anuncio-de-ir%C3%A1n-de-un-acuerdo-con-el-pacto-de-la-meca"
+    "text": "Clima: temperatura y probabilidad de lluvia para Mérida este 27 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/27/clima-temperatura-y-probabilidad-de-lluvia-para-merida-este-27-de-octubre/"
   },
   {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/cedccc1e-d177-11f1-984b-4b25c96ec90e/w:1024/p:16x9/ES-20261026-131544-132821-CS.jpg",
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/UMVB6YJHXREWLMURQ2RN6TI5RE.png?auth=889b2f921b01b0ff085938147cfa6ce1539245ffcb91bcd737724b868ac057d7&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "¿Cuál fue la clave del triunfo del movimiento de los estudiantes en las elecciones en Serbia?",
-    "link": "https://www.france24.com/es/video/20261026-cu%C3%A1l-fue-la-clave-del-triunfo-del-movimiento-de-los-estudiantes-en-las-elecciones-en-serbia"
+    "text": "Clima: las temperaturas que predominarán este 27 de octubre en Puebla de Zaragoza",
+    "link": "https://www.infobae.com/mexico/2026/10/27/clima-las-temperaturas-que-predominaran-este-27-de-octubre-en-puebla-de-zaragoza/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/M7AFGNJ4PBDE5NPOAHOJPNX3CA.png?auth=566ac7994b53ddb22982c4b1462dd63941d1dc4fdf4c481cd26a4ab6567c0a54&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Clima: temperatura y probabilidad de lluvia para Monterrey este 27 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/27/clima-temperatura-y-probabilidad-de-lluvia-para-monterrey-este-27-de-octubre/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/OJOK2DWRQRASZBWPEY7DHHI274.png?auth=763d73e4b8b5130475f8500846b707a9b5924f18da6b268ae7248b2c3967c088&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Adiós a la incertidumbre, conoce las condiciones climáticas en Tijuana este 27 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/27/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-tijuana-este-27-de-octubre/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/AJQMDJWGKVBWDAFMZMAXMVZZ2E.png?auth=5204c9e38625f5ac79b15a1130194f6f99698f50bf9468e54fc89450b5941176&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Guadalajara: la predicción del tiempo para este 27 de octubre",
+    "link": "https://www.infobae.com/mexico/2026/10/27/guadalajara-la-prediccion-del-tiempo-para-este-27-de-octubre/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/HCVOIRYAY5FHVND64XOCOYJLVU.png?auth=c7db62e435cfc869bb8ff855c1f72fb243b6ea0865f2f6199dbeb693a2795a9e&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Clima en Cancún: conoce el pronóstico y prepárate antes de salir",
+    "link": "https://www.infobae.com/mexico/2026/10/27/clima-en-cancun-conoce-el-pronostico-y-preparate-antes-de-salir/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Feijóo presenta la lista de Madrid de la mano de Álvarez de Toledo y con el aval de Ayuso",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/feijoo-presenta-la-lista-de-madrid-de-la-mano-de-alvarez-de-toledo-y-con-el-aval-de-ayuso/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/S4HRATMSCZC5LKID5MCCTKH54E.jpg?auth=5f842b3e8870fb1e0df3c1790ddbf09a18245077c7b0ede112949b8be48f71ca&smart=true&width=1456&height=816",
+    "category": null,
+    "text": "¿Cómo estará el clima en Ciudad de México este 27 de octubre?",
+    "link": "https://www.infobae.com/mexico/2026/10/27/como-estara-el-clima-en-ciudad-de-mexico-este-27-de-octubre/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae0108659bf5b6ac613e29f.jpeg",
+    "category": null,
+    "text": "FT: El millonario más misterioso de nuestros tiempos podría quedar al descubierto por primera vez",
+    "link": "https://actualidad-rt.com/actualidad/634534-millonario-misterioso-podria-quedar-descubierto?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae017dde9ff71795e221181.jpg",
+    "category": null,
+    "text": "La glorificación de colaboradores nazis en Ucrania abre una nueva grieta en su relación con un importante aliado",
+    "link": "https://actualidad-rt.com/actualidad/634540-glorificacion-colaboradores-nazis-ucrania-abrir-grieta-aliado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "VIDEO: Desmantelan un narcolaboratorio en México y decomisan 100 kilos de droga",
+    "link": "https://actualidad-rt.com/actualidad/634544-mexico-sinaloa-desmantelan-narcolaboratorio?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Descubren el pub más antiguo del Reino Unido, que funciona desde hace 600 años",
+    "link": "https://actualidad-rt.com/actualidad/634545-descubren-pub-antiguo-reino-unido?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae018e159bf5b0c021233f5.png",
+    "category": null,
+    "text": "VIDEO: Artillería rusa destruye posiciones enemigas",
+    "link": "https://actualidad-rt.com/actualidad/634543-video-artilleria-rusa-destruir-posiciones-enemigas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae0197259bf5b30711deefb.JPG",
+    "category": null,
+    "text": "\"Casa de los horrores\": una pareja es acusada de someter a tres niños huérfanos a años de abusos",
+    "link": "https://actualidad-rt.com/actualidad/634511-casa-horrores-pareja-acusada-someter?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae00ef859bf5b3055368aa2.jpg",
+    "category": null,
+    "text": "\"Un posible vistazo al futuro\": Detectan un nuevo peligro generado por el calentamiento global",
+    "link": "https://actualidad-rt.com/actualidad/634522-calentamiento-global-nuevo-deslizamiento-suelo-congelado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Una palta gigante cae de un árbol y mata a un bebé de 12 días de nacido en Argentina",
+    "link": "https://actualidad-rt.com/actualidad/634504-palta-gigante-cae-arbol-mata-bebe?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae00c90e9ff7131c77bc9e8.jpg",
+    "category": null,
+    "text": "Reportes: Ejército de EE.UU. practica excavación de fosas temporales ante posibles conflictos a gran escala",
+    "link": "https://actualidad-rt.com/actualidad/634520-ejercito-eeuu-practicar-excavacion-fosas-temporales?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adff224e9ff715373047449.jpg",
+    "category": null,
+    "text": "\"Creen que es Soros\": Inesperada reacción de Trump al ser interrumpido en pleno mitin",
+    "link": "https://actualidad-rt.com/actualidad/634529-video-trump-dar-tajante-respuesta-manifestante?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/fe270598-d17c-11f1-a6ff-4d317af013fd/w:1024/p:16x9/2026-10-26T043326Z-968424161-RC2OAOA9OSCG-RTRMADP-3-BRAZIL-ELECTION.jpg",
-    "category": "En Contexto",
-    "text": "Elecciones en Brasil: los gráficos que explican la remontada de Lula",
-    "link": "https://www.france24.com/es/programas/en-contexto/20261026-elecciones-en-brasil-los-gr%C3%A1ficos-que-explican-la-remontada-de-lula"
+    "image": "https://s.france24.com/media/display/7b6c2266-d184-11f1-8bfc-bdb9616e85cf/w:1024/p:16x9/ES-20261026-130612-130803-CS.jpg",
+    "category": null,
+    "text": "Irán y el Pacto de La Meca buscan rebajar las tensiones en Medio Oriente",
+    "link": "https://www.france24.com/es/video/20261026-ir%C3%A1n-y-el-pacto-de-la-meca-buscan-rebajar-las-tensiones-en-medio-oriente"
   },
   {
     "date": "2026-10-26",
@@ -87,22 +255,15 @@
     "date": "2026-10-26",
     "image": null,
     "category": null,
+    "text": "Bolsonaro se presenta como líder de la oposición a Lula sin admitir la derrota y su partido sí reconoce los resultados",
+    "link": "https://www.bbc.com/mundo/articles/cm4g172l4k87o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-26",
+    "image": null,
+    "category": null,
     "text": "\"Me pareció otra elección amañada\": la reacción de Donald Trump ante la victoria de Lula en las presidenciales de Brasil",
     "link": "https://www.bbc.com/mundo/articles/cm0j05gd09jyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "El \"ejército digital\" de 10 millones de personas en WhatsApp que ayudó a Lula a lograr una victoria histórica",
-    "link": "https://www.bbc.com/mundo/articles/cqkgj20700nzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vučić en Serbia",
-    "link": "https://www.bbc.com/mundo/articles/cm78pv28195xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
@@ -115,36 +276,8 @@
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Por qué Flávio Bolsonaro pide anular las elecciones en Brasil y qué posibilidades tiene de lograrlo, según los expertos",
-    "link": "https://www.bbc.com/mundo/articles/c6vg7pg5gezno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
-    "link": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Lula gana las elecciones de Brasil con una remontada histórica y tendrá un cuarto mandato",
-    "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Cómo logró Lula una remontada histórica y qué impacto tiene su triunfo en América Latina",
-    "link": "https://www.bbc.com/mundo/articles/cw073jk3g44ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "El último gran triunfo de Lula: por qué su victoria en Brasil tiene un valor tan especial para él y la izquierda de América Latina",
-    "link": "https://www.bbc.com/mundo/articles/c6kglv4mk49wo?at_medium=RSS&at_campaign=rss"
+    "text": "El \"ejército digital\" de 10 millones de personas en WhatsApp que ayudó a Lula a lograr una victoria histórica",
+    "link": "https://www.bbc.com/mundo/articles/cqkgj20700nzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
@@ -157,92 +290,36 @@
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "\"Brasil no será patio trasero de nadie\": el discurso de Lula tras remontar y ganar las elecciones presidenciales frente a Bolsonaro",
-    "link": "https://www.bbc.com/mundo/articles/cwm24j2ekye4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/RWX3JHB7RNE5LHXXZ7WZ55N4QY.png?auth=6805f5b6ccaeffe69e25b55509494a3df3110cb36d34e7c29c61012c2e1ec015&smart=true&width=2752&height=1536",
-    "category": null,
-    "text": "Salsa cremosa de chile chipotle: receta fácil para acompañar pollo y pastas",
-    "link": "https://www.infobae.com/mexico/2026/10/26/salsa-cremosa-de-chile-chipotle-receta-facil-para-acompanar-pollo-y-pastas/"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/SSX7SUT53NEA3NGVRGKF4DT6P4.JPG?auth=f746bc614c18e7555e1c181f3d9d37b29ad560dc1f8015f9570131f413fe5342&smart=true&width=1206&height=804",
-    "category": null,
-    "text": "Agenda confirmada del papa León XIV en Lima y Callao: horarios, lugares y actividades durante su visita",
-    "link": "https://www.infobae.com/peru/2026/10/26/agenda-confirmada-del-papa-leon-xiv-en-lima-y-callao-horarios-lugares-y-actividades-durante-su-visita/"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/4I4KHUZI6ZDFBNVSIA6HDB72FY.jpeg?auth=b06e07d3497def1026a0831d959ca34d5e255ce323473aa6b2c600b702e34ca2&smart=true&width=1200&height=840",
-    "category": null,
-    "text": "“Espeluznantes” altercados en Bilbao con unos 20 detenidos: encapuchados saquean comercios y queman contenedores y vehículos",
-    "link": "https://www.infobae.com/espana/2026/10/26/espeluznantes-altercados-en-bilbao-con-unos-20-detenidos-encapuchados-saquean-comercios-y-queman-contenedores-y-vehiculos/"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/Q4OVATXQFFDWLMWTN4NVR6DY34?auth=1477142c0722b7c89d8369f04add15bddff59f73abd48ab3e03781704281aac1&smart=true&width=5973&height=3360",
-    "category": null,
-    "text": "Las 30 mejores fotos de la gala del Balón de Oro 2026",
-    "link": "https://www.infobae.com/fotos/2026/10/26/las-mejores-fotos-de-la-gala-del-balon-de-oro-2026/"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/3IBVMQMTOBFHDOOHAON7V7M45Y.jpeg?auth=0725a4105495252243543453242b80503c334bbe22c921a43fdb4e03154e7164&smart=true&width=1600&height=1200",
-    "category": null,
-    "text": "Presos de la cárcel La Picota ofrecieron entregar sus celulares para frenar la extorsión, pero primero piden ser escuchados por De la Espriella",
-    "link": "https://www.infobae.com/colombia/2026/10/26/presos-de-la-carcel-la-picota-ofrecieron-entregar-sus-celulares-para-frenar-la-extorsion-pero-primero-piden-ser-escuchados-por-de-la-espriella/"
+    "text": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
+    "link": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Tornado en zona central de Chile arrasa con un colegio y provoca daños a 25 viviendas",
-    "link": "https://www.infobae.com/america/agencias/2026/10/26/tornado-en-zona-central-de-chile-arrasa-con-un-colegio-y-provoca-danos-a-25-viviendas/"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/ZKMONCBZPVEJNJMEZBTZH2WYNY.jpg?auth=ffa76d4eadb34f5390a76a99b2a46f7b823d328ce2434e3f51045a07012f44bd&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "AMP. La española Alexia Putellas, ganadora del Balón de Oro 2026",
-    "link": "https://www.infobae.com/america/agencias/2026/10/26/amp-la-espanola-alexia-putellas-ganadora-del-balon-de-oro-2026/"
+    "text": "Cómo logró Lula una remontada histórica y qué impacto tiene su triunfo en América Latina",
+    "link": "https://www.bbc.com/mundo/articles/cw073jk3g44ro?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "R. Dominicana dice que \"en tres meses\" fuerza antipandillas en Haití tendrá 5500 efectivos",
-    "link": "https://www.infobae.com/america/agencias/2026/10/26/r-dominicana-dice-que-en-tres-meses-fuerza-antipandillas-en-haiti-tendra-5500-efectivos/"
+    "text": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vučić en Serbia",
+    "link": "https://www.bbc.com/mundo/articles/cm78pv28195xo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/IB7WO6IIUFHRLNQ3L2ARBR4SBU.png?auth=1100195ef695830d12616b5cd49e7e203fe61a3773106826796181a91e93665a&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "¿Qué está pasando en el Metro y Metrobús hoy 26 de octubre? Metro reporta operativo en estación Hidalgo por celebraciones a San Judas Tadeo",
-    "link": "https://www.infobae.com/mexico/2026/10/26/que-esta-pasando-en-el-metro-y-metrobus-hoy-26-de-octubre/"
+    "text": "El último gran triunfo de Lula: por qué su victoria en Brasil tiene un valor tan especial para él y la izquierda de América Latina",
+    "link": "https://www.bbc.com/mundo/articles/c6kglv4mk49wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/PNKPV4YMVBCQ3N37VOC4JVDCEQ.JPG?auth=91d221f95051378e988361da2affeaf46f0db846efbdc5588812d14521f490a2&smart=true&width=4493&height=3059",
+    "image": null,
     "category": null,
-    "text": "Charlyn Corral es la primera mexicana galardonada en el Balón de Oro 2026: la distinguen como la mejor delantera del año",
-    "link": "https://www.infobae.com/mexico/deportes/2026/10/26/balon-de-oro-2026-charlyn-corral-gana-distincion-a-la-mejor-delantera-de-la-temporada/"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/7SWAW2CJ2RC3DA674BXRBX6ETA.JPG?auth=8751c19fd5bc644995edaaf443a6f86273b300d773065e15b92a02c6b6dd9c85&smart=true&width=2906&height=1932",
-    "category": null,
-    "text": "El partido de Flavio Bolsonaro reconoció la victoria de Lula da Silva en el balotaje en Brasil",
-    "link": "https://www.infobae.com/america/america-latina/2026/10/26/el-partido-de-flavio-bolsonaro-reconocio-la-victoria-de-lula-da-silva-en-el-balotaje-en-brasil/"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://www.infobae.com/resizer/v2/5QG6HWWOAVEJTEMLCZS552WPVU.jpg?auth=82167cb7b33df47c80c8a3d7199d79d63d7b4a58a3e5578f50e331cd15ec5500&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Resultados Super Astro Sol hoy 26 de octubre: verifique el signo ganador",
-    "link": "https://www.infobae.com/colombia/2026/10/26/resultados-super-astro-sol-hoy-26-de-octubre-verifique-el-signo-ganador/"
+    "text": "Por qué Flávio Bolsonaro pidió anular las elecciones en Brasil pese a las pocas posibilidades que tenía de lograrlo, según los expertos",
+    "link": "https://www.bbc.com/mundo/articles/c6vg7pg5gezno?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
@@ -311,76 +388,6 @@
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Los Países Bajos planean prescindir de 25.000 funcionarios públicos",
-    "link": "https://actualidad-rt.com/actualidad/634513-paises-bajos-recortes-funcionarios-publicos?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfc43259bf5b0c021233b6.jpg",
-    "category": null,
-    "text": "La deuda de la UE se dispara mientras Bruselas busca más dinero para Kiev",
-    "link": "https://actualidad-rt.com/actualidad/634486-deuda-ue-disparar-bruselas-buscar-dinero-kiev?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfd71ee9ff7131a075de42.jpg",
-    "category": null,
-    "text": "Las reservas de petróleo de EE.UU. caen a su nivel más bajo desde 1982",
-    "link": "https://actualidad-rt.com/actualidad/634507-reservas-petroleo-eeuu-caer-nivel?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfdec8e9ff71652175e827.jpg",
-    "category": null,
-    "text": "Las redes explotan al ganar Harry Kane su primer Balón de Oro",
-    "link": "https://actualidad-rt.com/viral/634519-redes-explotan-ganar-harry-kane?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfdb1ee9ff7104267fce26.jpg",
-    "category": null,
-    "text": "¿El regreso del chupacabras? Captan a misteriosa criatura en México (VIDEO)",
-    "link": "https://actualidad-rt.com/viral/634501-regreso-chupacabras-misteriosa-criatura-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfdda059bf5b0bde5b52d3.jpg",
-    "category": null,
-    "text": "G1: El partido de Flávio Bolsonaro reconoce la victoria de Lula con un \"pero\"",
-    "link": "https://actualidad-rt.com/actualidad/634517-partido-liberal-flavio-bolsonaro-reconoce-lula?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfdc8359bf5b0c19601ee7.jpg",
-    "category": null,
-    "text": "Harry Kane gana el Balón de Oro 2026",
-    "link": "https://actualidad-rt.com/actualidad/634442-balon-oro-2026?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfd6e5e9ff7153651ea1dc.jpg",
-    "category": null,
-    "text": "Anuncian a la ganadora del balón de oro femenino",
-    "link": "https://actualidad-rt.com/actualidad/634514-anunciar-ganadora-balon-oro?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Miembro de una familia real aparece muerto en medio de la calle",
-    "link": "https://actualidad-rt.com/actualidad/634503-miembro-familia-real-aparece-muerto?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfc476e9ff71538c23df4a.jpg",
-    "category": null,
-    "text": "Claude accede de forma autónoma a datos de votantes en EE.UU. a pocos días de las elecciones de medio término",
-    "link": "https://actualidad-rt.com/actualidad/634479-claude-acceder-forma-autonoma-datos-votantes-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
     "text": "Francia: multitudes llenan el Puerto Viejo de Marsella en protesta antirracista",
     "link": "https://es.euronews.com/video/2026/10/26/francia-multitudes-llenan-el-puerto-viejo-de-marsella-en-protesta-antirracista"
   },
@@ -411,12 +418,5 @@
     "category": null,
     "text": "Rusia: Las llamas arrasan edificios tras el ataque de un dron ucraniano en Vorónezh",
     "link": "https://es.euronews.com/video/2026/10/26/rusia-las-llamas-arrasan-edificios-tras-ataque-de-dron-ucraniano-en-voronezh"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "El Papa León XIV confirma su viaje a Latinoamérica tras recuperarse de su operación",
-    "link": "https://es.euronews.com/2026/10/26/el-papa-leon-xiv-confirma-su-viaje-a-latinoamerica-tras-recuperarse-de-su-operacion"
   }
 ]

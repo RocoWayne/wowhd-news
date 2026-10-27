@@ -1,6 +1,41 @@
 [
   {
     "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/094b5c58-b0a8-11f1-9d87-005056a97e36/w:1024/p:16x9/luis-galeeano-redes-sociales.jpg",
+    "category": "América Latina",
+    "text": "EE. UU. concede asilo político al periodista nicaragüense Luis Galeano tras ser detenido por ICE: ABC del caso",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-ee-uu-concede-asilo-pol%C3%ADtico-al-periodista-nicarag%C3%BCense-luis-galeano-tras-ser-detenido-por-ice-abc-del-caso"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/c93dc480-d1ee-11f1-a355-bdb9616e85cf/w:1024/p:16x9/2026-10-08T060011Z-1066728630-RC2TXNA8Q1NX-RTRMADP-3-UKRAINE-CRISIS-OLESHKY.jpg",
+    "category": "Europa",
+    "text": "Entra en vigor la tregua en Oleshky mediada por Melania Trump, mientras Kiev sufre nuevos ataques",
+    "link": "https://www.france24.com/es/europa/20261027-entra-en-vigor-la-tregua-en-oleshky-mediada-por-melania-trump-mientras-kiev-sufre-nuevos-ataques"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/80932de6-d1e0-11f1-81e0-bba4eee3dc72/w:1024/p:16x9/000-D4HD39E.jpg",
+    "category": "América Latina",
+    "text": "Flávio Bolsonaro afirma que recibió prohibición para salir de Brasil: lo que viene para el excandidato",
+    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-fl%C3%A1vio-bolsonaro-afirma-que-recibi%C3%B3-prohibici%C3%B3n-para-salir-de-brasil-lo-que-viene-para-el-excandidato"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/cccc143c-d1f6-11f1-b946-bdb9616e85cf/w:1024/p:16x9/2026-10-27T100731Z-416951457-RC2LBOA3CLEE-RTRMADP-3-ISRAEL-ELECTION.jpg",
+    "category": "Medio Oriente",
+    "text": "🔴 En directo: Israel reporta la mayor afluencia a las urnas en 45 años, mientras pone a prueba a Netanyahu",
+    "link": "https://www.france24.com/es/medio-oriente/20261027-%F0%9F%94%B4-en-directo-i-abren-las-urnas-en-israel-el-pa%C3%ADs-vota-en-sus-primeras-elecciones-desde-los-ataques-del-7-de-octubre"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/e65942b8-d1b4-11f1-be5d-bba4eee3dc72/w:1024/p:16x9/FORMATO-1-57.png",
+    "category": null,
+    "text": "Elecciones Israel: diferencias y similitudes entre Netanyahu y Eizenkot",
+    "link": "https://www.france24.com/es/video/20261027-elecciones-israel-diferencias-y-similitudes-entre-netanyahu-y-eizenkot"
+  },
+  {
+    "date": "2026-10-27",
     "image": "https://s.france24.com/media/display/75d0db1c-d1a7-11f1-a03e-bba4eee3dc72/w:1024/p:16x9/ES-20261026-190754-190921-CS.jpg",
     "category": null,
     "text": "Informe desde Ciudad del Vaticano: el papa León XIV retoma su agenda y viajará a Latinoamérica",
@@ -50,34 +85,6 @@
   },
   {
     "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/70d6af7e-d19d-11f1-a861-5b4a75578ebb/w:1024/p:16x9/ES-20261026-140451-140658-CS.jpg",
-    "category": null,
-    "text": "Informe desde Jerusalén: Netanyahu centra campaña en el temor; la oposición pide reconciliación",
-    "link": "https://www.france24.com/es/video/20261027-informe-desde-jerusal%C3%A9n-netanyahu-centra-campa%C3%B1a-en-el-temor-la-oposici%C3%B3n-pide-reconciliaci%C3%B3n"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/c9703a9c-d1ac-11f1-bc86-5b4a75578ebb/w:1024/p:16x9/capture-2a71b879.jpg",
-    "category": null,
-    "text": "Ucrania y Rusia se acercan al diálogo, pero los combates en el frente continúan",
-    "link": "https://www.france24.com/es/video/20261027-ucrania-y-rusia-se-acercan-al-di%C3%A1logo-pero-los-combates-en-el-frente-contin%C3%BAan"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/48d513e2-d19a-11f1-a033-bba4eee3dc72/w:1024/p:16x9/ES-20261026-130827-131014-CS.jpg",
-    "category": null,
-    "text": "Decisión histórica: Argelia despliega tropas en Níger tras más de 50 años",
-    "link": "https://www.france24.com/es/video/20261027-decisi%C3%B3n-hist%C3%B3rica-argelia-despliega-tropas-en-n%C3%ADger-tras-m%C3%A1s-de-50-a%C3%B1os"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/0a2cb8fa-d192-11f1-9eeb-bba4eee3dc72/w:1024/p:16x9/000-D4CT863.jpg",
-    "category": "Medio Oriente",
-    "text": "Represalias por el atentado contra una iglesia: ¿qué se sabe de los bombardeos de Jordania en Siria?",
-    "link": "https://www.france24.com/es/medio-oriente/20261027-represalias-por-el-atentado-contra-una-iglesia-qu%C3%A9-se-sabe-de-los-bombardeos-de-jordania-en-siria"
-  },
-  {
-    "date": "2026-10-27",
     "image": null,
     "category": null,
     "text": "El desafío del \"rey Bibi\": cómo el legado del 7 de octubre define si Netanyahu logra un séptimo mandato como líder de Israel",
@@ -85,164 +92,283 @@
   },
   {
     "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/VC5Y3WGCINCATDOSS7U6SWE7JU.png?auth=758739278110b28fc0617d7fd6db77548444bcb1f299b8c1b236eb4801cf71d4&smart=true&width=1920&height=1080",
+    "image": null,
     "category": null,
-    "text": "Previsión meteorológica del estado del tiempo en Culiacán Rosales para este martes 27 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/27/prevision-meteorologica-del-estado-del-tiempo-en-culiacan-rosales-para-este-martes-27-de-octubre/"
+    "text": "El sencillo test que revela mucho sobre tu estado de salud",
+    "link": "https://www.bbc.com/mundo/articles/crd6dxn11vpvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/V55K73VDGZGBJP3URF3KFHH7YQ.png?auth=9394ef9f492638265edb585b9d92cd7caf11c52de86ca61132dbed0926cb3a98&smart=true&width=1920&height=1080",
+    "image": "https://www.infobae.com/resizer/v2/PEPXCJRVDNHFTIRD5MD756QB7U.jpg?auth=48ccdfc8edd4f94c3abd544bb81011fa518646a9ed09b371b157f897f46f0445&smart=true&width=1600&height=900",
     "category": null,
-    "text": "Adiós a la incertidumbre, conoce las condiciones climáticas en Santiago Ixcuintla este 27 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/27/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-santiago-ixcuintla-este-27-de-octubre/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/CTM3ELFPRFFPZKHWJYQSE5AIMY.png?auth=caca8f0337dfee135c34970be02efc69018c8bcad9ae2bfab25373f77c0c4955&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Clima: las temperaturas que predominarán este 27 de octubre en Bahía de Banderas",
-    "link": "https://www.infobae.com/mexico/2026/10/27/clima-las-temperaturas-que-predominaran-este-27-de-octubre-en-bahia-de-banderas/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/G7ZVMA422RFDPEEGA5U4YF3EMI.png?auth=3de95826ae9621998688bbc0c3309c929c97664b2b9e90f7ffbcf203345e65fe&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Prepárese antes de salir: Este es el pronóstico del clima en Acapulco de Juárez este 27 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/27/preparese-antes-de-salir-este-es-el-pronostico-del-clima-en-acapulco-de-juarez-este-27-de-octubre/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/OKNTKNABPRHXDKBY6UCPTGIDNA.png?auth=306fa2e8b8572db62038ed93514d43558087a1ff54f8898de98eeec4c93d3b8d&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Clima: temperatura y probabilidad de lluvia para Mérida este 27 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/27/clima-temperatura-y-probabilidad-de-lluvia-para-merida-este-27-de-octubre/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/UMVB6YJHXREWLMURQ2RN6TI5RE.png?auth=889b2f921b01b0ff085938147cfa6ce1539245ffcb91bcd737724b868ac057d7&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Clima: las temperaturas que predominarán este 27 de octubre en Puebla de Zaragoza",
-    "link": "https://www.infobae.com/mexico/2026/10/27/clima-las-temperaturas-que-predominaran-este-27-de-octubre-en-puebla-de-zaragoza/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/M7AFGNJ4PBDE5NPOAHOJPNX3CA.png?auth=566ac7994b53ddb22982c4b1462dd63941d1dc4fdf4c481cd26a4ab6567c0a54&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Clima: temperatura y probabilidad de lluvia para Monterrey este 27 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/27/clima-temperatura-y-probabilidad-de-lluvia-para-monterrey-este-27-de-octubre/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/OJOK2DWRQRASZBWPEY7DHHI274.png?auth=763d73e4b8b5130475f8500846b707a9b5924f18da6b268ae7248b2c3967c088&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Adiós a la incertidumbre, conoce las condiciones climáticas en Tijuana este 27 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/27/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-tijuana-este-27-de-octubre/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/AJQMDJWGKVBWDAFMZMAXMVZZ2E.png?auth=5204c9e38625f5ac79b15a1130194f6f99698f50bf9468e54fc89450b5941176&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Guadalajara: la predicción del tiempo para este 27 de octubre",
-    "link": "https://www.infobae.com/mexico/2026/10/27/guadalajara-la-prediccion-del-tiempo-para-este-27-de-octubre/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/HCVOIRYAY5FHVND64XOCOYJLVU.png?auth=c7db62e435cfc869bb8ff855c1f72fb243b6ea0865f2f6199dbeb693a2795a9e&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Clima en Cancún: conoce el pronóstico y prepárate antes de salir",
-    "link": "https://www.infobae.com/mexico/2026/10/27/clima-en-cancun-conoce-el-pronostico-y-preparate-antes-de-salir/"
+    "text": "PNV advierte que \"votar al PP es votar a la ultraderecha\", tras su acuerdo con Vox para el Senado",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/pnv-advierte-que-votar-al-pp-es-votar-a-la-ultraderecha-tras-su-acuerdo-con-vox-para-el-senado/"
   },
   {
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "Feijóo presenta la lista de Madrid de la mano de Álvarez de Toledo y con el aval de Ayuso",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/27/feijoo-presenta-la-lista-de-madrid-de-la-mano-de-alvarez-de-toledo-y-con-el-aval-de-ayuso/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/S4HRATMSCZC5LKID5MCCTKH54E.jpg?auth=5f842b3e8870fb1e0df3c1790ddbf09a18245077c7b0ede112949b8be48f71ca&smart=true&width=1456&height=816",
-    "category": null,
-    "text": "¿Cómo estará el clima en Ciudad de México este 27 de octubre?",
-    "link": "https://www.infobae.com/mexico/2026/10/27/como-estara-el-clima-en-ciudad-de-mexico-este-27-de-octubre/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae0108659bf5b6ac613e29f.jpeg",
-    "category": null,
-    "text": "FT: El millonario más misterioso de nuestros tiempos podría quedar al descubierto por primera vez",
-    "link": "https://actualidad-rt.com/actualidad/634534-millonario-misterioso-podria-quedar-descubierto?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae017dde9ff71795e221181.jpg",
-    "category": null,
-    "text": "La glorificación de colaboradores nazis en Ucrania abre una nueva grieta en su relación con un importante aliado",
-    "link": "https://actualidad-rt.com/actualidad/634540-glorificacion-colaboradores-nazis-ucrania-abrir-grieta-aliado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "La izquierda apunta que la ultraderecha puede estar tras altercados de Barcelona y Bilbao",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/la-izquierda-apunta-que-la-ultraderecha-puede-estar-tras-altercados-de-barcelona-y-bilbao/"
   },
   {
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "VIDEO: Desmantelan un narcolaboratorio en México y decomisan 100 kilos de droga",
-    "link": "https://actualidad-rt.com/actualidad/634544-mexico-sinaloa-desmantelan-narcolaboratorio?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "El PP no ve \"nada que celebrar\" sobre el acuerdo de política agrícola de la UE",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/el-pp-no-ve-nada-que-celebrar-sobre-el-acuerdo-de-politica-agricola-de-la-ue/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/KKEW57SHHFENPGIG2ID4ENTV74.jpg?auth=59cacf82e19e414b099293ac2865ed8275b8285ca3c45a36aef3d670a1a4d7e3&smart=true&width=1600&height=1067",
+    "category": null,
+    "text": "Sumar apunta a la ultraderecha en los disturbios de Barcelona y Bilbao y pide investigar: \"Follow the TikToker\"",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/sumar-apunta-a-la-ultraderecha-en-los-disturbios-de-barcelona-y-bilbao-y-pide-investigar-follow-the-tiktoker/"
   },
   {
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "Descubren el pub más antiguo del Reino Unido, que funciona desde hace 600 años",
-    "link": "https://actualidad-rt.com/actualidad/634545-descubren-pub-antiguo-reino-unido?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Exprofesor de kárate de Barcelona acepta 26 años y medio por abusar sexualmente a menores",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/exprofesor-de-karate-de-barcelona-acepta-26-anos-y-medio-por-abusar-sexualmente-a-menores/"
   },
   {
     "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae018e159bf5b0c021233f5.png",
+    "image": "https://www.infobae.com/resizer/v2/IYVNJ2HCQNBKNOCZ7DRTMSGBUA.jpg?auth=2c40a763c5dd083c042cce47a1307dfe51be79d260f52567ebd5fefd5a04a157&smart=true&width=1600&height=1067",
     "category": null,
-    "text": "VIDEO: Artillería rusa destruye posiciones enemigas",
-    "link": "https://actualidad-rt.com/actualidad/634543-video-artilleria-rusa-destruir-posiciones-enemigas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Compromís siente \"asco\" ante el pacto PP-Vox para el Senado y les acusa de \"humillar a las víctimas de la dana\"",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/compromis-siente-asco-ante-el-pacto-pp-vox-para-el-senado-y-les-acusa-de-humillar-a-las-victimas-de-la-dana/"
   },
   {
     "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae0197259bf5b30711deefb.JPG",
+    "image": "https://www.infobae.com/resizer/v2/6CNCPVTFTBDVVHKEPB7KGPE7OI.JPG?auth=23ea257a76267edd6333987c98e501252e7154ebe039d21153434c9b44fc80f3&smart=true&width=3713&height=2475",
     "category": null,
-    "text": "\"Casa de los horrores\": una pareja es acusada de someter a tres niños huérfanos a años de abusos",
-    "link": "https://actualidad-rt.com/actualidad/634511-casa-horrores-pareja-acusada-someter?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae00ef859bf5b3055368aa2.jpg",
-    "category": null,
-    "text": "\"Un posible vistazo al futuro\": Detectan un nuevo peligro generado por el calentamiento global",
-    "link": "https://actualidad-rt.com/actualidad/634522-calentamiento-global-nuevo-deslizamiento-suelo-congelado?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "EN VIVO | “Vayan a votar”: Netanyahu emitió su sufragio en Jerusalén y los israelíes acuden masivamente a las urnas",
+    "link": "https://www.infobae.com/america/mundo/2026/10/27/en-vivo-elecciones-parlamentarias-en-israel/"
   },
   {
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "Una palta gigante cae de un árbol y mata a un bebé de 12 días de nacido en Argentina",
-    "link": "https://actualidad-rt.com/actualidad/634504-palta-gigante-cae-arbol-mata-bebe?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Los jueces procesaron a 30 personas por corrupción pública en el segundo trimestre",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/los-jueces-procesaron-a-30-personas-por-corrupcion-publica-en-el-segundo-trimestre/"
   },
   {
     "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae00c90e9ff7131c77bc9e8.jpg",
+    "image": "https://www.infobae.com/resizer/v2/LORSZILKNFGMZG2ZA23HOVITFQ.png?auth=d3a5be621b80b50efacf371b74757c618928c57c9e3fec2242901bc438eadb4d&smart=true&width=805&height=453",
     "category": null,
-    "text": "Reportes: Ejército de EE.UU. practica excavación de fosas temporales ante posibles conflictos a gran escala",
-    "link": "https://actualidad-rt.com/actualidad/634520-ejercito-eeuu-practicar-excavacion-fosas-temporales?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Un camión de Bomberos chocó contra la vieja cárcel de Caseros y hay varias personas heridas",
+    "link": "https://www.infobae.com/sociedad/2026/10/27/un-camion-de-bomberos-choco-contra-la-vieja-carcel-de-caseros-y-hay-varias-personas-heridas/"
   },
   {
     "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adff224e9ff715373047449.jpg",
+    "image": "https://www.infobae.com/resizer/v2/VI4EMKML2RGZ5AWDXLC5H4ZROY.jpg?auth=f0a5aad946d4611bc92f2543ded461e68dd0379346fdf754fdd80d5ad4b0ff25&smart=true&width=1600&height=1200",
     "category": null,
-    "text": "\"Creen que es Soros\": Inesperada reacción de Trump al ser interrumpido en pleno mitin",
-    "link": "https://actualidad-rt.com/actualidad/634529-video-trump-dar-tajante-respuesta-manifestante?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "TSJA ordena repetir juicio a un condenado por tirar líquido hirviendo a su expareja en Sanlúcar (Cádiz)",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/tsja-ordena-repetir-juicio-a-un-condenado-por-tirar-liquido-hirviendo-a-su-expareja-en-sanlucar-cadiz/"
   },
   {
-    "date": "2026-10-26",
-    "image": "https://s.france24.com/media/display/7b6c2266-d184-11f1-8bfc-bdb9616e85cf/w:1024/p:16x9/ES-20261026-130612-130803-CS.jpg",
+    "date": "2026-10-27",
+    "image": "https://www.infobae.com/resizer/v2/CLLCLRBZ3ZAUVD2OEHKJTLDM6E.jpg?auth=239bdd3213f66e4a5e074135acf8f5d0d68d637cd44f39c5a2bb6a17a6f0978b&smart=true&width=800&height=534",
     "category": null,
-    "text": "Irán y el Pacto de La Meca buscan rebajar las tensiones en Medio Oriente",
-    "link": "https://www.france24.com/es/video/20261026-ir%C3%A1n-y-el-pacto-de-la-meca-buscan-rebajar-las-tensiones-en-medio-oriente"
+    "text": "Reino Unido y Polonia sellan un frente de defensa con misiles y drones conjuntos para “disuadir las amenazas rusas” en el este de Europa",
+    "link": "https://www.infobae.com/espana/2026/10/27/reino-unido-y-polonia-sellan-un-frente-de-defensa-con-misiles-y-drones-conjuntos-para-disuadir-las-amenazas-rusas-en-el-este-de-europa/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Frente Amplio integra a la exlíder de Podemos Andalucía en su lista electoral por Málaga",
+    "link": "https://www.infobae.com/espana/agencias/2026/10/27/frente-amplio-integra-a-la-exlider-de-podemos-andalucia-en-su-lista-electoral-por-malaga/"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261027/1230517_114404_video_1800.mp4",
+    "category": "Israel",
+    "text": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
+    "link": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://imagenes.elpais.com/resizer/v2/A6ZMEOVU35HJ7KTHIQCJC7L4F4.JPG?auth=d79cae2eb67703b0255de77633a09fff4644925c39c2133f0471a715dd58c1cf",
+    "category": "Israel",
+    "text": "La ‘generación de Netanyahu’: 640.000 nuevos votantes a la derecha de sus padres",
+    "link": "https://elpais.com/internacional/2026-10-27/la-generacion-de-netanyahu-640000-nuevos-votantes-a-la-derecha-de-sus-padres.html"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://imagenes.elpais.com/resizer/v2/LL3UGUAVHJPYBG3RRZKVKE53VU.jpg?auth=6a681a825e1a4d1225e89452fdb5f2ffacbac7527d3ab99fc0f32652abe74129",
+    "category": "Elecciones Israel",
+    "text": "75.000 muertos después, Gaza es la gran ausente en las elecciones israelíes",
+    "link": "https://elpais.com/internacional/2026-10-27/75000-muertos-despues-gaza-es-la-gran-ausente-en-las-elecciones-israelies.html"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://imagenes.elpais.com/resizer/v2/MFDGX7VW2BKIDAFDDCJDOI3TLY.jpg?auth=f1dbcbc62212944e1bfaa9225d41e909fdeb0246564be8e9775811fa74a18ac7",
+    "category": "Elecciones Brasil",
+    "text": "Brasil y los dueños del algoritmo",
+    "link": "https://elpais.com/america/2026-10-27/brasil-y-los-duenos-del-algoritmo.html"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://imagenes.elpais.com/resizer/v2/K5WDZG32K5FYVNTF6MJSN6M36E.jpg?auth=517d02bff9f0d57c85b2723c929cc5ac4284ec597ac666146713929705e15757",
+    "category": "Elecciones Israel",
+    "text": "Postres variados",
+    "link": "https://elpais.com/internacional/2026-10-27/postres-variados.html"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1230307_231545_video_1800.mp4",
+    "category": "Elecciones Brasil",
+    "text": "Bolsonaro rectifica y anuncia que ejercerá la oposición a Lula",
+    "link": "https://elpais.com/america/2026-10-27/bolsonaro-rectifica-y-anuncia-que-ejercera-la-oposicion-a-lula.html"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae08ebae9ff7131850bf2f6.jpg",
+    "category": null,
+    "text": "Putin: El sabotaje de los gasoductos Nord Stream representa \"actos directos de terrorismo\"",
+    "link": "https://actualidad-rt.com/actualidad/634589-putin-sabotaje-gasoductos-nord-stream?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae08d4f59bf5b30fc05ac0d.jpg",
+    "category": null,
+    "text": "Hutíes realizan ataque con misiles a una refinería en Arabia Saudita",
+    "link": "https://actualidad-rt.com/actualidad/634586-huties-realizan-ataque-misiles-refineria-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae08dc859bf5b307b397d9f.jpg",
+    "category": null,
+    "text": "Putin: \"Cualquier intento de excluir a Rusia del mercado mundial del gas tiene graves consecuencias\"",
+    "link": "https://actualidad-rt.com/actualidad/634588-putin-intento-excluir-rusia-mercado-mundial-gas-graves-consecuencias?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae08e4ce9ff7147ea6a9e27.jpg",
+    "category": null,
+    "text": "Claves del mensaje de Putin en la cumbre de gigantes del gas",
+    "link": "https://actualidad-rt.com/actualidad/634553-putin-participa-cumbre-foro-paises-exportadores?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae07ecde9ff715dc97a9c3d.jpg",
+    "category": null,
+    "text": "VIDEOS: Una gigantesca plataforma petrolera se hunde en el mar con decenas de trabajadores a bordo",
+    "link": "https://actualidad-rt.com/actualidad/634571-videos-gigantesca-plataforma-petrolera-hunde-mar-trabajadores?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae0828759bf5b79c719f6fb.jpg",
+    "category": null,
+    "text": "Putin habla con los líderes de Noruega y Finlandia: ¿qué temas abordaron?",
+    "link": "https://actualidad-rt.com/actualidad/634580-putin-habla-lideres-noruega-finlandia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae0793659bf5b64e973beb6.jpg",
+    "category": null,
+    "text": "VIDEO: Un tierno gatito le 'ruega' a una estatua que le preste su juguete",
+    "link": "https://actualidad-rt.com/viral/634568-gatito-rogar-estatua-prestar-juguete-china?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae07dc759bf5b79ca582153.jpg",
+    "category": null,
+    "text": "Primer comentario del Kremlin sobre la llamada entre Putin y los líderes de Finlandia y Noruega",
+    "link": "https://actualidad-rt.com/actualidad/634579-primer-comentario-kremlin-llamada-putin?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae06efb59bf5b30b92af0d5.jpg",
+    "category": null,
+    "text": "Drones rusos eliminan almacén logístico de tropas ucranianas (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/634564-drones-rusos-logistica?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae075d9e9ff715db36ebc9b.jpg",
+    "category": null,
+    "text": "Presidente de Finlandia reconoce que se necesita un diálogo directo con Rusia sobre Ucrania",
+    "link": "https://actualidad-rt.com/actualidad/634576-presidente-finlandia-reconoce-resolucion-conflicto-dialogo-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "\"No serían unas elecciones justas\": EE.UU. descarta unos comicios en Venezuela por el momento",
+    "link": "https://es.euronews.com/2026/10/27/eeuu-descarta-unos-comicios-en-venezuela-por-el-momento"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 27 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/27/ultimas-noticias-27-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Trump dice que las elecciones en Brasil parecían estar amañadas sin aportar pruebas",
+    "link": "https://es.euronews.com/2026/10/27/trump-dice-que-las-elecciones-en-brasil-parecian-estar-amanadas"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Turquía: un tornado mata al menos a 4 trabajadores en una obra de Antalya",
+    "link": "https://es.euronews.com/video/2026/10/27/turquia-un-tornado-mata-al-menos-a-4-trabajadores-en-una-obra-de-antalya"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Los israelíes votan en las primeras elecciones generales desde los ataques del 7 de octubre sin claro favorito",
+    "link": "https://es.euronews.com/2026/10/27/los-israelies-votan-en-las-primeras-elecciones-generales"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Ucrania: Los Bomberos luchan contra el fuego y rescatan a un perro entre las ruinas de Kiev",
+    "link": "https://es.euronews.com/video/2026/10/27/ucrania-bomberos-luchan-contra-el-fuego-y-rescatan-a-un-perro-entre-las-ruinas-de-kiev"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Lula gobernará \"para adentro\": La UE se perfila como la gran aliada de Brasil frente a la presión de EE.UU.",
+    "link": "https://es.euronews.com/2026/10/27/la-ue-se-perfila-como-la-gran-aliada-de-brasil-frente-a-eeuu"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Israel: Familias del 7 de octubre recuerdan a las víctimas mientras los israelíes votan",
+    "link": "https://es.euronews.com/video/2026/10/27/israel-familias-del-7-de-octubre-recuerdan-a-las-victimas-mientras-los-israelies-votan"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Hallan bajo el Santo Sepulcro de Jerusalén evidencias que coinciden con los relatos sobre la tumba de Jesús",
+    "link": "https://es.euronews.com/2026/10/27/hallan-bajo-el-santo-sepulcro-de-jerusalen-evidencias-que-coinciden-con-los-relatos-sobre-"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Entra en vigor el alto el fuego entre Rusia y Ucrania mediado por Melania Trump en Oleshky",
+    "link": "https://es.euronews.com/2026/10/27/entra-vigor-alto-fuego-rusia-ucrania-melania-trump-oleshky"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 27 octubre 2026 - Mañana",
+    "link": "https://es.euronews.com/video/2026/10/27/ultimas-noticias-27-octubre-2026-manana"
   },
   {
     "date": "2026-10-26",
@@ -255,7 +381,7 @@
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Bolsonaro se presenta como líder de la oposición a Lula sin admitir la derrota y su partido sí reconoce los resultados",
+    "text": "Bolsonaro se presenta como líder de la oposición a Lula sin admitir la derrota pero su partido sí reconoce los resultados",
     "link": "https://www.bbc.com/mundo/articles/cm4g172l4k87o?at_medium=RSS&at_campaign=rss"
   },
   {
@@ -269,22 +395,8 @@
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía",
-    "link": "https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
     "text": "El \"ejército digital\" de 10 millones de personas en WhatsApp que ayudó a Lula a lograr una victoria histórica",
     "link": "https://www.bbc.com/mundo/articles/cqkgj20700nzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "La mayoría de los presidentes de derecha de países vecinos reconocen el triunfo de Lula en Brasil a pesar de los cuestionamientos de Bolsonaro",
-    "link": "https://www.bbc.com/mundo/articles/cm5yn43g9nn4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
@@ -297,126 +409,14 @@
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Cómo logró Lula una remontada histórica y qué impacto tiene su triunfo en América Latina",
-    "link": "https://www.bbc.com/mundo/articles/cw073jk3g44ro?at_medium=RSS&at_campaign=rss"
+    "text": "La mayoría de los presidentes de derecha de países vecinos reconocen el triunfo de Lula en Brasil a pesar de los cuestionamientos de Bolsonaro",
+    "link": "https://www.bbc.com/mundo/articles/cm5yn43g9nn4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-26",
     "image": null,
     "category": null,
-    "text": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vučić en Serbia",
-    "link": "https://www.bbc.com/mundo/articles/cm78pv28195xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "El último gran triunfo de Lula: por qué su victoria en Brasil tiene un valor tan especial para él y la izquierda de América Latina",
-    "link": "https://www.bbc.com/mundo/articles/c6kglv4mk49wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Por qué Flávio Bolsonaro pidió anular las elecciones en Brasil pese a las pocas posibilidades que tenía de lograrlo, según los expertos",
-    "link": "https://www.bbc.com/mundo/articles/c6vg7pg5gezno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://imagenes.elpais.com/resizer/v2/RQESHVYEXVJ3BA7DWMAEETTKY4.jpg?auth=1f4aa1c2237b3aa6be4c4b75d2f94e25fd2152f76a9cbbefb21630cf6b490b3f",
-    "category": "Elecciones Israel",
-    "text": "Una comisión de la ONU acusa a Israel de crímenes de guerra en Cisjordania",
-    "link": "https://elpais.com/internacional/2026-10-26/una-comision-de-la-onu-acusa-a-israel-de-crimenes-de-guerra-en-cisjordania.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://imagenes.elpais.com/resizer/v2/DKKHXIUQ3BIKVFEMABMCIC3NQU.jpg?auth=b37b4369f8a10cd3231ecb3769579c208d4214d2b7193b491fb355d60f314896",
-    "category": "ONU",
-    "text": "¿Orbán líder de la ONU? Las filtraciones sobre los candidatos de Trump revelan el bloqueo para elegir secretario general",
-    "link": "https://elpais.com/internacional/2026-10-26/orban-lider-de-la-onu-las-filtraciones-sobre-los-candidatos-de-trump-revelan-el-bloqueo-para-elegir-secretario-general.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://imagenes.elpais.com/resizer/v2/UBAMWUYLQZFOJAYBZAUWOHGKLM.JPG?auth=e405c5ad62bcf0e7dc7e3f083ba3ba12e3f40bea0adfc57a3ca9ddf604a03717",
-    "category": "Francia",
-    "text": "El Gobierno francés concede a los estudiantes algunas de sus reivindicaciones para rebajar la tensión",
-    "link": "https://elpais.com/internacional/2026-10-26/macron-admite-que-la-tension-en-la-calle-no-desaparecera-pero-evita-declarar-el-estado-de-emergencia-en-francia.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://imagenes.elpais.com/resizer/v2/WSFJUYPC5RB6XCHKPK7RU3Y37A.jpg?auth=89214a2d3def63c57450ed94d429d16065c947af6da4214e27e419acdc91cba8",
-    "category": "Elecciones Brasil",
-    "text": "El milagro de los nueve dedos",
-    "link": "https://elpais.com/america/2026-10-26/el-milagro-de-los-nueve-dedos.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://imagenes.elpais.com/resizer/v2/WP27YLYMNNJPFP23P2ENEO5JGQ.jpg?auth=4d98a8919a3690fc1764280b90631acaf0107aaca5b5b1fda74dedaabe4d7311",
-    "category": "Elecciones Brasil",
-    "text": "La remontada histórica de Lula es una derrota para Trump",
-    "link": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1230181_182340_video_1800.mp4",
-    "category": "Serbia",
-    "text": "Jóvenes, sin líderes y sin experiencia política: así es la generación que ha vencido al régimen de Vucic en Serbia",
-    "link": "https://elpais.com/internacional/2026-10-26/el-movimiento-que-ha-vencido-al-regimen-de-vucic-en-serbia-jovenes-sin-lideres-y-sin-experiencia-politica.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1229892_034631_video_1800.mp4",
-    "category": "Elecciones Brasil",
-    "text": "Bolsonaro no reconoce el triunfo de Lula y pide la anulación de las elecciones",
-    "link": "https://elpais.com/america/2026-10-26/bolsonaro-no-reconoce-el-triunfo-de-lula-y-pide-la-anulacion-de-las-elecciones.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1229886_023559_video_1800.mp4",
-    "category": "Elecciones Brasil",
-    "text": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
-    "link": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": "https://imagenes.elpais.com/resizer/v2/AJ3QARPOZNCUVMOZOD2K424VNM.jpg?auth=bb37a3e649c97c34aa925e3d22d2847c2c6ff66046d9a34a9ed382e46c68ea61",
-    "category": "World in Progress",
-    "text": "Pedro Sánchez, Matteo Renzi y Édouard Philippe debaten sobre el futuro de Europa en World In Progress",
-    "link": "https://elpais.com/internacional/2026-10-26/pedro-sanchez-matteo-renzi-y-edouard-philippe-debaten-sobre-el-futuro-de-europa-en-world-in-progress.html"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Francia: multitudes llenan el Puerto Viejo de Marsella en protesta antirracista",
-    "link": "https://es.euronews.com/video/2026/10/26/francia-multitudes-llenan-el-puerto-viejo-de-marsella-en-protesta-antirracista"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Noboa acusa a la oposición ecuatoriana de sostenerse con fondos del narcocrimen",
-    "link": "https://es.euronews.com/2026/10/26/noboa-acusa-oposicion-ecuatoriana-sostenerse-fondos-narcocrimen"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "EE.UU. refuerza su presencia en Colombia con un contingente militar de 300 efectivos contra el narcotráfico",
-    "link": "https://es.euronews.com/2026/10/26/eeuu-refuerza-presencia-colombia-contingente-militar-300-efectivos-narcotrafico"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Zelenski denuncia que Ucrania lleva un mes esperando que EE.UU. autorice el envío de misiles Patriot",
-    "link": "https://es.euronews.com/2026/10/26/zelenski-denuncia-que-ucrania-lleva-un-mes-esperando-que-eeuu-autorice-el-envio-de-misiles"
-  },
-  {
-    "date": "2026-10-26",
-    "image": null,
-    "category": null,
-    "text": "Rusia: Las llamas arrasan edificios tras el ataque de un dron ucraniano en Vorónezh",
-    "link": "https://es.euronews.com/video/2026/10/26/rusia-las-llamas-arrasan-edificios-tras-ataque-de-dron-ucraniano-en-voronezh"
+    "text": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía",
+    "link": "https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&at_campaign=rss"
   }
 ]

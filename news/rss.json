@@ -1,87 +1,227 @@
 [
   {
+    "date": "2026-10-28",
+    "image": "https://s.france24.com/media/display/f39b0222-d268-11f1-960d-efcc5769f1db/w:1024/p:16x9/2026-10-27T124514Z-374213414-RC2MBOAXEMJP-RTRMADP-3-JORDAN-CHURCH-SYRIA-FUNERAL.jpg",
+    "category": "Medio Oriente",
+    "text": "Jordania y Siria formarán un comité de seguridad tras los ataques mortales contra objetivos yihadistas",
+    "link": "https://www.france24.com/es/medio-oriente/20261028-jordania-y-siria-formar%C3%A1n-un-comit%C3%A9-de-seguridad-tras-los-ataques-mortales-contra-objetivos-yihadistas"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://s.france24.com/media/display/449179c4-c088-11f1-8ee6-69fad0a7cb9f/w:1024/p:16x9/AP26277433106719.jpg",
+    "category": null,
+    "text": "El paradero desconocido de Flávio Bolsonaro desata rumores de asilo en EE. UU.",
+    "link": "https://www.france24.com/es/video/20261028-el-paradero-desconocido-de-fl%C3%A1vio-bolsonaro-desata-rumores-de-asilo-en-ee-uu"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://s.france24.com/media/display/58cf2a54-d266-11f1-9f93-47de50b3c1e4/w:1024/p:16x9/ES-20261027-180231-180611-CS.jpg",
+    "category": null,
+    "text": "Informe desde Tel Aviv: el ambiente en la sede del partido de Netanyahu tras las elecciones",
+    "link": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-el-ambiente-en-la-sede-del-partido-de-netanyahu-tras-las-elecciones"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://s.france24.com/media/display/b095a710-d264-11f1-87b8-bf69a9ce9852/w:1024/p:16x9/ES-20261027-173210-173634-CS.jpg",
+    "category": null,
+    "text": "Informe desde Tel Aviv: tres sucesos clave por destacar en las elecciones en Israel",
+    "link": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-tres-sucesos-hist%C3%B3ricos-por-destacar-en-las-elecciones-en-israel"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/CMNOEYMOHNGBFEM7GLMICY25VQ.JPG?auth=d30d053a5473f5bc2ea7360f799f6e8b1af6b67f8557291f32a3aaa8e215e1b1&smart=true&width=7856&height=5240",
+    "category": null,
+    "text": "Flavio Bolsonaro abandonó Brasil EN VIVO: Trump volvió a poner en duda el triunfo de Lula en el balotaje",
+    "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-abandono-brasil-en-vivo/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/2O6NN3SYQFC25ELQHRI2N2W2ZY.jpg?auth=5a35d6d93cea8feb29424a1e97458418e33f89d111721a7e71d747748a7ec042&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Elecciones en Israel EN VIVO: Nuevos sondeos apuntan a un empate entre las coaliciones de Netanyahu y Eisenkot",
+    "link": "https://www.infobae.com/america/mundo/2026/10/27/en-vivo-elecciones-parlamentarias-en-israel/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/SMA3I44PSJGPXHZJCTAHIVCSDU.jpg?auth=0be2737ddee523e0a7a91454fa36e305aced8aefed078e27a579f133829da1f1&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "EN VIVO | Bloqueos, accidentes y manifestaciones hoy 27 de octubre: preparativos para el Día de Muertos en CDMX provoca caos en Reforma",
+    "link": "https://www.infobae.com/mexico/2026/10/27/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-27-de-octubre/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/AHCT2XDIZBBM7H3OU7W2GJTDSA.png?auth=1462c636d527ce2d4a6a144d67af1d7177464c05586d8deabde7fdc59213096b&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Viajó desde Huancavelica para dar el examen de San Marcos y consiguió el primer puesto en Medicina tras seis años de esfuerzo",
+    "link": "https://www.infobae.com/peru/2026/10/28/viajo-desde-huancavelica-para-dar-el-examen-de-san-marcos-y-consiguio-el-primer-puesto-en-medicina-tras-seis-anos-de-esfuerzo/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/TDI6GTSKHZEL5OPSAHIWHE3OCU.png?auth=5bf14e16d3383dac692943e8a6606bd2571b894e896f1627ec6683185d5fff7b&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Argentinos alcanzó a Boca en la Tabla Anual y complicó a River para llegar a la Libertadores: todos los goles de la fecha 14",
+    "link": "https://www.infobae.com/deportes/2026/10/28/argentinos-alcanzo-a-boca-en-la-tabla-anual-y-complico-a-river-para-llegar-a-la-libertadores-todos-los-goles-de-la-fecha-14/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/OC4WPMJ5NBADNERZQL337SMY7A.png?auth=d6b781c715392666f6687ca420dfe5e74d5b9da1be85106da7fe34dd893cf3fa&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "Aixa Vigil deja atrás las pifias de Alianza Lima y disfruta su presente en Universitario: “Nunca me incomodaron, estoy muy feliz ahora”",
+    "link": "https://www.infobae.com/peru/deportes/2026/10/28/aixa-vigil-deja-atras-las-pifias-de-alianza-lima-y-disfruta-su-presente-en-universitario-nunca-me-incomodaron-estoy-muy-feliz-ahora/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/ILKICETWGJDQNFDZVCRS2OS6I4.png?auth=ecded0516667ee61f93016deaacdb3be99b84a4bddf9c8f6353a19c8654638fd&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "Así fue el pacto entre Gustavo Petro y Carlos Fernando Galán para reducir los recursos destinados al metro de Bogotá y la calle 13: hay controversia",
+    "link": "https://www.infobae.com/colombia/2026/10/28/asi-fue-el-pacto-entre-gustavo-petro-y-carlos-fernando-galan-para-reducir-los-recursos-destinados-al-metro-de-bogota-y-la-calle-13-hay-controversia/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "El Kospi surcoreano sube un 3,7 % en la apertura tras resultados de SK hynix",
+    "link": "https://www.infobae.com/america/agencias/2026/10/28/el-kospi-surcoreano-sube-un-37-en-la-apertura-tras-resultados-de-sk-hynix/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/W7R77M7IFFB27GDEVYN7EQHY5A.jpg?auth=5cd413493a541bdb1c8163ea3d4c41e823f61493859ccdfa39acbd6d04c38d98&smart=true&width=1440&height=865",
+    "category": null,
+    "text": "Bryan Ruiz fija la disciplina como condición innegociable en su arranque como seleccionador de Costa Rica",
+    "link": "https://www.infobae.com/costa-rica/2026/10/28/bryan-ruiz-fija-la-disciplina-como-condicion-innegociable-en-su-arranque-como-seleccionador-de-costa-rica/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "Eurodiputados piden \"reequilibrar\" el comercio con China y mantener el diálogo",
+    "link": "https://www.infobae.com/america/agencias/2026/10/28/eurodiputados-piden-reequilibrar-el-comercio-con-china-y-mantener-el-dialogo/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/W6IYBVUZGJEUBJKHEKVKAR22R4.jpg?auth=ad3b5024708134ab179e9035ef7110ccb18036a19e75aa0d139b21b474cb6da8&smart=true&width=1472&height=816",
+    "category": null,
+    "text": "Programa mundial capacitó a estudiantes de la UES en herramientas tecnológicas",
+    "link": "https://www.infobae.com/el-salvador/2026/10/28/programa-mundial-capacito-a-estudiantes-de-la-ues-en-herramientas-tecnologicas/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "Guatemala cierra la temporada de lluvias de 2026 con 23 muertos y más de 224.000 afectados",
+    "link": "https://www.infobae.com/america/agencias/2026/10/28/guatemala-cierra-la-temporada-de-lluvias-de-2026-con-23-muertos-y-mas-de-224000-afectados/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261027/1230738_202752_video_1800.mp4",
+    "category": "Elecciones Israel",
+    "text": "Netanyahu gana las elecciones en Israel, pero su coalición queda lejos de la mayoría",
+    "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae140e559bf5b66a534155a.jpg",
+    "category": null,
+    "text": "\"Quien sale escondido de su país, algo debe\": Lula cuestiona la \"vergonzosa\" fuga de Flávio Bolsonaro",
+    "link": "https://actualidad-rt.com/actualidad/634698-sale-escondido-pais-debe-lula?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae14757e9ff7127253bc155.jpg",
+    "category": null,
+    "text": "Rusia: \"La presión desmedida de EE.UU. sobre Cuba se ha transformado en una verdadera opresión neocolonial\"",
+    "link": "https://actualidad-rt.com/actualidad/634693-rusia-presion-desmedida-eeuu-cuba-neocolonial?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "De \"Supermán\" a \"un pobre mortal\": Explican por qué el cáncer del papa León XIV es \"un verdadero punto de inflexión\"",
+    "link": "https://actualidad-rt.com/actualidad/634689-diplomatico-vaticano-cancer-papa-leon-inflexion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae138fbe9ff71489c5be849.png",
+    "category": null,
+    "text": "Guardias bajo el aura polar: La Armada rusa vigila las fronteras árticas de la nación (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/634697-guardias-aura-polar-armada-rusa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae13ea059bf5b54ef1a067f.JPG",
+    "category": null,
+    "text": "VIDEO: Jubilado atropella a toda velocidad a un adolescente y lo deja en estado de gravedad",
+    "link": "https://actualidad-rt.com/actualidad/634696-jubilado-atropellar-adolescente-piques-argentina?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "VIDEO: Altercado a botellazos tras pelea en un juego de béisbol infantil en EE.UU.",
+    "link": "https://actualidad-rt.com/actualidad/634701-video-altercado-botellazos-pelea-juego?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6adfea3ce9ff715373047440.jpg",
+    "category": null,
+    "text": "Serbia da un vuelco electoral: ¿qué está pasando?",
+    "link": "https://actualidad-rt.com/actualidad/634498-serbia-dar-vuelco-electoral-anos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/18d68e38-d216-11f1-872e-5b4a75578ebb/w:1024/p:16x9/101ff0973cc39b1b04946085858ae734059de1fe.jpg",
+    "category": "Deportes",
+    "text": "Mbappé pide perdón tras desatar indignación en China: \"Estoy sinceramente arrepentido\"",
+    "link": "https://www.france24.com/es/deportes/20261027-mbapp%C3%A9-pide-perd%C3%B3n-tras-desatar-indignaci%C3%B3n-en-china-estoy-sinceramente-arrepentido"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/c753d1c4-d247-11f1-8a1a-efcc5769f1db/w:1024/p:16x9/ES-20261027-114155-114334-CS-01.jpg",
+    "category": null,
+    "text": "Mbappé en el ojo del huracán en China por meme sobre Mao Zedong",
+    "link": "https://www.france24.com/es/video/20261027-mbapp%C3%A9-en-el-ojo-del-hurac%C3%A1n-en-china-por-meme-sobre-mao-zedong"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/bf9a5878-d25a-11f1-a92d-efcc5769f1db/w:1024/p:16x9/capture-7eecb0a9.jpg",
+    "category": null,
+    "text": "Daniel Schwartz: \"el crecimiento en la votación de los árabes tiene asustado a Netanyahu\"",
+    "link": "https://www.france24.com/es/video/20261027-daniel-schwartz-el-crecimiento-en-la-votaci%C3%B3n-de-los-%C3%A1rabes-tiene-asustado-a-netanyahu"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/124e35ce-d1f9-11f1-85b0-4d317af013fd/w:1024/p:16x9/2026-10-27T110806Z-1687809367-RC2NBOAX2B7X-RTRMADP-3-ISRAEL-ELECTION.jpg",
+    "category": null,
+    "text": "¿Cuáles han sido las mayores controversias del Gobierno de Netanyahu en Israel?",
+    "link": "https://www.france24.com/es/video/20261027-cu%C3%A1les-han-sido-las-mayores-controversias-del-gobierno-de-netanyahu-en-israel"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/ec7e0c2c-d246-11f1-9269-efcc5769f1db/w:1024/p:16x9/ES-20261027-084218-084429-CS-01.jpg",
+    "category": null,
+    "text": "Apoyo afroamericano a Trump: defensa de las políticas migratorias y voto castigo a los demócratas",
+    "link": "https://www.france24.com/es/video/20261027-apoyo-afroamericano-a-trump-defensa-de-las-pol%C3%ADticas-migratorias-y-voto-castigo-a-los-dem%C3%B3cratas"
+  },
+  {
+    "date": "2026-10-27",
+    "image": "https://s.france24.com/media/display/e43cc552-d247-11f1-9eac-efcc5769f1db/w:1024/p:16x9/ES-20261027-074620-075155-CS-01.jpg",
+    "category": null,
+    "text": "Directo Latam y lo que viene para Lula con mayorías opositoras en el Congreso",
+    "link": "https://www.france24.com/es/video/20261027-directo-latam-y-lo-que-viene-para-lula-con-mayor%C3%ADas-opositoras-en-el-congreso"
+  },
+  {
     "date": "2026-10-27",
     "image": "https://s.france24.com/media/display/50b82fc0-d174-11f1-bd92-bdb9616e85cf/w:1024/p:16x9/f8b71311cddbfa737bb9a5bdc6261fea0b6d21a3.jpg",
     "category": "América Latina",
-    "text": "EE. UU. otorgará visado a Flávio Bolsonaro; Lula confirma que su rival derechista huyó de Brasil",
+    "text": "EE. UU. otorgará visado a Flávio Bolsonaro; Lula califica de \"vergonzosa\" la huida del excandidato",
     "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-ee-uu-otorgar%C3%A1-visado-a-fl%C3%A1vio-bolsonaro-lula-confirma-que-su-rival-derechista-huy%C3%B3-de-brasil"
   },
   {
     "date": "2026-10-27",
     "image": "https://s.france24.com/media/display/2ce32318-d24e-11f1-822e-a7bbbeea0b20/w:1024/p:16x9/ES-20261027-151645-152024-CS.jpg",
     "category": null,
-    "text": "Carlos Martínez Assad: \"los partidos árabes nunca habían votado tando en Israel\"",
+    "text": "Carlos Martínez Assad: \"Los partidos árabes nunca habían votado tanto en Israel\"",
     "link": "https://www.france24.com/es/video/20261027-carlos-mart%C3%ADnez-assad-los-partidos-%C3%A1rabes-nunca-hab%C3%ADan-votado-tando-en-israel"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/25a6d080-d24a-11f1-a7e7-efcc5769f1db/w:1024/p:16x9/ES-20261027-150339-150532-CS.jpg",
-    "category": null,
-    "text": "¿Por qué el resultado final de las elecciones legislativas en Israel tarda en definirse?",
-    "link": "https://www.france24.com/es/video/20261027-por-qu%C3%A9-el-resultado-final-de-las-elecciones-legislativas-en-israel-tarda-en-definirse"
-  },
-  {
-    "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "El Gobierno de Trump expedirá visas y permitirá la entrada al país a Flávio Bolsonaro y a su familia",
-    "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-argentina-niega-el-ingreso-de-fl%C3%A1vio-bolsonaro-mientras-brasil-investiga-si-sali%C3%B3-del-pa%C3%ADs"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/a6c8e9a4-d24b-11f1-9767-bf69a9ce9852/w:1024/p:16x9/ES-20261027-150640-150910-CS.jpg",
-    "category": null,
-    "text": "Informe desde Tel Aviv: cierran las urnas en Israel con un récord en participación",
-    "link": "https://www.france24.com/es/video/20261027-informe-desde-tel-aviv-cierran-las-urnas-en-israel-con-un-r%C3%A9cord-en-participaci%C3%B3n"
-  },
-  {
-    "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "Israel en directo: sondeos a pie de urna muestran un codo a codo entre Netanyahu y Eisenkot",
-    "link": "https://www.france24.com/es/medio-oriente/20261027-%F0%9F%94%B4-en-directo-i-abren-las-urnas-en-israel-el-pa%C3%ADs-vota-en-sus-primeras-elecciones-desde-los-ataques-del-7-de-octubre"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/6e5701c2-d23d-11f1-bbe9-75c7729144f1/w:1024/p:16x9/37d10e7d00d8f4c1975ad0f4e4ff944fffb213abw.jpg",
-    "category": "En Contexto",
-    "text": "Elecciones en Israel: participación récord preocupa a Netanyahu",
-    "link": "https://www.france24.com/es/programas/en-contexto/20261027-elecciones-en-israel-participaci%C3%B3n-r%C3%A9cord-preocupa-a-netanyahu"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/597125bc-d238-11f1-93d2-47de50b3c1e4/w:1024/p:16x9/ES-20261027-124517-125011-CS.jpg",
-    "category": null,
-    "text": "Directo a Río y la cancelación del pasaporte de Bolsonaro y las interrogantes sobre su paradero",
-    "link": "https://www.france24.com/es/video/20261027-directo-a-r%C3%ADo-y-la-cancelaci%C3%B3n-del-pasaporte-de-bolsonaro-y-las-interrogantes-sobre-su-paradero"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/97ffaac8-d239-11f1-863a-efcc5769f1db/w:1024/p:16x9/ES-20261027-083253-083639-CS-01.jpg",
-    "category": null,
-    "text": "Informe desde Jerusalén: elecciones en Israel, una evaluación a la gestión de Netanyahu",
-    "link": "https://www.france24.com/es/video/20261027-informe-desde-jerusal%C3%A9n-elecciones-en-israel-una-evaluaci%C3%B3n-a-la-gesti%C3%B3n-de-netanyahu"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/0aa45ece-d236-11f1-a169-a7bbbeea0b20/w:1024/p:16x9/ES-20261027-084016-084153-CS-01.jpg",
-    "category": null,
-    "text": "Entra en vigor tregua humanitaria en Oleshky mediada por Melania Trump",
-    "link": "https://www.france24.com/es/video/20261027-entra-en-vigor-tregua-humanitaria-en-oleshky-mediada-por-melania-trump"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/9704be14-d235-11f1-9f94-efcc5769f1db/w:1024/p:16x9/2026-10-27T114259Z-1718951271-RC2LBOAAAZ9N-RTRMADP-3-ISRAEL-ELECTION.jpg",
-    "category": "Medio Oriente",
-    "text": "Elecciones en Israel: ¿qué pasa tras el cierre de las urnas?",
-    "link": "https://www.france24.com/es/medio-oriente/20261027-elecciones-en-israel-qu%C3%A9-pasa-tras-el-cierre-de-las-urnas"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/1a666394-d226-11f1-8c9f-47de50b3c1e4/w:1024/p:16x9/Carrera-contrarreloj-para-conquistar-el-voto-de-los-indecisos.png",
-    "category": null,
-    "text": "Elecciones en Israel: carrera contrarreloj para conquistar el voto de los indecisos",
-    "link": "https://www.france24.com/es/video/20261027-elecciones-en-israel-carrera-contrarreloj-para-conquistar-el-voto-de-los-indecisos"
   },
   {
     "date": "2026-10-27",
@@ -94,15 +234,15 @@
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país",
-    "link": "https://www.bbc.com/mundo/articles/cwg7xe5gnvzeo?at_medium=RSS&at_campaign=rss"
+    "text": "Cómo el sorpresivo triunfo de Lula en Brasil es un golpe para las ambiciones de Trump en América Latina",
+    "link": "https://www.bbc.com/mundo/articles/cm93zw193zd0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "Análisis: los retos de María Corina Machado tras regresar a una Venezuela transformada por Trump",
-    "link": "https://www.bbc.com/mundo/articles/ck9qz5pyrnzjo?at_medium=RSS&at_campaign=rss"
+    "text": "5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país",
+    "link": "https://www.bbc.com/mundo/articles/cwg7xe5gnvzeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-27",
@@ -115,8 +255,15 @@
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y reta a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
+    "text": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
     "link": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-27",
+    "image": null,
+    "category": null,
+    "text": "Análisis: los retos de María Corina Machado tras regresar a una Venezuela transformada por Trump",
+    "link": "https://www.bbc.com/mundo/articles/ck9qz5pyrnzjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-27",
@@ -124,13 +271,6 @@
     "category": null,
     "text": "Mbappé se disculpa por un comentario sobre Mao que desató una ola de críticas y boicot en China",
     "link": "https://www.bbc.com/mundo/articles/cwkgj2p1ym37o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "Cómo el sorpresivo triunfo de Lula en Brasil es un golpe para las ambiciones de Trump en América Latina",
-    "link": "https://www.bbc.com/mundo/articles/cm93zw193zd0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-27",
@@ -155,108 +295,17 @@
   },
   {
     "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/K3KDCSUVZ5DB3N6LI5OF5SLDO4.JPG?auth=4359df5f0e351307d371ffc3a696e59ffb4bf338f38b658ea142caff102df7fc&smart=true&width=5000&height=3335",
-    "category": null,
-    "text": "Elecciones en Israel EN VIVO: Las elecciones en Israel cerraron con la participación más alta en 25 años",
-    "link": "https://www.infobae.com/america/mundo/2026/10/27/en-vivo-elecciones-parlamentarias-en-israel/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/XKVUCPYJHVEPBPJ4Y2QMFC56UQ.jpg?auth=d2a10246812cdf936d17804693c58bb59cbb3bbea9c6ff43889d587e791f03cc&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Delivery se duplicaría este Halloween y Día de la Canción Criolla: Surco, Miraflores y San Miguel concentrarían los pedidos",
-    "link": "https://www.infobae.com/peru/2026/10/27/delivery-se-duplicaria-este-halloween-y-dia-de-la-cancion-criolla-surco-miraflores-y-san-miguel-concentrarian-los-pedidos/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/LPKPFW3GVNH43EV2RWOSED5Z3Y.jpg?auth=b33c37303072e6670a0d71efbd4ebc8933dce933607baa1c020c880a4cfe188f&smart=true&width=1920&height=1280",
-    "category": null,
-    "text": "Yair Golán ofreció trabajar con todos sus socios para formar un nuevo gobierno en Israel",
-    "link": "https://www.infobae.com/america/mundo/2026/10/27/yair-golan-ofrecio-trabajar-con-todos-sus-socios-para-formar-un-nuevo-gobierno-en-israel/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/C3REKKYIV5E75C7TN5VPEHWETU.png?auth=0be3003f9d85b95b4d3f9a013578031de3ca5b66346b8c47594de922c96f0b2c&smart=true&width=995&height=657",
-    "category": null,
-    "text": "Francis Allison reaparece y desafía a López Aliaga: “No rectifico nada. ¿Eres corrupto o tonto? Nos vemos en los tribunales\"",
-    "link": "https://www.infobae.com/peru/2026/10/27/francis-allison-reaparece-y-desafia-a-rafael-lopez-aliaga-no-rectifico-nada-eres-corrupto-o-tonto-nos-vemos-en-los-tribunales/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/6E2QEQLHABFWLAQEIAF4OZMWWQ.jpeg?auth=d512f5494003540d99d144c56b1a5a5d236f3fa01f4ff5afa595cbb78bae2bf4&smart=true&width=1600&height=1200",
-    "category": null,
-    "text": "Cayeron dos narcos con 60 antecedentes en la Villa 31: les secuestraron 1.400 dosis de cocaína, pasta base y marihuana",
-    "link": "https://www.infobae.com/sociedad/2026/10/27/cayeron-dos-narcos-con-sesenta-antecedentes-en-la-villa-31-les-secuestraron-1400-dosis-de-cocaina-pasta-base-y-marihuana/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/TFV73HYFEBAPLNKMJC5C5UNMRY.png?auth=0154c3e2beac57e2e796c3aa1dc315f860dca037b064209613f1b27e4c6d793f&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Blanca Yassahara Cruz anuncia limpia en el INE y apoyo en investigaciones sobre corrupción",
-    "link": "https://www.infobae.com/mexico/2026/10/27/blanca-yassahara-cruz-anuncia-limpia-en-el-ine-y-apoyara-en-investigaciones-sobre-corrupcion/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/QMHIBOS3IJHADAH5PTEB7SO6EI.jpeg?auth=2542cb7b06f7f87c4c78a3a216abafa7909d41d42dacb7aac6a51a5a61365909&smart=true&width=1280&height=720",
-    "category": null,
-    "text": "Incautaron en Cartagena más de tres toneladas de cocaína avaluada en USD 141 millones",
-    "link": "https://www.infobae.com/colombia/2026/10/27/incautaron-en-cartagena-mas-de-tres-toneladas-de-cocaina-avaluada-en-usd-141-millones/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/3TW347HYLFB4FDPZIYJPPWWUJI.jpg?auth=5252ce439a800c47d3aba5bca74823897815d4db48250293273f65ee27891c27&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Balean casa presuntamente ligada al gobernador con licencia Rubén Rocha Moya en Culiacán",
-    "link": "https://www.infobae.com/mexico/2026/10/27/balean-casa-presuntamente-ligada-al-gobernador-con-licencia-ruben-rocha-moya-en-culiacan/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/PNBUOS2O7BDLZF725C3KYJJPJE.JPG?auth=726f4abaa2664d2ac807dede181fc330a0670c05becb37922011856dbfcfe68b&smart=true&width=5940&height=3960",
-    "category": null,
-    "text": "El staff del FMI aprobó la tercera revisión del acuerdo con la Argentina y allanó el camino para un desembolso de USD 900 millones",
-    "link": "https://www.infobae.com/economia/2026/10/27/el-staff-del-fmi-aprobo-la-tercera-revision-del-acuerdo-con-la-argentina-y-allano-el-camino-para-un-desembolso-de-usd-900-millones/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/AYLALSNB2NHZJLD45IKIGSD334.jpg?auth=0d0d9d92768a905a5046356c657345be50a6232e0b763397432f9987e32c515b&smart=true&width=1920&height=1080",
-    "category": null,
-    "text": "Alerta en la Condesa por presunto envenenamiento de perros en Parque España: Fiscalía revisa ocho puntos",
-    "link": "https://www.infobae.com/mexico/2026/10/27/alerta-en-la-condesa-por-presunto-envenenamiento-de-perros-en-parque-espana-fiscalia-revisa-ocho-puntos/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/47T6IZ34L5GI7PEQ545JVHSCMQ.jpg?auth=763b53e14b8fe51bc5f3186ff85065d4406cef6cca0c5a96c4fa3b6282f09a59&smart=true&width=1280&height=720",
-    "category": null,
-    "text": "‘Bad Ice-Cream Triple Scoop’ reúne la trilogía de Nitrome con nuevos niveles",
-    "link": "https://www.infobae.com/malditos-nerds/2026/10/27/bad-ice-cream-triple-scoop-reune-la-trilogia-de-nitrome-con-nuevos-niveles/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://www.infobae.com/resizer/v2/JUYF75R6YJE53EQNHQGLFMCME4.png?auth=9299917644e06908b45004742d73243d537f656c35f38b7d03ac635a6cdbf483&smart=true&width=750&height=500",
-    "category": null,
-    "text": "Salario mínimo de 2027: almacenes y supermercados revelaron qué aumento quieren; está lejos del que pedirían los trabajadores",
-    "link": "https://www.infobae.com/colombia/2026/10/27/salario-minimo-de-2027-almacenes-y-supermercados-revelaron-que-aumento-quieren-esta-lejos-del-que-pedirian-los-trabajadores/"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261027/1230517_114404_video_1800.mp4",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261027/1230738_202752_video_1800.mp4",
     "category": "Israel",
-    "text": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
-    "link": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html"
+    "text": "Los detractores de Netanyahu contienen su entusiasmo: “Ganó, aunque será difícil que siga siendo primer ministro”",
+    "link": "https://elpais.com/internacional/2026-10-27/los-detractores-de-netanyahu-contienen-su-entusiasmo-gano-aunque-sera-dificil-que-siga-siendo-primer-ministro.html"
   },
   {
     "date": "2026-10-27",
-    "image": "https://imagenes.elpais.com/resizer/v2/A6ZMEOVU35HJ7KTHIQCJC7L4F4.JPG?auth=d79cae2eb67703b0255de77633a09fff4644925c39c2133f0471a715dd58c1cf",
-    "category": "Israel",
-    "text": "La ‘generación de Netanyahu’: 640.000 nuevos votantes a la derecha de sus padres",
-    "link": "https://elpais.com/internacional/2026-10-27/la-generacion-de-netanyahu-640000-nuevos-votantes-a-la-derecha-de-sus-padres.html"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://imagenes.elpais.com/resizer/v2/LL3UGUAVHJPYBG3RRZKVKE53VU.jpg?auth=6a681a825e1a4d1225e89452fdb5f2ffacbac7527d3ab99fc0f32652abe74129",
-    "category": "Elecciones Israel",
-    "text": "75.000 muertos después, Gaza es la gran ausente en las elecciones israelíes",
-    "link": "https://elpais.com/internacional/2026-10-27/75000-muertos-despues-gaza-es-la-gran-ausente-en-las-elecciones-israelies.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/EYLWBDZ2D5JLFJ62ZFNJPMBDIU.jpg?auth=f8c5e184ff0bfe90fdcbe0d7e85c04bb00e071d66a64acd567ea2488e269f558",
+    "category": "Egipto",
+    "text": "Egipto ordena el cierre del principal medio independiente del país y detiene durante varias horas a su directora",
+    "link": "https://elpais.com/internacional/2026-10-27/egipto-ordena-el-cierre-del-principal-medio-independiente-del-pais-y-detiene-durante-varias-horas-a-su-directora.html"
   },
   {
     "date": "2026-10-27",
@@ -274,10 +323,10 @@
   },
   {
     "date": "2026-10-27",
-    "image": "https://imagenes.elpais.com/resizer/v2/EYLWBDZ2D5JLFJ62ZFNJPMBDIU.jpg?auth=f8c5e184ff0bfe90fdcbe0d7e85c04bb00e071d66a64acd567ea2488e269f558",
-    "category": "Egipto",
-    "text": "Egipto ordena el cierre del principal medio independiente del país y detiene durante varias horas a su directora",
-    "link": "https://elpais.com/internacional/2026-10-27/egipto-ordena-el-cierre-del-principal-medio-independiente-del-pais-y-detiene-durante-varias-horas-a-su-directora.html"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261027/1230517_114404_video_1800.mp4",
+    "category": "Israel",
+    "text": "Netanyahu se juega su futuro en unas elecciones decisivas para todo Oriente Próximo",
+    "link": "https://elpais.com/internacional/2026-10-27/netanyahu-se-juega-su-futuro-en-unas-elecciones-decisivas-para-todo-oriente-proximo.html"
   },
   {
     "date": "2026-10-27",
@@ -288,6 +337,13 @@
   },
   {
     "date": "2026-10-27",
+    "image": "https://imagenes.elpais.com/resizer/v2/LL3UGUAVHJPYBG3RRZKVKE53VU.jpg?auth=6a681a825e1a4d1225e89452fdb5f2ffacbac7527d3ab99fc0f32652abe74129",
+    "category": "Elecciones Israel",
+    "text": "75.000 muertos después, Gaza es la gran ausente en las elecciones israelíes",
+    "link": "https://elpais.com/internacional/2026-10-27/75000-muertos-despues-gaza-es-la-gran-ausente-en-las-elecciones-israelies.html"
+  },
+  {
+    "date": "2026-10-27",
     "image": "https://imagenes.elpais.com/resizer/v2/SHA7SVSQE5H3ZAGEMZGPEYCVZM.jpg?auth=7134b07af06d13b1010f573a3e66353af0e99c7b3063ed269b0621e64bd6c507",
     "category": null,
     "text": "Los líderes de Finlandia y Noruega llaman a Putin para buscar una salida a la guerra en Ucrania",
@@ -295,80 +351,38 @@
   },
   {
     "date": "2026-10-27",
-    "image": "https://imagenes.elpais.com/resizer/v2/VD46NO2FO5KV5LDQSKOBASSOTM.jpg?auth=2e621c7e3d8fa8383c9500ded7e6e0bb4485607249c7e32d593729978bfb833e",
-    "category": "Carlos III de Inglaterra",
-    "text": "Carlos III afronta en su viaje al Caribe protestas por el comercio histórico de esclavos y reclamaciones de reparación",
-    "link": "https://elpais.com/internacional/2026-10-27/carlos-iii-afronta-en-su-viaje-al-caribe-protestas-por-el-comercio-historico-de-esclavos-y-reclamaciones-de-reparacion.html"
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1256e59bf5b4a827d788e.jpg",
+    "category": null,
+    "text": "Le Pen promete que Francia no caerá en \"la mexicanización de los cárteles\" y le responden en México",
+    "link": "https://actualidad-rt.com/actualidad/634682-pen-mexicanizacion-francia-carteles-responder-mexico?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae11dbce9ff7133835dd012.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae12ded59bf5b282c6b544f.jpg",
     "category": null,
-    "text": "Reportan que EE.UU. permitirá entrada a Flávio Bolsonaro y su familia",
-    "link": "https://actualidad-rt.com/actualidad/634679-reportan-eeuu-permitira-entrada-flavio?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae11842e9ff7132202fd7b8.jpg",
-    "category": null,
-    "text": "Trump: \"Los franceses son extremadamente buenos para las revoluciones\"",
-    "link": "https://actualidad-rt.com/actualidad/634676-trump-franceses-buenos-para-revoluciones?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae11af1e9ff7131850bf386.jpg",
-    "category": null,
-    "text": "Lula reacciona a fuga de Flávio: \"Brasil es su segunda patria, porque la primera es EE.UU.\"",
-    "link": "https://actualidad-rt.com/actualidad/634680-lula-reaccionar-fuga-flavio-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1169d59bf5b4a456b475e.jpg",
-    "category": null,
-    "text": "\"Cobarde\": Fuga de Flávio Bolsonaro a EE.UU. \"irrita\" a sus aliados en Brasil",
-    "link": "https://actualidad-rt.com/actualidad/634673-cobarde-fuga-flavio-eeuu-irrita-aliados?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1100c59bf5b66a5341537.jpg",
-    "category": null,
-    "text": "Trump plantea hacer de Venezuela \"un próspero estado número 51\" y elegir a gobernador en vez de presidente",
-    "link": "https://actualidad-rt.com/actualidad/634668-trump-amenazar-venezuela-estado?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae106c759bf5b060f76d746.jpg",
-    "category": null,
-    "text": "África es mucho más que sus crisis, pero Occidente no le deja verlo",
-    "link": "https://actualidad-rt.com/actualidad/634663-africa-occidente-no-dejar-ver?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "\"Netanyahu perdió y se irá a casa\", dice líder opositor",
+    "link": "https://actualidad-rt.com/actualidad/634692-netanyahu-perdio-ira-casa-lider-opositor?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "Trump sobre Irán: \"Teníamos que detener a esa nación lunática\"",
-    "link": "https://actualidad-rt.com/actualidad/634678-trump-iran-teniamos-detener-nacion?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Búnker de la Guerra Fría a la venta por cientos de miles de euros",
+    "link": "https://actualidad-rt.com/actualidad/634695-bunker-guerra-fria-venta-cientos?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-27",
     "image": null,
     "category": null,
-    "text": "EE.UU. no descarta nuevos envíos de diésel ruso: \"Muy probable\"",
-    "link": "https://actualidad-rt.com/actualidad/634672-eeuu-muy-probable-nuevos-envios-diesel-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Israel: seguidores de la oposición celebran ligera ventaja en sondeos a pie de urna",
+    "link": "https://es.euronews.com/video/2026/10/28/israel-seguidores-de-la-oposicion-celebran-ligera-ventaja-en-sondeos-a-pie-de-urna"
   },
   {
     "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1064d59bf5b282c6b5431.jpg",
+    "image": null,
     "category": null,
-    "text": "Volkswagen prepara un importante giro desde EE.UU. hacia China",
-    "link": "https://actualidad-rt.com/actualidad/634664-volkswagen-preparar-importante-giro-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1090459bf5b063848e5e0.jpg",
-    "category": null,
-    "text": "EE.UU. aglutina a 18 países latinoamericanos para aprobar \"un plan de campaña militar\"",
-    "link": "https://actualidad-rt.com/actualidad/634667-eeuu-aglutinar-paises-latinoamericanos-aprobar-plan?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Portugal: la crisis de vivienda en Lisboa desata una protesta ante el Parlamento",
+    "link": "https://es.euronews.com/video/2026/10/28/portugal-la-crisis-de-vivienda-en-lisboa-desata-una-protesta-ante-el-parlamento"
   },
   {
     "date": "2026-10-27",
@@ -404,19 +418,5 @@
     "category": null,
     "text": "Siria condena el ataque de Jordania en su suelo y denuncia una \"violación inaceptable\" de su espacio aéreo",
     "link": "https://es.euronews.com/2026/10/27/siria-condena-ataque-jordania-suelo-denuncia-violacion-inaceptable-espacio-aereo"
-  },
-  {
-    "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "Últimas noticias | 27 octubre 2026 - Tarde",
-    "link": "https://es.euronews.com/video/2026/10/27/ultimas-noticias-27-octubre-2026-tarde"
-  },
-  {
-    "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "EURONEWS HOY | Las noticias del martes 27 de octubre: Entra en vigor el alto el fuego de Melania Trump",
-    "link": "https://es.euronews.com/2026/10/27/euronews-hoy-las-noticias-del-martes-27-de-octubre-melania-trump-logra-un-alto-el-fuego-en"
   }
 ]

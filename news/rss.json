@@ -1,80 +1,31 @@
 [
   {
     "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/664fa192-d278-11f1-b030-bf69a9ce9852/w:1024/p:16x9/2026-10-26T140456Z-1514781221-RC21BOALZK1J-RTRMADP-3-BRAZIL-ELECTION-MARKETS.jpg",
-    "category": "Economía",
-    "text": "Brasil: ¿cómo reaccionaron los mercados a la victoria de Lula?",
-    "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261028-economia-brasil-lula-elecciones-mercados"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/e0844dc0-d24e-11f1-bac3-bf69a9ce9852/w:1024/p:16x9/2026-10-27T201655Z-2088081210-RC2WBOANCXWD-RTRMADP-3-ISRAEL-ELECTION.jpg",
-    "category": "Medio Oriente",
-    "text": "Elecciones en Israel: tras participación récord, sondeos a pie de urna apuntan al empate de Eisenkot y Netanyahu",
-    "link": "https://www.france24.com/es/medio-oriente/20261028-elecciones-en-israel-tras-participaci%C3%B3n-r%C3%A9cord-sondeos-a-pie-de-urna-apuntan-al-empate-de-eisenkot-y-netanyahu"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/8c50c210-d276-11f1-a68d-bf69a9ce9852/w:1024/p:16x9/ES-20261027-210207-210410-CS.jpg",
+    "image": null,
     "category": null,
-    "text": "Informe desde Tel Aviv: Netanyahu hace énfasis en no hacer alianzas con partidos árabes",
-    "link": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-netanyahu-hace-%C3%A9nfasis-en-no-hacer-alianzas-con-partidos-%C3%A1rabes"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/f54e84e8-d274-11f1-ba0f-a7bbbeea0b20/w:1024/p:16x9/MIDTERMS-Juanita-2.png",
-    "category": null,
-    "text": "Directo Midterms: Trump asegura que solo reconocerá las elecciones \"si son honestas\"",
-    "link": "https://www.france24.com/es/video/20261028-directo-midterms-trump-asegura-que-solo-reconocer%C3%A1-las-elecciones-si-son-honestas"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/821eb70e-cfb8-11f1-8b37-5b4a75578ebb/w:1024/p:16x9/000-D37V4QR.jpg",
-    "category": null,
-    "text": "Donald Trump dice que Venezuela le envió un millón de barriles de petróleo \"como regalo\"",
-    "link": "https://www.france24.com/es/video/20261028-donald-trump-dice-que-venezuela-le-envi%C3%B3-un-mill%C3%B3n-de-barriles-de-petr%C3%B3leo-como-regalo"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/19b902e6-d26a-11f1-9709-47de50b3c1e4/w:1024/p:16x9/ES-20261027-190356-190751-CS.jpg",
-    "category": null,
-    "text": "Informe desde Tel Aviv: Eisenkot promete formar un \"gobierno sionista y estable\"",
-    "link": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-eisenkot-promete-formar-un-gobierno-sionista-y-estable"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/f39b0222-d268-11f1-960d-efcc5769f1db/w:1024/p:16x9/2026-10-27T124514Z-374213414-RC2MBOAXEMJP-RTRMADP-3-JORDAN-CHURCH-SYRIA-FUNERAL.jpg",
-    "category": "Medio Oriente",
-    "text": "Jordania y Siria formarán un comité de seguridad tras los ataques mortales contra objetivos yihadistas",
-    "link": "https://www.france24.com/es/medio-oriente/20261028-jordania-y-siria-formar%C3%A1n-un-comit%C3%A9-de-seguridad-tras-los-ataques-mortales-contra-objetivos-yihadistas"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/449179c4-c088-11f1-8ee6-69fad0a7cb9f/w:1024/p:16x9/AP26277433106719.jpg",
-    "category": null,
-    "text": "El paradero desconocido de Flávio Bolsonaro desata rumores de asilo en EE. UU.",
-    "link": "https://www.france24.com/es/video/20261028-el-paradero-desconocido-de-fl%C3%A1vio-bolsonaro-desata-rumores-de-asilo-en-ee-uu"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/58cf2a54-d266-11f1-9f93-47de50b3c1e4/w:1024/p:16x9/ES-20261027-180231-180611-CS.jpg",
-    "category": null,
-    "text": "Informe desde Tel Aviv: el ambiente en la sede del partido de Netanyahu tras las elecciones",
-    "link": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-el-ambiente-en-la-sede-del-partido-de-netanyahu-tras-las-elecciones"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://s.france24.com/media/display/b095a710-d264-11f1-87b8-bf69a9ce9852/w:1024/p:16x9/ES-20261027-173210-173634-CS.jpg",
-    "category": null,
-    "text": "Informe desde Tel Aviv: tres sucesos clave por destacar en las elecciones en Israel",
-    "link": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-tres-sucesos-hist%C3%B3ricos-por-destacar-en-las-elecciones-en-israel"
+    "text": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos",
+    "link": "https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-28",
     "image": null,
     "category": null,
-    "text": "Flávio Bolsonaro llega a EE.UU. después de que Brasil cancelara sus pasaportes",
-    "link": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss"
+    "text": "Imágenes muestran a Flávio Bolsonaro aterrizando en Miami luego de su derrota en las elecciones de Brasil",
+    "link": "https://www.bbc.com/mundo/articles/c68xz74ne57wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "Cuáles son los casos que tiene pendientes Flávio Bolsonaro con la justicia de Brasil",
+    "link": "https://www.bbc.com/mundo/articles/cwkg5eznlg0go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder tras ninguno alcanzar una mayoría para formar gobierno",
+    "link": "https://www.bbc.com/mundo/articles/c6wyvk58x9pxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-28",
@@ -85,87 +36,101 @@
   },
   {
     "date": "2026-10-28",
-    "image": "https://www.infobae.com/resizer/v2/EXAHKCAV2FH4VAH7BT4I4BIUTU.jpg?auth=0c3d8873119b4b95c4e5ef1406e4c99585f1d411b1c4b80ed7d329b253233f59&smart=true&width=1600&height=1067",
-    "category": null,
-    "text": "Sánchez anuncia que Begoña Gómez ha presentado una denuncia por suplantación de imagen por el vídeo de IA del PP",
-    "link": "https://www.infobae.com/espana/agencias/2026/10/28/sanchez-anuncia-que-begona-gomez-ha-presentado-una-denuncia-por-suplantacion-de-imagen-por-el-video-de-ia-del-pp/"
-  },
-  {
-    "date": "2026-10-28",
     "image": null,
     "category": null,
-    "text": "La primera jornada de la tregua en Jersón concluye sin violaciones, según Moscú",
-    "link": "https://www.infobae.com/america/agencias/2026/10/28/la-primera-jornada-de-la-tregua-en-jerson-concluye-sin-violaciones-segun-moscu/"
+    "text": "Flávio Bolsonaro llegó a EE.UU. con su familia tras salir de Brasil a través de la frontera con Argentina",
+    "link": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo?at_medium=RSS&at_campaign=rss"
   },
   {
     "date": "2026-10-28",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/W2FUGTW6QZERDEBUFTXFAS2KOE.jpg?auth=79660bc8152f87bd154a44f0277f39fcafbc4578dc7645180b4bd636d298b328&smart=true&width=1200&height=675",
     "category": null,
-    "text": "El Ministerio de Exteriores de Israel confirma el ataque a su embajada en Belgrado",
-    "link": "https://www.infobae.com/america/agencias/2026/10/28/el-ministerio-de-exteriores-de-israel-confirma-el-ataque-a-su-embajada-en-belgrado/"
+    "text": "Accidente de trenes en Toledo, en directo: al menos 68 muertos tras el choque entre un Iryo y un AVE en la línea de Madrid-Andalucía",
+    "link": "https://www.infobae.com/espana/2026/10/28/en-directo-accidente-ferroviario-en-toledo-numerosos-heridos-tras-el-choque-de-dos-trenes-en-la-linea-madrid-andalucia/"
   },
   {
     "date": "2026-10-28",
-    "image": "https://www.infobae.com/resizer/v2/S6YGLSOJ2NGFLIF2IU6KH5OAFY.jpg?auth=087b5a0f3cb12fa989393f5dddca3c9d20b43c860d75e5480ecffc66f2b37031&smart=true&width=1920&height=1440",
+    "image": "https://www.infobae.com/resizer/v2/WWIGVZ64TVCQPCTHKWJUI3LCUE.png?auth=db73d1eadf29ad12d96684c44e68951fb030e161b4474084518d0d7e43df11ec&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "La estabilidad marcará la jornada con cielos poco nubosos aunque habrá chubascos fuertes en Murcia y C. Valenciana",
-    "link": "https://www.infobae.com/america/agencias/2026/10/28/la-estabilidad-marcara-la-jornada-con-cielos-poco-nubosos-aunque-habra-chubascos-fuertes-en-murcia-y-c-valenciana/"
+    "text": "CDMX encabeza las donaciones por internet en México: salud, emergencias y animales entre las principales causas",
+    "link": "https://www.infobae.com/mexico/2026/10/28/cdmx-encabeza-las-donaciones-por-internet-en-mexico-salud-emergencias-y-animales-entre-las-principales-causas/"
   },
   {
     "date": "2026-10-28",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/BBSTH55TSFE3JIYCW5QA3FXP64.jpg?auth=3f0555f6e5039254adaa3201917540bf16cc4bdd220892096be3ad7dc2f8dc87&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Redeia eleva un 5,3% ganancias a septiembre, a 410 millones, y dispara un 19% sus inversiones en redes",
-    "link": "https://www.infobae.com/america/agencias/2026/10/28/redeia-eleva-un-53-ganancias-a-septiembre-a-410-millones-y-dispara-un-19-sus-inversiones-en-redes/"
+    "text": "Choque de trenes de alta velocidad en España: Colombia expresó sus condolencias y habilitó canales para determinar si hay connacionales heridos",
+    "link": "https://www.infobae.com/colombia/2026/10/28/choque-de-trenes-de-alta-velocidad-en-espana-colombia-expreso-sus-condolencias-y-habilito-canales-para-determinar-si-hay-connacionales-heridos/"
   },
   {
     "date": "2026-10-28",
-    "image": null,
+    "image": "https://www.infobae.com/resizer/v2/STQDGTFSXNETTP7W7OC5CLVX7M.png?auth=b6b9a3cb36fae2363555e5cfd82e9a79ee976627aa2a90b8ec97320dcf8394ab&smart=true&width=1408&height=768",
     "category": null,
-    "text": "Pekín valora las disculpas de Mbappé, pero evita aclarar si levantará el boicot",
-    "link": "https://www.infobae.com/america/agencias/2026/10/28/pekin-valora-las-disculpas-de-mbappe-pero-evita-aclarar-si-levantara-el-boicot/"
+    "text": "Temblor hoy 28 de octubre en México: se registró un sismo magnitud 4.1 en Chiapas",
+    "link": "https://www.infobae.com/mexico/2026/10/28/temblor-hoy-en-mexico-noticias-actividad-sismica-28-de-octubre-de-2026/"
   },
   {
     "date": "2026-10-28",
-    "image": "https://www.infobae.com/resizer/v2/SSGY55LWOJCUPHUE3WWMGBF5IQ.jpg?auth=68560741a9fd6b26b5cb46c2ba790772d94b65b2e692df3769b4d12c238b6edb&smart=true&width=448&height=336",
+    "image": "https://www.infobae.com/resizer/v2/N4XHABPTUZE23LTAIZ5PBUO2PY.png?auth=ea92e236829e8599a4a042b473247089bc98b4f109ff25111d0cd3d7fbd4952c&smart=true&width=2752&height=1536",
     "category": null,
-    "text": "Yola Berrocal, su impactante cambio de look con el pelo rapado al cero: \"Me siento imparable\"",
-    "link": "https://www.infobae.com/america/agencias/2026/10/28/yola-berrocal-su-impactante-cambio-de-look-con-el-pelo-rapado-al-cero-me-siento-imparable/"
+    "text": "Los problemas fiscales de Colombia no podrán resolverse a corto plazo, según Oxford Economics: son los más complicados de todos los países de América Latina",
+    "link": "https://www.infobae.com/colombia/2026/10/28/los-problemas-fiscales-de-colombia-no-podran-resolverse-a-corto-plazo-segun-oxford-economics-son-los-mas-complicados-de-todos-los-paises-de-america-latina/"
   },
   {
     "date": "2026-10-28",
-    "image": "https://www.infobae.com/resizer/v2/CO54NBWB4JAGJDBXE2EUDRCJEU.jpg?auth=1871dc88b442d877a3f6760704b6f2932144278bc3e4c52a4d1cce9dbf771283&smart=true&width=1456&height=816",
+    "image": "https://www.infobae.com/resizer/v2/BJD5HU25ZFGNTLIJCDXMQCELTE.jpg?auth=e9c397b7017c3e0e6eedaff8cc75034290eed8c7792b9e2ca7cffd8ace68ab86&smart=true&width=1201&height=629",
     "category": null,
-    "text": "Oficializaron los nuevos cuadros tarifarios de gas con los descuentos por Zonas Frías",
-    "link": "https://www.infobae.com/economia/2026/10/28/oficializaron-los-nuevos-cuadros-tarifarios-de-gas-con-los-descuentos-por-zonas-frias/"
+    "text": "‘China’ Eve elogia a Natalia Málaga previo a su regreso a Géminis en Liga Peruana de Vóley 2026/27: “Será un plus, la admiro mucho”",
+    "link": "https://www.infobae.com/peru/deportes/2026/10/28/china-eve-elogia-a-natalia-malaga-previo-a-su-regreso-a-geminis-en-liga-peruana-de-voley-202627-sera-un-plus-la-admiro-mucho/"
   },
   {
     "date": "2026-10-28",
-    "image": "https://www.infobae.com/resizer/v2/W3HUDEQAANG55LUNU5TEDAOYMA.JPG?auth=ee3e4bbc4c639f26d1d017a92bfaf6b75fe241c040b01a64734e6c66fc04d136&smart=true&width=4051&height=2683",
+    "image": "https://www.infobae.com/resizer/v2/M2W4UMMJSNBFRFCNJBWOCWTCAQ.JPG?auth=82834f5302298122c3f31dfbdf8187bf951cd2e50f5204d74c6d9acc1d004c28&smart=true&width=6000&height=4000",
     "category": null,
-    "text": "La curiosa visita de Kim Jong-un a China",
-    "link": "https://www.infobae.com/economist/2026/10/28/la-curiosa-visita-de-kim-jong-un-a-china/"
+    "text": "México expresa condolencias a España por accidente de trenes en Toledo: Sheinbaum revisa si hay mexicanos afectados",
+    "link": "https://www.infobae.com/mexico/2026/10/28/mexico-expresa-condolencias-a-espana-por-el-accidente-de-trenes-de-alta-velocidad-en-toledo-activan-atencion-a-connacionales/"
   },
   {
     "date": "2026-10-28",
-    "image": "https://www.infobae.com/resizer/v2/PH2IENMADZF7RJC46YQVFUNCKM.jpg?auth=9321e0b5e52e3d7face821a6a99bb800c116de2d2fee28937e5b1ba73c50ed42&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/4M773XMAVFARRMJWTTBF7G4XGM.png?auth=0cb1b634dc002203ac69c435986a23fecff4d585a43e0d10794b85c456d75af5&smart=true&width=1920&height=1080",
     "category": null,
-    "text": "Begoña Gómez denuncia al PP por el vídeo con IA que le hace decir que es “zurda” porque consiguió una cátedra “gracias” a que su marido es presidente del Gobierno",
-    "link": "https://www.infobae.com/espana/2026/10/28/begona-gomez-denuncia-al-pp-por-el-video-con-ia-que-le-hace-decir-que-es-zurda-porque-consiguio-una-catedra-gracias-a-que-su-marido-es-presidente-del-gobierno/"
+    "text": "Quién es Agostina Navarrete, la joven de 26 años con la que el Chato Prada estaría iniciando una relación",
+    "link": "https://www.infobae.com/teleshow/2026/10/28/quien-es-agostina-navarrete-la-joven-de-26-anos-con-la-que-el-chato-prada-estaria-iniciando-una-relacion/"
   },
   {
     "date": "2026-10-28",
-    "image": "https://www.infobae.com/resizer/v2/2O5RIDLQBBDIVDGHMHODUZOZ6E.jpg?auth=bfbb325e731f5a53f79eff8bf23ca4af7acca9272503f8091b3174e40e8143ed&smart=true&width=1920&height=1280",
+    "image": "https://www.infobae.com/resizer/v2/RO6ZBZF7J5BDREVWQJDFVZ4NWE.jpg?auth=eb856070293e0e317e3609e4f7c92f77fc1d60f57889def5da25774f9fb5713d&smart=true&width=3840&height=2160",
     "category": null,
-    "text": "Iustitia Europa pide al Tribunal Supremo que extienda la suspensión del voto de la ‘ley de nietos’ a los nacionalizados que residen en España",
-    "link": "https://www.infobae.com/espana/2026/10/28/iustitia-europa-pide-al-tribunal-supremo-que-extienda-la-suspension-del-voto-de-la-ley-de-nietos-a-los-nacionalizados-que-residen-en-espana/"
+    "text": "El récord Guinness de ‘Persona 5 Royal’ ahora pertenece a ‘Library of Ruina’",
+    "link": "https://www.infobae.com/malditos-nerds/2026/10/28/el-record-guinness-de-persona-5-royal-ahora-pertenece-a-library-of-ruina/"
   },
   {
     "date": "2026-10-28",
-    "image": "https://www.infobae.com/resizer/v2/YOZOH65725HNTGR7DKE2SUKVMQ.JPG?auth=30271660965a48bbcbf1c10008bd92cca3cf587e1e36780d481c0e8ad945b356&smart=true&width=5500&height=3597",
+    "image": "https://www.infobae.com/resizer/v2/ZQBNIOEA35D5HNLSNVXW4B2EAE.JPG?auth=b81a06a7f175b470085ff9d773eb561b81e43e086aa97751007be91b9d5a8acb&smart=true&width=5753&height=3835",
     "category": null,
-    "text": "EN VIVO: Con el 66% de las urnas escrutadas, el bloque de Netanyahu suma 56 escaños, frente a los 64 de los partidos opositores",
-    "link": "https://www.infobae.com/america/mundo/2026/10/28/en-vivo-elecciones-parlamentarias-en-israel/"
+    "text": "Pedro Sánchez promete “responder con contundencia” si se demuestran fallos en el sistema de seguridad: “No es asumible para España dos accidentes de tren en un mismo año”",
+    "link": "https://www.infobae.com/espana/2026/10/28/pedro-sanchez-promete-responder-con-contundencia-si-se-demuestran-fallos-en-el-sistema-de-seguridad-no-es-asumible-para-espana-dos-accidentes-de-tren-en-un-mismo-ano/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/R3VHZWWTUVBU3BYKDVNW5AMTJM.png?auth=5e3a53f600d2ac4ce4a2aea49ad9cc009fab542e78248ca26ca7fb133b2a437f&smart=true&width=2752&height=1536",
+    "category": null,
+    "text": "En qué consiste la regla del 85% para evitar el desgaste en el trabajo",
+    "link": "https://www.infobae.com/tendencias/2026/10/28/en-que-consiste-la-regla-del-85-para-evitar-el-desgaste-en-el-trabajo/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://www.infobae.com/resizer/v2/XUXKXO2ZF5D5LKPLZTV3IGXB5M.jpg?auth=3d40d9fc8b14f16552b42c4124953fb53d9d23a5062e68c54034ba5751a99d50&smart=true&width=1920&height=1080",
+    "category": null,
+    "text": "El líder del Cártel de Guasave: quién es y qué vínculo tenía con “Chuy Peñuelas”",
+    "link": "https://www.infobae.com/mexico/2026/10/28/el-lider-del-cartel-de-guasave-quien-es-y-que-vinculo-tenia-con-chuy-penuelas/"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://imagenes.elpais.com/resizer/v2/IYKBCQYRTFNBDIGL4FR2EPR64U.jpg?auth=12b70e764296ec3160dbf2914577976639668542e359a17bf2686d9be1552e49",
+    "category": "Israel",
+    "text": "La victoria de los partidos árabes de Israel: récord de escaños frente al racismo y la discriminación",
+    "link": "https://elpais.com/internacional/2026-10-28/la-victoria-de-los-partidos-arabes-de-israel-record-de-escanos-frente-al-racismo-y-la-discriminacion.html"
   },
   {
     "date": "2026-10-28",
@@ -176,107 +141,135 @@
   },
   {
     "date": "2026-10-28",
-    "image": "https://imagenes.elpais.com/resizer/v2/HJD6Q3TRPZHNZPIMCSANESKXEM.jpg?auth=29ff709c45d2309cd3571f27e1672a4596fef2410129b537846acae7d4abef80",
-    "category": "Elecciones EE UU",
-    "text": "“Examiné su culo y luego miré sus pies, su mandíbula…”: Por qué Trump parece obsesionado con alabar el físico de los hombres",
-    "link": "https://elpais.com/us/2026-10-28/examine-su-culo-y-luego-mire-sus-pies-su-mandibula-por-que-trump-parece-obsesionado-con-alabar-el-fisico-de-los-hombres.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/5BT3IAYRNNK7LBMJESLXXIPL2U.jpg?auth=a8a20cb0392edd55d14e498511a37b8ab81c5d3c44bad6ba9282db2945cbfcee",
+    "category": "Israel",
+    "text": "Claves para formar Gobierno en Israel tras las elecciones o regresar a las urnas: consulta del presidente, negociación y votación",
+    "link": "https://elpais.com/internacional/2026-10-28/claves-para-formar-gobierno-en-israel-tras-las-elecciones-o-regresar-a-las-urnas-consulta-del-presidente-negociacion-y-votacion.html"
   },
   {
     "date": "2026-10-28",
-    "image": "https://imagenes.elpais.com/resizer/v2/JRPWVWJ6TZGSZPWQRRLODGTANY.jpg?auth=8f12e3ae94f7e5119bfee7942122081ab119be2abcb02c5aef56f9351ad63b94",
-    "category": "Elecciones Brasil",
-    "text": "Flávio Bolsonaro huye a Estados Unidos a través de Argentina tras su derrota electoral ante Lula",
-    "link": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html"
+    "image": "https://imagenes.elpais.com/resizer/v2/TAZXR7HTWVDJNBOO3HZ5YJZMFM.jpg?auth=d3e95578cdcde827e60e5bfb41ac29dd7a5a70a77fcc9918f2cc5cb45c3cace0",
+    "category": "Italia",
+    "text": "Meloni ataca a una jueza por dejar en libertad al presunto líder de las protestas en Italia y desmontar las acusaciones de terrorismo",
+    "link": "https://elpais.com/internacional/2026-10-28/meloni-ataca-a-una-juez-por-dejar-en-libertad-al-presunto-lider-de-las-protestas-en-italia-y-desmontar-las-acusaciones-de-terrorismo.html"
   },
   {
     "date": "2026-10-28",
-    "image": "https://imagenes.elpais.com/resizer/v2/22F46W2CWNGTRKIVO3DVJGRO7U.jpg?auth=7f23a17011e005ed69dd8195975757024cb9a378824c391293d66a3d64b3b345",
-    "category": "Canadá",
-    "text": "Chrystia Freeland: “China es la gran beneficiada por el vacío dejado por Trump”",
-    "link": "https://elpais.com/internacional/2026-10-28/chrystia-freeland-china-es-la-gran-beneficiada-por-el-vacio-dejado-por-trump.html"
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230860_080818_video_1800.mp4",
+    "category": "Brasil",
+    "text": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+    "link": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html"
   },
   {
     "date": "2026-10-28",
-    "image": "https://imagenes.elpais.com/resizer/v2/WTRZRSFJDRF3VFENPWO6VOEM4E.jpg?auth=a9f1ef7afdb076bc9b512e63d14993ecfbc9d61634372ef0d0f28f00f1ad4f09",
-    "category": "Grecia",
-    "text": "El pacto migratorio de la UE deja a miles de solicitantes de asilo atrapados en las islas griegas",
-    "link": "https://elpais.com/internacional/2026-10-28/el-pacto-migratorio-de-la-ue-deja-a-miles-de-solicitantes-de-asilo-atrapados-en-las-islas-griegas.html"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1a667e9ff711ce614069d.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1c1f2e9ff713c462ebc89.jpg",
     "category": null,
-    "text": "VIDEO: Cámara capta el brutal secuestro de una joven en una panadería",
-    "link": "https://actualidad-rt.com/actualidad/634727-camara-captar-secuestro-joven-panaderia-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Luchadora estadounidense es descalificada por picarle los ojos a su rival rusa (VIDEO)",
+    "link": "https://actualidad-rt.com/actualidad/634733-luchadora-estadounidense-descalificada-picarle-ojos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae20d4ee9ff713483084246.jpg",
+    "category": null,
+    "text": "Occidente intenta desmantelar a Rusia con una narrativa falsa sobre la opresión de las minorías étnicas",
+    "link": "https://actualidad-rt.com/actualidad/634831-occidente-intenta-desmantelar-rusia-narrativa-falsa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae21bc1e9ff7146a90f7f3e.jpg",
+    "category": null,
+    "text": "Cuba comenta el rechazo mayoritario en la ONU al bloqueo de EE.UU.",
+    "link": "https://actualidad-rt.com/actualidad/634842-cuba-celebra-votacion-contra-bloqueo-onu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae0ea6459bf5b66a534151f.jpg",
+    "category": null,
+    "text": "El gigante militar de África despliega soldados en un país vecino, y todo es por el gas",
+    "link": "https://actualidad-rt.com/actualidad/634655-argelia-envia-tropas-niger-queda-atras-medio-siglo-cautela-militar?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1ca85e9ff714b73063dbc.jpg",
+    "category": null,
+    "text": "VIDEO: Unos segundos separan a un camión cisterna de chocar con un tren",
+    "link": "https://actualidad-rt.com/viral/634736-video-segundos-separan-camion-cisterna-chocar-tren?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1bc44e9ff7134830841da.jpg",
+    "category": null,
+    "text": "Congresista de EE.UU. insta a líder europea a seguir ejemplo de sus vecinos y conversar con Rusia",
+    "link": "https://actualidad-rt.com/actualidad/634732-congresista-eeuu-insta-lider-europeo?utm_source=rss&utm_medium=rss&utm_campaign=all"
+  },
+  {
+    "date": "2026-10-28",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae204d1e9ff7146a90f7f1a.jpg",
+    "category": null,
+    "text": "VIDEO: Flávio Bolsonaro evade a la prensa a 'paraguazos' en EE.UU.",
+    "link": "https://actualidad-rt.com/actualidad/634816-video-flavio-bolsonaro-evadir-prensa?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-28",
     "image": null,
     "category": null,
-    "text": "Un atacante, abatido tras agredir a un guardia frente a la Embajada israelí en Serbia",
-    "link": "https://actualidad-rt.com/actualidad/634726-atacante-abatido-agredir-guardia-embajada?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "Sánchez declara tres días de luto oficial por accidente ferroviario",
+    "link": "https://actualidad-rt.com/actualidad/634836-sanchez-declara-duelo-oficial-accidente-ferroviario?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae18d5359bf5b4e544eabf6.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae20578e9ff71368a4e5e5c.jpg",
     "category": null,
-    "text": "Reportan que Flávio Bolsonaro se fugó a EE.UU.: ¿Qué se sabe hasta ahora?",
-    "link": "https://actualidad-rt.com/actualidad/634718-reportan-flavio-bolsonaro-fugo-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "VIDEO: Putin obsequia helado ruso a los participantes de la Cumbre Rusia-África",
+    "link": "https://actualidad-rt.com/actualidad/634821-video-putin-obsequia-helado-ruso?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae18f27e9ff7108466634e2.jpg",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae20da7e9ff71348308424b.jpg",
     "category": null,
-    "text": "VIDEO: Rusia da una cálida bienvenida a los líderes mundiales en dos importantes cumbres",
-    "link": "https://actualidad-rt.com/actualidad/634723-video-rusia-da-calida-bienvenida-lideres-mundiales-cumbres?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae197a259bf5b23c35f76b4.jpg",
-    "category": null,
-    "text": "Argentina confirma la huida de Flávio Bolsonaro y revela su próximo destino",
-    "link": "https://actualidad-rt.com/actualidad/634724-argentina-confirma-huida-flavio-bolsonaro-proximo-destino?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1919be9ff7134ab3b179b.jpg",
-    "category": null,
-    "text": "Primo de Flávio Bolsonaro confirma su fuga a EE.UU.: \"Era un plan B\"",
-    "link": "https://actualidad-rt.com/actualidad/634721-primo-flavio-bolsonaro-confirma-fuga-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae187f759bf5b4a8b34d1c2.jpg",
-    "category": null,
-    "text": "Trump dice que espera una reunión con Putin y Zelenski \"muy pronto\"",
-    "link": "https://actualidad-rt.com/actualidad/634722-trump-dice-espera-reunion-putin-zelenski?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae1896259bf5b340a7db90a.jpg",
-    "category": null,
-    "text": "Trump responde si aprobaría la llegada de Flávio Bolsonaro a EE.UU.",
-    "link": "https://actualidad-rt.com/actualidad/634720-trump-responde-aprobaria-llegada-flavio-bolsonaro-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae17be059bf5b340a7db904.jpg",
-    "category": null,
-    "text": "VIDEO: Un ciervo destroza la ventana de un apartamento para huir de la Policía",
-    "link": "https://actualidad-rt.com/viral/634719-ciervo-destrozar-ventana-apartamento-huir-policia?utm_source=rss&utm_medium=rss&utm_campaign=all"
-  },
-  {
-    "date": "2026-10-28",
-    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2026.10/thumbnail/6ae16be6e9ff71489c5be86a.jpg",
-    "category": null,
-    "text": "Irán lanza una demoledora crítica en respuesta a Trump: \"No podrá librarse de rendir cuentas\"",
-    "link": "https://actualidad-rt.com/actualidad/634712-iran-lanzar-demoledora-critica-respuesta-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+    "text": "WSJ: EE.UU. e Israel lanzarían ataques masivos contra Irán tras los comicios estadounidenses",
+    "link": "https://actualidad-rt.com/actualidad/634766-wsj-eeuu-israel-prepararian-intensa-campana-militar-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
   },
   {
     "date": "2026-10-28",
     "image": null,
     "category": null,
-    "text": "Ucrania: un incendio masivo arrasa edificios tras ataque ruso en Járkov",
+    "text": "EE.UU. dará visado a Flavio Bolsonaro tras su huida de Brasil en medio de sus causas judiciales",
+    "link": "https://es.euronews.com/2026/10/28/eeuu-dara-visado-a-flavio-bolsonaro-tras-su-huida-de-brasil-en-medio-de-sus-causas-judicia"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "España: Primeras imágenes muestran los restos del mortal accidente de tren de alta velocidad en Urda (Toledo)",
+    "link": "https://es.euronews.com/video/2026/10/28/espana-primeras-imagenes-muestran-los-restos-del-mortal-accidente-de-tren-de-alta-velocida"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "Primeras imágenes aéreas muestran la zona tras el mortal accidente ferroviario en Toledo",
+    "link": "https://es.euronews.com/2026/10/28/primeras-imagenes-aereas-muestran-la-escena-del-mortal-choque-de-trenes-en-toledo"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "Últimas noticias | 28 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/28/ultimas-noticias-28-octubre-2026-mediodia"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "Brasil: Lula celebra su 81 cumpleaños tras ganar la reelección",
+    "link": "https://es.euronews.com/video/2026/10/28/brasil-lula-celebra-su-81-cumpleanos-tras-ganar-la-reeleccion"
+  },
+  {
+    "date": "2026-10-28",
+    "image": null,
+    "category": null,
+    "text": "Ucrania: Un incendio masivo arrasa edificios tras un ataque ruso en Járkov",
     "link": "https://es.euronews.com/video/2026/10/28/ucrania-un-incendio-masivo-arrasa-edificios-tras-ataque-ruso-en-jarkov"
   },
   {
@@ -299,20 +292,6 @@
     "category": null,
     "text": "Últimas noticias | 28 octubre 2026 - Mañana",
     "link": "https://es.euronews.com/video/2026/10/28/ultimas-noticias-28-octubre-2026-manana"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/18d68e38-d216-11f1-872e-5b4a75578ebb/w:1024/p:16x9/101ff0973cc39b1b04946085858ae734059de1fe.jpg",
-    "category": "Deportes",
-    "text": "Mbappé pide perdón tras desatar indignación en China: \"Estoy sinceramente arrepentido\"",
-    "link": "https://www.france24.com/es/deportes/20261027-mbapp%C3%A9-pide-perd%C3%B3n-tras-desatar-indignaci%C3%B3n-en-china-estoy-sinceramente-arrepentido"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://s.france24.com/media/display/c753d1c4-d247-11f1-8a1a-efcc5769f1db/w:1024/p:16x9/ES-20261027-114155-114334-CS-01.jpg",
-    "category": null,
-    "text": "Mbappé en el ojo del huracán en China por meme sobre Mao Zedong",
-    "link": "https://www.france24.com/es/video/20261027-mbapp%C3%A9-en-el-ojo-del-hurac%C3%A1n-en-china-por-meme-sobre-mao-zedong"
   },
   {
     "date": "2026-10-27",
@@ -344,31 +323,17 @@
   },
   {
     "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "Mbappé se disculpa por un comentario sobre Mao que desató una ola de críticas y boicot en China",
-    "link": "https://www.bbc.com/mundo/articles/cwkgj2p1ym37o?at_medium=RSS&at_campaign=rss"
+    "image": "https://imagenes.elpais.com/resizer/v2/MFDGX7VW2BKIDAFDDCJDOI3TLY.jpg?auth=f1dbcbc62212944e1bfaa9225d41e909fdeb0246564be8e9775811fa74a18ac7",
+    "category": "Elecciones Brasil",
+    "text": "Brasil y los dueños del algoritmo",
+    "link": "https://elpais.com/america/2026-10-27/brasil-y-los-duenos-del-algoritmo.html"
   },
   {
     "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "El sencillo test que revela mucho sobre tu estado de salud",
-    "link": "https://www.bbc.com/mundo/articles/crd6dxn11vpvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "El desafío del \"rey Bibi\": cómo el 7 de octubre define si Netanyahu logra un séptimo mandato como líder de Israel",
-    "link": "https://www.bbc.com/mundo/articles/cjg473r01g73o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "date": "2026-10-27",
-    "image": null,
-    "category": null,
-    "text": "\"Fue un error, el Estado falló\": la crisis en el gobierno de Kast por rebajar las penas a 56 personas condenadas por delitos sexuales contra menores",
-    "link": "https://www.bbc.com/mundo/articles/cvwy7k3lpge3o?at_medium=RSS&at_campaign=rss"
+    "image": "https://imagenes.elpais.com/resizer/v2/K5WDZG32K5FYVNTF6MJSN6M36E.jpg?auth=517d02bff9f0d57c85b2723c929cc5ac4284ec597ac666146713929705e15757",
+    "category": "Elecciones Israel",
+    "text": "Postres variados",
+    "link": "https://elpais.com/internacional/2026-10-27/postres-variados.html"
   },
   {
     "date": "2026-10-27",
@@ -383,20 +348,6 @@
     "category": "América",
     "text": "EE UU anuncia que emitirá visados para Flávio Bolsonaro y su familia",
     "link": "https://elpais.com/america/2026-10-27/ee-uu-confirma-que-emitira-visados-para-flavio-bolsonaro-y-su-familia.html"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://imagenes.elpais.com/resizer/v2/MFDGX7VW2BKIDAFDDCJDOI3TLY.jpg?auth=f1dbcbc62212944e1bfaa9225d41e909fdeb0246564be8e9775811fa74a18ac7",
-    "category": "Elecciones Brasil",
-    "text": "Brasil y los dueños del algoritmo",
-    "link": "https://elpais.com/america/2026-10-27/brasil-y-los-duenos-del-algoritmo.html"
-  },
-  {
-    "date": "2026-10-27",
-    "image": "https://imagenes.elpais.com/resizer/v2/K5WDZG32K5FYVNTF6MJSN6M36E.jpg?auth=517d02bff9f0d57c85b2723c929cc5ac4284ec597ac666146713929705e15757",
-    "category": "Elecciones Israel",
-    "text": "Postres variados",
-    "link": "https://elpais.com/internacional/2026-10-27/postres-variados.html"
   },
   {
     "date": "2026-10-27",
@@ -418,5 +369,40 @@
     "category": null,
     "text": "Qatar pide a Irán que muestre buena voluntad, cese sus amenazas y reabra el estrecho de Ormuz",
     "link": "https://es.euronews.com/2026/10/27/qatar-pide-a-iran-que-muestre-buena-voluntad-cese-sus-amenazas-y-reabra-el-estrecho-de-orm"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://imagenes.elpais.com/resizer/v2/WSFJUYPC5RB6XCHKPK7RU3Y37A.jpg?auth=89214a2d3def63c57450ed94d429d16065c947af6da4214e27e419acdc91cba8",
+    "category": "Elecciones Brasil",
+    "text": "El milagro de los nueve dedos",
+    "link": "https://elpais.com/america/2026-10-26/el-milagro-de-los-nueve-dedos.html"
+  },
+  {
+    "date": "2026-10-26",
+    "image": "https://imagenes.elpais.com/resizer/v2/WP27YLYMNNJPFP23P2ENEO5JGQ.jpg?auth=4d98a8919a3690fc1764280b90631acaf0107aaca5b5b1fda74dedaabe4d7311",
+    "category": "Elecciones Brasil",
+    "text": "La remontada histórica de Lula es una derrota para Trump",
+    "link": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html"
+  },
+  {
+    "date": "2026-10-25",
+    "image": "https://imagenes.elpais.com/resizer/v2/JWGGGPSH4FONPG5RK7HKUWT3PQ.jpg?auth=4479f0c1fb89f7dba30046cffbf058ee299b96b19f760d89f317bfc174e24525",
+    "category": "Ataque Estados Unidos a Venezuela",
+    "text": "María Corina Machado, el desafío de volver",
+    "link": "https://elpais.com/america/2026-10-25/maria-corina-machado-el-desafio-de-volver.html"
+  },
+  {
+    "date": null,
+    "image": null,
+    "category": null,
+    "text": "Al menos 68 muertos y decenas de heridos en un choque de trenes de alta velocidad en España",
+    "link": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "date": null,
+    "image": null,
+    "category": null,
+    "text": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot; los partidos árabes obtienen un récord de escaños en el Parlamento",
+    "link": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss"
   }
 ]
